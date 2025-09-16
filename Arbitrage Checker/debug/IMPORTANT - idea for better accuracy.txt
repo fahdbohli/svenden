@@ -1,0 +1,5 @@
+- check how many updates ahs been made to the file when an arb or ev is discovered 
+- show that arb or ev is confirmed
+- show how much confirmed time the arb or ev lasted
+- example the code discovers an arb between two sources, one has been updated the time the arb was found, the time the other source file gets updated then confirm the arb, if the two sources gets updated again, then the oppottunity is confirmed again and the arb is still alive measure the time between first confirmation and last confirmation to know how much is the confirmed time
+- the code could summon scrapers for that match exactly 

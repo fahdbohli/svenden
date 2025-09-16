@@ -1,0 +1,24 @@
+[
+    {
+        "last_updated": "2025-09-16T20:53:17.716685+01:00"
+    },
+    {
+        "tournament_id": 4264,
+        "tournament_name": "Premier League",
+        "matches": [
+            {
+                "match_id": 13389816,
+                "date": "21/09/2025",
+                "time": "12:30",
+                "home_team": "Albirex Niigata Singapore FC",
+                "away_team": "Tampines Rovers",
+                "1_odd": 3.25,
+                "draw_odd": 3.6667,
+                "2_odd": 1.8889,
+                "1X_odd": 1.68,
+                "12_odd": 1.2223,
+                "X2_odd": 1.2728
+            }
+        ]
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "last_updated": "2025-09-16T20:53:11.122350+01:00"
+    },
+    {
+        "tournament_id": 4767,
+        "tournament_name": "Superliga",
+        "matches": [
+            {
+                "match_id": 13972080,
+                "date": "17/09/2025",
+                "time": "14:00",
+                "home_team": "KF Drita",
+                "away_team": "Drenica Skenderaj",
+                "1_odd": 1.4,
+                "draw_odd": 3.75,
+                "2_odd": 6.6667,
+                "1X_odd": 1.091,
+                "12_odd": 1.1819,
+                "X2_odd": 2.2858,
+                "over_2.5_odd": 2.0,
+                "under_2.5_odd": 1.6667
+            }
+        ]
+    }
+]

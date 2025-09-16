@@ -1,0 +1,927 @@
+{
+  "groups": [
+    {
+      "marketTypes": [
+        {
+          "typeIds": [
+            1
+          ],
+          "id": 1,
+          "name": "1x2"
+        },
+        {
+          "typeIds": [
+            18
+          ],
+          "id": 18,
+          "name": "Total"
+        },
+        {
+          "typeIds": [
+            10
+          ],
+          "id": 10,
+          "name": "Double chance"
+        },
+        {
+          "typeIds": [
+            29
+          ],
+          "id": 29,
+          "name": "GG/NG"
+        },
+        {
+          "typeIds": [
+            26
+          ],
+          "id": 26,
+          "name": "Odd/even"
+        },
+        {
+          "typeIds": [
+            16
+          ],
+          "id": 16,
+          "name": "Handicap"
+        },
+        {
+          "typeIds": [
+            11
+          ],
+          "id": 11,
+          "name": "Draw no bet"
+        },
+        {
+          "typeIds": [
+            47
+          ],
+          "id": 47,
+          "name": "Halftime/fulltime"
+        }
+      ],
+      "popular": [
+        1,
+        18,
+        10,
+        29,
+        26,
+        16,
+        11
+      ],
+      "id": 1,
+      "name": "Main"
+    },
+    {
+      "marketTypes": [
+        {
+          "typeIds": [
+            60
+          ],
+          "id": 60,
+          "name": "1st half - 1x2"
+        },
+        {
+          "typeIds": [
+            63
+          ],
+          "id": 63,
+          "name": "1st half - double chance"
+        },
+        {
+          "typeIds": [
+            68
+          ],
+          "id": 68,
+          "name": "1st half - total"
+        },
+        {
+          "typeIds": [
+            74
+          ],
+          "id": 74,
+          "name": "1st half - odd/even"
+        }
+      ],
+      "popular": [],
+      "id": 2,
+      "name": "1st Half"
+    },
+    {
+      "marketTypes": [
+        {
+          "typeIds": [
+            83
+          ],
+          "id": 83,
+          "name": "2nd half - 1x2"
+        }
+      ],
+      "popular": [],
+      "id": 3,
+      "name": "2nd Half"
+    },
+    {
+      "marketTypes": [
+        {
+          "typeIds": [
+            52
+          ],
+          "id": 52,
+          "name": "Halftime With most Goals"
+        }
+      ],
+      "popular": [],
+      "id": 1589,
+      "name": "Teams H2H"
+    },
+    {
+      "marketTypes": [
+        {
+          "typeIds": [
+            45
+          ],
+          "id": 45,
+          "name": "Correct score"
+        }
+      ],
+      "popular": [],
+      "id": 1583,
+      "name": "Correct Score"
+    }
+  ],
+  "marketGroupId": 1,
+  "marketTypeIds": [
+    1,
+    18,
+    10,
+    29,
+    26,
+    16,
+    11
+  ],
+  "dates": [
+    {
+      "dateTime": "2025-06-19T23:00:00Z",
+      "eventIds": [
+        12966070,
+        12966288
+      ]
+    }
+  ],
+  "availableChamps": [],
+  "availableCategories": [],
+  "topSports": [],
+  "headers": [
+    {
+      "typeId": 1,
+      "name": "1x2",
+      "odds": []
+    },
+    {
+      "typeId": 18,
+      "name": "Total",
+      "odds": [],
+      "specialOdd": {
+        "typeId": 1,
+        "name": "Goals",
+        "av": [
+          "1.5",
+          "2.5",
+          "3.5"
+        ]
+      }
+    },
+    {
+      "typeId": 10,
+      "name": "Double chance",
+      "odds": []
+    },
+    {
+      "typeId": 29,
+      "name": "GG/NG",
+      "odds": []
+    },
+    {
+      "typeId": 26,
+      "name": "Odd/even",
+      "odds": []
+    },
+    {
+      "typeId": 16,
+      "name": "Handicap",
+      "odds": [],
+      "specialOdd": {
+        "typeId": 1,
+        "name": "Goals",
+        "av": [
+          "+0.75",
+          "+1"
+        ]
+      }
+    },
+    {
+      "typeId": 11,
+      "name": "Draw no bet",
+      "odds": []
+    }
+  ],
+  "pageCount": 0,
+  "page": 0,
+  "markets": [
+    {
+      "oddIds": [
+        2559974501,
+        2559974502,
+        2559974503
+      ],
+      "variant": 0,
+      "typeId": 1,
+      "isMB": false,
+      "sportMarketId": 70472,
+      "id": 1061084533,
+      "name": "1x2"
+    },
+    {
+      "oddIds": [
+        2559975486,
+        2559975484,
+        2559975485
+      ],
+      "variant": 0,
+      "typeId": 10,
+      "isMB": false,
+      "sportMarketId": 70495,
+      "id": 1061084935,
+      "name": "Double chance"
+    },
+    {
+      "oddIds": [
+        2559975487,
+        2559975488
+      ],
+      "variant": 0,
+      "typeId": 11,
+      "isMB": false,
+      "sportMarketId": 70500,
+      "id": 1061084936,
+      "name": "Draw no bet"
+    },
+    {
+      "oddIds": [
+        2561627882,
+        2561627883
+      ],
+      "variant": 1,
+      "lines": [],
+      "typeId": 16,
+      "isMB": false,
+      "sportMarketId": 70515,
+      "sv": "+0.75",
+      "sn": "+0.75",
+      "id": 1061786666,
+      "name": "Handicap"
+    },
+    {
+      "oddIds": [
+        2559974499,
+        2559974500
+      ],
+      "variant": 1,
+      "lines": [
+        {
+          "oddIds": [
+            2560116028,
+            2560116029
+          ],
+          "variant": 1,
+          "typeId": 18,
+          "isMB": false,
+          "sportMarketId": 70520,
+          "sv": "1.5",
+          "sn": "1.5",
+          "id": 1061144037,
+          "name": "Total"
+        },
+        {
+          "oddIds": [
+            2560812739,
+            2560812740
+          ],
+          "variant": 1,
+          "typeId": 18,
+          "isMB": false,
+          "sportMarketId": 70520,
+          "sv": "3.5",
+          "sn": "3.5",
+          "id": 1061436986,
+          "name": "Total"
+        }
+      ],
+      "typeId": 18,
+      "isMB": true,
+      "sportMarketId": 70520,
+      "sv": "2.5",
+      "sn": "2.5",
+      "id": 1061084532,
+      "name": "Total"
+    },
+    {
+      "oddIds": [
+        2559975480,
+        2559975481
+      ],
+      "variant": 0,
+      "typeId": 26,
+      "isMB": false,
+      "sportMarketId": 70535,
+      "id": 1061084933,
+      "name": "Odd/even"
+    },
+    {
+      "oddIds": [
+        2559975443,
+        2559975444
+      ],
+      "variant": 0,
+      "typeId": 29,
+      "isMB": false,
+      "sportMarketId": 70545,
+      "id": 1061084930,
+      "name": "GG/NG"
+    },
+    {
+      "oddIds": [
+        2559956654,
+        2559956655,
+        2559956656
+      ],
+      "variant": 0,
+      "typeId": 1,
+      "isMB": false,
+      "sportMarketId": 70472,
+      "id": 1061079763,
+      "name": "1x2"
+    },
+    {
+      "oddIds": [
+        2559957679,
+        2559957677,
+        2559957678
+      ],
+      "variant": 0,
+      "typeId": 10,
+      "isMB": false,
+      "sportMarketId": 70495,
+      "id": 1061080205,
+      "name": "Double chance"
+    },
+    {
+      "oddIds": [
+        2559957682,
+        2559957683
+      ],
+      "variant": 0,
+      "typeId": 11,
+      "isMB": false,
+      "sportMarketId": 70500,
+      "id": 1061080207,
+      "name": "Draw no bet"
+    },
+    {
+      "oddIds": [
+        2560720700,
+        2560720701
+      ],
+      "variant": 1,
+      "lines": [],
+      "typeId": 16,
+      "isMB": false,
+      "sportMarketId": 70515,
+      "sv": "+1",
+      "sn": "+1",
+      "id": 1061396871,
+      "name": "Handicap"
+    },
+    {
+      "oddIds": [
+        2559956652,
+        2559956653
+      ],
+      "variant": 1,
+      "lines": [
+        {
+          "oddIds": [
+            2560812792,
+            2560812793
+          ],
+          "variant": 1,
+          "typeId": 18,
+          "isMB": false,
+          "sportMarketId": 70520,
+          "sv": "1.5",
+          "sn": "1.5",
+          "id": 1061437000,
+          "name": "Total"
+        },
+        {
+          "oddIds": [
+            2560812794,
+            2560812795
+          ],
+          "variant": 1,
+          "typeId": 18,
+          "isMB": false,
+          "sportMarketId": 70520,
+          "sv": "3.5",
+          "sn": "3.5",
+          "id": 1061437001,
+          "name": "Total"
+        }
+      ],
+      "typeId": 18,
+      "isMB": true,
+      "sportMarketId": 70520,
+      "sv": "2.5",
+      "sn": "2.5",
+      "id": 1061079762,
+      "name": "Total"
+    },
+    {
+      "oddIds": [
+        2559957675,
+        2559957676
+      ],
+      "variant": 0,
+      "typeId": 26,
+      "isMB": false,
+      "sportMarketId": 70535,
+      "id": 1061080204,
+      "name": "Odd/even"
+    },
+    {
+      "oddIds": [
+        2559957638,
+        2559957639
+      ],
+      "variant": 0,
+      "typeId": 29,
+      "isMB": false,
+      "sportMarketId": 70545,
+      "id": 1061080201,
+      "name": "GG/NG"
+    }
+  ],
+  "odds": [
+    {
+      "typeId": 1,
+      "price": 5.0,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 2559974501,
+      "name": "1"
+    },
+    {
+      "typeId": 2,
+      "price": 3.2,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 2559974502,
+      "name": "X"
+    },
+    {
+      "typeId": 3,
+      "price": 1.68,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 2559974503,
+      "name": "2"
+    },
+    {
+      "typeId": 9,
+      "price": 1.8667,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 2559975486,
+      "name": "1 or draw"
+    },
+    {
+      "typeId": 10,
+      "price": 1.2667,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 2559975484,
+      "name": "1 or 2"
+    },
+    {
+      "typeId": 11,
+      "price": 1.1429,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 2559975485,
+      "name": "Draw or 2"
+    },
+    {
+      "typeId": 1,
+      "price": 3.6,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 2559975487,
+      "name": "1"
+    },
+    {
+      "typeId": 3,
+      "price": 1.25,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 2559975488,
+      "name": "2"
+    },
+    {
+      "typeId": 1714,
+      "price": 1.75,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 2561627882,
+      "name": "1 (+0.75)"
+    },
+    {
+      "typeId": 1715,
+      "price": 1.9,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 2561627883,
+      "name": "2 (-0.75)"
+    },
+    {
+      "typeId": 12,
+      "price": 1.4546,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 2560116028,
+      "name": "Over 1.5"
+    },
+    {
+      "typeId": 13,
+      "price": 2.5455,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 2560116029,
+      "name": "Under 1.5"
+    },
+    {
+      "typeId": 12,
+      "price": 2.4,
+      "isMB": true,
+      "oddStatus": 0,
+      "id": 2559974499,
+      "name": "Over 2.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.5,
+      "isMB": true,
+      "oddStatus": 0,
+      "id": 2559974500,
+      "name": "Under 2.5"
+    },
+    {
+      "typeId": 12,
+      "price": 4.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 2560812739,
+      "name": "Over 3.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.1539,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 2560812740,
+      "name": "Under 3.5"
+    },
+    {
+      "typeId": 70,
+      "price": 1.9,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 2559975480,
+      "name": "Odd"
+    },
+    {
+      "typeId": 72,
+      "price": 1.8,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 2559975481,
+      "name": "Even"
+    },
+    {
+      "typeId": 74,
+      "price": 2.2858,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 2559975443,
+      "name": "GG"
+    },
+    {
+      "typeId": 76,
+      "price": 1.5556,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 2559975444,
+      "name": "NG"
+    },
+    {
+      "typeId": 1,
+      "price": 6.3334,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 2559956654,
+      "name": "1"
+    },
+    {
+      "typeId": 2,
+      "price": 3.6667,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 2559956655,
+      "name": "X"
+    },
+    {
+      "typeId": 3,
+      "price": 1.4706,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 2559956656,
+      "name": "2"
+    },
+    {
+      "typeId": 9,
+      "price": 2.1429,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 2559957679,
+      "name": "1 or draw"
+    },
+    {
+      "typeId": 10,
+      "price": 1.2,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 2559957677,
+      "name": "1 or 2"
+    },
+    {
+      "typeId": 11,
+      "price": 1.1112,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 2559957678,
+      "name": "Draw or 2"
+    },
+    {
+      "typeId": 1,
+      "price": 4.5,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 2559957682,
+      "name": "1"
+    },
+    {
+      "typeId": 3,
+      "price": 1.1539,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 2559957683,
+      "name": "2"
+    },
+    {
+      "typeId": 1714,
+      "price": 1.8334,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 2560720700,
+      "name": "1 (+1)"
+    },
+    {
+      "typeId": 1715,
+      "price": 1.8334,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 2560720701,
+      "name": "2 (-1)"
+    },
+    {
+      "typeId": 12,
+      "price": 1.3637,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 2560812792,
+      "name": "Over 1.5"
+    },
+    {
+      "typeId": 13,
+      "price": 2.9,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 2560812793,
+      "name": "Under 1.5"
+    },
+    {
+      "typeId": 12,
+      "price": 2.1,
+      "isMB": true,
+      "oddStatus": 0,
+      "id": 2559956652,
+      "name": "Over 2.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.6667,
+      "isMB": true,
+      "oddStatus": 0,
+      "id": 2559956653,
+      "name": "Under 2.5"
+    },
+    {
+      "typeId": 12,
+      "price": 3.75,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 2560812794,
+      "name": "Over 3.5"
+    },
+    {
+      "typeId": 13,
+      "price": 1.2223,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 2560812795,
+      "name": "Under 3.5"
+    },
+    {
+      "typeId": 70,
+      "price": 1.8334,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 2559957675,
+      "name": "Odd"
+    },
+    {
+      "typeId": 72,
+      "price": 1.8334,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 2559957676,
+      "name": "Even"
+    },
+    {
+      "typeId": 74,
+      "price": 2.2858,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 2559957638,
+      "name": "GG"
+    },
+    {
+      "typeId": 76,
+      "price": 1.5556,
+      "isMB": false,
+      "oddStatus": 0,
+      "id": 2559957639,
+      "name": "NG"
+    }
+  ],
+  "events": [
+    {
+      "marketIds": [
+        1061084533,
+        1061084935,
+        1061084936,
+        1061786666,
+        1061144037,
+        1061084532,
+        1061436986,
+        1061084933,
+        1061084930
+      ],
+      "isBooked": true,
+      "isParlay": false,
+      "offers": [
+        {
+          "type": 6
+        }
+      ],
+      "code": 1395,
+      "hasStream": false,
+      "extId": "fp15_sr:match:61158743",
+      "sc": 157,
+      "rc": false,
+      "pId": 15,
+      "et": 0,
+      "competitorIds": [
+        125188,
+        59988
+      ],
+      "sportId": 66,
+      "catId": 883,
+      "champId": 4623,
+      "status": 0,
+      "startDate": "2025-06-20T17:00:00Z",
+      "id": 12966070,
+      "name": "AL Karkh vs. Al Zawraa"
+    },
+    {
+      "marketIds": [
+        1061079763,
+        1061080205,
+        1061080207,
+        1061396871,
+        1061437000,
+        1061079762,
+        1061437001,
+        1061080204,
+        1061080201
+      ],
+      "isBooked": true,
+      "isParlay": false,
+      "offers": [
+        {
+          "type": 6
+        }
+      ],
+      "code": 2137,
+      "hasStream": false,
+      "extId": "fp15_sr:match:61158741",
+      "sc": 157,
+      "rc": false,
+      "pId": 15,
+      "et": 0,
+      "competitorIds": [
+        939937,
+        59015
+      ],
+      "sportId": 66,
+      "catId": 883,
+      "champId": 4623,
+      "status": 0,
+      "startDate": "2025-06-20T17:00:00Z",
+      "id": 12966288,
+      "name": "Naft Al Basra vs. AL Shorta SC"
+    }
+  ],
+  "sports": [
+    {
+      "catIds": [
+        883
+      ],
+      "typeId": 1,
+      "iconName": "soccer",
+      "hasLiveEvents": false,
+      "id": 66,
+      "name": "Football"
+    }
+  ],
+  "categories": [
+    {
+      "champIds": [
+        4623
+      ],
+      "iso": "IRQ",
+      "hasLiveEvents": false,
+      "id": 883,
+      "name": "Iraq"
+    }
+  ],
+  "champs": [
+    {
+      "offers": [
+        {
+          "type": 6
+        }
+      ],
+      "hasLiveEvents": false,
+      "id": 4623,
+      "name": "Iraqi League"
+    }
+  ],
+  "competitors": [
+    {
+      "id": 125188,
+      "name": "AL Karkh"
+    },
+    {
+      "id": 59988,
+      "name": "Al Zawraa"
+    },
+    {
+      "id": 939937,
+      "name": "Naft Al Basra"
+    },
+    {
+      "id": 59015,
+      "name": "AL Shorta SC"
+    }
+  ]
+}

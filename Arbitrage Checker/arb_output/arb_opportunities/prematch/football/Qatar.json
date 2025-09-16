@@ -1,0 +1,394 @@
+[
+  {
+    "group_id": "2578687063792689185-653334892-10705871-13800154-28004130",
+    "home_team": "Al Sadd SC Doha",
+    "away_team": "AL Wakrah SC",
+    "date": "20/09/2025",
+    "time": "18:00",
+    "country": "Qatar",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "first_half_under_1.5_vs_first_half_over_1.5",
+        "best_odds": {
+          "first_half_under_1.5_odd": {
+            "value": 1.9,
+            "source": "Clubx2"
+          },
+          "first_half_over_1.5_odd": {
+            "value": 2.206,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9796,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13800154-10705871",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Qatar",
+        "tournament_Clubx2": "Stars League",
+        "Clubx2_match_id": 13800154,
+        "Clubx2_tournament_id": 3159,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13800154#/overview",
+        "Tounesbet_country_name": "Qatar",
+        "tournament_Tounesbet": "Stars League",
+        "Tounesbet_match_id": 10705871,
+        "Tounesbet_tournament_id": 23575,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578687063792689185-653334892-10705871-13800154-28004130",
+        "home_team": "Al Sadd SC Doha",
+        "away_team": "AL Wakrah SC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "first_half_under_1.5_vs_first_half_over_1.5",
+        "best_odds": {
+          "first_half_under_1.5_odd": {
+            "value": 2.206,
+            "source": "Tounesbet"
+          },
+          "first_half_over_1.5_odd": {
+            "value": 1.86,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9909,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "28004130-10705871",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Qatar",
+        "tournament_Tounesbet": "Stars League",
+        "Tounesbet_match_id": 10705871,
+        "Tounesbet_tournament_id": 23575,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "Qatar",
+        "tournament_Asbet": "Qatar Stars League",
+        "Asbet_match_id": 28004130,
+        "Asbet_tournament_id": 1983,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Qatar/1983/qatar-stars-league/28004130/al-sadd-sc-doha-al-wakrah",
+        "group_id": "2578687063792689185-653334892-10705871-13800154-28004130",
+        "home_team": "Al Sadd SC Doha",
+        "away_team": "AL Wakrah SC",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2579292692341202961-653743401-10705870-13800152-28010912",
+    "home_team": "Al Ahli Doha SC",
+    "away_team": "Al Rayyan SC",
+    "date": "21/09/2025",
+    "time": "18:00",
+    "country": "Qatar",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "first_half_under_1.0_vs_first_half_over_1.0",
+        "best_odds": {
+          "first_half_under_1.0_odd": {
+            "value": 2.2858,
+            "source": "Clubx2"
+          },
+          "first_half_over_1.0_odd": {
+            "value": 1.935,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9543,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13800152-10705870",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Qatar",
+        "tournament_Clubx2": "Stars League",
+        "Clubx2_match_id": 13800152,
+        "Clubx2_tournament_id": 3159,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13800152#/overview",
+        "Tounesbet_country_name": "Qatar",
+        "tournament_Tounesbet": "Stars League",
+        "Tounesbet_match_id": 10705870,
+        "Tounesbet_tournament_id": 23575,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579292692341202961-653743401-10705870-13800152-28010912",
+        "home_team": "Al Ahli Doha SC",
+        "away_team": "Al Rayyan SC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "first_half_under_1.0_vs_first_half_over_1.0",
+        "best_odds": {
+          "first_half_under_1.0_odd": {
+            "value": 2.2,
+            "source": "Asbet"
+          },
+          "first_half_over_1.0_odd": {
+            "value": 1.935,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9713,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "28010912-10705870",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Qatar",
+        "tournament_Asbet": "Qatar Stars League",
+        "Asbet_match_id": 28010912,
+        "Asbet_tournament_id": 1983,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Qatar/1983/qatar-stars-league/28010912/al-ahli-doha-al-rayyan",
+        "Tounesbet_country_name": "Qatar",
+        "tournament_Tounesbet": "Stars League",
+        "Tounesbet_match_id": 10705870,
+        "Tounesbet_tournament_id": 23575,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579292692341202961-653743401-10705870-13800152-28010912",
+        "home_team": "Al Ahli Doha SC",
+        "away_team": "Al Rayyan SC",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2579757471174365227-11254595-13919285-28017490",
+    "home_team": "Al Bidda FC",
+    "away_team": "Al Mesaimeer",
+    "date": "17/09/2025",
+    "time": "17:30",
+    "country": "Qatar",
+    "all_sources": [
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "under_2.5_vs_over_2.5",
+        "best_odds": {
+          "under_2.5_odd": {
+            "value": 2.05,
+            "source": "Clubx2"
+          },
+          "over_2.5_odd": {
+            "value": 2.029,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9807,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13919285-11254595",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Qatar",
+        "tournament_Clubx2": "2nd Division League",
+        "Clubx2_match_id": 13919285,
+        "Clubx2_tournament_id": 3680,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13919285#/overview",
+        "Tounesbet_country_name": "Qatar",
+        "tournament_Tounesbet": "Division 2",
+        "Tounesbet_match_id": 11254595,
+        "Tounesbet_tournament_id": 47918,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579757471174365227-11254595-13919285-28017490",
+        "home_team": "Al Bidda FC",
+        "away_team": "Al Mesaimeer",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_-0.25_home_vs_away",
+        "best_odds": {
+          "home_handicap_-0.25_odd": {
+            "value": 1.92,
+            "source": "Asbet"
+          },
+          "away_handicap_0.25_odd": {
+            "value": 2.147,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9866,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "28017490-11254595",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Qatar",
+        "tournament_Asbet": "Second Division League",
+        "Asbet_match_id": 28017490,
+        "Asbet_tournament_id": 25594,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Qatar/25594/second-division-league/28017490/al-bidda-fc-al-mesaimeer",
+        "Tounesbet_country_name": "Qatar",
+        "tournament_Tounesbet": "Division 2",
+        "Tounesbet_match_id": 11254595,
+        "Tounesbet_tournament_id": 47918,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579757471174365227-11254595-13919285-28017490",
+        "home_team": "Al Bidda FC",
+        "away_team": "Al Mesaimeer",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "under_2.5_vs_over_2.5",
+        "best_odds": {
+          "under_2.5_odd": {
+            "value": 2.02,
+            "source": "Jibibet"
+          },
+          "over_2.5_odd": {
+            "value": 2.029,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9879,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2579757471174365227-11254595",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "Qatar",
+        "tournament_Jibibet": "2. Division",
+        "Jibibet_match_id": 2579757471174365227,
+        "Jibibet_tournament_id": 1682105209301655552,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "Qatar",
+        "tournament_Tounesbet": "Division 2",
+        "Tounesbet_match_id": 11254595,
+        "Tounesbet_tournament_id": 47918,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579757471174365227-11254595-13919285-28017490",
+        "home_team": "Al Bidda FC",
+        "away_team": "Al Mesaimeer",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2579757471174365223-11254598-13919227-28017491",
+    "home_team": "Lusail City FC",
+    "away_team": "Muaither SC",
+    "date": "17/09/2025",
+    "time": "17:30",
+    "country": "Qatar",
+    "all_sources": [
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "under_2.5_vs_over_2.5",
+        "best_odds": {
+          "under_2.5_odd": {
+            "value": 1.94,
+            "source": "Asbet"
+          },
+          "over_2.5_odd": {
+            "value": 2.124,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9863,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "28017491-11254598",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Qatar",
+        "tournament_Asbet": "Second Division League",
+        "Asbet_match_id": 28017491,
+        "Asbet_tournament_id": 25594,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Qatar/25594/second-division-league/28017491/lusail-city-fc-muaither-sc",
+        "Tounesbet_country_name": "Qatar",
+        "tournament_Tounesbet": "Division 2",
+        "Tounesbet_match_id": 11254598,
+        "Tounesbet_tournament_id": 47918,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579757471174365223-11254598-13919227-28017491",
+        "home_team": "Lusail City FC",
+        "away_team": "Muaither SC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "under_2.5_vs_over_2.5",
+        "best_odds": {
+          "under_2.5_odd": {
+            "value": 1.91,
+            "source": "Jibibet"
+          },
+          "over_2.5_odd": {
+            "value": 2.124,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9944,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2579757471174365223-11254598",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "Qatar",
+        "tournament_Jibibet": "2. Division",
+        "Jibibet_match_id": 2579757471174365223,
+        "Jibibet_tournament_id": 1682105209301655552,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "Qatar",
+        "tournament_Tounesbet": "Division 2",
+        "Tounesbet_match_id": 11254598,
+        "Tounesbet_tournament_id": 47918,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579757471174365223-11254598-13919227-28017491",
+        "home_team": "Lusail City FC",
+        "away_team": "Muaither SC",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2579757471174365228-11254597-13919300-28017492",
+    "home_team": "Al-Khor SC",
+    "away_team": "Al Waab FC",
+    "date": "17/09/2025",
+    "time": "17:30",
+    "country": "Qatar",
+    "all_sources": [
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "under_2.5_vs_over_2.5",
+        "best_odds": {
+          "under_2.5_odd": {
+            "value": 2.0,
+            "source": "Jibibet"
+          },
+          "over_2.5_odd": {
+            "value": 2.006,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9985,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2579757471174365228-11254597",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "Qatar",
+        "tournament_Jibibet": "2. Division",
+        "Jibibet_match_id": 2579757471174365228,
+        "Jibibet_tournament_id": 1682105209301655552,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "Qatar",
+        "tournament_Tounesbet": "Division 2",
+        "Tounesbet_match_id": 11254597,
+        "Tounesbet_tournament_id": 47918,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579757471174365228-11254597-13919300-28017492",
+        "home_team": "Al-Khor SC",
+        "away_team": "Al Waab FC",
+        "activity_duration": "1 hour"
+      }
+    ]
+  }
+]

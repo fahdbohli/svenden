@@ -1,0 +1,118 @@
+[
+    {
+        "last_updated": "2025-09-16T20:53:02.312558+01:00"
+    },
+    {
+        "tournament_id": 5086,
+        "tournament_name": "Canadian Premier League",
+        "matches": [
+            {
+                "match_id": 13817070,
+                "date": "20/09/2025",
+                "time": "20:00",
+                "home_team": "HFX Wanderers FC",
+                "away_team": "Pacific FC",
+                "1_odd": 1.7,
+                "draw_odd": 3.5,
+                "2_odd": 4.2,
+                "1X_odd": 1.1819,
+                "12_odd": 1.2308,
+                "X2_odd": 1.8462,
+                "home_handicap_-0.5_odd": 1.6667,
+                "away_handicap_0.5_odd": 2.0,
+                "over_2.5_odd": 1.6667,
+                "under_2.5_odd": 2.1,
+                "both_score_odd": 1.6667,
+                "both_noscore_odd": 2.1,
+                "first_half_over_1.5_odd": 2.4,
+                "first_half_under_1.5_odd": 1.5
+            },
+            {
+                "match_id": 13817071,
+                "date": "20/09/2025",
+                "time": "23:00",
+                "home_team": "Cavalry FC",
+                "away_team": "Valour FC",
+                "1_odd": 1.4616,
+                "draw_odd": 4.2,
+                "2_odd": 5.3334,
+                "1X_odd": 1.125,
+                "12_odd": 1.1765,
+                "X2_odd": 2.1667,
+                "home_handicap_-1.5_odd": 2.3,
+                "away_handicap_1.5_odd": 1.5,
+                "over_2.5_odd": 1.7,
+                "under_2.5_odd": 2.05,
+                "both_score_odd": 1.8334,
+                "both_noscore_odd": 1.8334,
+                "first_half_over_1.5_odd": 2.4,
+                "first_half_under_1.5_odd": 1.5
+            },
+            {
+                "match_id": 13817072,
+                "date": "21/09/2025",
+                "time": "20:00",
+                "home_team": "Atletico Ottawa",
+                "away_team": "Forge",
+                "1_odd": 2.2858,
+                "draw_odd": 3.25,
+                "2_odd": 2.75,
+                "1X_odd": 1.3637,
+                "12_odd": 1.2728,
+                "X2_odd": 1.4706,
+                "home_handicap_-0.5_odd": 2.2,
+                "away_handicap_0.5_odd": 1.5556,
+                "over_2.5_odd": 1.75,
+                "under_2.5_odd": 1.95,
+                "both_score_odd": 1.6,
+                "both_noscore_odd": 2.2,
+                "first_half_over_1.5_odd": 2.5455,
+                "first_half_under_1.5_odd": 1.4546
+            },
+            {
+                "match_id": 13577489,
+                "date": "21/09/2025",
+                "time": "23:00",
+                "home_team": "Vancouver Langley FC",
+                "away_team": "York United FC",
+                "1_odd": 3.8,
+                "draw_odd": 3.6,
+                "2_odd": 1.75,
+                "1X_odd": 1.8,
+                "12_odd": 1.2308,
+                "X2_odd": 1.2,
+                "home_handicap_0.5_odd": 1.9,
+                "away_handicap_-0.5_odd": 1.75,
+                "over_2.5_odd": 1.6667,
+                "under_2.5_odd": 2.1,
+                "both_score_odd": 1.6,
+                "both_noscore_odd": 2.2,
+                "first_half_over_1.5_odd": 2.4,
+                "first_half_under_1.5_odd": 1.5
+            }
+        ]
+    },
+    {
+        "tournament_id": 8543,
+        "tournament_name": "Canadian Championship",
+        "matches": [
+            {
+                "match_id": 13682495,
+                "date": "17/09/2025",
+                "time": "03:00",
+                "home_team": "Vancouver Whitecaps",
+                "away_team": "Forge",
+                "1_odd": 1.4167,
+                "draw_odd": 4.3334,
+                "2_odd": 5.75,
+                "1X_odd": 1.1,
+                "12_odd": 1.1667,
+                "X2_odd": 2.3,
+                "over_2.5_odd": 1.5556,
+                "under_2.5_odd": 2.2,
+                "first_half_over_1.5_odd": 2.2,
+                "first_half_under_1.5_odd": 1.5556
+            }
+        ]
+    }
+]

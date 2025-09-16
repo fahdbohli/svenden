@@ -1,0 +1,18 @@
+- vainqueur de match - 12
+- map handicap - Asian Handicap
+- 1ere periode vainqueur - Gagnant 1ère période Domicile / Extérieur
+- 1ere periode under/over - Under / Over 1ère période
+- home 1ere periode under/over - Under / Over 1 1st Période - Équipe à domicile
+- away 1ere periode under/over - Under / Over 1st Période - Équipe à l'extérieur
+- 2eme periode vainqueur - Gagnant 2ème période Domicile / Extérieur
+- 2eme periode under/over - Under/Over 2ème période
+- 2eme periode handicap - Asian Handicap 2ème période
+- home 2eme periode under/over - Under / Over 2nd Période - Équipe à domicile
+- away 2eme periode under/over - Under / Over 2nd Période - Équipe à l'extérieur
+- Gagnant de la 3e période domicile / extérieur
+- Asian Handicap 3ème période
+- Under / Over 3ème période
+- Under / Over 3ème Period - Équipe à domicile
+- Under / Over 3ème Period - Équipe à l'extérieur
+
+- odd/even kills 1ere periode

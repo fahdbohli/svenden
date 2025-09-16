@@ -1,0 +1,79 @@
+[
+  {
+    "group_id": "11300904-13723442-27988700",
+    "home_team": "FK Liepaja",
+    "away_team": "Riga FC",
+    "date": "18/09/2025",
+    "time": "15:00",
+    "country": "Latvia",
+    "all_sources": [
+      "Asbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_1.0_home_vs_away",
+        "best_odds": {
+          "home_handicap_1.0_odd": {
+            "value": 2.35,
+            "source": "Asbet"
+          },
+          "away_handicap_-1.0_odd": {
+            "value": 1.888,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9552,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27988700-11300904",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Latvia",
+        "tournament_Asbet": "Latvian Cup",
+        "Asbet_match_id": 27988700,
+        "Asbet_tournament_id": 1942,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Latvia/1942/latvian-cup/27988700/fk-liepaja-riga-fc",
+        "Tounesbet_country_name": "Latvia",
+        "tournament_Tounesbet": "Cup",
+        "Tounesbet_match_id": 11300904,
+        "Tounesbet_tournament_id": 21197,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "11300904-13723442-27988700",
+        "home_team": "FK Liepaja",
+        "away_team": "Riga FC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "first_half_under_1.5_vs_first_half_over_1.5",
+        "best_odds": {
+          "first_half_under_1.5_odd": {
+            "value": 1.6,
+            "source": "Clubx2"
+          },
+          "first_half_over_1.5_odd": {
+            "value": 2.737,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9904,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13723442-11300904",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Latvia",
+        "tournament_Clubx2": "Latvia Cup",
+        "Clubx2_match_id": 13723442,
+        "Clubx2_tournament_id": 9822,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13723442#/overview",
+        "Tounesbet_country_name": "Latvia",
+        "tournament_Tounesbet": "Cup",
+        "Tounesbet_match_id": 11300904,
+        "Tounesbet_tournament_id": 21197,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "11300904-13723442-27988700",
+        "home_team": "FK Liepaja",
+        "away_team": "Riga FC",
+        "activity_duration": "1 hour"
+      }
+    ]
+  }
+]

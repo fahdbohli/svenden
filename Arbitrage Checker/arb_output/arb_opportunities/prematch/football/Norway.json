@@ -1,0 +1,1978 @@
+[
+  {
+    "group_id": "2579347336174112817-653821000-10699020-12763430",
+    "home_team": "Stroemmen IF",
+    "away_team": "Kjelsaas",
+    "date": "20/09/2025",
+    "time": "13:00",
+    "country": "Norway",
+    "all_sources": [
+      "1xbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "first_half_under_1.5_vs_first_half_over_1.5",
+        "best_odds": {
+          "first_half_under_1.5_odd": {
+            "value": 1.7,
+            "source": "Clubx2"
+          },
+          "first_half_over_1.5_odd": {
+            "value": 2.489,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.99,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "12763430-10699020",
+        "misvalue_source": "Jibibet",
+        "Clubx2_country_name": "Norway",
+        "tournament_Clubx2": "17660",
+        "Clubx2_match_id": 12763430,
+        "Clubx2_tournament_id": 17660,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=12763430#/overview",
+        "Tounesbet_country_name": "Norway",
+        "tournament_Tounesbet": "Norway Division 2",
+        "Tounesbet_match_id": 10699020,
+        "Tounesbet_tournament_id": 60758,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579347336174112817-653821000-10699020-12763430",
+        "home_team": "Stroemmen IF",
+        "away_team": "Kjelsaas",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2579349661714358272-653821003-10085516-12763429",
+    "home_team": "Ullensaker Kisa",
+    "away_team": "Grorud IL",
+    "date": "20/09/2025",
+    "time": "13:00",
+    "country": "Norway",
+    "all_sources": [
+      "1xbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "first_half_under_1.5_vs_first_half_over_1.5",
+        "best_odds": {
+          "first_half_under_1.5_odd": {
+            "value": 1.95,
+            "source": "Clubx2"
+          },
+          "first_half_over_1.5_odd": {
+            "value": 2.088,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9917,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "12763429-10085516",
+        "misvalue_source": "Clubx2",
+        "Clubx2_country_name": "Norway",
+        "tournament_Clubx2": "17660",
+        "Clubx2_match_id": 12763429,
+        "Clubx2_tournament_id": 17660,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=12763429#/overview",
+        "Tounesbet_country_name": "Norway",
+        "tournament_Tounesbet": "Norway Division 2",
+        "Tounesbet_match_id": 10085516,
+        "Tounesbet_tournament_id": 60758,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579349661714358272-653821003-10085516-12763429",
+        "home_team": "Ullensaker Kisa",
+        "away_team": "Grorud IL",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2579384507132153890-653845200-12764306-9543879",
+    "home_team": "Flekkeroy IL",
+    "away_team": "Sandnes Ulf",
+    "date": "20/09/2025",
+    "time": "15:00",
+    "country": "Norway",
+    "all_sources": [
+      "1xbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "first_half_under_1.5_vs_first_half_over_1.5",
+        "best_odds": {
+          "first_half_under_1.5_odd": {
+            "value": 1.75,
+            "source": "Clubx2"
+          },
+          "first_half_over_1.5_odd": {
+            "value": 2.419,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9848,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "12764306-9543879",
+        "misvalue_source": "1xbet",
+        "Clubx2_country_name": "Norway",
+        "tournament_Clubx2": "17660",
+        "Clubx2_match_id": 12764306,
+        "Clubx2_tournament_id": 17660,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=12764306#/overview",
+        "Tounesbet_country_name": "Norway",
+        "tournament_Tounesbet": "Norway Division 2",
+        "Tounesbet_match_id": 9543879,
+        "Tounesbet_tournament_id": 60758,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579384507132153890-653845200-12764306-9543879",
+        "home_team": "Flekkeroy IL",
+        "away_team": "Sandnes Ulf",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2579384507132153891-653845203-12764307-9544103",
+    "home_team": "FK Jerv",
+    "away_team": "Notodden FK",
+    "date": "20/09/2025",
+    "time": "15:00",
+    "country": "Norway",
+    "all_sources": [
+      "1xbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "first_half_under_1.5_vs_first_half_over_1.5",
+        "best_odds": {
+          "first_half_under_1.5_odd": {
+            "value": 1.75,
+            "source": "Clubx2"
+          },
+          "first_half_over_1.5_odd": {
+            "value": 2.525,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9675,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "12764307-9544103",
+        "misvalue_source": "Clubx2",
+        "Clubx2_country_name": "Norway",
+        "tournament_Clubx2": "17660",
+        "Clubx2_match_id": 12764307,
+        "Clubx2_tournament_id": 17660,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=12764307#/overview",
+        "Tounesbet_country_name": "Norway",
+        "tournament_Tounesbet": "Norway Division 2",
+        "Tounesbet_match_id": 9544103,
+        "Tounesbet_tournament_id": 60758,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579384507132153891-653845203-12764307-9544103",
+        "home_team": "FK Jerv",
+        "away_team": "Notodden FK",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "653338854-10097713-12029337",
+    "home_team": "Aalesund FK",
+    "away_team": "Skeid",
+    "date": "20/09/2025",
+    "time": "15:00",
+    "country": "Norway",
+    "all_sources": [
+      "1xbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_-1.25_home_vs_away",
+        "best_odds": {
+          "home_handicap_-1.25_odd": {
+            "value": 1.97,
+            "source": "Tounesbet"
+          },
+          "away_handicap_1.25_odd": {
+            "value": 2.2,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9622,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "12029337-10097713",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Norway",
+        "tournament_Tounesbet": "OBOS-Ligaen",
+        "Tounesbet_match_id": 10097713,
+        "Tounesbet_tournament_id": 24993,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "Norway",
+        "tournament_Clubx2": "1st Division",
+        "Clubx2_match_id": 12029337,
+        "Clubx2_tournament_id": 3541,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=12029337#/overview",
+        "group_id": "653338854-10097713-12029337",
+        "home_team": "Aalesund FK",
+        "away_team": "Skeid",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_-2.0_home_vs_away",
+        "best_odds": {
+          "home_handicap_-2.0_odd": {
+            "value": 2.38,
+            "source": "1xbet"
+          },
+          "away_handicap_2.0_odd": {
+            "value": 1.793,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9779,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653338854-10097713",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Norway",
+        "tournament_1xbet": "Adeccoligaen",
+        "1xbet_match_id": 653338854,
+        "1xbet_tournament_id": 31508,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/31508/653338854",
+        "Tounesbet_country_name": "Norway",
+        "tournament_Tounesbet": "OBOS-Ligaen",
+        "Tounesbet_match_id": 10097713,
+        "Tounesbet_tournament_id": 24993,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653338854-10097713-12029337",
+        "home_team": "Aalesund FK",
+        "away_team": "Skeid",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "653336520-10098453-12029252",
+    "home_team": "Asane",
+    "away_team": "Odd Grenland",
+    "date": "20/09/2025",
+    "time": "15:00",
+    "country": "Norway",
+    "all_sources": [
+      "1xbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.36,
+            "source": "1xbet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.911,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.947,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653336520-10098453",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Norway",
+        "tournament_1xbet": "Adeccoligaen",
+        "1xbet_match_id": 653336520,
+        "1xbet_tournament_id": 31508,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/31508/653336520",
+        "Tounesbet_country_name": "Norway",
+        "tournament_Tounesbet": "OBOS-Ligaen",
+        "Tounesbet_match_id": 10098453,
+        "Tounesbet_tournament_id": 24993,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653336520-10098453-12029252",
+        "home_team": "Asane",
+        "away_team": "Odd Grenland",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.3,
+            "source": "Clubx2"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.911,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9581,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "12029252-10098453",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Norway",
+        "tournament_Clubx2": "1st Division",
+        "Clubx2_match_id": 12029252,
+        "Clubx2_tournament_id": 3541,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=12029252#/overview",
+        "Tounesbet_country_name": "Norway",
+        "tournament_Tounesbet": "OBOS-Ligaen",
+        "Tounesbet_match_id": 10098453,
+        "Tounesbet_tournament_id": 24993,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653336520-10098453-12029252",
+        "home_team": "Asane",
+        "away_team": "Odd Grenland",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "653338857-10097712-12029303",
+    "home_team": "Hodd",
+    "away_team": "Moss",
+    "date": "20/09/2025",
+    "time": "15:00",
+    "country": "Norway",
+    "all_sources": [
+      "1xbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.39,
+            "source": "1xbet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.852,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9584,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653338857-10097712",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Norway",
+        "tournament_1xbet": "Adeccoligaen",
+        "1xbet_match_id": 653338857,
+        "1xbet_tournament_id": 31508,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/31508/653338857",
+        "Tounesbet_country_name": "Norway",
+        "tournament_Tounesbet": "OBOS-Ligaen",
+        "Tounesbet_match_id": 10097712,
+        "Tounesbet_tournament_id": 24993,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653338857-10097712-12029303",
+        "home_team": "Hodd",
+        "away_team": "Moss",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.3637,
+            "source": "Clubx2"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.852,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.963,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "12029303-10097712",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Norway",
+        "tournament_Clubx2": "1st Division",
+        "Clubx2_match_id": 12029303,
+        "Clubx2_tournament_id": 3541,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=12029303#/overview",
+        "Tounesbet_country_name": "Norway",
+        "tournament_Tounesbet": "OBOS-Ligaen",
+        "Tounesbet_match_id": 10097712,
+        "Tounesbet_tournament_id": 24993,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653338857-10097712-12029303",
+        "home_team": "Hodd",
+        "away_team": "Moss",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "653338848-10098452-12029247",
+    "home_team": "Lillestrom",
+    "away_team": "Mjondalen",
+    "date": "20/09/2025",
+    "time": "15:00",
+    "country": "Norway",
+    "all_sources": [
+      "1xbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_-2.5_home_vs_away",
+        "best_odds": {
+          "home_handicap_-2.5_odd": {
+            "value": 2.183,
+            "source": "Tounesbet"
+          },
+          "away_handicap_2.5_odd": {
+            "value": 1.96,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.9683,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653338848-10098452",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Norway",
+        "tournament_Tounesbet": "OBOS-Ligaen",
+        "Tounesbet_match_id": 10098452,
+        "Tounesbet_tournament_id": 24993,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "1xbet_country_name": "Norway",
+        "tournament_1xbet": "Adeccoligaen",
+        "1xbet_match_id": 653338848,
+        "1xbet_tournament_id": 31508,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/31508/653338848",
+        "group_id": "653338848-10098452-12029247",
+        "home_team": "Lillestrom",
+        "away_team": "Mjondalen",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "first_half_ah_-1.5_home_vs_away",
+        "best_odds": {
+          "home_first_half_handicap_-1.5_odd": {
+            "value": 2.4,
+            "source": "Clubx2"
+          },
+          "away_first_half_handicap_1.5_odd": {
+            "value": 1.793,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9744,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "12029247-10098452",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Norway",
+        "tournament_Clubx2": "1st Division",
+        "Clubx2_match_id": 12029247,
+        "Clubx2_tournament_id": 3541,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=12029247#/overview",
+        "Tounesbet_country_name": "Norway",
+        "tournament_Tounesbet": "OBOS-Ligaen",
+        "Tounesbet_match_id": 10098452,
+        "Tounesbet_tournament_id": 24993,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653338848-10098452-12029247",
+        "home_team": "Lillestrom",
+        "away_team": "Mjondalen",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "653338851-10098451-12029250",
+    "home_team": "IK Start",
+    "away_team": "Ranheim",
+    "date": "20/09/2025",
+    "time": "17:00",
+    "country": "Norway",
+    "all_sources": [
+      "1xbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_-0.25_home_vs_away",
+        "best_odds": {
+          "home_handicap_-0.25_odd": {
+            "value": 1.888,
+            "source": "Tounesbet"
+          },
+          "away_handicap_0.25_odd": {
+            "value": 2.38,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.9498,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653338851-10098451",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Norway",
+        "tournament_Tounesbet": "OBOS-Ligaen",
+        "Tounesbet_match_id": 10098451,
+        "Tounesbet_tournament_id": 24993,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "1xbet_country_name": "Norway",
+        "tournament_1xbet": "Adeccoligaen",
+        "1xbet_match_id": 653338851,
+        "1xbet_tournament_id": 31508,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/31508/653338851",
+        "group_id": "653338851-10098451-12029250",
+        "home_team": "IK Start",
+        "away_team": "Ranheim",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_-0.25_home_vs_away",
+        "best_odds": {
+          "home_handicap_-0.25_odd": {
+            "value": 1.888,
+            "source": "Tounesbet"
+          },
+          "away_handicap_0.25_odd": {
+            "value": 2.2858,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9671,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "12029250-10098451",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Norway",
+        "tournament_Tounesbet": "OBOS-Ligaen",
+        "Tounesbet_match_id": 10098451,
+        "Tounesbet_tournament_id": 24993,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "Norway",
+        "tournament_Clubx2": "1st Division",
+        "Clubx2_match_id": 12029250,
+        "Clubx2_tournament_id": 3541,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=12029250#/overview",
+        "group_id": "653338851-10098451-12029250",
+        "home_team": "IK Start",
+        "away_team": "Ranheim",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "653646369-10097715-12029248",
+    "home_team": "Lyn Fotball",
+    "away_team": "Sogndal",
+    "date": "21/09/2025",
+    "time": "16:00",
+    "country": "Norway",
+    "all_sources": [
+      "1xbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_-1.0_home_vs_away",
+        "best_odds": {
+          "home_handicap_-1.0_odd": {
+            "value": 2.5,
+            "source": "1xbet"
+          },
+          "away_handicap_1.0_odd": {
+            "value": 1.793,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9577,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653646369-10097715",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Norway",
+        "tournament_1xbet": "Adeccoligaen",
+        "1xbet_match_id": 653646369,
+        "1xbet_tournament_id": 31508,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/31508/653646369",
+        "Tounesbet_country_name": "Norway",
+        "tournament_Tounesbet": "OBOS-Ligaen",
+        "Tounesbet_match_id": 10097715,
+        "Tounesbet_tournament_id": 24993,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653646369-10097715-12029248",
+        "home_team": "Lyn Fotball",
+        "away_team": "Sogndal",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.242,
+            "source": "Tounesbet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.9,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9723,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "12029248-10097715",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Norway",
+        "tournament_Tounesbet": "OBOS-Ligaen",
+        "Tounesbet_match_id": 10097715,
+        "Tounesbet_tournament_id": 24993,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "Norway",
+        "tournament_Clubx2": "1st Division",
+        "Clubx2_match_id": 12029248,
+        "Clubx2_tournament_id": 3541,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=12029248#/overview",
+        "group_id": "653646369-10097715-12029248",
+        "home_team": "Lyn Fotball",
+        "away_team": "Sogndal",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "653646372-10098444-12029249",
+    "home_team": "Stabaek",
+    "away_team": "Raufoss",
+    "date": "21/09/2025",
+    "time": "16:00",
+    "country": "Norway",
+    "all_sources": [
+      "1xbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "one_vs_x2",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.065,
+            "source": "Tounesbet"
+          },
+          "X2_odd": {
+            "value": 2.11,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.9582,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653646372-10098444",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Norway",
+        "tournament_Tounesbet": "OBOS-Ligaen",
+        "Tounesbet_match_id": 10098444,
+        "Tounesbet_tournament_id": 24993,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "1xbet_country_name": "Norway",
+        "tournament_1xbet": "Adeccoligaen",
+        "1xbet_match_id": 653646372,
+        "1xbet_tournament_id": 31508,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/31508/653646372",
+        "group_id": "653646372-10098444-12029249",
+        "home_team": "Stabaek",
+        "away_team": "Raufoss",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.065,
+            "source": "Tounesbet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 2.05,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9721,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "12029249-10098444",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Norway",
+        "tournament_Tounesbet": "OBOS-Ligaen",
+        "Tounesbet_match_id": 10098444,
+        "Tounesbet_tournament_id": 24993,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "Norway",
+        "tournament_Clubx2": "1st Division",
+        "Clubx2_match_id": 12029249,
+        "Clubx2_tournament_id": 3541,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=12029249#/overview",
+        "group_id": "653646372-10098444-12029249",
+        "home_team": "Stabaek",
+        "away_team": "Raufoss",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2578981620363169826-653338268-10075690-11997874-27949925",
+    "home_team": "Fredrikstad FK",
+    "away_team": "Bryne FK",
+    "date": "20/09/2025",
+    "time": "13:00",
+    "country": "Norway",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_-1.0_home_vs_away",
+        "best_odds": {
+          "home_handicap_-1.0_odd": {
+            "value": 2.3,
+            "source": "1xbet"
+          },
+          "away_handicap_1.0_odd": {
+            "value": 1.911,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9581,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653338268-10075690",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Norway",
+        "tournament_1xbet": "Eliteserien",
+        "1xbet_match_id": 653338268,
+        "1xbet_tournament_id": 1793471,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/1793471/653338268",
+        "Tounesbet_country_name": "Norway",
+        "tournament_Tounesbet": "Eliteserien",
+        "Tounesbet_match_id": 10075690,
+        "Tounesbet_tournament_id": 22007,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578981620363169826-653338268-10075690-11997874-27949925",
+        "home_team": "Fredrikstad FK",
+        "away_team": "Bryne FK",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "first_half_under_1.0_vs_first_half_over_1.0",
+        "best_odds": {
+          "first_half_under_1.0_odd": {
+            "value": 2.05,
+            "source": "Clubx2"
+          },
+          "first_half_over_1.0_odd": {
+            "value": 2.088,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9667,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "11997874-10075690",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Norway",
+        "tournament_Clubx2": "Eliteserien",
+        "Clubx2_match_id": 11997874,
+        "Clubx2_tournament_id": 3458,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=11997874#/overview",
+        "Tounesbet_country_name": "Norway",
+        "tournament_Tounesbet": "Eliteserien",
+        "Tounesbet_match_id": 10075690,
+        "Tounesbet_tournament_id": 22007,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578981620363169826-653338268-10075690-11997874-27949925",
+        "home_team": "Fredrikstad FK",
+        "away_team": "Bryne FK",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_-1.0_home_vs_away",
+        "best_odds": {
+          "home_handicap_-1.0_odd": {
+            "value": 2.25,
+            "source": "Asbet"
+          },
+          "away_handicap_1.0_odd": {
+            "value": 1.911,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9677,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27949925-10075690",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Norway",
+        "tournament_Asbet": "Eliteserie",
+        "Asbet_match_id": 27949925,
+        "Asbet_tournament_id": 562,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Norway/562/eliteserie/27949925/fredrikstad-fk-bryne-fk",
+        "Tounesbet_country_name": "Norway",
+        "tournament_Tounesbet": "Eliteserien",
+        "Tounesbet_match_id": 10075690,
+        "Tounesbet_tournament_id": 22007,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578981620363169826-653338268-10075690-11997874-27949925",
+        "home_team": "Fredrikstad FK",
+        "away_team": "Bryne FK",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.029,
+            "source": "Tounesbet"
+          },
+          "X2_odd": {
+            "value": 2.09,
+            "source": "Jibibet"
+          }
+        },
+        "arbitrage_percentage": 0.9713,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2578981620363169826-10075690",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Norway",
+        "tournament_Tounesbet": "Eliteserien",
+        "Tounesbet_match_id": 10075690,
+        "Tounesbet_tournament_id": 22007,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Jibibet_country_name": "Norway",
+        "tournament_Jibibet": "Eliteserien",
+        "Jibibet_match_id": 2578981620363169826,
+        "Jibibet_tournament_id": 1669818800150810624,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "group_id": "2578981620363169826-653338268-10075690-11997874-27949925",
+        "home_team": "Fredrikstad FK",
+        "away_team": "Bryne FK",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2579018837206896646-653338271-10075691-11997872-27949924",
+    "home_team": "Sandefjord Fotball",
+    "away_team": "SK Brann",
+    "date": "20/09/2025",
+    "time": "15:00",
+    "country": "Norway",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "two_vs_1x_handicap",
+        "best_odds": {
+          "2_odd": {
+            "value": 2.228,
+            "source": "1xbet"
+          },
+          "home_handicap_0.5_odd": {
+            "value": 1.97,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9564,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653338271-10075691",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Norway",
+        "tournament_1xbet": "Eliteserien",
+        "1xbet_match_id": 653338271,
+        "1xbet_tournament_id": 1793471,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/1793471/653338271",
+        "Tounesbet_country_name": "Norway",
+        "tournament_Tounesbet": "Eliteserien",
+        "Tounesbet_match_id": 10075691,
+        "Tounesbet_tournament_id": 22007,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579018837206896646-653338271-10075691-11997872-27949924",
+        "home_team": "Sandefjord Fotball",
+        "away_team": "SK Brann",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "two_vs_1x_handicap",
+        "best_odds": {
+          "2_odd": {
+            "value": 2.2,
+            "source": "Jibibet"
+          },
+          "home_handicap_0.5_odd": {
+            "value": 1.97,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9622,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2579018837206896646-10075691",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "Norway",
+        "tournament_Jibibet": "Eliteserien",
+        "Jibibet_match_id": 2579018837206896646,
+        "Jibibet_tournament_id": 1669818800150810624,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "Norway",
+        "tournament_Tounesbet": "Eliteserien",
+        "Tounesbet_match_id": 10075691,
+        "Tounesbet_tournament_id": 22007,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579018837206896646-653338271-10075691-11997872-27949924",
+        "home_team": "Sandefjord Fotball",
+        "away_team": "SK Brann",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_0.0_home_vs_away",
+        "best_odds": {
+          "home_handicap_0.0_odd": {
+            "value": 2.2,
+            "source": "Clubx2"
+          },
+          "away_handicap_0.0_odd": {
+            "value": 1.947,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9682,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "11997872-10075691",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Norway",
+        "tournament_Clubx2": "Eliteserien",
+        "Clubx2_match_id": 11997872,
+        "Clubx2_tournament_id": 3458,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=11997872#/overview",
+        "Tounesbet_country_name": "Norway",
+        "tournament_Tounesbet": "Eliteserien",
+        "Tounesbet_match_id": 10075691,
+        "Tounesbet_tournament_id": 22007,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579018837206896646-653338271-10075691-11997872-27949924",
+        "home_team": "Sandefjord Fotball",
+        "away_team": "SK Brann",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_0.0_home_vs_away",
+        "best_odds": {
+          "home_handicap_0.0_odd": {
+            "value": 2.17,
+            "source": "Asbet"
+          },
+          "away_handicap_0.0_odd": {
+            "value": 1.947,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9744,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27949924-10075691",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Norway",
+        "tournament_Asbet": "Eliteserie",
+        "Asbet_match_id": 27949924,
+        "Asbet_tournament_id": 562,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Norway/562/eliteserie/27949924/sandefjord-fotball-sk-brann",
+        "Tounesbet_country_name": "Norway",
+        "tournament_Tounesbet": "Eliteserien",
+        "Tounesbet_match_id": 10075691,
+        "Tounesbet_tournament_id": 22007,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579018837206896646-653338271-10075691-11997872-27949924",
+        "home_team": "Sandefjord Fotball",
+        "away_team": "SK Brann",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2579018837206896645-653338265-10075685-11997876-27949923",
+    "home_team": "Vaalerenga IF",
+    "away_team": "KFUM-Kameratene",
+    "date": "20/09/2025",
+    "time": "17:00",
+    "country": "Norway",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.267,
+            "source": "1xbet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.947,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9547,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653338265-10075685",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Norway",
+        "tournament_1xbet": "Eliteserien",
+        "1xbet_match_id": 653338265,
+        "1xbet_tournament_id": 1793471,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/1793471/653338265",
+        "Tounesbet_country_name": "Norway",
+        "tournament_Tounesbet": "Eliteserien",
+        "Tounesbet_match_id": 10075685,
+        "Tounesbet_tournament_id": 22007,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579018837206896645-653338265-10075685-11997876-27949923",
+        "home_team": "Vaalerenga IF",
+        "away_team": "KFUM-Kameratene",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.26,
+            "source": "Jibibet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.947,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9561,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2579018837206896645-10075685",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "Norway",
+        "tournament_Jibibet": "Eliteserien",
+        "Jibibet_match_id": 2579018837206896645,
+        "Jibibet_tournament_id": 1669818800150810624,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "Norway",
+        "tournament_Tounesbet": "Eliteserien",
+        "Tounesbet_match_id": 10075685,
+        "Tounesbet_tournament_id": 22007,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579018837206896645-653338265-10075685-11997876-27949923",
+        "home_team": "Vaalerenga IF",
+        "away_team": "KFUM-Kameratene",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.2223,
+            "source": "Clubx2"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.947,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9636,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "11997876-10075685",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Norway",
+        "tournament_Clubx2": "Eliteserien",
+        "Clubx2_match_id": 11997876,
+        "Clubx2_tournament_id": 3458,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=11997876#/overview",
+        "Tounesbet_country_name": "Norway",
+        "tournament_Tounesbet": "Eliteserien",
+        "Tounesbet_match_id": 10075685,
+        "Tounesbet_tournament_id": 22007,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579018837206896645-653338265-10075685-11997876-27949923",
+        "home_team": "Vaalerenga IF",
+        "away_team": "KFUM-Kameratene",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_-0.5_home_vs_away",
+        "best_odds": {
+          "home_handicap_-0.5_odd": {
+            "value": 2.15,
+            "source": "Asbet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.947,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9787,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27949923-10075685",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Norway",
+        "tournament_Asbet": "Eliteserie",
+        "Asbet_match_id": 27949923,
+        "Asbet_tournament_id": 562,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Norway/562/eliteserie/27949923/valerenga-kfum-oslo",
+        "Tounesbet_country_name": "Norway",
+        "tournament_Tounesbet": "Eliteserien",
+        "Tounesbet_match_id": 10075685,
+        "Tounesbet_tournament_id": 22007,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579018837206896645-653338265-10075685-11997876-27949923",
+        "home_team": "Vaalerenga IF",
+        "away_team": "KFUM-Kameratene",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2579068340077207582-653625854-10075688-11997877-27956464",
+    "home_team": "Rosenborg BK",
+    "away_team": "FK Bodo/Glimt",
+    "date": "21/09/2025",
+    "time": "13:30",
+    "country": "Norway",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "two_vs_1x_handicap",
+        "best_odds": {
+          "2_odd": {
+            "value": 1.831,
+            "source": "1xbet"
+          },
+          "home_handicap_0.5_odd": {
+            "value": 2.383,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9658,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653625854-10075688",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Norway",
+        "tournament_1xbet": "Eliteserien",
+        "1xbet_match_id": 653625854,
+        "1xbet_tournament_id": 1793471,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/1793471/653625854",
+        "Tounesbet_country_name": "Norway",
+        "tournament_Tounesbet": "Eliteserien",
+        "Tounesbet_match_id": 10075688,
+        "Tounesbet_tournament_id": 22007,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579068340077207582-653625854-10075688-11997877-27956464",
+        "home_team": "Rosenborg BK",
+        "away_team": "FK Bodo/Glimt",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_1.0_home_vs_away",
+        "best_odds": {
+          "home_handicap_1.0_odd": {
+            "value": 1.852,
+            "source": "Tounesbet"
+          },
+          "away_handicap_-1.0_odd": {
+            "value": 2.33,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9691,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27956464-10075688",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Norway",
+        "tournament_Tounesbet": "Eliteserien",
+        "Tounesbet_match_id": 10075688,
+        "Tounesbet_tournament_id": 22007,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "Norway",
+        "tournament_Asbet": "Eliteserie",
+        "Asbet_match_id": 27956464,
+        "Asbet_tournament_id": 562,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Norway/562/eliteserie/27956464/rosenborg-fk-bodoglimt",
+        "group_id": "2579068340077207582-653625854-10075688-11997877-27956464",
+        "home_team": "Rosenborg BK",
+        "away_team": "FK Bodo/Glimt",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "under_3.5_vs_over_3.5",
+        "best_odds": {
+          "under_3.5_odd": {
+            "value": 1.899,
+            "source": "Tounesbet"
+          },
+          "over_3.5_odd": {
+            "value": 2.25,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.971,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "11997877-10075688",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Norway",
+        "tournament_Tounesbet": "Eliteserien",
+        "Tounesbet_match_id": 10075688,
+        "Tounesbet_tournament_id": 22007,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "Norway",
+        "tournament_Clubx2": "Eliteserien",
+        "Clubx2_match_id": 11997877,
+        "Clubx2_tournament_id": 3458,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=11997877#/overview",
+        "group_id": "2579068340077207582-653625854-10075688-11997877-27956464",
+        "home_team": "Rosenborg BK",
+        "away_team": "FK Bodo/Glimt",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "two_vs_1x_handicap",
+        "best_odds": {
+          "2_odd": {
+            "value": 1.81,
+            "source": "Jibibet"
+          },
+          "home_handicap_0.5_odd": {
+            "value": 2.383,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9721,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2579068340077207582-10075688",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "Norway",
+        "tournament_Jibibet": "Eliteserien",
+        "Jibibet_match_id": 2579068340077207582,
+        "Jibibet_tournament_id": 1669818800150810624,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "Norway",
+        "tournament_Tounesbet": "Eliteserien",
+        "Tounesbet_match_id": 10075688,
+        "Tounesbet_tournament_id": 22007,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579068340077207582-653625854-10075688-11997877-27956464",
+        "home_team": "Rosenborg BK",
+        "away_team": "FK Bodo/Glimt",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2579068340077207577-653625857-10075686-11997875-27956465",
+    "home_team": "Kristiansund BK",
+    "away_team": "FK Haugesund",
+    "date": "21/09/2025",
+    "time": "16:00",
+    "country": "Norway",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_-1.5_home_vs_away",
+        "best_odds": {
+          "home_handicap_-1.5_odd": {
+            "value": 2.328,
+            "source": "1xbet"
+          },
+          "away_handicap_1.5_odd": {
+            "value": 1.888,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9592,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653625857-10075686",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Norway",
+        "tournament_1xbet": "Eliteserien",
+        "1xbet_match_id": 653625857,
+        "1xbet_tournament_id": 1793471,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/1793471/653625857",
+        "Tounesbet_country_name": "Norway",
+        "tournament_Tounesbet": "Eliteserien",
+        "Tounesbet_match_id": 10075686,
+        "Tounesbet_tournament_id": 22007,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579068340077207577-653625857-10075686-11997875-27956465",
+        "home_team": "Kristiansund BK",
+        "away_team": "FK Haugesund",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "first_half_ah_-0.25_home_vs_away",
+        "best_odds": {
+          "home_first_half_handicap_-0.25_odd": {
+            "value": 1.911,
+            "source": "Tounesbet"
+          },
+          "away_first_half_handicap_0.25_odd": {
+            "value": 2.25,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9677,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27956465-10075686",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Norway",
+        "tournament_Tounesbet": "Eliteserien",
+        "Tounesbet_match_id": 10075686,
+        "Tounesbet_tournament_id": 22007,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "Norway",
+        "tournament_Asbet": "Eliteserie",
+        "Asbet_match_id": 27956465,
+        "Asbet_tournament_id": 562,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Norway/562/eliteserie/27956465/kristiansund-bk-fk-haugesund",
+        "group_id": "2579068340077207577-653625857-10075686-11997875-27956465",
+        "home_team": "Kristiansund BK",
+        "away_team": "FK Haugesund",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_-0.75_home_vs_away",
+        "best_odds": {
+          "home_handicap_-0.75_odd": {
+            "value": 1.911,
+            "source": "Tounesbet"
+          },
+          "away_handicap_0.75_odd": {
+            "value": 2.25,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9677,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "11997875-10075686",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Norway",
+        "tournament_Tounesbet": "Eliteserien",
+        "Tounesbet_match_id": 10075686,
+        "Tounesbet_tournament_id": 22007,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "Norway",
+        "tournament_Clubx2": "Eliteserien",
+        "Clubx2_match_id": 11997875,
+        "Clubx2_tournament_id": 3458,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=11997875#/overview",
+        "group_id": "2579068340077207577-653625857-10075686-11997875-27956465",
+        "home_team": "Kristiansund BK",
+        "away_team": "FK Haugesund",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "under_3.5_vs_over_3.5",
+        "best_odds": {
+          "under_3.5_odd": {
+            "value": 1.852,
+            "source": "Tounesbet"
+          },
+          "over_3.5_odd": {
+            "value": 2.3,
+            "source": "Jibibet"
+          }
+        },
+        "arbitrage_percentage": 0.9747,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2579068340077207577-10075686",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Norway",
+        "tournament_Tounesbet": "Eliteserien",
+        "Tounesbet_match_id": 10075686,
+        "Tounesbet_tournament_id": 22007,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Jibibet_country_name": "Norway",
+        "tournament_Jibibet": "Eliteserien",
+        "Jibibet_match_id": 2579068340077207577,
+        "Jibibet_tournament_id": 1669818800150810624,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "group_id": "2579068340077207577-653625857-10075686-11997875-27956465",
+        "home_team": "Kristiansund BK",
+        "away_team": "FK Haugesund",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2579018837206896648-653601933-10075684-11997878-27956463",
+    "home_team": "Stroemsgodset IF",
+    "away_team": "Sarpsborg 08 FF",
+    "date": "21/09/2025",
+    "time": "16:00",
+    "country": "Norway",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.5,
+            "source": "Clubx2"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.829,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9467,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "11997878-10075684",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Norway",
+        "tournament_Clubx2": "Eliteserien",
+        "Clubx2_match_id": 11997878,
+        "Clubx2_tournament_id": 3458,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=11997878#/overview",
+        "Tounesbet_country_name": "Norway",
+        "tournament_Tounesbet": "Eliteserien",
+        "Tounesbet_match_id": 10075684,
+        "Tounesbet_tournament_id": 22007,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579018837206896648-653601933-10075684-11997878-27956463",
+        "home_team": "Stroemsgodset IF",
+        "away_team": "Sarpsborg 08 FF",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.49,
+            "source": "1xbet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.829,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9484,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653601933-10075684",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Norway",
+        "tournament_1xbet": "Eliteserien",
+        "1xbet_match_id": 653601933,
+        "1xbet_tournament_id": 1793471,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/1793471/653601933",
+        "Tounesbet_country_name": "Norway",
+        "tournament_Tounesbet": "Eliteserien",
+        "Tounesbet_match_id": 10075684,
+        "Tounesbet_tournament_id": 22007,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579018837206896648-653601933-10075684-11997878-27956463",
+        "home_team": "Stroemsgodset IF",
+        "away_team": "Sarpsborg 08 FF",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.46,
+            "source": "Jibibet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.829,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9533,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2579018837206896648-10075684",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "Norway",
+        "tournament_Jibibet": "Eliteserien",
+        "Jibibet_match_id": 2579018837206896648,
+        "Jibibet_tournament_id": 1669818800150810624,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "Norway",
+        "tournament_Tounesbet": "Eliteserien",
+        "Tounesbet_match_id": 10075684,
+        "Tounesbet_tournament_id": 22007,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579018837206896648-653601933-10075684-11997878-27956463",
+        "home_team": "Stroemsgodset IF",
+        "away_team": "Sarpsborg 08 FF",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_-0.5_home_vs_away",
+        "best_odds": {
+          "home_handicap_-0.5_odd": {
+            "value": 2.37,
+            "source": "Asbet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.829,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9687,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27956463-10075684",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Norway",
+        "tournament_Asbet": "Eliteserie",
+        "Asbet_match_id": 27956463,
+        "Asbet_tournament_id": 562,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Norway/562/eliteserie/27956463/stromsgodset-if-sarpsborg-ff",
+        "Tounesbet_country_name": "Norway",
+        "tournament_Tounesbet": "Eliteserien",
+        "Tounesbet_match_id": 10075684,
+        "Tounesbet_tournament_id": 22007,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579018837206896648-653601933-10075684-11997878-27956463",
+        "home_team": "Stroemsgodset IF",
+        "away_team": "Sarpsborg 08 FF",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2579018837206896678-653601927-10075687-11997879-27956462",
+    "home_team": "Tromsoe IL",
+    "away_team": "Hamarkameratene",
+    "date": "21/09/2025",
+    "time": "16:00",
+    "country": "Norway",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_-1.5_home_vs_away",
+        "best_odds": {
+          "home_handicap_-1.5_odd": {
+            "value": 2.311,
+            "source": "1xbet"
+          },
+          "away_handicap_1.5_odd": {
+            "value": 1.947,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9463,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653601927-10075687",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Norway",
+        "tournament_1xbet": "Eliteserien",
+        "1xbet_match_id": 653601927,
+        "1xbet_tournament_id": 1793471,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/1793471/653601927",
+        "Tounesbet_country_name": "Norway",
+        "tournament_Tounesbet": "Eliteserien",
+        "Tounesbet_match_id": 10075687,
+        "Tounesbet_tournament_id": 22007,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579018837206896678-653601927-10075687-11997879-27956462",
+        "home_team": "Tromsoe IL",
+        "away_team": "Hamarkameratene",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_-0.75_home_vs_away",
+        "best_odds": {
+          "home_handicap_-0.75_odd": {
+            "value": 1.829,
+            "source": "Tounesbet"
+          },
+          "away_handicap_0.75_odd": {
+            "value": 2.4,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9634,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "11997879-10075687",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Norway",
+        "tournament_Tounesbet": "Eliteserien",
+        "Tounesbet_match_id": 10075687,
+        "Tounesbet_tournament_id": 22007,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "Norway",
+        "tournament_Clubx2": "Eliteserien",
+        "Clubx2_match_id": 11997879,
+        "Clubx2_tournament_id": 3458,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=11997879#/overview",
+        "group_id": "2579018837206896678-653601927-10075687-11997879-27956462",
+        "home_team": "Tromsoe IL",
+        "away_team": "Hamarkameratene",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_-0.75_home_vs_away",
+        "best_odds": {
+          "home_handicap_-0.75_odd": {
+            "value": 1.829,
+            "source": "Tounesbet"
+          },
+          "away_handicap_0.75_odd": {
+            "value": 2.39,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9652,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27956462-10075687",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Norway",
+        "tournament_Tounesbet": "Eliteserien",
+        "Tounesbet_match_id": 10075687,
+        "Tounesbet_tournament_id": 22007,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "Norway",
+        "tournament_Asbet": "Eliteserie",
+        "Asbet_match_id": 27956462,
+        "Asbet_tournament_id": 562,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Norway/562/eliteserie/27956462/tromso-il-hamkam",
+        "group_id": "2579018837206896678-653601927-10075687-11997879-27956462",
+        "home_team": "Tromsoe IL",
+        "away_team": "Hamarkameratene",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 1.45,
+            "source": "Jibibet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 3.245,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9978,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2579018837206896678-10075687",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "Norway",
+        "tournament_Jibibet": "Eliteserien",
+        "Jibibet_match_id": 2579018837206896678,
+        "Jibibet_tournament_id": 1669818800150810624,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "Norway",
+        "tournament_Tounesbet": "Eliteserien",
+        "Tounesbet_match_id": 10075687,
+        "Tounesbet_tournament_id": 22007,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579018837206896678-653601927-10075687-11997879-27956462",
+        "home_team": "Tromsoe IL",
+        "away_team": "Hamarkameratene",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2579051502815551501-653601930-10075689-11997873-27956461",
+    "home_team": "Viking FK",
+    "away_team": "Molde FK",
+    "date": "21/09/2025",
+    "time": "18:15",
+    "country": "Norway",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.065,
+            "source": "Tounesbet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 2.15,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9494,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "11997873-10075689",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Norway",
+        "tournament_Tounesbet": "Eliteserien",
+        "Tounesbet_match_id": 10075689,
+        "Tounesbet_tournament_id": 22007,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "Norway",
+        "tournament_Clubx2": "Eliteserien",
+        "Clubx2_match_id": 11997873,
+        "Clubx2_tournament_id": 3458,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=11997873#/overview",
+        "group_id": "2579051502815551501-653601930-10075689-11997873-27956461",
+        "home_team": "Viking FK",
+        "away_team": "Molde FK",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.065,
+            "source": "Tounesbet"
+          },
+          "X2_odd": {
+            "value": 2.077,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.9657,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653601930-10075689",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Norway",
+        "tournament_Tounesbet": "Eliteserien",
+        "Tounesbet_match_id": 10075689,
+        "Tounesbet_tournament_id": 22007,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "1xbet_country_name": "Norway",
+        "tournament_1xbet": "Eliteserien",
+        "1xbet_match_id": 653601930,
+        "1xbet_tournament_id": 1793471,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/1793471/653601930",
+        "group_id": "2579051502815551501-653601930-10075689-11997873-27956461",
+        "home_team": "Viking FK",
+        "away_team": "Molde FK",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.065,
+            "source": "Tounesbet"
+          },
+          "X2_odd": {
+            "value": 2.05,
+            "source": "Jibibet"
+          }
+        },
+        "arbitrage_percentage": 0.9721,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2579051502815551501-10075689",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Norway",
+        "tournament_Tounesbet": "Eliteserien",
+        "Tounesbet_match_id": 10075689,
+        "Tounesbet_tournament_id": 22007,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Jibibet_country_name": "Norway",
+        "tournament_Jibibet": "Eliteserien",
+        "Jibibet_match_id": 2579051502815551501,
+        "Jibibet_tournament_id": 1669818800150810624,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "group_id": "2579051502815551501-653601930-10075689-11997873-27956461",
+        "home_team": "Viking FK",
+        "away_team": "Molde FK",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_-1.0_home_vs_away",
+        "best_odds": {
+          "home_handicap_-1.0_odd": {
+            "value": 2.21,
+            "source": "Asbet"
+          },
+          "away_handicap_1.0_odd": {
+            "value": 1.911,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9758,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27956461-10075689",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Norway",
+        "tournament_Asbet": "Eliteserie",
+        "Asbet_match_id": 27956461,
+        "Asbet_tournament_id": 562,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Norway/562/eliteserie/27956461/viking-fk-molde-fk",
+        "Tounesbet_country_name": "Norway",
+        "tournament_Tounesbet": "Eliteserien",
+        "Tounesbet_match_id": 10075689,
+        "Tounesbet_tournament_id": 22007,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579051502815551501-653601930-10075689-11997873-27956461",
+        "home_team": "Viking FK",
+        "away_team": "Molde FK",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "11254591-13801463-27944219",
+    "home_team": "Kongsvinger IL",
+    "away_team": "KFUM Oslo",
+    "date": "17/09/2025",
+    "time": "17:00",
+    "country": "Norway",
+    "all_sources": [
+      "Asbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "two_vs_1x",
+        "best_odds": {
+          "2_odd": {
+            "value": 2.1429,
+            "source": "Clubx2"
+          },
+          "1X_odd": {
+            "value": 2.006,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9652,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13801463-11254591",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Norway",
+        "tournament_Clubx2": "NM Cup",
+        "Clubx2_match_id": 13801463,
+        "Clubx2_tournament_id": 10022,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13801463#/overview",
+        "Tounesbet_country_name": "Norway",
+        "tournament_Tounesbet": "NM Cupen",
+        "Tounesbet_match_id": 11254591,
+        "Tounesbet_tournament_id": 21977,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "11254591-13801463-27944219",
+        "home_team": "Kongsvinger IL",
+        "away_team": "KFUM Oslo",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_0.75_home_vs_away",
+        "best_odds": {
+          "home_handicap_0.75_odd": {
+            "value": 1.793,
+            "source": "Tounesbet"
+          },
+          "away_handicap_-0.75_odd": {
+            "value": 2.44,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9676,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27944219-11254591",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Norway",
+        "tournament_Tounesbet": "NM Cupen",
+        "Tounesbet_match_id": 11254591,
+        "Tounesbet_tournament_id": 21977,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "Norway",
+        "tournament_Asbet": "Cup",
+        "Asbet_match_id": 27944219,
+        "Asbet_tournament_id": 1966,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Norway/1966/cup/27944219/kongsvinger-il-kfum-oslo",
+        "group_id": "11254591-13801463-27944219",
+        "home_team": "Kongsvinger IL",
+        "away_team": "KFUM Oslo",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "10097714-12029251",
+    "home_team": "Kongsvinger",
+    "away_team": "Egersunds",
+    "date": "21/09/2025",
+    "time": "16:00",
+    "country": "Norway",
+    "all_sources": [
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_-1.25_home_vs_away",
+        "best_odds": {
+          "home_handicap_-1.25_odd": {
+            "value": 2.2,
+            "source": "Clubx2"
+          },
+          "away_handicap_1.25_odd": {
+            "value": 1.947,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9682,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "12029251-10097714",
+        "Clubx2_country_name": "Norway",
+        "tournament_Clubx2": "1st Division",
+        "Clubx2_match_id": 12029251,
+        "Clubx2_tournament_id": 3541,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=12029251#/overview",
+        "Tounesbet_country_name": "Norway",
+        "tournament_Tounesbet": "OBOS-Ligaen",
+        "Tounesbet_match_id": 10097714,
+        "Tounesbet_tournament_id": 24993,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "10097714-12029251",
+        "home_team": "Kongsvinger",
+        "away_team": "Egersunds",
+        "activity_duration": "1 hour"
+      }
+    ]
+  }
+]

@@ -1,0 +1,45 @@
+[
+    {
+        "last_updated": "2025-09-16T20:47:48.294322+01:00"
+    },
+    {
+        "tournament_name": "National Division",
+        "tournament_id": 4169,
+        "matches": [
+            {
+                "match_id": 28020790,
+                "date": "17/09/2025",
+                "time": "19:00",
+                "home_team": "Differdange FC 03",
+                "away_team": "Racing Union Luxembourg",
+                "match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Luxembourg/4169/national-division/28020790/differdange-fc--racing-union-luxembourg",
+                "12_odd": 1.22,
+                "X2_odd": 2.25,
+                "1X_odd": 1.16,
+                "under_3.0_odd": 1.65,
+                "over_3.0_odd": 2.1,
+                "under_3.25_odd": 1.52,
+                "over_3.25_odd": 2.37,
+                "under_2.25_odd": 2.45,
+                "over_2.25_odd": 1.48,
+                "under_2.5_odd": 2.08,
+                "over_2.5_odd": 1.66,
+                "away_handicap_1.25_odd": 1.6,
+                "home_handicap_-1.25_odd": 2.2,
+                "away_handicap_1.5_odd": 1.48,
+                "home_handicap_-1.5_odd": 2.45,
+                "away_handicap_1.0_odd": 1.82,
+                "home_handicap_-1.0_odd": 1.88,
+                "away_handicap_0.75_odd": 2.04,
+                "home_handicap_-0.75_odd": 1.69,
+                "away_handicap_0.5_odd": 2.3,
+                "home_handicap_-0.5_odd": 1.55,
+                "under_2.75_odd": 1.87,
+                "over_2.75_odd": 1.83,
+                "2_odd": 5.0,
+                "1_odd": 1.55,
+                "draw_odd": 3.95
+            }
+        ]
+    }
+]

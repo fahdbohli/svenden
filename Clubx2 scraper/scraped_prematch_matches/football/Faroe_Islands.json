@@ -1,0 +1,50 @@
+[
+    {
+        "last_updated": "2025-09-16T20:53:06.476274+01:00"
+    },
+    {
+        "tournament_id": 5132,
+        "tournament_name": "Premier League",
+        "matches": [
+            {
+                "match_id": 13761445,
+                "date": "19/09/2025",
+                "time": "18:30",
+                "home_team": "Tofta Itrottarfelag B68",
+                "away_team": "NSI Runavik",
+                "1_odd": 7.0,
+                "draw_odd": 6.3334,
+                "2_odd": 1.2667,
+                "1X_odd": 2.75,
+                "12_odd": 1.091,
+                "X2_odd": 1.0834
+            },
+            {
+                "match_id": 13761446,
+                "date": "20/09/2025",
+                "time": "17:00",
+                "home_team": "HB Torshavn",
+                "away_team": "FC Suduroy",
+                "1_odd": 1.1,
+                "draw_odd": 8.0,
+                "2_odd": 15.0,
+                "1X_odd": 1.02,
+                "12_odd": 1.05,
+                "X2_odd": 3.8
+            },
+            {
+                "match_id": 13761454,
+                "date": "21/09/2025",
+                "time": "15:00",
+                "home_team": "Vikingur Gota",
+                "away_team": "07 Vestur Sorvagur",
+                "1_odd": 1.3847,
+                "draw_odd": 5.0,
+                "2_odd": 5.6667,
+                "1X_odd": 1.125,
+                "12_odd": 1.125,
+                "X2_odd": 2.375
+            }
+        ]
+    }
+]

@@ -1,0 +1,21 @@
+[
+    {
+        "last_updated": "2025-09-16T20:52:58.687354+01:00"
+    },
+    {
+        "tournament_id": 5159,
+        "tournament_name": "Armenian Cup",
+        "matches": [
+            {
+                "match_id": 13919158,
+                "date": "17/09/2025",
+                "time": "16:00",
+                "home_team": "Gandzasar Kapan",
+                "away_team": "Alashkert",
+                "1_odd": 5.3334,
+                "draw_odd": 4.3334,
+                "2_odd": 1.4286
+            }
+        ]
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "last_updated": "2025-09-16T13:28:40.530863+01:00"
+    },
+    {
+        "tournament_id": 119503,
+        "tournament_name": "Copa Venezuela",
+        "matches": [
+            {
+                "match_id": 654041634,
+                "date": "17/09/2025",
+                "time": "20:30",
+                "home_team": "Monagas",
+                "away_team": "Carabobo",
+                "1_odd": 3.06,
+                "draw_odd": 2.75,
+                "2_odd": 2.47,
+                "1X_odd": 1.5,
+                "12_odd": 1.4,
+                "X2_odd": 1.35,
+                "both_score_odd": 2.1,
+                "both_noscore_odd": 1.698,
+                "over_0.5_odd": 1.111,
+                "over_1.5_odd": 1.5,
+                "over_2.5_odd": 2.5,
+                "over_3.5_odd": 5,
+                "over_4.5_odd": 11,
+                "over_5.5_odd": 29,
+                "under_0.5_odd": 6,
+                "under_1.5_odd": 2.5,
+                "under_2.5_odd": 1.444,
+                "under_3.5_odd": 1.154,
+                "under_4.5_odd": 1.04,
+                "under_5.5_odd": 1.01,
+                "home_handicap_0.0_odd": 2.1,
+                "away_handicap_0.0_odd": 1.667,
+                "home_over_0.5_odd": 1.5,
+                "home_under_0.5_odd": 2.45,
+                "away_over_0.5_odd": 1.4,
+                "away_under_0.5_odd": 2.8
+            }
+        ]
+    }
+]

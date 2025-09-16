@@ -1,0 +1,31 @@
+[
+  {
+    "match_info": {
+      "home_team": "Vorskla Poltava U19",
+      "away_team": "Chornomorets Odesa U19",
+      "date": "09/05/2025",
+      "time": "11:00",
+      "sources": [
+        "1xbet",
+        "Asbet",
+        "Tounesbet"
+      ],
+      "country": "Ukraine",
+      "tournament_1xbet": null,
+      "tournament_Asbet": null,
+      "tournament_Tounesbet": null
+    },
+    "complementary_set": "pair_5",
+    "best_odds": {
+      "under_2.5_odd": {
+        "value": 2.37,
+        "source": "1xbet"
+      },
+      "over_2.5_odd": {
+        "value": 2.3,
+        "source": "Tounesbet"
+      }
+    },
+    "arbitrage_percentage": 0.8567
+  }
+]

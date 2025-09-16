@@ -1,0 +1,109 @@
+[
+    {
+        "last_updated": "2025-09-16T20:52:58.038663+01:00"
+    },
+    {
+        "tournament_id": 2939,
+        "tournament_name": "Ligue 1",
+        "matches": [
+            {
+                "match_id": 13805595,
+                "date": "19/09/2025",
+                "time": "16:00",
+                "home_team": "Paradou AC",
+                "away_team": "Olympique Akbou",
+                "1_odd": 1.6471,
+                "draw_odd": 3.4,
+                "2_odd": 5.3334,
+                "1X_odd": 1.1429,
+                "12_odd": 1.25,
+                "X2_odd": 1.9091,
+                "over_2.5_odd": 2.2,
+                "under_2.5_odd": 1.5556,
+                "first_half_over_0.5_odd": 1.4546,
+                "first_half_under_0.5_odd": 2.4
+            },
+            {
+                "match_id": 13805598,
+                "date": "19/09/2025",
+                "time": "17:45",
+                "home_team": "CS Constantine",
+                "away_team": "ASO Chlef",
+                "1_odd": 1.9091,
+                "draw_odd": 3.1429,
+                "2_odd": 4.0,
+                "1X_odd": 1.2,
+                "12_odd": 1.2858,
+                "X2_odd": 1.6924,
+                "over_1.5_odd": 1.5,
+                "under_1.5_odd": 2.3,
+                "first_half_over_0.5_odd": 1.5,
+                "first_half_under_0.5_odd": 2.3
+            },
+            {
+                "match_id": 13805592,
+                "date": "19/09/2025",
+                "time": "20:00",
+                "home_team": "MB Rouisset",
+                "away_team": "ES Sétif",
+                "1_odd": 2.05,
+                "draw_odd": 3.1429,
+                "2_odd": 3.5,
+                "1X_odd": 1.25,
+                "12_odd": 1.3,
+                "X2_odd": 1.5834,
+                "over_2.5_odd": 2.2,
+                "under_2.5_odd": 1.5556,
+                "first_half_over_0.5_odd": 1.4546,
+                "first_half_under_0.5_odd": 2.4
+            },
+            {
+                "match_id": 13805604,
+                "date": "20/09/2025",
+                "time": "16:00",
+                "home_team": "Khenchela",
+                "away_team": "Ben Aknoun",
+                "1_odd": 1.6924,
+                "draw_odd": 3.25,
+                "2_odd": 5.0,
+                "1X_odd": 1.1429,
+                "12_odd": 1.2667,
+                "X2_odd": 1.8667,
+                "over_2.5_odd": 2.4,
+                "under_2.5_odd": 1.4546,
+                "first_half_over_0.5_odd": 1.5,
+                "first_half_under_0.5_odd": 2.3
+            },
+            {
+                "match_id": 13805596,
+                "date": "20/09/2025",
+                "time": "16:00",
+                "home_team": "Saoura",
+                "away_team": "USM Alger",
+                "1_odd": 1.9091,
+                "draw_odd": 3.2,
+                "2_odd": 3.8,
+                "1X_odd": 1.2,
+                "12_odd": 1.3,
+                "X2_odd": 1.68
+            },
+            {
+                "match_id": 13805606,
+                "date": "20/09/2025",
+                "time": "20:00",
+                "home_team": "El Bayadh",
+                "away_team": "Belouizdad",
+                "1_odd": 3.3334,
+                "draw_odd": 3.0,
+                "2_odd": 2.1429,
+                "1X_odd": 1.5455,
+                "12_odd": 1.3077,
+                "X2_odd": 1.2667,
+                "over_1.5_odd": 1.5,
+                "under_1.5_odd": 2.3,
+                "first_half_over_0.5_odd": 1.5556,
+                "first_half_under_0.5_odd": 2.2
+            }
+        ]
+    }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "match_info": {
+      "home_team": "Tanzania (Women)",
+      "away_team": "South Africa (Women)",
+      "date": "11/07/2025",
+      "time": "20:00",
+      "sources": [
+        "1xbet",
+        "Asbet",
+        "Clubx2"
+      ],
+      "country": "Africa Cup of Nations",
+      "tournament_1xbet": null,
+      "tournament_Asbet": null,
+      "tournament_Clubx2": null
+    },
+    "complementary_set": "one_vs_x2",
+    "best_odds": {
+      "1_odd": {
+        "value": 9.0,
+        "source": "Clubx2"
+      },
+      "X2_odd": {
+        "value": 1.13,
+        "source": "Asbet"
+      }
+    },
+    "arbitrage_percentage": 0.9961
+  }
+]

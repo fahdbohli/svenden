@@ -1,0 +1,4 @@
+- could add a minimal percentage change for detection
+example : if an ev disappeared due to a 1 per cent change (inferior to a minimal percent change) then the code wont log it
+
+- could rely on (change percentage/old odd) instead if raw change percentage

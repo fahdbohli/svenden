@@ -1,0 +1,18 @@
+"C:\Users\HP\Desktop\Arbitrage Betting\.venv\Scripts\python.exe" "C:\Users\HP\Desktop\Arbitrage Betting\Football\AsBet Scraper\asbet_scraper.py" 
+Loaded sport_id Soccer from settings\football\sport_id.json
+✅ Loaded parsing configuration from settings/football/parsing.json
+📊 Loaded 26 market types: P1XP2, 1X12X2, BothTeamsToScore, OverUnder, AsianHandicap, CornersOverUnder, To Qualify, Team1OverUnder, Team2OverUnder, Team1TotalOverUnderAsian, Team2TotalOverUnderAsian, HalfTimeOverUnder, 2ndHalfTotalOver/Under, HalfTimeOverUnderAsian, 2ndHalfTotalOver/Under Asian, Team1ToScoreFirstHalf/SecondHalf, Team2ToScoreFirstHalf/SecondHalf, HalfTimeTeam1OverUnder, HalfTimeTeam1OverUnderAsian, HalfTimeTeam2OverUnder, HalfTimeTeam2OverUnderAsian, SecondHalfHomeTeamTotalGoalsOverUnder, SecondHalfAwayTeamTotalGoalsOverUnder, HalfTimeAsianHandicap, 2ndHalfAsianHandicap, Penalty
+🟢 Connection opened
+✅ Session established, requesting counts…
+📊 Counts received, scheduling match requests…
+🗑️ Removed obsolete file: Americas.json
+🗑️ Removed obsolete file: India.json
+🗑️ Removed obsolete file: Malaysia.json
+🗑️ Removed obsolete file: Myanmar.json
+⚙️ Scheduled 364 competition requests
+Processed 1/364 for Portugal (1/5)
+Processed 2/364 for Portugal (2/5)
+Processed 3/364 for Portugal (3/5)
+Processed 4/364 for Portugal (4/5)
+Processed 5/364 for Portugal (5/5)
+✅ Exported Portugal to scraped_prematch_matches/football\Portugal.json

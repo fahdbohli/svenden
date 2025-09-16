@@ -1,0 +1,43 @@
+[
+    {
+        "last_updated": "2025-09-16T20:54:40.342292+01:00"
+    },
+    {
+        "tournament_name": "BGL Ligue",
+        "tournament_id": 22045,
+        "matches": [
+            {
+                "match_id": 11297686,
+                "tournament_id": 22045,
+                "date": "17/09/2025",
+                "time": "19:00",
+                "home_team": "Differdange 03",
+                "away_team": "Racing",
+                "1_odd": 1.899,
+                "draw_odd": 4.838,
+                "2_odd": 5.31,
+                "both_score_odd": null,
+                "both_noscore_odd": null,
+                "1X_odd": 1.16,
+                "12_odd": 1.22,
+                "X2_odd": 2.596,
+                "first_half_under_0.5_odd": 3.587,
+                "first_half_over_0.5_odd": 1.31,
+                "first_half_under_1.0_odd": 2.466,
+                "first_half_over_1.0_odd": 1.958,
+                "first_half_under_1.5_odd": 1.46,
+                "first_half_over_1.5_odd": 2.902,
+                "second_half_under_1.0_odd": 3.587,
+                "second_half_over_1.0_odd": 1.31,
+                "second_half_under_1.5_odd": 2.135,
+                "second_half_over_1.5_odd": 2.242,
+                "second_half_under_2.0_odd": 1.35,
+                "second_half_over_2.0_odd": 3.351,
+                "home_handicap_-0.75_odd": 2.088,
+                "away_handicap_0.75_odd": 2.383,
+                "home_first_half_handicap_-0.25_odd": 2.088,
+                "away_first_half_handicap_0.25_odd": 2.383
+            }
+        ]
+    }
+]

@@ -1,0 +1,99 @@
+[
+  {
+    "match_info": {
+      "home_team": "KF Vllaznia Shkoder",
+      "away_team": "BFC Daugavpils",
+      "date": "10/07/2025",
+      "time": "19:00",
+      "sources": [
+        "1xbet",
+        "Asbet",
+        "Clubx2",
+        "Tounesbet"
+      ],
+      "country": "UEFA Conference League",
+      "tournament_1xbet": null,
+      "tournament_Asbet": null,
+      "tournament_Clubx2": null,
+      "tournament_Tounesbet": null
+    },
+    "complementary_set": "ah_-0.5_home_vs_away",
+    "best_odds": {
+      "home_handicap_-0.5_odd": {
+        "value": 1.727,
+        "source": "Tounesbet"
+      },
+      "away_handicap_0.5_odd": {
+        "value": 2.59,
+        "source": "Asbet"
+      }
+    },
+    "arbitrage_percentage": 0.9651
+  },
+  {
+    "match_info": {
+      "home_team": "NSI Runavik",
+      "away_team": "HJK Helsinki",
+      "date": "10/07/2025",
+      "time": "19:45",
+      "sources": [
+        "1xbet",
+        "Asbet",
+        "Clubx2",
+        "Tounesbet"
+      ],
+      "country": "UEFA Conference League",
+      "tournament_1xbet": null,
+      "tournament_Asbet": null,
+      "tournament_Clubx2": null,
+      "tournament_Tounesbet": null
+    },
+    "complementary_set": "three_way",
+    "best_odds": {
+      "1_odd": {
+        "value": 4.2,
+        "source": "Clubx2"
+      },
+      "draw_odd": {
+        "value": 4.565,
+        "source": "Tounesbet"
+      },
+      "2_odd": {
+        "value": 2.09,
+        "source": "Tounesbet"
+      }
+    },
+    "arbitrage_percentage": 0.9356
+  },
+  {
+    "match_info": {
+      "home_team": "Saint Patrick´s Athletic FC",
+      "away_team": "FC Hegelmann Litauen Kaunas",
+      "date": "10/07/2025",
+      "time": "19:45",
+      "sources": [
+        "1xbet",
+        "Asbet",
+        "Clubx2",
+        "Tounesbet"
+      ],
+      "country": "UEFA Conference League",
+      "tournament_1xbet": null,
+      "tournament_Asbet": null,
+      "tournament_Clubx2": null,
+      "tournament_Tounesbet": null
+    },
+    "complementary_set": "ah_-0.5_home_vs_away",
+    "best_odds": {
+      "home_handicap_-0.5_odd": {
+        "value": 2.05,
+        "source": "Clubx2"
+      },
+      "away_handicap_0.5_odd": {
+        "value": 2.255,
+        "source": "Tounesbet"
+      }
+    },
+    "arbitrage_percentage": 0.9313
+  }
+]

@@ -1,0 +1,152 @@
+import os
+import json
+import time
+import datetime
+import requests
+
+# Directory to save scraped JSON files
+OUTPUT_DIR = "scraped_matches"
+
+# API endpoints
+CHAMPS_URL = "https://tn.1xbet.com/service-api/LineFeed/GetChampsZip"
+ODDS_URL = "https://tn.1xbet.com/LineFeed/Get1x2_VZip"
+
+# Common headers
+HEADERS = {
+    "Accept": "application/json, text/plain, */*",
+    "Accept-Language": "en-US,en;q=0.9",
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+    "X-Requested-With": "XMLHttpRequest",
+    "X-Svc-Source": "__BETTING_APP__",
+    "X-App-N": "__BETTING_APP__"
+}
+
+# First request parameters
+CHAMPS_PARAMS = {
+    "sport": 1,
+    "lng": "en",
+    "country": 187,
+    "partner": 213,
+    "virtualSports": "true",
+    "groupChamps": "true"
+}
+
+# Odds request base parameters
+ODDS_COMMON = {
+    "sports": 1,
+    "count": 50,
+    "lng": "fr",
+    "tf": 2200000,
+    "mode": 4,
+    "country": 187,
+    "getEmpty": "true",
+    "gr": 70
+}
+
+# Mapping of market types
+BASIC_MAP = {
+    1: "1_odd",
+    2: "draw_odd",
+    3: "2_odd",
+    4: "1X_odd",
+    5: "12_odd",
+    6: "2X_odd"
+}
+
+# Timeout for HTTP requests (seconds)
+REQUEST_TIMEOUT = 10
+
+
+def get_country_leagues(session):
+    resp = session.get(CHAMPS_URL, params=CHAMPS_PARAMS, timeout=REQUEST_TIMEOUT)
+    resp.raise_for_status()
+    data = resp.json().get("Value", []) or []
+
+    country_leagues = {}
+    for item in data:
+        country = item.get("L") or "Unknown"
+        if item.get("SC"):
+            for league in item["SC"]:
+                lid = league.get("LI")
+                raw = league.get("L", "")
+                name = raw.split('. ', 1)[1] if '. ' in raw else raw
+                country_leagues.setdefault(country, []).append({"id": lid, "name": name})
+        else:
+            lid = item.get("LI")
+            country_leagues.setdefault(country, []).append({"id": lid, "name": country})
+    return country_leagues
+
+
+def get_matches_for_league(session, champs_id):
+    params = {**ODDS_COMMON, "champs": champs_id}
+    resp = session.get(ODDS_URL, params=params, timeout=REQUEST_TIMEOUT)
+    resp.raise_for_status()
+    raw = resp.json()
+    data = raw.get("Value") or []
+
+    matches = []
+    for m in data:
+        ts = m.get("S")
+        if ts is None:
+            continue
+        dt_utc = datetime.datetime.fromtimestamp(ts, datetime.timezone.utc)
+        dt_loc = dt_utc.astimezone(datetime.timezone(datetime.timedelta(hours=1)))
+        match = {
+            "match_id": m.get("CI"),
+            "date": dt_loc.strftime("%d/%m/%Y"),
+            "time": dt_loc.strftime("%H:%M"),
+            "home_team": m.get("O1"),
+            "away_team": m.get("O2")
+        }
+        events = list(m.get("E", []))
+        for ae in m.get("AE", []):
+            events.extend(ae.get("ME", []))
+
+        for ev in events:
+            if ev.get("CE") is not None:
+                continue
+            t, p, c = ev.get("T"), ev.get("P"), ev.get("C")
+            if t in BASIC_MAP:
+                match[BASIC_MAP[t]] = c
+            elif t == 9 and p == 2.5:
+                match["over_2.5_odd"] = c
+            elif t == 10 and p == 2.5:
+                match["under_2.5_odd"] = c
+            elif ev.get("G") == 19 and t == 180:
+                match["both_score_odd"] = c
+            elif ev.get("G") == 19 and t == 181:
+                match["both_noscore_odd"] = c
+        matches.append(match)
+    return matches
+
+
+def main():
+    os.makedirs(OUTPUT_DIR, exist_ok=True)
+    session = requests.Session()
+    session.headers.update(HEADERS)
+
+    country_leagues = get_country_leagues(session)
+    for country, leagues in country_leagues.items():
+        output = []
+        for league in leagues:
+            lid, name = league.get("id"), league.get("name")
+            print(f"Fetching {name} ({lid})...")
+            try:
+                ms = get_matches_for_league(session, lid)
+            except requests.RequestException as e:
+                print(f"Skipped {lid} ({name}): {e}")
+                continue
+            output.append({"tournament_name": name, "tournament_id": lid, "matches": ms})
+            time.sleep(0.5)
+
+        if not output:
+            print(f"No tournaments found for {country}, skipping file.")
+            continue
+
+        path = os.path.join(OUTPUT_DIR, f"{country}.json")
+        with open(path, "w", encoding="utf-8") as f:
+            json.dump(output, f, ensure_ascii=False, indent=4)
+        print(f"Saved {country} -> {path}")
+
+if __name__ == "__main__":
+    main()

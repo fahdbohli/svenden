@@ -1,0 +1,13 @@
+cei-dessous les limites des 3 méthodes de retrait SuperT :
+*retrait avec Super T "D17" :
+- max montant en totale par jour = 500 tnd ( limite de poste ).
+- max nombre = 6 retraits par jour ( limite de poste ).
+- max nombre de même montant = 4 retraits.
+- max montant dans un seul retrait = 300 tnd
+*retrait avec SuperT "Flouci":
+- max nombre = 12 retraits par jour.
+- max nombre de même montant = 4 retraits.
+*retrait avec SuperT "Bank" :
+- max nombre = 8 retraits par jour.
+- max nombre de même montant = 4 retraits.
+- max montant dans un seul retrait = 500 tnd

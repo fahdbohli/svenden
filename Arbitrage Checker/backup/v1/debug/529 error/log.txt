@@ -1,0 +1,153 @@
+C:\Users\foura\PyCharmMiscProject\.venv\Scripts\python.exe "C:\Users\foura\PyCharmMiscProject\Projects\Arbitrage Betting\Football\1xbet Scraper\1xbet_scraper.py" 
+Processing country: Enhanced Daily Specials (Enhanced Daily Specials)
+  Fetching Enhanced Daily Specials (1413697)… 3 matches
+Saved Enhanced Daily Specials.json
+Processing country: UEFA Champions League (UEFA Champions League)
+  Fetching UEFA Champions League (118587)… 1 matches
+Saved UEFA Champions League.json
+Processing country: UEFA Champions League (UEFA Champions League. Team vs Player)
+  Fetching Team vs Player (2706692)… skipped (529 Server Error:  for url: https://1xbet.com/service-api/LineFeed/Get1x2_VZip?sports=1&champs=2706692&count=50&lng=en&tf=2200000&tz=1&mode=4&country=187&getEmpty=true&gr=70)
+No data for UEFA Champions League, skipping.
+Processing country: UEFA Champions League (UEFA Champions League. Special bets)
+  Fetching Special bets (1561021)… 1 matches
+Saved UEFA Champions League.json
+Processing country: UEFA Europa League (UEFA Europa League)
+  Fetching UEFA Europa League (118593)… skipped (529 Server Error:  for url: https://1xbet.com/service-api/LineFeed/Get1x2_VZip?sports=1&champs=118593&count=50&lng=en&tf=2200000&tz=1&mode=4&country=187&getEmpty=true&gr=70)
+No data for UEFA Europa League, skipping.
+Processing country: UEFA Europa League (UEFA Europa League. Team vs Player)
+  Fetching Team vs Player (1934516)… 7 matches
+Saved UEFA Europa League.json
+Processing country: UEFA Conference League (UEFA Conference League)
+  Fetching UEFA Conference League (2252762)… 1 matches
+Saved UEFA Conference League.json
+Processing country: UEFA Europa League (UEFA Europa League. Special bets)
+  Fetching Special bets (1529307)… 1 matches
+Saved UEFA Europa League.json
+Processing country: UEFA Nations League (UEFA Nations League)
+  Fetching UEFA Nations League (1706694)… 2 matches
+Saved UEFA Nations League.json
+Processing country: World Cup 2026 Qualification (World Cup 2026 Qualification. CONCACAF)
+  Fetching CONCACAF (2708618)… skipped (529 Server Error:  for url: https://1xbet.com/service-api/LineFeed/Get1x2_VZip?sports=1&champs=2708618&count=50&lng=en&tf=2200000&tz=1&mode=4&country=187&getEmpty=true&gr=70)
+No data for World Cup 2026 Qualification, skipping.
+Processing country: World Cup 2026 Qualification (World Cup 2026 Qualification. Europe)
+  Fetching Europe (2708505)… skipped (529 Server Error:  for url: https://1xbet.com/service-api/LineFeed/Get1x2_VZip?sports=1&champs=2708505&count=50&lng=en&tf=2200000&tz=1&mode=4&country=187&getEmpty=true&gr=70)
+No data for World Cup 2026 Qualification, skipping.
+Processing country: World Cup 2026 (World Cup 2026. Qualification. South America)
+  Fetching Qualification. South America (2591591)… 5 matches
+Saved World Cup 2026.json
+Processing country: World Cup 2026 Qualification (World Cup 2026 Qualification. AFC)
+  Fetching AFC (2611672)… 9 matches
+Saved World Cup 2026 Qualification.json
+Processing country: Club World Cup (Club World Cup)
+  Fetching Club World Cup (32015)… skipped (529 Server Error:  for url: https://1xbet.com/service-api/LineFeed/Get1x2_VZip?sports=1&champs=32015&count=50&lng=en&tf=2200000&tz=1&mode=4&country=187&getEmpty=true&gr=70)
+No data for Club World Cup, skipping.
+Processing country: CAF Confederation Cup (CAF Confederation Cup)
+  Fetching CAF Confederation Cup (43163)… 1 matches
+Saved CAF Confederation Cup.json
+Processing country: Copa Libertadores (Copa Libertadores)
+  Fetching Copa Libertadores (142091)… skipped (529 Server Error:  for url: https://1xbet.com/service-api/LineFeed/Get1x2_VZip?sports=1&champs=142091&count=50&lng=en&tf=2200000&tz=1&mode=4&country=187&getEmpty=true&gr=70)
+No data for Copa Libertadores, skipping.
+Processing country: AFC Champions League 2 (AFC Champions League 2)
+  Fetching AFC Champions League 2 (2743971)… 1 matches
+Saved AFC Champions League 2.json
+Processing country: Copa Sudamericana (Copa Sudamericana)
+  Fetching Copa Sudamericana (1528791)… 16 matches
+Saved Copa Sudamericana.json
+Processing country: Africa Cup of Nations U20 (Africa Cup of Nations U20)
+  Fetching Africa Cup of Nations U20 (1170111)… 2 matches
+Saved Africa Cup of Nations U20.json
+Processing country: Friendlies (Friendlies. National Teams)
+  Fetching National Teams (125983)… 3 matches
+Saved Friendlies.json
+Processing country: Friendly Club Tournament (Friendly Club Tournament)
+  Fetching Friendly Club Tournament (1377703)… skipped (529 Server Error:  for url: https://1xbet.com/service-api/LineFeed/Get1x2_VZip?sports=1&champs=1377703&count=50&lng=en&tf=2200000&tz=1&mode=4&country=187&getEmpty=true&gr=70)
+No data for Friendly Club Tournament, skipping.
+Processing country: UEFA Champions League (UEFA Champions League. Women)
+  Fetching Women (34275)… skipped (529 Server Error:  for url: https://1xbet.com/service-api/LineFeed/Get1x2_VZip?sports=1&champs=34275&count=50&lng=en&tf=2200000&tz=1&mode=4&country=187&getEmpty=true&gr=70)
+No data for UEFA Champions League, skipping.
+Processing country: Russia (Russia)
+  Fetching Russian Cup (176125)… skipped (529 Server Error:  for url: https://1xbet.com/service-api/LineFeed/Get1x2_VZip?sports=1&champs=176125&count=50&lng=en&tf=2200000&tz=1&mode=4&country=187&getEmpty=true&gr=70)
+  Fetching Premier League (225733)… 10 matches
+  Fetching Premier League. Statistics Round (30079)… 1 matches
+  Fetching League 1 (2421233)… skipped (529 Server Error:  for url: https://1xbet.com/service-api/LineFeed/Get1x2_VZip?sports=1&champs=2421233&count=50&lng=en&tf=2200000&tz=1&mode=4&country=187&getEmpty=true&gr=70)
+  Fetching First Eurocup (2856259)… skipped (529 Server Error:  for url: https://1xbet.com/service-api/LineFeed/Get1x2_VZip?sports=1&champs=2856259&count=50&lng=en&tf=2200000&tz=1&mode=4&country=187&getEmpty=true&gr=70)
+  Fetching Premier League. Women (1637571)… skipped (529 Server Error:  for url: https://1xbet.com/service-api/LineFeed/Get1x2_VZip?sports=1&champs=1637571&count=50&lng=en&tf=2200000&tz=1&mode=4&country=187&getEmpty=true&gr=70)
+  Fetching League 2. Division A. Silver (2574962)… skipped (529 Server Error:  for url: https://1xbet.com/service-api/LineFeed/Get1x2_VZip?sports=1&champs=2574962&count=50&lng=en&tf=2200000&tz=1&mode=4&country=187&getEmpty=true&gr=70)
+  Fetching League 2. Division B. Group 1 (2575114)… 7 matches
+  Fetching League 2. Division B. Group 2 (2577533)… 2 matches
+  Fetching League 2. Division B. Group 3 (2577743)… 4 matches
+Saved Russia.json
+Processing country: England (England)
+  Fetching FA Cup (108319)… 1 matches
+  Fetching FA Cup. Special bets (1678430)… 1 matches
+  Fetching Premier League (88637)… skipped (529 Server Error:  for url: https://1xbet.com/service-api/LineFeed/Get1x2_VZip?sports=1&champs=88637&count=50&lng=en&tf=2200000&tz=1&mode=4&country=187&getEmpty=true&gr=70)
+  Fetching Premier League. Team vs Player (2809690)… skipped (529 Server Error:  for url: https://1xbet.com/service-api/LineFeed/Get1x2_VZip?sports=1&champs=2809690&count=50&lng=en&tf=2200000&tz=1&mode=4&country=187&getEmpty=true&gr=70)
+  Fetching Premier League. Special bets (1557095)… skipped (529 Server Error:  for url: https://1xbet.com/service-api/LineFeed/Get1x2_VZip?sports=1&champs=1557095&count=50&lng=en&tf=2200000&tz=1&mode=4&country=187&getEmpty=true&gr=70)
+  Fetching Championship (105759)… skipped (529 Server Error:  for url: https://1xbet.com/service-api/LineFeed/Get1x2_VZip?sports=1&champs=105759&count=50&lng=en&tf=2200000&tz=1&mode=4&country=187&getEmpty=true&gr=70)
+  Fetching League One (13709)… 1 matches
+  Fetching League Two (24637)… skipped (529 Server Error:  for url: https://1xbet.com/service-api/LineFeed/Get1x2_VZip?sports=1&champs=24637&count=50&lng=en&tf=2200000&tz=1&mode=4&country=187&getEmpty=true&gr=70)
+  Fetching League Two. Special Bets (1553127)… 1 matches
+  Fetching FA Cup. Women (147147)… skipped (529 Server Error:  for url: https://1xbet.com/service-api/LineFeed/Get1x2_VZip?sports=1&champs=147147&count=50&lng=en&tf=2200000&tz=1&mode=4&country=187&getEmpty=true&gr=70)
+  Fetching National League (1256221)… skipped (529 Server Error:  for url: https://1xbet.com/service-api/LineFeed/Get1x2_VZip?sports=1&champs=1256221&count=50&lng=en&tf=2200000&tz=1&mode=4&country=187&getEmpty=true&gr=70)
+  Fetching National League North (1286371)… skipped (529 Server Error:  for url: https://1xbet.com/service-api/LineFeed/Get1x2_VZip?sports=1&champs=1286371&count=50&lng=en&tf=2200000&tz=1&mode=4&country=187&getEmpty=true&gr=70)
+  Fetching National League South (1256219)… 1 matches
+Saved England.json
+Processing country: Germany (Germany)
+  Fetching Germany DFB Pokal (119235)… skipped (529 Server Error:  for url: https://1xbet.com/service-api/LineFeed/Get1x2_VZip?sports=1&champs=119235&count=50&lng=en&tf=2200000&tz=1&mode=4&country=187&getEmpty=true&gr=70)
+  Fetching Bundesliga (96463)… skipped (529 Server Error:  for url: https://1xbet.com/service-api/LineFeed/Get1x2_VZip?sports=1&champs=96463&count=50&lng=en&tf=2200000&tz=1&mode=4&country=187&getEmpty=true&gr=70)
+  Fetching Bundesliga. Special bets (1562427)… 1 matches
+  Fetching Bundesliga. Team vs Player (2818533)… 11 matches
+  Fetching 2. Bundesliga (109313)… 10 matches
+  Fetching Germany Bundesliga U19 (1687260)… 1 matches
+  Fetching 3. Liga (2579233)… 11 matches
+  Fetching Oberliga Bayern (40369)… skipped (529 Server Error:  for url: https://1xbet.com/service-api/LineFeed/Get1x2_VZip?sports=1&champs=40369&count=50&lng=en&tf=2200000&tz=1&mode=4&country=187&getEmpty=true&gr=70)
+  Fetching Oberliga Schleswig-Holstein (858085)… skipped (529 Server Error:  for url: https://1xbet.com/service-api/LineFeed/Get1x2_VZip?sports=1&champs=858085&count=50&lng=en&tf=2200000&tz=1&mode=4&country=187&getEmpty=true&gr=70)
+  Fetching Regionalliga Bayern (78495)… skipped (529 Server Error:  for url: https://1xbet.com/service-api/LineFeed/Get1x2_VZip?sports=1&champs=78495&count=50&lng=en&tf=2200000&tz=1&mode=4&country=187&getEmpty=true&gr=70)
+  Fetching Regionalliga North (28351)… skipped (529 Server Error:  for url: https://1xbet.com/service-api/LineFeed/Get1x2_VZip?sports=1&champs=28351&count=50&lng=en&tf=2200000&tz=1&mode=4&country=187&getEmpty=true&gr=70)
+  Fetching Regionalliga Sudwest (83999)… skipped (529 Server Error:  for url: https://1xbet.com/service-api/LineFeed/Get1x2_VZip?sports=1&champs=83999&count=50&lng=en&tf=2200000&tz=1&mode=4&country=187&getEmpty=true&gr=70)
+  Fetching Regionalliga West (86469)… 7 matches
+  Fetching Regionalliga. Nordost (86681)… skipped (529 Server Error:  for url: https://1xbet.com/service-api/LineFeed/Get1x2_VZip?sports=1&champs=86681&count=50&lng=en&tf=2200000&tz=1&mode=4&country=187&getEmpty=true&gr=70)
+Saved Germany.json
+Processing country: Spain (Spain)
+  Fetching La Liga (127733)… skipped (529 Server Error:  for url: https://1xbet.com/service-api/LineFeed/Get1x2_VZip?sports=1&champs=127733&count=50&lng=en&tf=2200000&tz=1&mode=4&country=187&getEmpty=true&gr=70)
+  Fetching La Liga. Special bets (1564195)… skipped (529 Server Error:  for url: https://1xbet.com/service-api/LineFeed/Get1x2_VZip?sports=1&champs=1564195&count=50&lng=en&tf=2200000&tz=1&mode=4&country=187&getEmpty=true&gr=70)
+  Fetching Segunda Division (27687)… 12 matches
+  Fetching Segunda Division. Special Bets (1943155)… 5 matches
+  Fetching Primera Division RFEF. Group 1 (2282697)… 10 matches
+  Fetching Primera Division RFEF. Group 2 (2282698)… skipped (529 Server Error:  for url: https://1xbet.com/service-api/LineFeed/Get1x2_VZip?sports=1&champs=2282698&count=50&lng=en&tf=2200000&tz=1&mode=4&country=187&getEmpty=true&gr=70)
+  Fetching Primera Division RFEF. Women (2449758)… 1 matches
+  Fetching Primera Division. Women (124885)… skipped (529 Server Error:  for url: https://1xbet.com/service-api/LineFeed/Get1x2_VZip?sports=1&champs=124885&count=50&lng=en&tf=2200000&tz=1&mode=4&country=187&getEmpty=true&gr=70)
+  Fetching Regional League (915815)… 3 matches
+  Fetching Segunda Division B. Women (925455)… 1 matches
+  Fetching Segunda Division RFEF (2286258)… skipped (529 Server Error:  for url: https://1xbet.com/service-api/LineFeed/Get1x2_VZip?sports=1&champs=2286258&count=50&lng=en&tf=2200000&tz=1&mode=4&country=187&getEmpty=true&gr=70)
+  Fetching Tercera Division RFEF (2284105)… 31 matches
+  Fetching Tercera Division. Women (2006075)… skipped (529 Server Error:  for url: https://1xbet.com/service-api/LineFeed/Get1x2_VZip?sports=1&champs=2006075&count=50&lng=en&tf=2200000&tz=1&mode=4&country=187&getEmpty=true&gr=70)
+  Fetching Youth Championship (20661)… skipped (529 Server Error:  for url: https://1xbet.com/service-api/LineFeed/Get1x2_VZip?sports=1&champs=20661&count=50&lng=en&tf=2200000&tz=1&mode=4&country=187&getEmpty=true&gr=70)
+Saved Spain.json
+Processing country: Italy (Italy)
+  Fetching Serie A (110163)… skipped (529 Server Error:  for url: https://1xbet.com/service-api/LineFeed/Get1x2_VZip?sports=1&champs=110163&count=50&lng=en&tf=2200000&tz=1&mode=4&country=187&getEmpty=true&gr=70)
+  Fetching Serie A. Statistics Round (1562993)… 1 matches
+  Fetching Serie A. Special bets (1564275)… skipped (529 Server Error:  for url: https://1xbet.com/service-api/LineFeed/Get1x2_VZip?sports=1&champs=1564275&count=50&lng=en&tf=2200000&tz=1&mode=4&country=187&getEmpty=true&gr=70)
+  Fetching Serie B (7067)… 4 matches
+  Fetching Serie C Super Cup (1929215)… 1 matches
+  Fetching Women (202303)… 1 matches
+  Fetching Campionato Nazionale Primavera (93879)… skipped (529 Server Error:  for url: https://1xbet.com/service-api/LineFeed/Get1x2_VZip?sports=1&champs=93879&count=50&lng=en&tf=2200000&tz=1&mode=4&country=187&getEmpty=true&gr=70)
+  Fetching Campionato Nazionale Primavera 2 (1633563)… 4 matches
+  Fetching Campionato Nazionale Primavera 3 (2149050)… skipped (529 Server Error:  for url: https://1xbet.com/service-api/LineFeed/Get1x2_VZip?sports=1&champs=2149050&count=50&lng=en&tf=2200000&tz=1&mode=4&country=187&getEmpty=true&gr=70)
+  Fetching Campionato Nazionale Primavera 4 (2302116)… 1 matches
+  Fetching Serie B. Women (927755)… 1 matches
+  Fetching Serie C (1764347)… 10 matches
+  Fetching Serie D (33957)… skipped (529 Server Error:  for url: https://1xbet.com/service-api/LineFeed/Get1x2_VZip?sports=1&champs=33957&count=50&lng=en&tf=2200000&tz=1&mode=4&country=187&getEmpty=true&gr=70)
+Saved Italy.json
+Processing country: France (France)
+  Fetching Coupe de France (119241)… skipped (529 Server Error:  for url: https://1xbet.com/service-api/LineFeed/Get1x2_VZip?sports=1&champs=119241&count=50&lng=en&tf=2200000&tz=1&mode=4&country=187&getEmpty=true&gr=70)
+  Fetching Ligue 1 (12821)… skipped (529 Server Error:  for url: https://1xbet.com/service-api/LineFeed/Get1x2_VZip?sports=1&champs=12821&count=50&lng=en&tf=2200000&tz=1&mode=4&country=187&getEmpty=true&gr=70)
+  Fetching Ligue 2 (12829)… 1 matches
+  Fetching Ligue 1. Specials bets (1552761)… skipped (529 Server Error:  for url: https://1xbet.com/service-api/LineFeed/Get1x2_VZip?sports=1&champs=1552761&count=50&lng=en&tf=2200000&tz=1&mode=4&country=187&getEmpty=true&gr=70)
+  Fetching Ligue 1. Team vs Player (2815615)… 10 matches
+  Fetching Women (1221735)… 1 matches
+  Fetching Division 2. Women (1407033)… 5 matches
+  Fetching National 2 (1679208)… 23 matches
+  Fetching National 3 (1719401)… skipped (529 Server Error:  for url: https://1xbet.com/service-api/LineFeed/Get1x2_VZip?sports=1&champs=1719401&count=50&lng=en&tf=2200000&tz=1&mode=4&country=187&getEmpty=true&gr=70)
+  Fetching Youth League (44203)… 1 matches
+Saved France.json

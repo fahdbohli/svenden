@@ -1,0 +1,26 @@
+[
+    {
+        "last_updated": "2025-08-24T03:41:48.962902+01:00"
+    },
+    {
+        "tournament_id": 2505265313357107207,
+        "tournament_name": "Premier League",
+        "matches": [
+            {
+                "match_id": 2571209864827248674,
+                "date": "24/08/2025",
+                "time": "04:00",
+                "home_team": "Navua FC",
+                "away_team": "Lautoka FC",
+                "1_odd": "2.3",
+                "draw_odd": "3.6",
+                "2_odd": "2.7",
+                "1X_odd": "1.4",
+                "12_odd": "1.25",
+                "X2_odd": "1.55",
+                "over_2.5_odd": "1.7",
+                "under_2.5_odd": "2.02"
+            }
+        ]
+    }
+]

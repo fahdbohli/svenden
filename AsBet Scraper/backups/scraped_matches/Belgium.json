@@ -1,0 +1,52 @@
+[
+    {
+        "tournament_name": "Pro League. Outright",
+        "tournament_id": "20229",
+        "matches": []
+    },
+    {
+        "tournament_name": "Super Cup",
+        "tournament_id": "558",
+        "matches": [
+            {
+                "match_id": 27472284,
+                "date": "20/07/2025",
+                "time": "17:30",
+                "home_team": "Royale Union Saint-Gilloise",
+                "away_team": "Club Brugge",
+                "X2_odd": 1.45,
+                "1X_odd": 1.43,
+                "12_odd": 1.35,
+                "home_handicap_0.5_odd": 1.44,
+                "away_handicap_-0.5_odd": 2.59,
+                "away_handicap_0.75_odd": 1.32,
+                "home_handicap_-0.75_odd": 3.1,
+                "away_handicap_0.25_odd": 1.61,
+                "home_handicap_-0.25_odd": 2.17,
+                "away_handicap_-0.75_odd": 3.2,
+                "home_handicap_0.75_odd": 1.3,
+                "away_handicap_0.0_odd": 1.88,
+                "home_handicap_0.0_odd": 1.82,
+                "both_noscore_odd": 2.08,
+                "both_score_odd": 1.66,
+                "under_3.5_odd": 1.29,
+                "over_3.5_odd": 3.25,
+                "under_3.0_odd": 1.43,
+                "over_3.0_odd": 2.62,
+                "under_2.0_odd": 2.52,
+                "over_2.0_odd": 1.46,
+                "under_1.5_odd": 3.25,
+                "over_1.5_odd": 1.29,
+                "under_2.5_odd": 1.8,
+                "over_2.5_odd": 1.9,
+                "home_handicap_0.25_odd": 1.57,
+                "away_handicap_-0.25_odd": 2.25,
+                "home_handicap_-0.5_odd": 2.52,
+                "away_handicap_0.5_odd": 1.46,
+                "draw_odd": 2.92,
+                "2_odd": 2.62,
+                "1_odd": 2.53
+            }
+        ]
+    }
+]

@@ -1,0 +1,5 @@
+example argentina :
+don t compare every match from argentina in both sources files, instead regroup them by date and time difference
+example if time difference is 2 hours, regroup the matches by times two time difference = 2*2 = 4 hours groups that have their matches start time T like these examples:  
+a group of time between 8 and 12 will contain matches that have their T+2 or T-2 in that interval ( example matches with T = 7 can be contained in that group because 7 + 2 = 9 and 9 is in between 8 and 12, matches with T = 10 can be contained also in that group because 12 and 8 are both found in that interval) 
+another group of time between 12 and 16 will contain matches that have their T in between T+2 and T-2 in that interval

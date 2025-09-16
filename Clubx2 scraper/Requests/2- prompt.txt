@@ -1,0 +1,141 @@
+- make this request : "GET /api/widget/GetSportMenu?culture=fr-FR&timezoneOffset=-60&integration=webetx2&deviceType=1&numFormat=en-GB&countryCode=TN&period=0 HTTP/2
+Host: sb2frontend-1-altenar2.biahosted.com
+Sec-Ch-Ua-Platform: "Windows"
+Accept-Language: en-US,en;q=0.9
+Sec-Ch-Ua: "Not.A/Brand";v="99", "Chromium";v="136"
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+Sec-Ch-Ua-Mobile: ?0
+Accept: */*
+Origin: https://www.clubx2.com
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.clubx2.com/
+Accept-Encoding: gzip, deflate, br
+Priority: u=1, i"
+- at the begginning of the response (i sent you the response named 1-redponse.txt) : {"sports":[{"catIds":[1134,1133,497,506,502,501,1178,1132,1131,574,550,518,593,916,595,1155,797,590,544,852,517,810,564,820,557,707,703,767,908,560,716,760,729,814,561,854,512,602,826,882,847],"count":845,"typeId":1,"iconName":"soccer","hasLiveEvents":true,"id":66,"name":"Football "}, this list contain the countries ids of each country listed in the "Soccer" category
+- after the :""categories":[" the response lists Soccer as the first category
+- football lists are in this format : {"eventsCount":16,"champIds":[3145,5035,32316],"iso":"DNK","hasLiveEvents":false,"id":544,"name":"Danemark"},
+- "eventsCount" contain how many games in that country
+- "champsIds" contain a list of the tournaments ids of that country
+- "id" is the country id
+- "name" is the country name
+- to find the tournament name from its id, the id is matched with the tournament name in the response, example :   "eventsCount":4,"hasLiveEvents":false,"id":3145,"name":"Superligue"}, here the id 3145 is matched with the tournament named "Superligue" (in the Danemark country)
+--> after making the request and getting the response we should be able to extract these data based on the SPORT value which will be soccer in our case (can be changed to other sports in the code)
+	- a list of countries and their ids
+	- each country tournaments with their ids
+
+- now make this request : "GET /api/Widget/GetOverviewWithGroups?culture=en-GB&timezoneOffset=-60&integration=webetx2&deviceType=1&numFormat=en-GB&countryCode=TN&eventCount=0&sportId=0&champIds=11070 HTTP/2
+Host: sb2frontend-1-altenar2.biahosted.com
+Sec-Ch-Ua-Platform: "Windows"
+Accept-Language: en-US,en;q=0.9
+Sec-Ch-Ua: "Not.A/Brand";v="99", "Chromium";v="136"
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+Sec-Ch-Ua-Mobile: ?0
+Accept: */*
+Origin: https://www.clubx2.com
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.clubx2.com/
+Accept-Encoding: gzip, deflate, br
+Priority: u=1, i
+"
+- the champIds will take each tournaments ids (for each tournament in a country make this request, cover all the tournaments and countries)
+- the reponse is in a file named "2- response.txt"
+- it contains the matches ids stored in the eventids : ""dates":[{"dateTime":"2025-06-04T23:00:00Z","eventIds":[11923154]},{"dateTime":"2025-06-05T23:00:00Z","eventIds":[11923209,11922810,11922814,11923216,11922826,11922812,11923158]}]," (example of match ids in the response)
+- the response define each regroup match odds (each odd defined by its own id) under a group defined with a group id, set their values (price in the response) : example : ""markets":[{"oddIds":[2519195133,2519195134,2519195135],"variant":0,"typeId":1,"isMB":false,"sportMarketId":70472,"id":1046444195,"name":"1x2"},{" : the response here regroup the odds with ids 2519195133, 2519195134, 2519195135 under a group named 1x2 with the id 1046444195
+then the the three odds are defined later in the response with their price : ""odds":[{"typeId":1,"price":1.2858,"isMB":false,"oddStatus":0,"id":2519195133,"name":"1"},{"typeId":2,"price":6.0000,"isMB":false,"oddStatus":0,"id":2519195134,"name":"X"},{"typeId":3,"price":7.0000,"isMB":false,"oddStatus":0,"id":2519195135,"name":"2"},"
+here the odd 2519195133 is set to 1.2858 (odd value/price) and labeled as "name":"1" which mean home win odd, also the odd 2519195134 is priced at 6.0000 and labeled as "name":"X" which mean draw odds. After that the response assign the odds group id (1046444195 in our example) with the match by matching it with the match id : ""events":[{"marketIds":[1046444195,1046444193,1046444194,1046446337,1046446339,1046446336,1046446335,1046446338,1046446266,1046445857,1046446267,1046445858,1046445854,1046445859,1046446268,1046445860,1046446269,1046446270,1046446326,1046446322],"isBooked":true,"isParlay":false,"offers":[{"type":6}],"code":124,"hasStream":false,"extId":"fp15_sr:match:58379829","sc":880,"rc":false,"pId":15,"et":0,"competitorIds":[92836,202664],"sportId":66,"catId":820,"champId":11070,"status":0,"startDate":"2025-06-05T16:00:00Z","id":11923154,"name":"Jakobstads Bollklubb vs. Kuopion Elo"},"
+here the odds group id is within the markets ids of the match with the id : "11923154". other informations are also here like match competititors names : "name":"Jakobstads Bollklubb vs. Kuopion Elo" and the date and time of the match.
+- another example of an handicap odds : "{"oddIds":[2519199730,2519199731],"variant":1,"typeId":16,"isMB":false,"sportMarketId":70515,"sv":"-1.25","sn":"-1.25","id":1046446337,"name":"Handicap"}," defined later "{"typeId":1714,"price":1.5556,"isMB":false,"oddStatus":0,"id":2519199730,"name":"1 (-1.25)"},{"typeId":1715,"price":2.2858,"isMB":false,"oddStatus":0,"id":2519199731,"name":"2 (\u002B1.25)"},". "name":"1 (-1.25)" means home handicap -1.25 and "name":"2 (\u002B1.25)" means away handicap 1.25 
+- the informations i want to scrape are : chapmpionship id and name - match id, date, time, home team, away team, 1_odd, draw_odd, 2_odd, 1X_odd, 12_odd, X2_odd, bothscore_odd and bothnoscore_odd, over_n_odd and under_n_odd (all available n), home_handicap_n_odd and away_handicap_-n_odd (all available n)
+- so you can understand more how to extract odds this is a part of odds of the match  between VJS and HaPK Edustus : 
+		"1_odd": 1.02,
+                "draw_odd": 14.00,
+                "2_odd": 26.00,
+                "1X_odd": blocked,(if "oddStatus" is not 0 (7 in our case) that means its blocked so the code wont scrape the odd unless its satut is 0)
+                "12_odd": 1.01,
+                "X2_odd": 5.00,
+                "both_score_odd": doesn t exist in this match (named GG but it is not present in this match by chance)
+                "both_noscore_odd": doesn exist in this match (named GG but it is not present in this match by chance)
+                "home_handicap_-3.0_odd": 1.55,
+                "away_handicap_3.0_odd": 2.28,
+                "away_handicap_-3.25_odd": 1.70,
+                "home_handicap_3.25_odd": 2.05,
+                "over_2.5_odd": 1.10,
+                "under_2.5_odd": 5.50,
+                "over_3.5_odd": 1.33,
+                "under_3.5_odd": 3.00,.................etc
+(i didn t cover all odds)
+- ad  one hour to the time example : "startDate":"2025-06-06T15:30:00Z", the extracted time will 16:30 (ofc dont forget that if after adding one hour to the time and it passes or reaches midnight add one day to the date)
+- I want the code to export the data in json files in a directory named scraped matches
+- each json file is named after a country and contain all the matches of all the competitions tournaments matches of that country
+- i sent a scraper (1xbet_scraper.py) of another website to figure out the way how i want the data exported to be exported in json files
+- this is an example of a match inside a json file i want you to mimic its exact same structure and labels names : "{
+        "tournament_id": 28298,
+        "tournament_name": "Primera Division",
+        "matches": [
+            {
+                "match_id": 264490885,
+                "date": "13/06/2025",
+                "time": "01:00",
+                "home_team": "Deportes Iquique",
+                "away_team": "Colo-Colo",
+                "1_odd": 4.44,
+                "draw_odd": 3.84,
+                "2_odd": 1.74,
+                "1X_odd": 2.08,
+                "12_odd": 1.25,
+                "X2_odd": 1.188,
+                "both_score_odd": 1.76,
+                "both_noscore_odd": 2.013,
+                "home_handicap_0.0_odd": 3.24,
+                "away_handicap_0.0_odd": 1.26,
+                "away_handicap_-1.0_odd": 2.31,
+                "home_handicap_1.0_odd": 1.58,
+                "away_handicap_-2.0_odd": 5.15,
+                "home_handicap_2.0_odd": 1.098,
+                "away_handicap_-2.5_odd": 6.05,
+                "home_handicap_2.5_odd": 1.064,
+                "over_1.5_odd": 1.21,
+                "under_1.5_odd": 3.6,
+                "over_2.0_odd": 1.36,
+                "under_2.0_odd": 2.8,
+                "over_3.0_odd": 2.375,
+                "under_3.0_odd": 1.49,
+                "over_3.5_odd": 2.93,
+                "under_3.5_odd": 1.31
+            },
+            {
+                "match_id": 264491200,
+                "date": "14/06/2025",
+                "time": "01:00",
+                "home_team": "Deportes Limache",
+                "away_team": "Union La Calera",
+                "1_odd": 2.47,
+                "draw_odd": 3.04,
+                "2_odd": 3.055,
+                "1X_odd": 1.36,
+                "12_odd": 1.36,
+                "X2_odd": 1.53,
+                "both_score_odd": 2.16,
+                "both_noscore_odd": 1.661,
+                "home_handicap_-1.0_odd": 4.2,
+                "away_handicap_-1.0_odd": 5.95,
+                "home_handicap_1.0_odd": 1.071,
+                "away_handicap_1.0_odd": 1.159,
+                "home_handicap_-1.5_odd": 5.2,
+                "away_handicap_-1.5_odd": 7.1,
+                "home_handicap_1.5_odd": 1.038,
+                "away_handicap_1.5_odd": 1.095,
+                "over_0.5_odd": 1.06,
+                "under_0.5_odd": 6.2,
+                "over_1.0_odd": 1.124,
+                "under_1.0_odd": 4.95,
+                "over_2.0_odd": 1.92,
+                "under_2.0_odd": 1.75,
+                "over_2.5_odd": 2.53,
+                "under_2.5_odd": 1.41
+            },
+"

@@ -1,0 +1,101 @@
+[
+    {
+        "last_updated": "2025-09-16T20:54:22.305479+01:00"
+    },
+    {
+        "tournament_name": "Primera Division",
+        "tournament_id": 47693,
+        "matches": [
+            {
+                "match_id": 11296401,
+                "tournament_id": 47693,
+                "date": "20/09/2025",
+                "time": "21:00",
+                "home_team": "Luis Ángel Firpo",
+                "away_team": "Municipal Limeño",
+                "1_odd": null,
+                "draw_odd": null,
+                "2_odd": null,
+                "both_score_odd": null,
+                "both_noscore_odd": null,
+                "under_2.5_odd": null,
+                "over_2.5_odd": null,
+                "1X_odd": null,
+                "12_odd": null,
+                "X2_odd": null
+            },
+            {
+                "match_id": 11296443,
+                "tournament_id": 47693,
+                "date": "20/09/2025",
+                "time": "21:00",
+                "home_team": "CD Cacahuatique",
+                "away_team": "Zacatecoluca FC",
+                "1_odd": null,
+                "draw_odd": null,
+                "2_odd": null,
+                "both_score_odd": null,
+                "both_noscore_odd": null,
+                "under_2.5_odd": null,
+                "over_2.5_odd": null,
+                "1X_odd": null,
+                "12_odd": null,
+                "X2_odd": null
+            },
+            {
+                "match_id": 11296444,
+                "tournament_id": 47693,
+                "date": "20/09/2025",
+                "time": "21:00",
+                "home_team": "Isidro Metapán",
+                "away_team": "Deportivo FAS",
+                "1_odd": null,
+                "draw_odd": null,
+                "2_odd": null,
+                "both_score_odd": null,
+                "both_noscore_odd": null,
+                "under_2.5_odd": null,
+                "over_2.5_odd": null,
+                "1X_odd": null,
+                "12_odd": null,
+                "X2_odd": null
+            },
+            {
+                "match_id": 11296451,
+                "tournament_id": 47693,
+                "date": "20/09/2025",
+                "time": "21:00",
+                "home_team": "CD Platense Zacatecoluca",
+                "away_team": "Agila",
+                "1_odd": null,
+                "draw_odd": null,
+                "2_odd": null,
+                "both_score_odd": null,
+                "both_noscore_odd": null,
+                "under_2.5_odd": null,
+                "over_2.5_odd": null,
+                "1X_odd": null,
+                "12_odd": null,
+                "X2_odd": null
+            },
+            {
+                "match_id": 11296483,
+                "tournament_id": 47693,
+                "date": "20/09/2025",
+                "time": "21:00",
+                "home_team": "Hercules",
+                "away_team": "Club Deportivo Fuerte San Francisco",
+                "1_odd": null,
+                "draw_odd": null,
+                "2_odd": null,
+                "both_score_odd": null,
+                "both_noscore_odd": null,
+                "under_2.5_odd": null,
+                "over_2.5_odd": null,
+                "1X_odd": null,
+                "12_odd": null,
+                "X2_odd": null
+            }
+        ]
+    }
+]

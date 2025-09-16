@@ -1,0 +1,26 @@
+[
+    {
+        "last_updated": "2025-09-16T20:53:12.045938+01:00"
+    },
+    {
+        "tournament_id": 4683,
+        "tournament_name": "Division Nationale",
+        "matches": [
+            {
+                "match_id": 13919151,
+                "date": "17/09/2025",
+                "time": "19:00",
+                "home_team": "FC Differdange 03",
+                "away_team": "Racing Union Luxembourg",
+                "1_odd": 1.5,
+                "draw_odd": 3.8,
+                "2_odd": 5.0,
+                "1X_odd": 1.1539,
+                "12_odd": 1.2,
+                "X2_odd": 2.0,
+                "over_2.5_odd": 1.6667,
+                "under_2.5_odd": 2.0
+            }
+        ]
+    }
+]

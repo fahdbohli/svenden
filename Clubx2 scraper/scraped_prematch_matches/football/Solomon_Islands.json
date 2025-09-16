@@ -1,0 +1,53 @@
+[
+    {
+        "last_updated": "2025-09-16T20:53:18.419365+01:00"
+    },
+    {
+        "tournament_id": 9270,
+        "tournament_name": "Premier League",
+        "matches": [
+            {
+                "match_id": 13954826,
+                "date": "17/09/2025",
+                "time": "01:00",
+                "home_team": "Green Shield",
+                "away_team": "Laugu United Honiara",
+                "1_odd": 1.0625,
+                "draw_odd": 8.0,
+                "2_odd": 21.0,
+                "over_3.5_odd": 1.95,
+                "under_3.5_odd": 1.7,
+                "first_half_over_1.5_odd": 1.95,
+                "first_half_under_1.5_odd": 1.7
+            },
+            {
+                "match_id": 13954827,
+                "date": "17/09/2025",
+                "time": "03:00",
+                "home_team": "Honiara City FC",
+                "away_team": "SOSA FC",
+                "1_odd": 1.8462,
+                "draw_odd": 4.0,
+                "2_odd": 3.1429,
+                "1X_odd": 1.2858,
+                "12_odd": 1.2,
+                "X2_odd": 1.7,
+                "over_3.5_odd": 1.95,
+                "under_3.5_odd": 1.7,
+                "first_half_over_1.5_odd": 1.95,
+                "first_half_under_1.5_odd": 1.7
+            },
+            {
+                "match_id": 13954828,
+                "date": "17/09/2025",
+                "time": "05:00",
+                "home_team": "Central Coast FC",
+                "away_team": "Juniper FC",
+                "draw_odd": 10.0,
+                "2_odd": 21.0,
+                "over_5.5_odd": 2.1,
+                "under_5.5_odd": 1.6
+            }
+        ]
+    }
+]

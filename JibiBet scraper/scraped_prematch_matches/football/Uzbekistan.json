@@ -1,0 +1,47 @@
+[
+    {
+        "last_updated": "2025-09-14T13:23:59.371757+01:00"
+    },
+    {
+        "tournament_id": 1672635004343205888,
+        "tournament_name": "Superliga",
+        "matches": [
+            {
+                "match_id": 2578185783412396042,
+                "date": "14/09/2025",
+                "time": "14:00",
+                "home_team": "FC Bunyodkor",
+                "away_team": "Xorazm Fk Urganch",
+                "1_odd": "1.63",
+                "draw_odd": "3.9",
+                "2_odd": "4.6",
+                "1X_odd": "1.12",
+                "12_odd": "1.18",
+                "X2_odd": "2.13",
+                "over_4.5_odd": "4.6",
+                "under_4.5_odd": "1.15",
+                "over_1.5_odd": "1.21",
+                "under_1.5_odd": "3.85",
+                "over_2.5_odd": "1.68",
+                "under_2.5_odd": "2.04",
+                "over_3.5_odd": "2.58",
+                "under_3.5_odd": "1.43",
+                "over_0.5_odd": "1.01",
+                "under_0.5_odd": "10.0"
+            }
+        ]
+    },
+    {
+        "tournament_id": 1674425246645665792,
+        "tournament_name": "Pro Liga",
+        "matches": [
+            {
+                "match_id": 2578876733377884190,
+                "date": "15/09/2025",
+                "time": "12:00",
+                "home_team": "Fardu Ferghana",
+                "away_team": "Jayxun"
+            }
+        ]
+    }
+]

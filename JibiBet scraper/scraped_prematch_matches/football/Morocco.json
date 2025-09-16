@@ -1,0 +1,34 @@
+[
+    {
+        "last_updated": "2025-09-16T20:49:45.775000+01:00"
+    },
+    {
+        "tournament_id": 1669819228276002816,
+        "tournament_name": "Botola Pro D1",
+        "matches": [
+            {
+                "match_id": 2579804918856691723,
+                "date": "17/09/2025",
+                "time": "20:00",
+                "home_team": "Raja Casablanca Athletic",
+                "away_team": "AS Far Rabat",
+                "1_odd": "3.15",
+                "draw_odd": "2.52",
+                "2_odd": "2.68",
+                "1X_odd": "1.39",
+                "12_odd": "1.4",
+                "X2_odd": "1.28",
+                "over_4.5_odd": "8.6",
+                "under_4.5_odd": "1.03",
+                "over_1.5_odd": "1.46",
+                "under_1.5_odd": "2.5",
+                "over_2.5_odd": "2.4",
+                "under_2.5_odd": "1.49",
+                "over_3.5_odd": "4.2",
+                "under_3.5_odd": "1.18",
+                "over_0.5_odd": "1.12",
+                "under_0.5_odd": "5.2"
+            }
+        ]
+    }
+]

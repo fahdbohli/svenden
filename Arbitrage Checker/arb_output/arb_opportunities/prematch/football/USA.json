@@ -1,0 +1,4165 @@
+[
+  {
+    "group_id": "2579512125223473168-652426687-11254539-13608475-28013418",
+    "home_team": "Nashville SC",
+    "away_team": "Philadelphia Union",
+    "date": "17/09/2025",
+    "time": "01:00",
+    "country": "USA",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "both_score",
+        "best_odds": {
+          "both_score_odd": {
+            "value": 2.029,
+            "source": "Tounesbet"
+          },
+          "both_noscore_odd": {
+            "value": 2.261,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.9351,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "652426687-11254539",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "USA",
+        "tournament_Tounesbet": "US Open Cup",
+        "Tounesbet_match_id": 11254539,
+        "Tounesbet_tournament_id": 20976,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "1xbet_country_name": "USA",
+        "tournament_1xbet": "US Open Cup",
+        "1xbet_match_id": 652426687,
+        "1xbet_tournament_id": 1032463,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/1032463/652426687",
+        "group_id": "2579512125223473168-652426687-11254539-13608475-28013418",
+        "home_team": "Nashville SC",
+        "away_team": "Philadelphia Union",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.2223,
+            "source": "Clubx2"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.947,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9636,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13608475-11254539",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "USA",
+        "tournament_Clubx2": "US Open Cup",
+        "Clubx2_match_id": 13608475,
+        "Clubx2_tournament_id": 8007,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13608475#/overview",
+        "Tounesbet_country_name": "USA",
+        "tournament_Tounesbet": "US Open Cup",
+        "Tounesbet_match_id": 11254539,
+        "Tounesbet_tournament_id": 20976,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579512125223473168-652426687-11254539-13608475-28013418",
+        "home_team": "Nashville SC",
+        "away_team": "Philadelphia Union",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_-0.5_home_vs_away",
+        "best_odds": {
+          "home_handicap_-0.5_odd": {
+            "value": 2.2,
+            "source": "Asbet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.947,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9682,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "28013418-11254539",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "USA",
+        "tournament_Asbet": "US Open Cup",
+        "Asbet_match_id": 28013418,
+        "Asbet_tournament_id": 4867,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/USA/4867/us-open-cup/28013418/nashville-sc-philadelphia-union",
+        "Tounesbet_country_name": "USA",
+        "tournament_Tounesbet": "US Open Cup",
+        "Tounesbet_match_id": 11254539,
+        "Tounesbet_tournament_id": 20976,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579512125223473168-652426687-11254539-13608475-28013418",
+        "home_team": "Nashville SC",
+        "away_team": "Philadelphia Union",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.14,
+            "source": "Jibibet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.947,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9809,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2579512125223473168-11254539",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "USA",
+        "tournament_Jibibet": "US Open Cup",
+        "Jibibet_match_id": 2579512125223473168,
+        "Jibibet_tournament_id": 1737393946507747328,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "USA",
+        "tournament_Tounesbet": "US Open Cup",
+        "Tounesbet_match_id": 11254539,
+        "Tounesbet_tournament_id": 20976,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579512125223473168-652426687-11254539-13608475-28013418",
+        "home_team": "Nashville SC",
+        "away_team": "Philadelphia Union",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "652682155-11261477-13247220-28020594",
+    "home_team": "Minnesota United FC",
+    "away_team": "Austin FC",
+    "date": "18/09/2025",
+    "time": "01:30",
+    "country": "USA",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "home_under_1.5_vs_home_over_1.5",
+        "best_odds": {
+          "home_under_1.5_odd": {
+            "value": 1.98,
+            "source": "1xbet"
+          },
+          "home_over_1.5_odd": {
+            "value": 2.242,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9511,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "652682155-11261477",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "USA",
+        "tournament_1xbet": "US Open Cup",
+        "1xbet_match_id": 652682155,
+        "1xbet_tournament_id": 1032463,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/1032463/652682155",
+        "Tounesbet_country_name": "USA",
+        "tournament_Tounesbet": "US Open Cup",
+        "Tounesbet_match_id": 11261477,
+        "Tounesbet_tournament_id": 20976,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "652682155-11261477-13247220-28020594",
+        "home_team": "Minnesota United FC",
+        "away_team": "Austin FC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "both_score",
+        "best_odds": {
+          "both_score_odd": {
+            "value": 2.029,
+            "source": "Tounesbet"
+          },
+          "both_noscore_odd": {
+            "value": 2.17,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9537,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "28020594-11261477",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "USA",
+        "tournament_Tounesbet": "US Open Cup",
+        "Tounesbet_match_id": 11261477,
+        "Tounesbet_tournament_id": 20976,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "USA",
+        "tournament_Asbet": "US Open Cup",
+        "Asbet_match_id": 28020594,
+        "Asbet_tournament_id": 4867,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/USA/4867/us-open-cup/28020594/minnesota-united-fc-austin-fc",
+        "group_id": "652682155-11261477-13247220-28020594",
+        "home_team": "Minnesota United FC",
+        "away_team": "Austin FC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "both_score",
+        "best_odds": {
+          "both_score_odd": {
+            "value": 2.029,
+            "source": "Tounesbet"
+          },
+          "both_noscore_odd": {
+            "value": 2.1,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.969,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13247220-11261477",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "USA",
+        "tournament_Tounesbet": "US Open Cup",
+        "Tounesbet_match_id": 11261477,
+        "Tounesbet_tournament_id": 20976,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "USA",
+        "tournament_Clubx2": "US Open Cup",
+        "Clubx2_match_id": 13247220,
+        "Clubx2_tournament_id": 8007,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13247220#/overview",
+        "group_id": "652682155-11261477-13247220-28020594",
+        "home_team": "Minnesota United FC",
+        "away_team": "Austin FC",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "653732786-13672033-27949887-9877992",
+    "home_team": "Houston Dynamo II",
+    "away_team": "Tacoma Defiance",
+    "date": "18/09/2025",
+    "time": "01:00",
+    "country": "USA",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.54,
+            "source": "Asbet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.7,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9819,
+        "arbitrage_sources": "Asbet, Clubx2",
+        "unique_id": "27949887-13672033",
+        "misvalue_source": "Asbet",
+        "Asbet_country_name": "USA",
+        "tournament_Asbet": "MLS Next Pro",
+        "Asbet_match_id": 27949887,
+        "Asbet_tournament_id": 18281638,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/USA/18281638/mls-next-pro/27949887/houston-dynamo-ii-tacoma-defiance",
+        "Clubx2_country_name": "USA",
+        "tournament_Clubx2": "MLS Next Pro",
+        "Clubx2_match_id": 13672033,
+        "Clubx2_tournament_id": 35670,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13672033#/overview",
+        "group_id": "653732786-13672033-27949887-9877992",
+        "home_team": "Houston Dynamo II",
+        "away_team": "Tacoma Defiance",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_0.0_home_vs_away",
+        "best_odds": {
+          "home_handicap_0.0_odd": {
+            "value": 1.95,
+            "source": "Asbet"
+          },
+          "away_handicap_0.0_odd": {
+            "value": 2.11,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.9868,
+        "arbitrage_sources": "1xbet, Asbet",
+        "unique_id": "653732786-27949887",
+        "misvalue_source": "1xbet",
+        "Asbet_country_name": "USA",
+        "tournament_Asbet": "MLS Next Pro",
+        "Asbet_match_id": 27949887,
+        "Asbet_tournament_id": 18281638,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/USA/18281638/mls-next-pro/27949887/houston-dynamo-ii-tacoma-defiance",
+        "1xbet_country_name": "USA",
+        "tournament_1xbet": "MLS Next Pro",
+        "1xbet_match_id": 653732786,
+        "1xbet_tournament_id": 2373449,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/2373449/653732786",
+        "group_id": "653732786-13672033-27949887-9877992",
+        "home_team": "Houston Dynamo II",
+        "away_team": "Tacoma Defiance",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "653732789-13672028-9670467",
+    "home_team": "New York City FC II",
+    "away_team": "New England Revolution II",
+    "date": "19/09/2025",
+    "time": "00:30",
+    "country": "USA",
+    "all_sources": [
+      "1xbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "first_half_under_1.5_vs_first_half_over_1.5",
+        "best_odds": {
+          "first_half_under_1.5_odd": {
+            "value": 1.6667,
+            "source": "Clubx2"
+          },
+          "first_half_over_1.5_odd": {
+            "value": 2.525,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.996,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13672028-9670467",
+        "Clubx2_country_name": "USA",
+        "tournament_Clubx2": "MLS Next Pro",
+        "Clubx2_match_id": 13672028,
+        "Clubx2_tournament_id": 35670,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13672028#/overview",
+        "Tounesbet_country_name": "USA",
+        "tournament_Tounesbet": "USA MLS Next Pro",
+        "Tounesbet_match_id": 9670467,
+        "Tounesbet_tournament_id": 153724,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653732789-13672028-9670467",
+        "home_team": "New York City FC II",
+        "away_team": "New England Revolution II",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "653945958-13680866-9670475",
+    "home_team": "Sporting Kansas City II",
+    "away_team": "Vancouver Whitecaps FC II",
+    "date": "20/09/2025",
+    "time": "00:00",
+    "country": "USA",
+    "all_sources": [
+      "1xbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "first_half_under_1.5_vs_first_half_over_1.5",
+        "best_odds": {
+          "first_half_under_1.5_odd": {
+            "value": 1.994,
+            "source": "Tounesbet"
+          },
+          "first_half_over_1.5_odd": {
+            "value": 2.05,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9893,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13680866-9670475",
+        "Tounesbet_country_name": "USA",
+        "tournament_Tounesbet": "USA MLS Next Pro",
+        "Tounesbet_match_id": 9670475,
+        "Tounesbet_tournament_id": 153724,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "USA",
+        "tournament_Clubx2": "MLS Next Pro",
+        "Clubx2_match_id": 13680866,
+        "Clubx2_tournament_id": 35670,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13680866#/overview",
+        "group_id": "653945958-13680866-9670475",
+        "home_team": "Sporting Kansas City II",
+        "away_team": "Vancouver Whitecaps FC II",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "653911962-13680868-9670186",
+    "home_team": "Toronto FC II",
+    "away_team": "Columbus Crew II",
+    "date": "20/09/2025",
+    "time": "00:00",
+    "country": "USA",
+    "all_sources": [
+      "1xbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "first_half_under_1.5_vs_first_half_over_1.5",
+        "best_odds": {
+          "first_half_under_1.5_odd": {
+            "value": 1.7,
+            "source": "Clubx2"
+          },
+          "first_half_over_1.5_odd": {
+            "value": 2.454,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9957,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13680868-9670186",
+        "Clubx2_country_name": "USA",
+        "tournament_Clubx2": "MLS Next Pro",
+        "Clubx2_match_id": 13680868,
+        "Clubx2_tournament_id": 35670,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13680868#/overview",
+        "Tounesbet_country_name": "USA",
+        "tournament_Tounesbet": "USA MLS Next Pro",
+        "Tounesbet_match_id": 9670186,
+        "Tounesbet_tournament_id": 153724,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653911962-13680868-9670186",
+        "home_team": "Toronto FC II",
+        "away_team": "Columbus Crew II",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "653911959-13691135-9742571",
+    "home_team": "Austin FC II",
+    "away_team": "Saint Louis City SC 2",
+    "date": "20/09/2025",
+    "time": "01:30",
+    "country": "USA",
+    "all_sources": [
+      "1xbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "first_half_under_1.5_vs_first_half_over_1.5",
+        "best_odds": {
+          "first_half_under_1.5_odd": {
+            "value": 1.6667,
+            "source": "Clubx2"
+          },
+          "first_half_over_1.5_odd": {
+            "value": 2.572,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9888,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13691135-9742571",
+        "Clubx2_country_name": "USA",
+        "tournament_Clubx2": "MLS Next Pro",
+        "Clubx2_match_id": 13691135,
+        "Clubx2_tournament_id": 35670,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13691135#/overview",
+        "Tounesbet_country_name": "USA",
+        "tournament_Tounesbet": "USA MLS Next Pro",
+        "Tounesbet_match_id": 9742571,
+        "Tounesbet_tournament_id": 153724,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653911959-13691135-9742571",
+        "home_team": "Austin FC II",
+        "away_team": "Saint Louis City SC 2",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "653946333-13691129-9670472",
+    "home_team": "Los Angeles FC 2",
+    "away_team": "Real Monarchs SLC",
+    "date": "20/09/2025",
+    "time": "03:00",
+    "country": "USA",
+    "all_sources": [
+      "1xbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "first_half_under_1.5_vs_first_half_over_1.5",
+        "best_odds": {
+          "first_half_under_1.5_odd": {
+            "value": 1.6,
+            "source": "Clubx2"
+          },
+          "first_half_over_1.5_odd": {
+            "value": 2.714,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9935,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13691129-9670472",
+        "Clubx2_country_name": "USA",
+        "tournament_Clubx2": "MLS Next Pro",
+        "Clubx2_match_id": 13691129,
+        "Clubx2_tournament_id": 35670,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13691129#/overview",
+        "Tounesbet_country_name": "USA",
+        "tournament_Tounesbet": "USA MLS Next Pro",
+        "Tounesbet_match_id": 9670472,
+        "Tounesbet_tournament_id": 153724,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653946333-13691129-9670472",
+        "home_team": "Los Angeles FC 2",
+        "away_team": "Real Monarchs SLC",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "653946330-13691147-9670471",
+    "home_team": "Crown Legacy FC",
+    "away_team": "Atlanta United II",
+    "date": "21/09/2025",
+    "time": "00:00",
+    "country": "USA",
+    "all_sources": [
+      "1xbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "first_half_under_1.5_vs_first_half_over_1.5",
+        "best_odds": {
+          "first_half_under_1.5_odd": {
+            "value": 1.876,
+            "source": "Tounesbet"
+          },
+          "first_half_over_1.5_odd": {
+            "value": 2.2,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9876,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13691147-9670471",
+        "Tounesbet_country_name": "USA",
+        "tournament_Tounesbet": "USA MLS Next Pro",
+        "Tounesbet_match_id": 9670471,
+        "Tounesbet_tournament_id": 153724,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "USA",
+        "tournament_Clubx2": "MLS Next Pro",
+        "Clubx2_match_id": 13691147,
+        "Clubx2_tournament_id": 35670,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13691147#/overview",
+        "group_id": "653946330-13691147-9670471",
+        "home_team": "Crown Legacy FC",
+        "away_team": "Atlanta United II",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2578796951223021589-653413465-12737640-27931377-9658704",
+    "home_team": "Birmingham Legion FC",
+    "away_team": "Tampa Bay Rowdies",
+    "date": "17/09/2025",
+    "time": "17:30",
+    "country": "USA",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.15,
+            "source": "1xbet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 2.029,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.958,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653413465-9658704",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "USA",
+        "tournament_1xbet": "USL",
+        "1xbet_match_id": 653413465,
+        "1xbet_tournament_id": 57723,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/57723/653413465",
+        "Tounesbet_country_name": "USA",
+        "tournament_Tounesbet": "USL Championship",
+        "Tounesbet_match_id": 9658704,
+        "Tounesbet_tournament_id": 25297,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578796951223021589-653413465-12737640-27931377-9658704",
+        "home_team": "Birmingham Legion FC",
+        "away_team": "Tampa Bay Rowdies",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_-0.75_home_vs_away",
+        "best_odds": {
+          "home_handicap_-0.75_odd": {
+            "value": 2.39,
+            "source": "Asbet"
+          },
+          "away_handicap_0.75_odd": {
+            "value": 1.829,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9652,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27931377-9658704",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "USA",
+        "tournament_Asbet": "USL Championship",
+        "Asbet_match_id": 27931377,
+        "Asbet_tournament_id": 6074,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/USA/6074/usl-championship/27931377/birmingham-legion-fc-tampa-bay-rowdies",
+        "Tounesbet_country_name": "USA",
+        "tournament_Tounesbet": "USL Championship",
+        "Tounesbet_match_id": 9658704,
+        "Tounesbet_tournament_id": 25297,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578796951223021589-653413465-12737640-27931377-9658704",
+        "home_team": "Birmingham Legion FC",
+        "away_team": "Tampa Bay Rowdies",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.0834,
+            "source": "Clubx2"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 2.029,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9728,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "12737640-9658704",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "USA",
+        "tournament_Clubx2": "USL Championship",
+        "Clubx2_match_id": 12737640,
+        "Clubx2_tournament_id": 5005,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=12737640#/overview",
+        "Tounesbet_country_name": "USA",
+        "tournament_Tounesbet": "USL Championship",
+        "Tounesbet_match_id": 9658704,
+        "Tounesbet_tournament_id": 25297,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578796951223021589-653413465-12737640-27931377-9658704",
+        "home_team": "Birmingham Legion FC",
+        "away_team": "Tampa Bay Rowdies",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.08,
+            "source": "Jibibet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 2.029,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9736,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2578796951223021589-9658704",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "USA",
+        "tournament_Jibibet": "USL Championship",
+        "Jibibet_match_id": 2578796951223021589,
+        "Jibibet_tournament_id": 1715996446672687104,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "USA",
+        "tournament_Tounesbet": "USL Championship",
+        "Tounesbet_match_id": 9658704,
+        "Tounesbet_tournament_id": 25297,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578796951223021589-653413465-12737640-27931377-9658704",
+        "home_team": "Birmingham Legion FC",
+        "away_team": "Tampa Bay Rowdies",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2578827112442114068-653486439-12766531-9658731",
+    "home_team": "Miami FC",
+    "away_team": "Rhode Island FC",
+    "date": "20/09/2025",
+    "time": "00:00",
+    "country": "USA",
+    "all_sources": [
+      "1xbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "two_vs_1x_handicap",
+        "best_odds": {
+          "2_odd": {
+            "value": 2.1,
+            "source": "1xbet"
+          },
+          "home_handicap_0.5_odd": {
+            "value": 2.065,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9605,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653486439-9658731",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "USA",
+        "tournament_1xbet": "USL",
+        "1xbet_match_id": 653486439,
+        "1xbet_tournament_id": 57723,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/57723/653486439",
+        "Tounesbet_country_name": "USA",
+        "tournament_Tounesbet": "USL Championship",
+        "Tounesbet_match_id": 9658731,
+        "Tounesbet_tournament_id": 25297,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578827112442114068-653486439-12766531-9658731",
+        "home_team": "Miami FC",
+        "away_team": "Rhode Island FC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "two_vs_1x_handicap",
+        "best_odds": {
+          "2_odd": {
+            "value": 2.05,
+            "source": "Clubx2"
+          },
+          "home_handicap_0.5_odd": {
+            "value": 2.065,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9721,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "12766531-9658731",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "USA",
+        "tournament_Clubx2": "USL Championship",
+        "Clubx2_match_id": 12766531,
+        "Clubx2_tournament_id": 5005,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=12766531#/overview",
+        "Tounesbet_country_name": "USA",
+        "tournament_Tounesbet": "USL Championship",
+        "Tounesbet_match_id": 9658731,
+        "Tounesbet_tournament_id": 25297,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578827112442114068-653486439-12766531-9658731",
+        "home_team": "Miami FC",
+        "away_team": "Rhode Island FC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "two_vs_1x_handicap",
+        "best_odds": {
+          "2_odd": {
+            "value": 2.02,
+            "source": "Jibibet"
+          },
+          "home_handicap_0.5_odd": {
+            "value": 2.065,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9793,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2578827112442114068-9658731",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "USA",
+        "tournament_Jibibet": "USL Championship",
+        "Jibibet_match_id": 2578827112442114068,
+        "Jibibet_tournament_id": 1715996446672687104,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "USA",
+        "tournament_Tounesbet": "USL Championship",
+        "Tounesbet_match_id": 9658731,
+        "Tounesbet_tournament_id": 25297,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578827112442114068-653486439-12766531-9658731",
+        "home_team": "Miami FC",
+        "away_team": "Rhode Island FC",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2578796951223021586-653485530-12766537-9658787",
+    "home_team": "Detroit City FC",
+    "away_team": "Lexington SC",
+    "date": "21/09/2025",
+    "time": "00:00",
+    "country": "USA",
+    "all_sources": [
+      "1xbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_-0.5_home_vs_away",
+        "best_odds": {
+          "home_handicap_-0.5_odd": {
+            "value": 2.05,
+            "source": "Clubx2"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 2.088,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9667,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "12766537-9658787",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "USA",
+        "tournament_Clubx2": "USL Championship",
+        "Clubx2_match_id": 12766537,
+        "Clubx2_tournament_id": 5005,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=12766537#/overview",
+        "Tounesbet_country_name": "USA",
+        "tournament_Tounesbet": "USL Championship",
+        "Tounesbet_match_id": 9658787,
+        "Tounesbet_tournament_id": 25297,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578796951223021586-653485530-12766537-9658787",
+        "home_team": "Detroit City FC",
+        "away_team": "Lexington SC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.02,
+            "source": "1xbet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 2.088,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.974,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653485530-9658787",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "USA",
+        "tournament_1xbet": "USL",
+        "1xbet_match_id": 653485530,
+        "1xbet_tournament_id": 57723,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/57723/653485530",
+        "Tounesbet_country_name": "USA",
+        "tournament_Tounesbet": "USL Championship",
+        "Tounesbet_match_id": 9658787,
+        "Tounesbet_tournament_id": 25297,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578796951223021586-653485530-12766537-9658787",
+        "home_team": "Detroit City FC",
+        "away_team": "Lexington SC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.02,
+            "source": "Jibibet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 2.088,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.974,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2578796951223021586-9658787",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "USA",
+        "tournament_Jibibet": "USL Championship",
+        "Jibibet_match_id": 2578796951223021586,
+        "Jibibet_tournament_id": 1715996446672687104,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "USA",
+        "tournament_Tounesbet": "USL Championship",
+        "Tounesbet_match_id": 9658787,
+        "Tounesbet_tournament_id": 25297,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578796951223021586-653485530-12766537-9658787",
+        "home_team": "Detroit City FC",
+        "away_team": "Lexington SC",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2578821744227913754-653485536-10230485-12766535",
+    "home_team": "Hartford Athletic",
+    "away_team": "Pittsburgh Riverhounds",
+    "date": "21/09/2025",
+    "time": "00:00",
+    "country": "USA",
+    "all_sources": [
+      "1xbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.36,
+            "source": "1xbet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.888,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9534,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653485536-10230485",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "USA",
+        "tournament_1xbet": "USL",
+        "1xbet_match_id": 653485536,
+        "1xbet_tournament_id": 57723,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/57723/653485536",
+        "Tounesbet_country_name": "USA",
+        "tournament_Tounesbet": "USL Championship",
+        "Tounesbet_match_id": 10230485,
+        "Tounesbet_tournament_id": 25297,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578821744227913754-653485536-10230485-12766535",
+        "home_team": "Hartford Athletic",
+        "away_team": "Pittsburgh Riverhounds",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.3,
+            "source": "Jibibet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.888,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9644,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2578821744227913754-10230485",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "USA",
+        "tournament_Jibibet": "USL Championship",
+        "Jibibet_match_id": 2578821744227913754,
+        "Jibibet_tournament_id": 1715996446672687104,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "USA",
+        "tournament_Tounesbet": "USL Championship",
+        "Tounesbet_match_id": 10230485,
+        "Tounesbet_tournament_id": 25297,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578821744227913754-653485536-10230485-12766535",
+        "home_team": "Hartford Athletic",
+        "away_team": "Pittsburgh Riverhounds",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.2858,
+            "source": "Clubx2"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.888,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9671,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "12766535-10230485",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "USA",
+        "tournament_Clubx2": "USL Championship",
+        "Clubx2_match_id": 12766535,
+        "Clubx2_tournament_id": 5005,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=12766535#/overview",
+        "Tounesbet_country_name": "USA",
+        "tournament_Tounesbet": "USL Championship",
+        "Tounesbet_match_id": 10230485,
+        "Tounesbet_tournament_id": 25297,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578821744227913754-653485536-10230485-12766535",
+        "home_team": "Hartford Athletic",
+        "away_team": "Pittsburgh Riverhounds",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2578827112442114067-653485533-12766530-9658729",
+    "home_team": "Louisville City FC",
+    "away_team": "Las Vegas Lights",
+    "date": "21/09/2025",
+    "time": "00:30",
+    "country": "USA",
+    "all_sources": [
+      "1xbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "under_3.5_vs_over_3.5",
+        "best_odds": {
+          "under_3.5_odd": {
+            "value": 1.852,
+            "source": "Tounesbet"
+          },
+          "over_3.5_odd": {
+            "value": 2.2858,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9774,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "12766530-9658729",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "USA",
+        "tournament_Tounesbet": "USL Championship",
+        "Tounesbet_match_id": 9658729,
+        "Tounesbet_tournament_id": 25297,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "USA",
+        "tournament_Clubx2": "USL Championship",
+        "Clubx2_match_id": 12766530,
+        "Clubx2_tournament_id": 5005,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=12766530#/overview",
+        "group_id": "2578827112442114067-653485533-12766530-9658729",
+        "home_team": "Louisville City FC",
+        "away_team": "Las Vegas Lights",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_-1.25_home_vs_away",
+        "best_odds": {
+          "home_handicap_-1.25_odd": {
+            "value": 1.888,
+            "source": "Tounesbet"
+          },
+          "away_handicap_1.25_odd": {
+            "value": 2.23,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.9781,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653485533-9658729",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "USA",
+        "tournament_Tounesbet": "USL Championship",
+        "Tounesbet_match_id": 9658729,
+        "Tounesbet_tournament_id": 25297,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "1xbet_country_name": "USA",
+        "tournament_1xbet": "USL",
+        "1xbet_match_id": 653485533,
+        "1xbet_tournament_id": 57723,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/57723/653485533",
+        "group_id": "2578827112442114067-653485533-12766530-9658729",
+        "home_team": "Louisville City FC",
+        "away_team": "Las Vegas Lights",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "under_3.5_vs_over_3.5",
+        "best_odds": {
+          "under_3.5_odd": {
+            "value": 1.852,
+            "source": "Tounesbet"
+          },
+          "over_3.5_odd": {
+            "value": 2.24,
+            "source": "Jibibet"
+          }
+        },
+        "arbitrage_percentage": 0.9864,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2578827112442114067-9658729",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "USA",
+        "tournament_Tounesbet": "USL Championship",
+        "Tounesbet_match_id": 9658729,
+        "Tounesbet_tournament_id": 25297,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Jibibet_country_name": "USA",
+        "tournament_Jibibet": "USL Championship",
+        "Jibibet_match_id": 2578827112442114067,
+        "Jibibet_tournament_id": 1715996446672687104,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "group_id": "2578827112442114067-653485533-12766530-9658729",
+        "home_team": "Louisville City FC",
+        "away_team": "Las Vegas Lights",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2579366508069261349-653832273-12766533-9658790",
+    "home_team": "Tampa Bay Rowdies",
+    "away_team": "North Carolina FC",
+    "date": "21/09/2025",
+    "time": "00:30",
+    "country": "USA",
+    "all_sources": [
+      "1xbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "both_score",
+        "best_odds": {
+          "both_score_odd": {
+            "value": 2.029,
+            "source": "Tounesbet"
+          },
+          "both_noscore_odd": {
+            "value": 2.156,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.9567,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653832273-9658790",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "USA",
+        "tournament_Tounesbet": "USL Championship",
+        "Tounesbet_match_id": 9658790,
+        "Tounesbet_tournament_id": 25297,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "1xbet_country_name": "USA",
+        "tournament_1xbet": "USL",
+        "1xbet_match_id": 653832273,
+        "1xbet_tournament_id": 57723,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/57723/653832273",
+        "group_id": "2579366508069261349-653832273-12766533-9658790",
+        "home_team": "Tampa Bay Rowdies",
+        "away_team": "North Carolina FC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "both_score",
+        "best_odds": {
+          "both_score_odd": {
+            "value": 2.029,
+            "source": "Tounesbet"
+          },
+          "both_noscore_odd": {
+            "value": 2.125,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9634,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "12766533-9658790",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "USA",
+        "tournament_Tounesbet": "USL Championship",
+        "Tounesbet_match_id": 9658790,
+        "Tounesbet_tournament_id": 25297,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "USA",
+        "tournament_Clubx2": "USL Championship",
+        "Clubx2_match_id": 12766533,
+        "Clubx2_tournament_id": 5005,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=12766533#/overview",
+        "group_id": "2579366508069261349-653832273-12766533-9658790",
+        "home_team": "Tampa Bay Rowdies",
+        "away_team": "North Carolina FC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.18,
+            "source": "Jibibet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.947,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9723,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2579366508069261349-9658790",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "USA",
+        "tournament_Jibibet": "USL Championship",
+        "Jibibet_match_id": 2579366508069261349,
+        "Jibibet_tournament_id": 1715996446672687104,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "USA",
+        "tournament_Tounesbet": "USL Championship",
+        "Tounesbet_match_id": 9658790,
+        "Tounesbet_tournament_id": 25297,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579366508069261349-653832273-12766533-9658790",
+        "home_team": "Tampa Bay Rowdies",
+        "away_team": "North Carolina FC",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2578821744227913752-653486883-12766528-9658500",
+    "home_team": "Colorado Springs Switchbacks FC",
+    "away_team": "Sacramento Republic FC",
+    "date": "21/09/2025",
+    "time": "01:00",
+    "country": "USA",
+    "all_sources": [
+      "1xbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.26,
+            "source": "1xbet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.911,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9658,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653486883-9658500",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "USA",
+        "tournament_1xbet": "USL",
+        "1xbet_match_id": 653486883,
+        "1xbet_tournament_id": 57723,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/57723/653486883",
+        "Tounesbet_country_name": "USA",
+        "tournament_Tounesbet": "USL Championship",
+        "Tounesbet_match_id": 9658500,
+        "Tounesbet_tournament_id": 25297,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578821744227913752-653486883-12766528-9658500",
+        "home_team": "Colorado Springs Switchbacks FC",
+        "away_team": "Sacramento Republic FC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.26,
+            "source": "Jibibet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.911,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9658,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2578821744227913752-9658500",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "USA",
+        "tournament_Jibibet": "USL Championship",
+        "Jibibet_match_id": 2578821744227913752,
+        "Jibibet_tournament_id": 1715996446672687104,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "USA",
+        "tournament_Tounesbet": "USL Championship",
+        "Tounesbet_match_id": 9658500,
+        "Tounesbet_tournament_id": 25297,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578821744227913752-653486883-12766528-9658500",
+        "home_team": "Colorado Springs Switchbacks FC",
+        "away_team": "Sacramento Republic FC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.2,
+            "source": "Clubx2"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.911,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9778,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "12766528-9658500",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "USA",
+        "tournament_Clubx2": "USL Championship",
+        "Clubx2_match_id": 12766528,
+        "Clubx2_tournament_id": 5005,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=12766528#/overview",
+        "Tounesbet_country_name": "USA",
+        "tournament_Tounesbet": "USL Championship",
+        "Tounesbet_match_id": 9658500,
+        "Tounesbet_tournament_id": 25297,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578821744227913752-653486883-12766528-9658500",
+        "home_team": "Colorado Springs Switchbacks FC",
+        "away_team": "Sacramento Republic FC",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2578796951223021614-653490984-12766534-9658505",
+    "home_team": "San Antonio Texas",
+    "away_team": "Orange County Blues",
+    "date": "21/09/2025",
+    "time": "01:30",
+    "country": "USA",
+    "all_sources": [
+      "1xbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "both_score",
+        "best_odds": {
+          "both_score_odd": {
+            "value": 2.159,
+            "source": "Tounesbet"
+          },
+          "both_noscore_odd": {
+            "value": 2.001,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.9629,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653490984-9658505",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "USA",
+        "tournament_Tounesbet": "USL Championship",
+        "Tounesbet_match_id": 9658505,
+        "Tounesbet_tournament_id": 25297,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "1xbet_country_name": "USA",
+        "tournament_1xbet": "USL",
+        "1xbet_match_id": 653490984,
+        "1xbet_tournament_id": 57723,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/57723/653490984",
+        "group_id": "2578796951223021614-653490984-12766534-9658505",
+        "home_team": "San Antonio Texas",
+        "away_team": "Orange County Blues",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 1.86,
+            "source": "Jibibet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 2.265,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9791,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2578796951223021614-9658505",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "USA",
+        "tournament_Jibibet": "USL Championship",
+        "Jibibet_match_id": 2578796951223021614,
+        "Jibibet_tournament_id": 1715996446672687104,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "USA",
+        "tournament_Tounesbet": "USL Championship",
+        "Tounesbet_match_id": 9658505,
+        "Tounesbet_tournament_id": 25297,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578796951223021614-653490984-12766534-9658505",
+        "home_team": "San Antonio Texas",
+        "away_team": "Orange County Blues",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_-0.5_home_vs_away",
+        "best_odds": {
+          "home_handicap_-0.5_odd": {
+            "value": 2.206,
+            "source": "Tounesbet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.9,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9796,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "12766534-9658505",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "USA",
+        "tournament_Tounesbet": "USL Championship",
+        "Tounesbet_match_id": 9658505,
+        "Tounesbet_tournament_id": 25297,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "USA",
+        "tournament_Clubx2": "USL Championship",
+        "Clubx2_match_id": 12766534,
+        "Clubx2_tournament_id": 5005,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=12766534#/overview",
+        "group_id": "2578796951223021614-653490984-12766534-9658505",
+        "home_team": "San Antonio Texas",
+        "away_team": "Orange County Blues",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2578808372426055691-653486448-12766529-9658728",
+    "home_team": "El Paso Locomotive FC",
+    "away_team": "Charleston Battery",
+    "date": "21/09/2025",
+    "time": "02:00",
+    "country": "USA",
+    "all_sources": [
+      "1xbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_0.0_home_vs_away",
+        "best_odds": {
+          "home_handicap_0.0_odd": {
+            "value": 2.31,
+            "source": "1xbet"
+          },
+          "away_handicap_0.0_odd": {
+            "value": 1.888,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9626,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653486448-9658728",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "USA",
+        "tournament_1xbet": "USL",
+        "1xbet_match_id": 653486448,
+        "1xbet_tournament_id": 57723,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/57723/653486448",
+        "Tounesbet_country_name": "USA",
+        "tournament_Tounesbet": "USL Championship",
+        "Tounesbet_match_id": 9658728,
+        "Tounesbet_tournament_id": 25297,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578808372426055691-653486448-12766529-9658728",
+        "home_team": "El Paso Locomotive FC",
+        "away_team": "Charleston Battery",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "two_vs_1x_handicap",
+        "best_odds": {
+          "2_odd": {
+            "value": 2.06,
+            "source": "Jibibet"
+          },
+          "home_handicap_0.5_odd": {
+            "value": 2.029,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9783,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2578808372426055691-9658728",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "USA",
+        "tournament_Jibibet": "USL Championship",
+        "Jibibet_match_id": 2578808372426055691,
+        "Jibibet_tournament_id": 1715996446672687104,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "USA",
+        "tournament_Tounesbet": "USL Championship",
+        "Tounesbet_match_id": 9658728,
+        "Tounesbet_tournament_id": 25297,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578808372426055691-653486448-12766529-9658728",
+        "home_team": "El Paso Locomotive FC",
+        "away_team": "Charleston Battery",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "two_vs_1x_handicap",
+        "best_odds": {
+          "2_odd": {
+            "value": 2.05,
+            "source": "Clubx2"
+          },
+          "home_handicap_0.5_odd": {
+            "value": 2.029,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9807,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "12766529-9658728",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "USA",
+        "tournament_Clubx2": "USL Championship",
+        "Clubx2_match_id": 12766529,
+        "Clubx2_tournament_id": 5005,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=12766529#/overview",
+        "Tounesbet_country_name": "USA",
+        "tournament_Tounesbet": "USL Championship",
+        "Tounesbet_match_id": 9658728,
+        "Tounesbet_tournament_id": 25297,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578808372426055691-653486448-12766529-9658728",
+        "home_team": "El Paso Locomotive FC",
+        "away_team": "Charleston Battery",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2578821744227913758-653486442-12766527-9658416",
+    "home_team": "Monterey Bay FC",
+    "away_team": "New Mexico United",
+    "date": "21/09/2025",
+    "time": "03:00",
+    "country": "USA",
+    "all_sources": [
+      "1xbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "both_score",
+        "best_odds": {
+          "both_score_odd": {
+            "value": 2.029,
+            "source": "Tounesbet"
+          },
+          "both_noscore_odd": {
+            "value": 2.104,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.9681,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653486442-9658416",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "USA",
+        "tournament_Tounesbet": "USL Championship",
+        "Tounesbet_match_id": 9658416,
+        "Tounesbet_tournament_id": 25297,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "1xbet_country_name": "USA",
+        "tournament_1xbet": "USL",
+        "1xbet_match_id": 653486442,
+        "1xbet_tournament_id": 57723,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/57723/653486442",
+        "group_id": "2578821744227913758-653486442-12766527-9658416",
+        "home_team": "Monterey Bay FC",
+        "away_team": "New Mexico United",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "both_score",
+        "best_odds": {
+          "both_score_odd": {
+            "value": 2.029,
+            "source": "Tounesbet"
+          },
+          "both_noscore_odd": {
+            "value": 2.0,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9929,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "12766527-9658416",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "USA",
+        "tournament_Tounesbet": "USL Championship",
+        "Tounesbet_match_id": 9658416,
+        "Tounesbet_tournament_id": 25297,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "USA",
+        "tournament_Clubx2": "USL Championship",
+        "Clubx2_match_id": 12766527,
+        "Clubx2_tournament_id": 5005,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=12766527#/overview",
+        "group_id": "2578821744227913758-653486442-12766527-9658416",
+        "home_team": "Monterey Bay FC",
+        "away_team": "New Mexico United",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2578816873202327576-653486433-12766532-9658626",
+    "home_team": "Oakland Roots SC",
+    "away_team": "Tulsa Roughnecks",
+    "date": "21/09/2025",
+    "time": "03:00",
+    "country": "USA",
+    "all_sources": [
+      "1xbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "two_vs_1x_handicap",
+        "best_odds": {
+          "2_odd": {
+            "value": 2.46,
+            "source": "1xbet"
+          },
+          "home_handicap_0.5_odd": {
+            "value": 1.829,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9533,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653486433-9658626",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "USA",
+        "tournament_1xbet": "USL",
+        "1xbet_match_id": 653486433,
+        "1xbet_tournament_id": 57723,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/57723/653486433",
+        "Tounesbet_country_name": "USA",
+        "tournament_Tounesbet": "USL Championship",
+        "Tounesbet_match_id": 9658626,
+        "Tounesbet_tournament_id": 25297,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578816873202327576-653486433-12766532-9658626",
+        "home_team": "Oakland Roots SC",
+        "away_team": "Tulsa Roughnecks",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "two_vs_1x_handicap",
+        "best_odds": {
+          "2_odd": {
+            "value": 2.46,
+            "source": "Jibibet"
+          },
+          "home_handicap_0.5_odd": {
+            "value": 1.829,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9533,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2578816873202327576-9658626",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "USA",
+        "tournament_Jibibet": "USL Championship",
+        "Jibibet_match_id": 2578816873202327576,
+        "Jibibet_tournament_id": 1715996446672687104,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "USA",
+        "tournament_Tounesbet": "USL Championship",
+        "Tounesbet_match_id": 9658626,
+        "Tounesbet_tournament_id": 25297,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578816873202327576-653486433-12766532-9658626",
+        "home_team": "Oakland Roots SC",
+        "away_team": "Tulsa Roughnecks",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_0.5_home_vs_away",
+        "best_odds": {
+          "home_handicap_0.5_odd": {
+            "value": 1.829,
+            "source": "Tounesbet"
+          },
+          "away_handicap_-0.5_odd": {
+            "value": 2.4,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9634,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "12766532-9658626",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "USA",
+        "tournament_Tounesbet": "USL Championship",
+        "Tounesbet_match_id": 9658626,
+        "Tounesbet_tournament_id": 25297,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "USA",
+        "tournament_Clubx2": "USL Championship",
+        "Clubx2_match_id": 12766532,
+        "Clubx2_tournament_id": 5005,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=12766532#/overview",
+        "group_id": "2578816873202327576-653486433-12766532-9658626",
+        "home_team": "Oakland Roots SC",
+        "away_team": "Tulsa Roughnecks",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2578821744227913755-653486445-12769198-9658734",
+    "home_team": "Phoenix Rising FC",
+    "away_team": "Loudoun United FC",
+    "date": "21/09/2025",
+    "time": "03:00",
+    "country": "USA",
+    "all_sources": [
+      "1xbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.23,
+            "source": "1xbet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.947,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.962,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653486445-9658734",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "USA",
+        "tournament_1xbet": "USL",
+        "1xbet_match_id": 653486445,
+        "1xbet_tournament_id": 57723,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/57723/653486445",
+        "Tounesbet_country_name": "USA",
+        "tournament_Tounesbet": "USL Championship",
+        "Tounesbet_match_id": 9658734,
+        "Tounesbet_tournament_id": 25297,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578821744227913755-653486445-12769198-9658734",
+        "home_team": "Phoenix Rising FC",
+        "away_team": "Loudoun United FC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_-0.5_home_vs_away",
+        "best_odds": {
+          "home_handicap_-0.5_odd": {
+            "value": 2.2,
+            "source": "Clubx2"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.947,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9682,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "12769198-9658734",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "USA",
+        "tournament_Clubx2": "USL Championship",
+        "Clubx2_match_id": 12769198,
+        "Clubx2_tournament_id": 5005,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=12769198#/overview",
+        "Tounesbet_country_name": "USA",
+        "tournament_Tounesbet": "USL Championship",
+        "Tounesbet_match_id": 9658734,
+        "Tounesbet_tournament_id": 25297,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578821744227913755-653486445-12769198-9658734",
+        "home_team": "Phoenix Rising FC",
+        "away_team": "Loudoun United FC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.16,
+            "source": "Jibibet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.947,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9766,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2578821744227913755-9658734",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "USA",
+        "tournament_Jibibet": "USL Championship",
+        "Jibibet_match_id": 2578821744227913755,
+        "Jibibet_tournament_id": 1715996446672687104,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "USA",
+        "tournament_Tounesbet": "USL Championship",
+        "Tounesbet_match_id": 9658734,
+        "Tounesbet_tournament_id": 25297,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578821744227913755-653486445-12769198-9658734",
+        "home_team": "Phoenix Rising FC",
+        "away_team": "Loudoun United FC",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2577331818869174316-652153141-10086995-11998087-27919555",
+    "home_team": "Inter Miami CF",
+    "away_team": "Seattle Sounders",
+    "date": "17/09/2025",
+    "time": "00:30",
+    "country": "USA",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_-0.75_home_vs_away",
+        "best_odds": {
+          "home_handicap_-0.75_odd": {
+            "value": 2.773,
+            "source": "Tounesbet"
+          },
+          "away_handicap_0.75_odd": {
+            "value": 1.711,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.9451,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "652153141-10086995",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "USA",
+        "tournament_Tounesbet": "Major League Soccer",
+        "Tounesbet_match_id": 10086995,
+        "Tounesbet_tournament_id": 25031,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "1xbet_country_name": "USA",
+        "tournament_1xbet": "MLS",
+        "1xbet_match_id": 652153141,
+        "1xbet_tournament_id": 828065,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/828065/652153141",
+        "group_id": "2577331818869174316-652153141-10086995-11998087-27919555",
+        "home_team": "Inter Miami CF",
+        "away_team": "Seattle Sounders",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_0.0_home_vs_away",
+        "best_odds": {
+          "home_handicap_0.0_odd": {
+            "value": 1.829,
+            "source": "Tounesbet"
+          },
+          "away_handicap_0.0_odd": {
+            "value": 2.4,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9634,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "11998087-10086995",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "USA",
+        "tournament_Tounesbet": "Major League Soccer",
+        "Tounesbet_match_id": 10086995,
+        "Tounesbet_tournament_id": 25031,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "USA",
+        "tournament_Clubx2": "MLS",
+        "Clubx2_match_id": 11998087,
+        "Clubx2_tournament_id": 4610,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=11998087#/overview",
+        "group_id": "2577331818869174316-652153141-10086995-11998087-27919555",
+        "home_team": "Inter Miami CF",
+        "away_team": "Seattle Sounders",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_0.0_home_vs_away",
+        "best_odds": {
+          "home_handicap_0.0_odd": {
+            "value": 1.829,
+            "source": "Tounesbet"
+          },
+          "away_handicap_0.0_odd": {
+            "value": 2.38,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9669,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27919555-10086995",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "USA",
+        "tournament_Tounesbet": "Major League Soccer",
+        "Tounesbet_match_id": 10086995,
+        "Tounesbet_tournament_id": 25031,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "USA",
+        "tournament_Asbet": "MLS",
+        "Asbet_match_id": 27919555,
+        "Asbet_tournament_id": 3025,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/USA/3025/mls/27919555/inter-miami-cf-seattle-sounders",
+        "group_id": "2577331818869174316-652153141-10086995-11998087-27919555",
+        "home_team": "Inter Miami CF",
+        "away_team": "Seattle Sounders",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "under_3.5_vs_over_3.5",
+        "best_odds": {
+          "under_3.5_odd": {
+            "value": 1.899,
+            "source": "Tounesbet"
+          },
+          "over_3.5_odd": {
+            "value": 2.24,
+            "source": "Jibibet"
+          }
+        },
+        "arbitrage_percentage": 0.973,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2577331818869174316-10086995",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "USA",
+        "tournament_Tounesbet": "Major League Soccer",
+        "Tounesbet_match_id": 10086995,
+        "Tounesbet_tournament_id": 25031,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Jibibet_country_name": "USA",
+        "tournament_Jibibet": "MLS",
+        "Jibibet_match_id": 2577331818869174316,
+        "Jibibet_tournament_id": 1669819235519565824,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "group_id": "2577331818869174316-652153141-10086995-11998087-27919555",
+        "home_team": "Inter Miami CF",
+        "away_team": "Seattle Sounders",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2577699305917919273-651634303-11047132-27926878",
+    "home_team": "New York City FC",
+    "away_team": "Columbus Crew",
+    "date": "18/09/2025",
+    "time": "00:30",
+    "country": "USA",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_-0.75_home_vs_away",
+        "best_odds": {
+          "home_handicap_-0.75_odd": {
+            "value": 2.566,
+            "source": "1xbet"
+          },
+          "away_handicap_0.75_odd": {
+            "value": 1.829,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9365,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "651634303-11047132",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "USA",
+        "tournament_1xbet": "MLS",
+        "1xbet_match_id": 651634303,
+        "1xbet_tournament_id": 828065,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/828065/651634303",
+        "Tounesbet_country_name": "USA",
+        "tournament_Tounesbet": "Major League Soccer",
+        "Tounesbet_match_id": 11047132,
+        "Tounesbet_tournament_id": 25031,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2577699305917919273-651634303-11047132-27926878",
+        "home_team": "New York City FC",
+        "away_team": "Columbus Crew",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.12,
+            "source": "Jibibet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 2.029,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9646,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2577699305917919273-11047132",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "USA",
+        "tournament_Jibibet": "MLS",
+        "Jibibet_match_id": 2577699305917919273,
+        "Jibibet_tournament_id": 1669819235519565824,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "USA",
+        "tournament_Tounesbet": "Major League Soccer",
+        "Tounesbet_match_id": 11047132,
+        "Tounesbet_tournament_id": 25031,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2577699305917919273-651634303-11047132-27926878",
+        "home_team": "New York City FC",
+        "away_team": "Columbus Crew",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "first_half_ah_0.0_home_vs_away",
+        "best_odds": {
+          "home_first_half_handicap_0.0_odd": {
+            "value": 1.947,
+            "source": "Tounesbet"
+          },
+          "away_first_half_handicap_0.0_odd": {
+            "value": 2.21,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9661,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27926878-11047132",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "USA",
+        "tournament_Tounesbet": "Major League Soccer",
+        "Tounesbet_match_id": 11047132,
+        "Tounesbet_tournament_id": 25031,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "USA",
+        "tournament_Asbet": "MLS",
+        "Asbet_match_id": 27926878,
+        "Asbet_tournament_id": 3025,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/USA/3025/mls/27926878/new-york-city-fc-columbus-crew",
+        "group_id": "2577699305917919273-651634303-11047132-27926878",
+        "home_team": "New York City FC",
+        "away_team": "Columbus Crew",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2577726204538920988-652153138-10086732-13019211-27934440",
+    "home_team": "Real Salt Lake",
+    "away_team": "Los Angeles FC",
+    "date": "18/09/2025",
+    "time": "02:30",
+    "country": "USA",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_0.0_home_vs_away",
+        "best_odds": {
+          "home_handicap_0.0_odd": {
+            "value": 2.226,
+            "source": "1xbet"
+          },
+          "away_handicap_0.0_odd": {
+            "value": 1.97,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9569,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "652153138-10086732",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "USA",
+        "tournament_1xbet": "MLS",
+        "1xbet_match_id": 652153138,
+        "1xbet_tournament_id": 828065,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/828065/652153138",
+        "Tounesbet_country_name": "USA",
+        "tournament_Tounesbet": "Major League Soccer",
+        "Tounesbet_match_id": 10086732,
+        "Tounesbet_tournament_id": 25031,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2577726204538920988-652153138-10086732-13019211-27934440",
+        "home_team": "Real Salt Lake",
+        "away_team": "Los Angeles FC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_0.0_home_vs_away",
+        "best_odds": {
+          "home_handicap_0.0_odd": {
+            "value": 2.2,
+            "source": "Clubx2"
+          },
+          "away_handicap_0.0_odd": {
+            "value": 1.97,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9622,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13019211-10086732",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "USA",
+        "tournament_Clubx2": "MLS",
+        "Clubx2_match_id": 13019211,
+        "Clubx2_tournament_id": 4610,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13019211#/overview",
+        "Tounesbet_country_name": "USA",
+        "tournament_Tounesbet": "Major League Soccer",
+        "Tounesbet_match_id": 10086732,
+        "Tounesbet_tournament_id": 25031,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2577726204538920988-652153138-10086732-13019211-27934440",
+        "home_team": "Real Salt Lake",
+        "away_team": "Los Angeles FC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "two_vs_1x_handicap",
+        "best_odds": {
+          "2_odd": {
+            "value": 2.24,
+            "source": "Jibibet"
+          },
+          "home_handicap_0.5_odd": {
+            "value": 1.911,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9697,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2577726204538920988-10086732",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "USA",
+        "tournament_Jibibet": "MLS",
+        "Jibibet_match_id": 2577726204538920988,
+        "Jibibet_tournament_id": 1669819235519565824,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "USA",
+        "tournament_Tounesbet": "Major League Soccer",
+        "Tounesbet_match_id": 10086732,
+        "Tounesbet_tournament_id": 25031,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2577726204538920988-652153138-10086732-13019211-27934440",
+        "home_team": "Real Salt Lake",
+        "away_team": "Los Angeles FC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "two_vs_1x_handicap",
+        "best_odds": {
+          "2_odd": {
+            "value": 2.23,
+            "source": "Asbet"
+          },
+          "home_handicap_0.5_odd": {
+            "value": 1.911,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9717,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27934440-10086732",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "USA",
+        "tournament_Asbet": "MLS",
+        "Asbet_match_id": 27934440,
+        "Asbet_tournament_id": 3025,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/USA/3025/mls/27934440/real-salt-lake-los-angeles-fc",
+        "Tounesbet_country_name": "USA",
+        "tournament_Tounesbet": "Major League Soccer",
+        "Tounesbet_match_id": 10086732,
+        "Tounesbet_tournament_id": 25031,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2577726204538920988-652153138-10086732-13019211-27934440",
+        "home_team": "Real Salt Lake",
+        "away_team": "Los Angeles FC",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2578674121881817090-652159391-11232471-11998088-27949932",
+    "home_team": "New York City FC",
+    "away_team": "Charlotte FC",
+    "date": "20/09/2025",
+    "time": "17:00",
+    "country": "USA",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_-0.75_home_vs_away",
+        "best_odds": {
+          "home_handicap_-0.75_odd": {
+            "value": 2.366,
+            "source": "1xbet"
+          },
+          "away_handicap_0.75_odd": {
+            "value": 1.888,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9523,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "652159391-11232471",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "USA",
+        "tournament_1xbet": "MLS",
+        "1xbet_match_id": 652159391,
+        "1xbet_tournament_id": 828065,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/828065/652159391",
+        "Tounesbet_country_name": "USA",
+        "tournament_Tounesbet": "Major League Soccer",
+        "Tounesbet_match_id": 11232471,
+        "Tounesbet_tournament_id": 25031,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578674121881817090-652159391-11232471-11998088-27949932",
+        "home_team": "New York City FC",
+        "away_team": "Charlotte FC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "first_half_ah_0.0_home_vs_away",
+        "best_odds": {
+          "home_first_half_handicap_0.0_odd": {
+            "value": 1.852,
+            "source": "Tounesbet"
+          },
+          "away_first_half_handicap_0.0_odd": {
+            "value": 2.4,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9566,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "11998088-11232471",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "USA",
+        "tournament_Tounesbet": "Major League Soccer",
+        "Tounesbet_match_id": 11232471,
+        "Tounesbet_tournament_id": 25031,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "USA",
+        "tournament_Clubx2": "MLS",
+        "Clubx2_match_id": 11998088,
+        "Clubx2_tournament_id": 4610,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=11998088#/overview",
+        "group_id": "2578674121881817090-652159391-11232471-11998088-27949932",
+        "home_team": "New York City FC",
+        "away_team": "Charlotte FC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_-0.75_home_vs_away",
+        "best_odds": {
+          "home_handicap_-0.75_odd": {
+            "value": 2.33,
+            "source": "Asbet"
+          },
+          "away_handicap_0.75_odd": {
+            "value": 1.888,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9588,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27949932-11232471",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "USA",
+        "tournament_Asbet": "MLS",
+        "Asbet_match_id": 27949932,
+        "Asbet_tournament_id": 3025,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/USA/3025/mls/27949932/new-york-city-fc-charlotte-fc",
+        "Tounesbet_country_name": "USA",
+        "tournament_Tounesbet": "Major League Soccer",
+        "Tounesbet_match_id": 11232471,
+        "Tounesbet_tournament_id": 25031,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578674121881817090-652159391-11232471-11998088-27949932",
+        "home_team": "New York City FC",
+        "away_team": "Charlotte FC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.02,
+            "source": "Jibibet"
+          },
+          "X2_odd": {
+            "value": 2.124,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9659,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2578674121881817090-11232471",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "USA",
+        "tournament_Jibibet": "MLS",
+        "Jibibet_match_id": 2578674121881817090,
+        "Jibibet_tournament_id": 1669819235519565824,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "USA",
+        "tournament_Tounesbet": "Major League Soccer",
+        "Tounesbet_match_id": 11232471,
+        "Tounesbet_tournament_id": 25031,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578674121881817090-652159391-11232471-11998088-27949932",
+        "home_team": "New York City FC",
+        "away_team": "Charlotte FC",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2578708729528721447-652158529-10086997-11998090-27949931",
+    "home_team": "Philadelphia Union",
+    "away_team": "New England Revolution",
+    "date": "20/09/2025",
+    "time": "19:30",
+    "country": "USA",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 1.805,
+            "source": "Tounesbet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 2.5,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.954,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "11998090-10086997",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "USA",
+        "tournament_Tounesbet": "Major League Soccer",
+        "Tounesbet_match_id": 10086997,
+        "Tounesbet_tournament_id": 25031,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "USA",
+        "tournament_Clubx2": "MLS",
+        "Clubx2_match_id": 11998090,
+        "Clubx2_tournament_id": 4610,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=11998090#/overview",
+        "group_id": "2578708729528721447-652158529-10086997-11998090-27949931",
+        "home_team": "Philadelphia Union",
+        "away_team": "New England Revolution",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_-1.5_home_vs_away",
+        "best_odds": {
+          "home_handicap_-1.5_odd": {
+            "value": 2.409,
+            "source": "1xbet"
+          },
+          "away_handicap_1.5_odd": {
+            "value": 1.852,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9551,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "652158529-10086997",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "USA",
+        "tournament_1xbet": "MLS",
+        "1xbet_match_id": 652158529,
+        "1xbet_tournament_id": 828065,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/828065/652158529",
+        "Tounesbet_country_name": "USA",
+        "tournament_Tounesbet": "Major League Soccer",
+        "Tounesbet_match_id": 10086997,
+        "Tounesbet_tournament_id": 25031,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578708729528721447-652158529-10086997-11998090-27949931",
+        "home_team": "Philadelphia Union",
+        "away_team": "New England Revolution",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 1.805,
+            "source": "Tounesbet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 2.47,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9589,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27949931-10086997",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "USA",
+        "tournament_Tounesbet": "Major League Soccer",
+        "Tounesbet_match_id": 10086997,
+        "Tounesbet_tournament_id": 25031,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "USA",
+        "tournament_Asbet": "MLS",
+        "Asbet_match_id": 27949931,
+        "Asbet_tournament_id": 3025,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/USA/3025/mls/27949931/philadelphia-union-new-england-revolution",
+        "group_id": "2578708729528721447-652158529-10086997-11998090-27949931",
+        "home_team": "Philadelphia Union",
+        "away_team": "New England Revolution",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2",
+        "best_odds": {
+          "1_odd": {
+            "value": 1.805,
+            "source": "Tounesbet"
+          },
+          "X2_odd": {
+            "value": 2.46,
+            "source": "Jibibet"
+          }
+        },
+        "arbitrage_percentage": 0.9605,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2578708729528721447-10086997",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "USA",
+        "tournament_Tounesbet": "Major League Soccer",
+        "Tounesbet_match_id": 10086997,
+        "Tounesbet_tournament_id": 25031,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Jibibet_country_name": "USA",
+        "tournament_Jibibet": "MLS",
+        "Jibibet_match_id": 2578708729528721447,
+        "Jibibet_tournament_id": 1669819235519565824,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "group_id": "2578708729528721447-652158529-10086997-11998090-27949931",
+        "home_team": "Philadelphia Union",
+        "away_team": "New England Revolution",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2578736524430544904-652159394-11998155-27949930-9626717",
+    "home_team": "Atlanta United FC",
+    "away_team": "San Diego FC",
+    "date": "20/09/2025",
+    "time": "21:30",
+    "country": "USA",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.542,
+            "source": "1xbet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.793,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9511,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "652159394-9626717",
+        "misvalue_source": "1xbet",
+        "1xbet_country_name": "USA",
+        "tournament_1xbet": "MLS",
+        "1xbet_match_id": 652159394,
+        "1xbet_tournament_id": 828065,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/828065/652159394",
+        "Tounesbet_country_name": "USA",
+        "tournament_Tounesbet": "Major League Soccer",
+        "Tounesbet_match_id": 9626717,
+        "Tounesbet_tournament_id": 25031,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578736524430544904-652159394-11998155-27949930-9626717",
+        "home_team": "Atlanta United FC",
+        "away_team": "San Diego FC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.5,
+            "source": "Clubx2"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.793,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9577,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "11998155-9626717",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "USA",
+        "tournament_Clubx2": "MLS",
+        "Clubx2_match_id": 11998155,
+        "Clubx2_tournament_id": 4610,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=11998155#/overview",
+        "Tounesbet_country_name": "USA",
+        "tournament_Tounesbet": "Major League Soccer",
+        "Tounesbet_match_id": 9626717,
+        "Tounesbet_tournament_id": 25031,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578736524430544904-652159394-11998155-27949930-9626717",
+        "home_team": "Atlanta United FC",
+        "away_team": "San Diego FC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.5,
+            "source": "Jibibet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.793,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9577,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2578736524430544904-9626717",
+        "misvalue_source": "1xbet",
+        "Jibibet_country_name": "USA",
+        "tournament_Jibibet": "MLS",
+        "Jibibet_match_id": 2578736524430544904,
+        "Jibibet_tournament_id": 1669819235519565824,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "USA",
+        "tournament_Tounesbet": "Major League Soccer",
+        "Tounesbet_match_id": 9626717,
+        "Tounesbet_tournament_id": 25031,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578736524430544904-652159394-11998155-27949930-9626717",
+        "home_team": "Atlanta United FC",
+        "away_team": "San Diego FC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "under_3.5_vs_over_3.5",
+        "best_odds": {
+          "under_3.5_odd": {
+            "value": 1.852,
+            "source": "Tounesbet"
+          },
+          "over_3.5_odd": {
+            "value": 2.33,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9691,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27949930-9626717",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "USA",
+        "tournament_Tounesbet": "Major League Soccer",
+        "Tounesbet_match_id": 9626717,
+        "Tounesbet_tournament_id": 25031,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "USA",
+        "tournament_Asbet": "MLS",
+        "Asbet_match_id": 27949930,
+        "Asbet_tournament_id": 3025,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/USA/3025/mls/27949930/atlanta-united-fc-san-diego-fc",
+        "group_id": "2578736524430544904-652159394-11998155-27949930-9626717",
+        "home_team": "Atlanta United FC",
+        "away_team": "San Diego FC",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2578785546692337668-652159397-10087001-11998092-27949927",
+    "home_team": "Montreal Impact",
+    "away_team": "New York Red Bulls",
+    "date": "21/09/2025",
+    "time": "00:30",
+    "country": "USA",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "two_vs_1x_handicap",
+        "best_odds": {
+          "2_odd": {
+            "value": 2.361,
+            "source": "1xbet"
+          },
+          "home_handicap_0.5_odd": {
+            "value": 1.911,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9468,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "652159397-10087001",
+        "misvalue_source": "1xbet",
+        "1xbet_country_name": "USA",
+        "tournament_1xbet": "MLS",
+        "1xbet_match_id": 652159397,
+        "1xbet_tournament_id": 828065,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/828065/652159397",
+        "Tounesbet_country_name": "USA",
+        "tournament_Tounesbet": "Major League Soccer",
+        "Tounesbet_match_id": 10087001,
+        "Tounesbet_tournament_id": 25031,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578785546692337668-652159397-10087001-11998092-27949927",
+        "home_team": "Montreal Impact",
+        "away_team": "New York Red Bulls",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "two_vs_1x_handicap",
+        "best_odds": {
+          "2_odd": {
+            "value": 2.3,
+            "source": "Jibibet"
+          },
+          "home_handicap_0.5_odd": {
+            "value": 1.911,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9581,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2578785546692337668-10087001",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "USA",
+        "tournament_Jibibet": "MLS",
+        "Jibibet_match_id": 2578785546692337668,
+        "Jibibet_tournament_id": 1669819235519565824,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "USA",
+        "tournament_Tounesbet": "Major League Soccer",
+        "Tounesbet_match_id": 10087001,
+        "Tounesbet_tournament_id": 25031,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578785546692337668-652159397-10087001-11998092-27949927",
+        "home_team": "Montreal Impact",
+        "away_team": "New York Red Bulls",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "both_score",
+        "best_odds": {
+          "both_score_odd": {
+            "value": 1.899,
+            "source": "Tounesbet"
+          },
+          "both_noscore_odd": {
+            "value": 2.28,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9652,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27949927-10087001",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "USA",
+        "tournament_Tounesbet": "Major League Soccer",
+        "Tounesbet_match_id": 10087001,
+        "Tounesbet_tournament_id": 25031,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "USA",
+        "tournament_Asbet": "MLS",
+        "Asbet_match_id": 27949927,
+        "Asbet_tournament_id": 3025,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/USA/3025/mls/27949927/montreal-impact-new-york-red-bulls",
+        "group_id": "2578785546692337668-652159397-10087001-11998092-27949927",
+        "home_team": "Montreal Impact",
+        "away_team": "New York Red Bulls",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "first_half_under_1.0_vs_first_half_over_1.0",
+        "best_odds": {
+          "first_half_under_1.0_odd": {
+            "value": 2.2,
+            "source": "Clubx2"
+          },
+          "first_half_over_1.0_odd": {
+            "value": 1.958,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9653,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "11998092-10087001",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "USA",
+        "tournament_Clubx2": "MLS",
+        "Clubx2_match_id": 11998092,
+        "Clubx2_tournament_id": 4610,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=11998092#/overview",
+        "Tounesbet_country_name": "USA",
+        "tournament_Tounesbet": "Major League Soccer",
+        "Tounesbet_match_id": 10087001,
+        "Tounesbet_tournament_id": 25031,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578785546692337668-652159397-10087001-11998092-27949927",
+        "home_team": "Montreal Impact",
+        "away_team": "New York Red Bulls",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2578785546692337665-652159388-10087000-11998086-27949929",
+    "home_team": "Columbus Crew",
+    "away_team": "Toronto  FC",
+    "date": "21/09/2025",
+    "time": "00:30",
+    "country": "USA",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "home_under_1.5_vs_home_over_1.5",
+        "best_odds": {
+          "home_under_1.5_odd": {
+            "value": 2.5,
+            "source": "1xbet"
+          },
+          "home_over_1.5_odd": {
+            "value": 1.805,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.954,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "652159388-10087000",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "USA",
+        "tournament_1xbet": "MLS",
+        "1xbet_match_id": 652159388,
+        "1xbet_tournament_id": 828065,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/828065/652159388",
+        "Tounesbet_country_name": "USA",
+        "tournament_Tounesbet": "Major League Soccer",
+        "Tounesbet_match_id": 10087000,
+        "Tounesbet_tournament_id": 25031,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578785546692337665-652159388-10087000-11998086-27949929",
+        "home_team": "Columbus Crew",
+        "away_team": "Toronto  FC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "away_under_0.5_vs_away_over_0.5",
+        "best_odds": {
+          "away_under_0.5_odd": {
+            "value": 2.2858,
+            "source": "Clubx2"
+          },
+          "away_over_0.5_odd": {
+            "value": 1.899,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9641,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "11998086-10087000",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "USA",
+        "tournament_Clubx2": "MLS",
+        "Clubx2_match_id": 11998086,
+        "Clubx2_tournament_id": 4610,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=11998086#/overview",
+        "Tounesbet_country_name": "USA",
+        "tournament_Tounesbet": "Major League Soccer",
+        "Tounesbet_match_id": 10087000,
+        "Tounesbet_tournament_id": 25031,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578785546692337665-652159388-10087000-11998086-27949929",
+        "home_team": "Columbus Crew",
+        "away_team": "Toronto  FC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "home_under_1.5_vs_home_over_1.5",
+        "best_odds": {
+          "home_under_1.5_odd": {
+            "value": 2.4,
+            "source": "Asbet"
+          },
+          "home_over_1.5_odd": {
+            "value": 1.805,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9707,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27949929-10087000",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "USA",
+        "tournament_Asbet": "MLS",
+        "Asbet_match_id": 27949929,
+        "Asbet_tournament_id": 3025,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/USA/3025/mls/27949929/columbus-crew-toronto-fc",
+        "Tounesbet_country_name": "USA",
+        "tournament_Tounesbet": "Major League Soccer",
+        "Tounesbet_match_id": 10087000,
+        "Tounesbet_tournament_id": 25031,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578785546692337665-652159388-10087000-11998086-27949929",
+        "home_team": "Columbus Crew",
+        "away_team": "Toronto  FC",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2578785546692337667-652159406-10086999-11998093-27949928",
+    "home_team": "Inter Miami CF",
+    "away_team": "D.C. United",
+    "date": "21/09/2025",
+    "time": "00:30",
+    "country": "USA",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "home_under_1.5_vs_home_over_1.5",
+        "best_odds": {
+          "home_under_1.5_odd": {
+            "value": 2.6,
+            "source": "1xbet"
+          },
+          "home_over_1.5_odd": {
+            "value": 1.805,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9386,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "652159406-10086999",
+        "misvalue_source": "Asbet",
+        "1xbet_country_name": "USA",
+        "tournament_1xbet": "MLS",
+        "1xbet_match_id": 652159406,
+        "1xbet_tournament_id": 828065,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/828065/652159406",
+        "Tounesbet_country_name": "USA",
+        "tournament_Tounesbet": "Major League Soccer",
+        "Tounesbet_match_id": 10086999,
+        "Tounesbet_tournament_id": 25031,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578785546692337667-652159406-10086999-11998093-27949928",
+        "home_team": "Inter Miami CF",
+        "away_team": "D.C. United",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "home_under_1.5_vs_home_over_1.5",
+        "best_odds": {
+          "home_under_1.5_odd": {
+            "value": 2.5455,
+            "source": "Clubx2"
+          },
+          "home_over_1.5_odd": {
+            "value": 1.805,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9469,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "11998093-10086999",
+        "misvalue_source": "Asbet",
+        "Clubx2_country_name": "USA",
+        "tournament_Clubx2": "MLS",
+        "Clubx2_match_id": 11998093,
+        "Clubx2_tournament_id": 4610,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=11998093#/overview",
+        "Tounesbet_country_name": "USA",
+        "tournament_Tounesbet": "Major League Soccer",
+        "Tounesbet_match_id": 10086999,
+        "Tounesbet_tournament_id": 25031,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578785546692337667-652159406-10086999-11998093-27949928",
+        "home_team": "Inter Miami CF",
+        "away_team": "D.C. United",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "away_under_0.5_vs_away_over_0.5",
+        "best_odds": {
+          "away_under_0.5_odd": {
+            "value": 2.33,
+            "source": "Asbet"
+          },
+          "away_over_0.5_odd": {
+            "value": 1.852,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9691,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27949928-10086999",
+        "misvalue_source": "Asbet",
+        "Asbet_country_name": "USA",
+        "tournament_Asbet": "MLS",
+        "Asbet_match_id": 27949928,
+        "Asbet_tournament_id": 3025,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/USA/3025/mls/27949928/inter-miami-cf-dc-united",
+        "Tounesbet_country_name": "USA",
+        "tournament_Tounesbet": "Major League Soccer",
+        "Tounesbet_match_id": 10086999,
+        "Tounesbet_tournament_id": 25031,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578785546692337667-652159406-10086999-11998093-27949928",
+        "home_team": "Inter Miami CF",
+        "away_team": "D.C. United",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2578785484889272368-652159400-10086998-11998085-27949926",
+    "home_team": "Orlando City SC",
+    "away_team": "Nashville SC",
+    "date": "21/09/2025",
+    "time": "00:30",
+    "country": "USA",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_-0.75_home_vs_away",
+        "best_odds": {
+          "home_handicap_-0.75_odd": {
+            "value": 2.543,
+            "source": "1xbet"
+          },
+          "away_handicap_0.75_odd": {
+            "value": 1.829,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.94,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "652159400-10086998",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "USA",
+        "tournament_1xbet": "MLS",
+        "1xbet_match_id": 652159400,
+        "1xbet_tournament_id": 828065,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/828065/652159400",
+        "Tounesbet_country_name": "USA",
+        "tournament_Tounesbet": "Major League Soccer",
+        "Tounesbet_match_id": 10086998,
+        "Tounesbet_tournament_id": 25031,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578785484889272368-652159400-10086998-11998085-27949926",
+        "home_team": "Orlando City SC",
+        "away_team": "Nashville SC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.14,
+            "source": "Jibibet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 2.029,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9601,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2578785484889272368-10086998",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "USA",
+        "tournament_Jibibet": "MLS",
+        "Jibibet_match_id": 2578785484889272368,
+        "Jibibet_tournament_id": 1669819235519565824,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "USA",
+        "tournament_Tounesbet": "Major League Soccer",
+        "Tounesbet_match_id": 10086998,
+        "Tounesbet_tournament_id": 25031,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578785484889272368-652159400-10086998-11998085-27949926",
+        "home_team": "Orlando City SC",
+        "away_team": "Nashville SC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "under_3.5_vs_over_3.5",
+        "best_odds": {
+          "under_3.5_odd": {
+            "value": 1.805,
+            "source": "Tounesbet"
+          },
+          "over_3.5_odd": {
+            "value": 2.45,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9622,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27949926-10086998",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "USA",
+        "tournament_Tounesbet": "Major League Soccer",
+        "Tounesbet_match_id": 10086998,
+        "Tounesbet_tournament_id": 25031,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "USA",
+        "tournament_Asbet": "MLS",
+        "Asbet_match_id": 27949926,
+        "Asbet_tournament_id": 3025,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/USA/3025/mls/27949926/orlando-city-sc-nashville-sc",
+        "group_id": "2578785484889272368-652159400-10086998-11998085-27949926",
+        "home_team": "Orlando City SC",
+        "away_team": "Nashville SC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "under_3.5_vs_over_3.5",
+        "best_odds": {
+          "under_3.5_odd": {
+            "value": 1.805,
+            "source": "Tounesbet"
+          },
+          "over_3.5_odd": {
+            "value": 2.4286,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9658,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "11998085-10086998",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "USA",
+        "tournament_Tounesbet": "Major League Soccer",
+        "Tounesbet_match_id": 10086998,
+        "Tounesbet_tournament_id": 25031,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "USA",
+        "tournament_Clubx2": "MLS",
+        "Clubx2_match_id": 11998085,
+        "Clubx2_tournament_id": 4610,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=11998085#/overview",
+        "group_id": "2578785484889272368-652159400-10086998-11998085-27949926",
+        "home_team": "Orlando City SC",
+        "away_team": "Nashville SC",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2578796951223021612-652159403-10087003-11998097-27956471",
+    "home_team": "FC Dallas",
+    "away_team": "Colorado Rapids",
+    "date": "21/09/2025",
+    "time": "01:30",
+    "country": "USA",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.269,
+            "source": "1xbet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 2.006,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9392,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "652159403-10087003",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "USA",
+        "tournament_1xbet": "MLS",
+        "1xbet_match_id": 652159403,
+        "1xbet_tournament_id": 828065,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/828065/652159403",
+        "Tounesbet_country_name": "USA",
+        "tournament_Tounesbet": "Major League Soccer",
+        "Tounesbet_match_id": 10087003,
+        "Tounesbet_tournament_id": 25031,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578796951223021612-652159403-10087003-11998097-27956471",
+        "home_team": "FC Dallas",
+        "away_team": "Colorado Rapids",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.18,
+            "source": "Jibibet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 2.006,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9572,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2578796951223021612-10087003",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "USA",
+        "tournament_Jibibet": "MLS",
+        "Jibibet_match_id": 2578796951223021612,
+        "Jibibet_tournament_id": 1669819235519565824,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "USA",
+        "tournament_Tounesbet": "Major League Soccer",
+        "Tounesbet_match_id": 10087003,
+        "Tounesbet_tournament_id": 25031,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578796951223021612-652159403-10087003-11998097-27956471",
+        "home_team": "FC Dallas",
+        "away_team": "Colorado Rapids",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_-0.75_home_vs_away",
+        "best_odds": {
+          "home_handicap_-0.75_odd": {
+            "value": 2.5,
+            "source": "Clubx2"
+          },
+          "away_handicap_0.75_odd": {
+            "value": 1.793,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9577,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "11998097-10087003",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "USA",
+        "tournament_Clubx2": "MLS",
+        "Clubx2_match_id": 11998097,
+        "Clubx2_tournament_id": 4610,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=11998097#/overview",
+        "Tounesbet_country_name": "USA",
+        "tournament_Tounesbet": "Major League Soccer",
+        "Tounesbet_match_id": 10087003,
+        "Tounesbet_tournament_id": 25031,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578796951223021612-652159403-10087003-11998097-27956471",
+        "home_team": "FC Dallas",
+        "away_team": "Colorado Rapids",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_-0.75_home_vs_away",
+        "best_odds": {
+          "home_handicap_-0.75_odd": {
+            "value": 2.47,
+            "source": "Asbet"
+          },
+          "away_handicap_0.75_odd": {
+            "value": 1.793,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9626,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27956471-10087003",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "USA",
+        "tournament_Asbet": "MLS",
+        "Asbet_match_id": 27956471,
+        "Asbet_tournament_id": 3025,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/USA/3025/mls/27956471/fc-dallas-colorado-rapids",
+        "Tounesbet_country_name": "USA",
+        "tournament_Tounesbet": "Major League Soccer",
+        "Tounesbet_match_id": 10087003,
+        "Tounesbet_tournament_id": 25031,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578796951223021612-652159403-10087003-11998097-27956471",
+        "home_team": "FC Dallas",
+        "away_team": "Colorado Rapids",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2578796951223021615-652160066-10087008-11998100-27956470",
+    "home_team": "Houston Dynamo",
+    "away_team": "Portland Timbers",
+    "date": "21/09/2025",
+    "time": "01:30",
+    "country": "USA",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_-0.75_home_vs_away",
+        "best_odds": {
+          "home_handicap_-0.75_odd": {
+            "value": 2.303,
+            "source": "1xbet"
+          },
+          "away_handicap_0.75_odd": {
+            "value": 1.911,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9575,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "652160066-10087008",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "USA",
+        "tournament_1xbet": "MLS",
+        "1xbet_match_id": 652160066,
+        "1xbet_tournament_id": 828065,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/828065/652160066",
+        "Tounesbet_country_name": "USA",
+        "tournament_Tounesbet": "Major League Soccer",
+        "Tounesbet_match_id": 10087008,
+        "Tounesbet_tournament_id": 25031,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578796951223021615-652160066-10087008-11998100-27956470",
+        "home_team": "Houston Dynamo",
+        "away_team": "Portland Timbers",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "first_half_ah_0.0_home_vs_away",
+        "best_odds": {
+          "home_first_half_handicap_0.0_odd": {
+            "value": 1.829,
+            "source": "Tounesbet"
+          },
+          "away_first_half_handicap_0.0_odd": {
+            "value": 2.4,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9634,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27956470-10087008",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "USA",
+        "tournament_Tounesbet": "Major League Soccer",
+        "Tounesbet_match_id": 10087008,
+        "Tounesbet_tournament_id": 25031,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "USA",
+        "tournament_Asbet": "MLS",
+        "Asbet_match_id": 27956470,
+        "Asbet_tournament_id": 3025,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/USA/3025/mls/27956470/houston-dynamo-portland-timbers",
+        "group_id": "2578796951223021615-652160066-10087008-11998100-27956470",
+        "home_team": "Houston Dynamo",
+        "away_team": "Portland Timbers",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "first_half_ah_0.0_home_vs_away",
+        "best_odds": {
+          "home_first_half_handicap_0.0_odd": {
+            "value": 1.829,
+            "source": "Tounesbet"
+          },
+          "away_first_half_handicap_0.0_odd": {
+            "value": 2.4,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9634,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "11998100-10087008",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "USA",
+        "tournament_Tounesbet": "Major League Soccer",
+        "Tounesbet_match_id": 10087008,
+        "Tounesbet_tournament_id": 25031,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "USA",
+        "tournament_Clubx2": "MLS",
+        "Clubx2_match_id": 11998100,
+        "Clubx2_tournament_id": 4610,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=11998100#/overview",
+        "group_id": "2578796951223021615-652160066-10087008-11998100-27956470",
+        "home_team": "Houston Dynamo",
+        "away_team": "Portland Timbers",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 1.97,
+            "source": "Jibibet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 2.147,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9734,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2578796951223021615-10087008",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "USA",
+        "tournament_Jibibet": "MLS",
+        "Jibibet_match_id": 2578796951223021615,
+        "Jibibet_tournament_id": 1669819235519565824,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "USA",
+        "tournament_Tounesbet": "Major League Soccer",
+        "Tounesbet_match_id": 10087008,
+        "Tounesbet_tournament_id": 25031,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578796951223021615-652160066-10087008-11998100-27956470",
+        "home_team": "Houston Dynamo",
+        "away_team": "Portland Timbers",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2578796951223021616-652153985-10087004-11998095-27956468",
+    "home_team": "Minnesota United FC",
+    "away_team": "Chicago Fire",
+    "date": "21/09/2025",
+    "time": "01:30",
+    "country": "USA",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "under_3.5_vs_over_3.5",
+        "best_odds": {
+          "under_3.5_odd": {
+            "value": 1.852,
+            "source": "Tounesbet"
+          },
+          "over_3.5_odd": {
+            "value": 2.358,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.964,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "652153985-10087004",
+        "misvalue_source": "Clubx2",
+        "Tounesbet_country_name": "USA",
+        "tournament_Tounesbet": "Major League Soccer",
+        "Tounesbet_match_id": 10087004,
+        "Tounesbet_tournament_id": 25031,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "1xbet_country_name": "USA",
+        "tournament_1xbet": "MLS",
+        "1xbet_match_id": 652153985,
+        "1xbet_tournament_id": 828065,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/828065/652153985",
+        "group_id": "2578796951223021616-652153985-10087004-11998095-27956468",
+        "home_team": "Minnesota United FC",
+        "away_team": "Chicago Fire",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "first_half_ah_0.0_home_vs_away",
+        "best_odds": {
+          "home_first_half_handicap_0.0_odd": {
+            "value": 1.829,
+            "source": "Tounesbet"
+          },
+          "away_first_half_handicap_0.0_odd": {
+            "value": 2.39,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9652,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27956468-10087004",
+        "misvalue_source": "Clubx2",
+        "Tounesbet_country_name": "USA",
+        "tournament_Tounesbet": "Major League Soccer",
+        "Tounesbet_match_id": 10087004,
+        "Tounesbet_tournament_id": 25031,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "USA",
+        "tournament_Asbet": "MLS",
+        "Asbet_match_id": 27956468,
+        "Asbet_tournament_id": 3025,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/USA/3025/mls/27956468/minnesota-united-fc-chicago-fire",
+        "group_id": "2578796951223021616-652153985-10087004-11998095-27956468",
+        "home_team": "Minnesota United FC",
+        "away_team": "Chicago Fire",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "under_3.5_vs_over_3.5",
+        "best_odds": {
+          "under_3.5_odd": {
+            "value": 1.852,
+            "source": "Tounesbet"
+          },
+          "over_3.5_odd": {
+            "value": 2.32,
+            "source": "Jibibet"
+          }
+        },
+        "arbitrage_percentage": 0.971,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2578796951223021616-10087004",
+        "misvalue_source": "Clubx2",
+        "Tounesbet_country_name": "USA",
+        "tournament_Tounesbet": "Major League Soccer",
+        "Tounesbet_match_id": 10087004,
+        "Tounesbet_tournament_id": 25031,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Jibibet_country_name": "USA",
+        "tournament_Jibibet": "MLS",
+        "Jibibet_match_id": 2578796951223021616,
+        "Jibibet_tournament_id": 1669819235519565824,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "group_id": "2578796951223021616-652153985-10087004-11998095-27956468",
+        "home_team": "Minnesota United FC",
+        "away_team": "Chicago Fire",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2578796951223021613-652160063-10087009-11998096-27956469",
+    "home_team": "Sporting Kansas City",
+    "away_team": "Vancouver Whitecaps FC",
+    "date": "21/09/2025",
+    "time": "01:30",
+    "country": "USA",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "two_vs_1x_handicap",
+        "best_odds": {
+          "2_odd": {
+            "value": 2.138,
+            "source": "1xbet"
+          },
+          "home_handicap_0.5_odd": {
+            "value": 2.029,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9606,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "652160063-10087009",
+        "misvalue_source": "1xbet",
+        "1xbet_country_name": "USA",
+        "tournament_1xbet": "MLS",
+        "1xbet_match_id": 652160063,
+        "1xbet_tournament_id": 828065,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/828065/652160063",
+        "Tounesbet_country_name": "USA",
+        "tournament_Tounesbet": "Major League Soccer",
+        "Tounesbet_match_id": 10087009,
+        "Tounesbet_tournament_id": 25031,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578796951223021613-652160063-10087009-11998096-27956469",
+        "home_team": "Sporting Kansas City",
+        "away_team": "Vancouver Whitecaps FC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "two_vs_1x_handicap",
+        "best_odds": {
+          "2_odd": {
+            "value": 2.12,
+            "source": "Jibibet"
+          },
+          "home_handicap_0.5_odd": {
+            "value": 2.029,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9646,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2578796951223021613-10087009",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "USA",
+        "tournament_Jibibet": "MLS",
+        "Jibibet_match_id": 2578796951223021613,
+        "Jibibet_tournament_id": 1669819235519565824,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "USA",
+        "tournament_Tounesbet": "Major League Soccer",
+        "Tounesbet_match_id": 10087009,
+        "Tounesbet_tournament_id": 25031,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578796951223021613-652160063-10087009-11998096-27956469",
+        "home_team": "Sporting Kansas City",
+        "away_team": "Vancouver Whitecaps FC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "first_half_ah_0.0_home_vs_away",
+        "best_odds": {
+          "home_first_half_handicap_0.0_odd": {
+            "value": 2.2,
+            "source": "Clubx2"
+          },
+          "away_first_half_handicap_0.0_odd": {
+            "value": 1.947,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9682,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "11998096-10087009",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "USA",
+        "tournament_Clubx2": "MLS",
+        "Clubx2_match_id": 11998096,
+        "Clubx2_tournament_id": 4610,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=11998096#/overview",
+        "Tounesbet_country_name": "USA",
+        "tournament_Tounesbet": "Major League Soccer",
+        "Tounesbet_match_id": 10087009,
+        "Tounesbet_tournament_id": 25031,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578796951223021613-652160063-10087009-11998096-27956469",
+        "home_team": "Sporting Kansas City",
+        "away_team": "Vancouver Whitecaps FC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "under_3.5_vs_over_3.5",
+        "best_odds": {
+          "under_3.5_odd": {
+            "value": 1.958,
+            "source": "Tounesbet"
+          },
+          "over_3.5_odd": {
+            "value": 2.17,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9716,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27956469-10087009",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "USA",
+        "tournament_Tounesbet": "Major League Soccer",
+        "Tounesbet_match_id": 10087009,
+        "Tounesbet_tournament_id": 25031,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "USA",
+        "tournament_Asbet": "MLS",
+        "Asbet_match_id": 27956469,
+        "Asbet_tournament_id": 3025,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/USA/3025/mls/27956469/sporting-kansas-city-vancouver-whitecaps-fc",
+        "group_id": "2578796951223021613-652160063-10087009-11998096-27956469",
+        "home_team": "Sporting Kansas City",
+        "away_team": "Vancouver Whitecaps FC",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2578821744227913771-652160060-10087007-11998098-27956467",
+    "home_team": "Los Angeles Galaxy",
+    "away_team": "FC Cincinnati",
+    "date": "21/09/2025",
+    "time": "03:30",
+    "country": "USA",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_-0.25_home_vs_away",
+        "best_odds": {
+          "home_handicap_-0.25_odd": {
+            "value": 2.28,
+            "source": "1xbet"
+          },
+          "away_handicap_0.25_odd": {
+            "value": 1.911,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9619,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "652160060-10087007",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "USA",
+        "tournament_1xbet": "MLS",
+        "1xbet_match_id": 652160060,
+        "1xbet_tournament_id": 828065,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/828065/652160060",
+        "Tounesbet_country_name": "USA",
+        "tournament_Tounesbet": "Major League Soccer",
+        "Tounesbet_match_id": 10087007,
+        "Tounesbet_tournament_id": 25031,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578821744227913771-652160060-10087007-11998098-27956467",
+        "home_team": "Los Angeles Galaxy",
+        "away_team": "FC Cincinnati",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_0.0_home_vs_away",
+        "best_odds": {
+          "home_handicap_0.0_odd": {
+            "value": 2.301,
+            "source": "Tounesbet"
+          },
+          "away_handicap_0.0_odd": {
+            "value": 1.8696,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9695,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "11998098-10087007",
+        "misvalue_source": "Clubx2",
+        "Tounesbet_country_name": "USA",
+        "tournament_Tounesbet": "Major League Soccer",
+        "Tounesbet_match_id": 10087007,
+        "Tounesbet_tournament_id": 25031,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "USA",
+        "tournament_Clubx2": "MLS",
+        "Clubx2_match_id": 11998098,
+        "Clubx2_tournament_id": 4610,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=11998098#/overview",
+        "group_id": "2578821744227913771-652160060-10087007-11998098-27956467",
+        "home_team": "Los Angeles Galaxy",
+        "away_team": "FC Cincinnati",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_-0.25_home_vs_away",
+        "best_odds": {
+          "home_handicap_-0.25_odd": {
+            "value": 2.23,
+            "source": "Asbet"
+          },
+          "away_handicap_0.25_odd": {
+            "value": 1.911,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9717,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27956467-10087007",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "USA",
+        "tournament_Asbet": "MLS",
+        "Asbet_match_id": 27956467,
+        "Asbet_tournament_id": 3025,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/USA/3025/mls/27956467/los-angeles-galaxy-fc-cincinnati",
+        "Tounesbet_country_name": "USA",
+        "tournament_Tounesbet": "Major League Soccer",
+        "Tounesbet_match_id": 10087007,
+        "Tounesbet_tournament_id": 25031,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578821744227913771-652160060-10087007-11998098-27956467",
+        "home_team": "Los Angeles Galaxy",
+        "away_team": "FC Cincinnati",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2578821744227913770-652160057-10087011-11998099-27956466",
+    "home_team": "San Jose Earthquakes",
+    "away_team": "Saint Louis City SC",
+    "date": "21/09/2025",
+    "time": "03:30",
+    "country": "USA",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_-1.25_home_vs_away",
+        "best_odds": {
+          "home_handicap_-1.25_odd": {
+            "value": 2.5,
+            "source": "Asbet"
+          },
+          "away_handicap_1.25_odd": {
+            "value": 1.793,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9577,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27956466-10087011",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "USA",
+        "tournament_Asbet": "MLS",
+        "Asbet_match_id": 27956466,
+        "Asbet_tournament_id": 3025,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/USA/3025/mls/27956466/san-jose-earthquakes-st-louis-city-sc",
+        "Tounesbet_country_name": "USA",
+        "tournament_Tounesbet": "Major League Soccer",
+        "Tounesbet_match_id": 10087011,
+        "Tounesbet_tournament_id": 25031,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578821744227913770-652160057-10087011-11998099-27956466",
+        "home_team": "San Jose Earthquakes",
+        "away_team": "Saint Louis City SC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_-0.75_home_vs_away",
+        "best_odds": {
+          "home_handicap_-0.75_odd": {
+            "value": 2.301,
+            "source": "Tounesbet"
+          },
+          "away_handicap_0.75_odd": {
+            "value": 1.904,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.9598,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "652160057-10087011",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "USA",
+        "tournament_Tounesbet": "Major League Soccer",
+        "Tounesbet_match_id": 10087011,
+        "Tounesbet_tournament_id": 25031,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "1xbet_country_name": "USA",
+        "tournament_1xbet": "MLS",
+        "1xbet_match_id": 652160057,
+        "1xbet_tournament_id": 828065,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/828065/652160057",
+        "group_id": "2578821744227913770-652160057-10087011-11998099-27956466",
+        "home_team": "San Jose Earthquakes",
+        "away_team": "Saint Louis City SC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_-0.25_home_vs_away",
+        "best_odds": {
+          "home_handicap_-0.25_odd": {
+            "value": 1.829,
+            "source": "Tounesbet"
+          },
+          "away_handicap_0.25_odd": {
+            "value": 2.35,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9723,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "11998099-10087011",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "USA",
+        "tournament_Tounesbet": "Major League Soccer",
+        "Tounesbet_match_id": 10087011,
+        "Tounesbet_tournament_id": 25031,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "USA",
+        "tournament_Clubx2": "MLS",
+        "Clubx2_match_id": 11998099,
+        "Clubx2_tournament_id": 4610,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=11998099#/overview",
+        "group_id": "2578821744227913770-652160057-10087011-11998099-27956466",
+        "home_team": "San Jose Earthquakes",
+        "away_team": "Saint Louis City SC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.065,
+            "source": "Tounesbet"
+          },
+          "X2_odd": {
+            "value": 2.04,
+            "source": "Jibibet"
+          }
+        },
+        "arbitrage_percentage": 0.9745,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2578821744227913770-10087011",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "USA",
+        "tournament_Tounesbet": "Major League Soccer",
+        "Tounesbet_match_id": 10087011,
+        "Tounesbet_tournament_id": 25031,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Jibibet_country_name": "USA",
+        "tournament_Jibibet": "MLS",
+        "Jibibet_match_id": 2578821744227913770,
+        "Jibibet_tournament_id": 1669819235519565824,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "group_id": "2578821744227913770-652160057-10087011-11998099-27956466",
+        "home_team": "San Jose Earthquakes",
+        "away_team": "Saint Louis City SC",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2579130784136957990-651710005-10087002-11998094",
+    "home_team": "Austin FC",
+    "away_team": "Seattle Sounders",
+    "date": "22/09/2025",
+    "time": "00:00",
+    "country": "USA",
+    "all_sources": [
+      "1xbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "home_under_1.5_vs_home_over_1.5",
+        "best_odds": {
+          "home_under_1.5_odd": {
+            "value": 1.6,
+            "source": "1xbet"
+          },
+          "home_over_1.5_odd": {
+            "value": 2.95,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.964,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "651710005-10087002",
+        "misvalue_source": "1xbet",
+        "1xbet_country_name": "USA",
+        "tournament_1xbet": "MLS",
+        "1xbet_match_id": 651710005,
+        "1xbet_tournament_id": 828065,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/828065/651710005",
+        "Tounesbet_country_name": "USA",
+        "tournament_Tounesbet": "Major League Soccer",
+        "Tounesbet_match_id": 10087002,
+        "Tounesbet_tournament_id": 25031,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579130784136957990-651710005-10087002-11998094",
+        "home_team": "Austin FC",
+        "away_team": "Seattle Sounders",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "second_half_under_1.5_vs_second_half_over_1.5",
+        "best_odds": {
+          "second_half_under_1.5_odd": {
+            "value": 1.899,
+            "source": "Tounesbet"
+          },
+          "second_half_over_1.5_odd": {
+            "value": 2.2,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9811,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "11998094-10087002",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "USA",
+        "tournament_Tounesbet": "Major League Soccer",
+        "Tounesbet_match_id": 10087002,
+        "Tounesbet_tournament_id": 25031,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "USA",
+        "tournament_Clubx2": "MLS",
+        "Clubx2_match_id": 11998094,
+        "Clubx2_tournament_id": 4610,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=11998094#/overview",
+        "group_id": "2579130784136957990-651710005-10087002-11998094",
+        "home_team": "Austin FC",
+        "away_team": "Seattle Sounders",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2579169327542575116-652160069-10087006-11998101",
+    "home_team": "Los Angeles FC",
+    "away_team": "Real Salt Lake",
+    "date": "22/09/2025",
+    "time": "02:00",
+    "country": "USA",
+    "all_sources": [
+      "1xbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "away_under_0.5_vs_away_over_0.5",
+        "best_odds": {
+          "away_under_0.5_odd": {
+            "value": 2.2,
+            "source": "1xbet"
+          },
+          "away_over_0.5_odd": {
+            "value": 2.029,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9474,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "652160069-10087006",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "USA",
+        "tournament_1xbet": "MLS",
+        "1xbet_match_id": 652160069,
+        "1xbet_tournament_id": 828065,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/828065/652160069",
+        "Tounesbet_country_name": "USA",
+        "tournament_Tounesbet": "Major League Soccer",
+        "Tounesbet_match_id": 10087006,
+        "Tounesbet_tournament_id": 25031,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579169327542575116-652160069-10087006-11998101",
+        "home_team": "Los Angeles FC",
+        "away_team": "Real Salt Lake",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "away_under_0.5_vs_away_over_0.5",
+        "best_odds": {
+          "away_under_0.5_odd": {
+            "value": 2.1,
+            "source": "Clubx2"
+          },
+          "away_over_0.5_odd": {
+            "value": 2.029,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.969,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "11998101-10087006",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "USA",
+        "tournament_Clubx2": "MLS",
+        "Clubx2_match_id": 11998101,
+        "Clubx2_tournament_id": 4610,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=11998101#/overview",
+        "Tounesbet_country_name": "USA",
+        "tournament_Tounesbet": "Major League Soccer",
+        "Tounesbet_match_id": 10087006,
+        "Tounesbet_tournament_id": 25031,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579169327542575116-652160069-10087006-11998101",
+        "home_team": "Los Angeles FC",
+        "away_team": "Real Salt Lake",
+        "activity_duration": "1 hour"
+      }
+    ]
+  }
+]

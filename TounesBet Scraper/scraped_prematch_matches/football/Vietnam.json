@@ -1,0 +1,65 @@
+[
+    {
+        "last_updated": "2025-09-16T20:55:15.007502+01:00"
+    },
+    {
+        "tournament_name": "vietnam championship W",
+        "tournament_id": 47901,
+        "matches": [
+            {
+                "match_id": 11300955,
+                "tournament_id": 47901,
+                "date": "17/09/2025",
+                "time": "09:30",
+                "home_team": "Phong Phu Ha Nam W",
+                "away_team": "GT Thai Nguyen W",
+                "1_odd": 4.484,
+                "draw_odd": 3.658,
+                "2_odd": 2.242,
+                "both_score_odd": null,
+                "both_noscore_odd": null,
+                "1X_odd": 2.124,
+                "12_odd": 1.28,
+                "X2_odd": 1.18,
+                "under_2.5_odd": 1.899,
+                "over_2.5_odd": 2.655,
+                "home_handicap_0.5_odd": 2.183,
+                "away_handicap_-0.5_odd": 2.301,
+                "home_first_half_handicap_0.25_odd": 2.065,
+                "away_first_half_handicap_-0.25_odd": 2.419
+            },
+            {
+                "match_id": 11301059,
+                "tournament_id": 47901,
+                "date": "17/09/2025",
+                "time": "10:00",
+                "home_team": "Ho Chi Minh City II W",
+                "away_team": "ha noi W",
+                "1_odd": 60.18,
+                "draw_odd": 22.42,
+                "2_odd": 1.0,
+                "both_score_odd": null,
+                "both_noscore_odd": null,
+                "1X_odd": null,
+                "12_odd": null,
+                "X2_odd": null,
+                "first_half_under_1.0_odd": 3.953,
+                "first_half_over_1.0_odd": 1.26,
+                "first_half_under_1.5_odd": 2.419,
+                "first_half_over_1.5_odd": 1.994,
+                "first_half_under_2.0_odd": 1.84,
+                "first_half_over_2.0_odd": 2.619,
+                "second_half_under_2.0_odd": 3.009,
+                "second_half_over_2.0_odd": 1.43,
+                "second_half_under_2.5_odd": 2.183,
+                "second_half_over_2.5_odd": 2.194,
+                "second_half_under_3.0_odd": 1.46,
+                "second_half_over_3.0_odd": 2.902,
+                "home_handicap_4.0_odd": 2.183,
+                "away_handicap_-4.0_odd": 2.301,
+                "home_first_half_handicap_1.75_odd": 2.301,
+                "away_first_half_handicap_-1.75_odd": 2.183
+            }
+        ]
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "last_updated": "2025-08-14T17:02:04.153867+01:00"
+    },
+    {
+        "tournament_id": 209487,
+        "tournament_name": "Lithuania Championship. League 2",
+        "matches": [
+            {
+                "match_id": 645239276,
+                "date": "14/08/2025",
+                "time": "16:00",
+                "home_team": "Tauras Taurage II",
+                "away_team": "Banga II",
+                "1_odd": 1.93,
+                "draw_odd": 3.54,
+                "2_odd": 3.58,
+                "1X_odd": 1.256,
+                "12_odd": 1.26,
+                "X2_odd": 1.79,
+                "over_2.0_odd": 1.144,
+                "over_2.5_odd": 1.512,
+                "over_3.0_odd": 1.99,
+                "over_4.0_odd": 4.31,
+                "under_2.0_odd": 4.82,
+                "under_2.5_odd": 2.38,
+                "under_3.0_odd": 1.765,
+                "under_4.0_odd": 1.18,
+                "over_2.25_odd": 1.345,
+                "over_2.75_odd": 1.71,
+                "over_3.25_odd": 2.315,
+                "over_3.75_odd": 3.2,
+                "under_2.25_odd": 2.955,
+                "under_2.75_odd": 2.015,
+                "under_3.25_odd": 1.54,
+                "under_3.75_odd": 1.3,
+                "home_handicap_0.0_odd": 1.48,
+                "away_handicap_0.0_odd": 2.544,
+                "home_over_2.0_odd": 3.405,
+                "home_under_2.0_odd": 1.28,
+                "home_over_1.75_odd": 2.225,
+                "home_over_2.25_odd": 4.26,
+                "home_under_1.75_odd": 1.584,
+                "home_under_2.25_odd": 1.184,
+                "away_over_1.0_odd": 1.565,
+                "away_over_2.0_odd": 4.3,
+                "away_under_1.0_odd": 2.29,
+                "away_under_2.0_odd": 1.185,
+                "away_over_1.25_odd": 1.98,
+                "away_over_1.75_odd": 2.915,
+                "away_under_1.25_odd": 1.736,
+                "away_under_1.75_odd": 1.355
+            }
+        ]
+    }
+]

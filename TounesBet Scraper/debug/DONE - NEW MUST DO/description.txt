@@ -1,0 +1,4 @@
+instead of reauesting per league, the code will request per country
+better faster and doesn t skip any league
+must manipulate the tournament per page number to contain many tournaments
+make it optional : the user can choose country per request or tournaments per request (for stealth purpose)

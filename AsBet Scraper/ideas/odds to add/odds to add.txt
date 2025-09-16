@@ -1,0 +1,13 @@
+- to qualify *	+
+- corners total *****	+
+- total goals asian **	+
+- home/away total goals (european and asian) **	+
+- home/away to score in both halves yes or no ** (for tounesbet)
+- home/away 1st half total goals **
+- 2nd half total goals (european and asian)
+- home/away 2nd half total goals
+- home/away score in second half (same as total over 0.5 in 2nd half) (for tounesbet)
+- goals in both halves yes/no (not sure seems like odds are bad)
+- home/away (total odd or even) (the main total odd are bad ?)
+- 1st half total goals (european and asian)
+

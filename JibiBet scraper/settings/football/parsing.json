@@ -1,0 +1,63 @@
+{
+  "market_groups": [
+    {
+      "group_name": "Main Markets",
+      "markets": {
+        "1x2": {
+          "type": "regular",
+          "market_ids": ["1"],
+          "odds": {
+            "1_odd": { "keys": ["1"] },
+            "draw_odd": { "keys": ["2"] },
+            "2_odd": { "keys": ["3"] }
+          }
+        },
+        "double_chance": {
+          "type": "regular",
+          "market_ids": ["10"],
+          "odds": {
+            "1X_odd": { "keys": ["9"] },
+            "12_odd": { "keys": ["10"] },
+            "X2_odd": { "keys": ["11"] }
+          }
+        },
+        "both_teams_to_score": {
+          "type": "regular",
+          "market_ids": ["29"],
+          "odds": {
+            "both_score_odd": { "keys": ["74"] },
+            "both_noscore_odd": { "keys": ["76"] }
+          }
+        }
+      }
+    },
+    {
+      "group_name": "Total Markets",
+      "markets": {
+        "total_goals": {
+          "type": "total",
+          "market_ids": ["18"],
+          "line_prefix": "total=",
+          "odds": {
+            "over": { "name": "over_{sv}_odd", "keys": ["12"] },
+            "under": { "name": "under_{sv}_odd", "keys": ["13"] }
+          }
+        }
+      }
+    },
+    {
+      "group_name": "Handicap Markets",
+      "markets": {
+        "asian_handicap": {
+          "type": "handicap",
+          "market_ids": ["16"],
+          "line_prefix": "hcp=",
+          "odds": {
+            "home": { "name": "home_handicap_{sv}_odd", "keys": ["1714"] },
+            "away": { "name": "away_handicap_{sv}_odd", "keys": ["1715"] }
+          }
+        }
+      }
+    }
+  ]
+}

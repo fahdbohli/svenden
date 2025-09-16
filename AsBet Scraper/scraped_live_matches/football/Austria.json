@@ -1,0 +1,49 @@
+[
+    {
+        "last_updated": "2025-08-14T16:56:55.659596+01:00"
+    },
+    {
+        "tournament_name": "Landesliga",
+        "tournament_id": 12682,
+        "matches": [
+            {
+                "match_id": 27784344,
+                "date": "14/08/2025",
+                "time": "17:00",
+                "home_team": "USK Anif",
+                "away_team": "UFC Siezenheim",
+                "match_url": "https://www.asbet.org/en/sports/live/event-view/Soccer/Austria/12682/landesliga/27784344/usk-anif-ufc-siezenheim",
+                "X2_odd": 1.59,
+                "1X_odd": 1.43,
+                "12_odd": 1.25,
+                "over_3.75_odd": 2.52,
+                "under_3.75_odd": 1.46,
+                "over_3.25_odd": 1.95,
+                "under_3.25_odd": 1.75,
+                "over_2.75_odd": 1.59,
+                "under_2.75_odd": 2.21,
+                "over_3.5_odd": 2.2,
+                "under_3.5_odd": 1.6,
+                "over_2.5_odd": 1.48,
+                "under_2.5_odd": 2.45,
+                "home_handicap_0.0_odd": 1.71,
+                "away_handicap_0.0_odd": 2.01,
+                "over_3.0_odd": 1.75,
+                "under_3.0_odd": 1.95,
+                "home_handicap_-0.75_odd": 2.55,
+                "away_handicap_0.75_odd": 1.45,
+                "home_handicap_-0.5_odd": 2.2,
+                "away_handicap_0.5_odd": 1.6,
+                "home_handicap_0.25_odd": 1.54,
+                "away_handicap_-0.25_odd": 2.33,
+                "home_handicap_0.5_odd": 1.44,
+                "away_handicap_-0.5_odd": 2.59,
+                "draw_odd": 3.74,
+                "2_odd": 2.63,
+                "1_odd": 2.21,
+                "away_handicap_0.25_odd": 1.77,
+                "home_handicap_-0.25_odd": 1.93
+            }
+        ]
+    }
+]

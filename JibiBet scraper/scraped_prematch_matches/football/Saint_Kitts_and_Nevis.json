@@ -1,0 +1,44 @@
+[
+    {
+        "last_updated": "2025-09-06T14:46:02.701344+01:00"
+    },
+    {
+        "tournament_id": 1813780324069543936,
+        "tournament_name": "Premier League",
+        "matches": [
+            {
+                "match_id": 2575825988453797910,
+                "date": "07/09/2025",
+                "time": "01:00",
+                "home_team": "Slh Horsfords St. Pauls United",
+                "away_team": "Rams Village Superstars",
+                "1_odd": "2.58",
+                "draw_odd": "3.7",
+                "2_odd": "2.26",
+                "1X_odd": "1.55",
+                "12_odd": "1.25",
+                "X2_odd": "1.45",
+                "over_4.5_odd": "4.2",
+                "under_4.5_odd": "1.16",
+                "over_2.5_odd": "1.57",
+                "under_2.5_odd": "2.16",
+                "over_5.5_odd": "7.0",
+                "under_5.5_odd": "1.05",
+                "over_3.0_odd": "1.96",
+                "under_3.0_odd": "1.7",
+                "over_3.5_odd": "2.48",
+                "under_3.5_odd": "1.44",
+                "over_5.0_odd": "6.6",
+                "under_5.0_odd": "1.05",
+                "over_1.5_odd": "1.18",
+                "under_1.5_odd": "4.0",
+                "over_4.0_odd": "3.65",
+                "under_4.0_odd": "1.21",
+                "over_2.0_odd": "1.25",
+                "under_2.0_odd": "3.3",
+                "over_1.0_odd": "1.02",
+                "under_1.0_odd": "8.4"
+            }
+        ]
+    }
+]

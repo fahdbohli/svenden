@@ -1,0 +1,42 @@
+[
+    {
+        "tournament_name": "National Premier League",
+        "tournament_id": 17956,
+        "matches": [
+            {
+                "match_id": 27550575,
+                "date": "09/07/2025",
+                "time": "06:15",
+                "home_team": "Khovd",
+                "away_team": "Hunters FC",
+                "match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Mongolia/17956/national-premier-league/27550575/khovd-hunters-fc",
+                "home_handicap_-0.25_odd": 1.77,
+                "away_handicap_0.25_odd": 1.93,
+                "1X_odd": 1.43,
+                "12_odd": 1.19,
+                "X2_odd": 1.71,
+                "over_5.0_odd": 1.94,
+                "under_5.0_odd": 1.76,
+                "over_4.5_odd": 1.65,
+                "under_4.5_odd": 2.1,
+                "home_handicap_-0.75_odd": 2.21,
+                "away_handicap_0.75_odd": 1.59,
+                "home_handicap_0.0_odd": 1.61,
+                "away_handicap_0.0_odd": 2.17,
+                "1_odd": 1.99,
+                "draw_odd": 4.5,
+                "2_odd": 2.65,
+                "home_handicap_-0.5_odd": 1.97,
+                "away_handicap_0.5_odd": 1.73,
+                "home_handicap_0.25_odd": 1.51,
+                "away_handicap_-0.25_odd": 2.39,
+                "home_handicap_-1.0_odd": 2.5,
+                "away_handicap_1.0_odd": 1.47,
+                "over_5.5_odd": 2.35,
+                "under_5.5_odd": 1.53,
+                "home_handicap_0.5_odd": 1.44,
+                "away_handicap_-0.5_odd": 2.59
+            }
+        ]
+    }
+]

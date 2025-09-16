@@ -1,0 +1,97 @@
+[
+  {
+    "match_info": {
+      "home_team": "FC  Dynamo Kiev",
+      "away_team": "FC Midtjylland",
+      "date": "10/07/2025",
+      "time": "15:00",
+      "sources": [
+        "1xbet",
+        "Asbet",
+        "Clubx2",
+        "Tounesbet"
+      ],
+      "country": "Club Friendlies",
+      "tournament_1xbet": null,
+      "tournament_Asbet": null,
+      "tournament_Clubx2": null,
+      "tournament_Tounesbet": null
+    },
+    "complementary_set": "three_way",
+    "best_odds": {
+      "1_odd": {
+        "value": 2.453,
+        "source": "Tounesbet"
+      },
+      "draw_odd": {
+        "value": 4.0,
+        "source": "Clubx2"
+      },
+      "2_odd": {
+        "value": 3.179,
+        "source": "Tounesbet"
+      }
+    },
+    "arbitrage_percentage": 0.9722
+  },
+  {
+    "match_info": {
+      "home_team": "TSV Hartberg",
+      "away_team": "FK Crvena Zvezda",
+      "date": "10/07/2025",
+      "time": "15:00",
+      "sources": [
+        "1xbet",
+        "Asbet",
+        "Tounesbet"
+      ],
+      "country": "Club Friendlies",
+      "tournament_1xbet": null,
+      "tournament_Asbet": null,
+      "tournament_Tounesbet": null
+    },
+    "complementary_set": "both_score",
+    "best_odds": {
+      "both_score_odd": {
+        "value": 1.54,
+        "source": "Asbet"
+      },
+      "both_noscore_odd": {
+        "value": 2.893,
+        "source": "Tounesbet"
+      }
+    },
+    "arbitrage_percentage": 0.995
+  },
+  {
+    "match_info": {
+      "home_team": "FK DAC 1904 Dunajska Streda",
+      "away_team": "PFC Olexandria",
+      "date": "10/07/2025",
+      "time": "16:30",
+      "sources": [
+        "1xbet",
+        "Tounesbet"
+      ],
+      "country": "Club Friendlies",
+      "tournament_1xbet": null,
+      "tournament_Tounesbet": null
+    },
+    "complementary_set": "three_way",
+    "best_odds": {
+      "1_odd": {
+        "value": 2.65,
+        "source": "1xbet"
+      },
+      "draw_odd": {
+        "value": 3.96,
+        "source": "Tounesbet"
+      },
+      "2_odd": {
+        "value": 2.75,
+        "source": "Tounesbet"
+      }
+    },
+    "arbitrage_percentage": 0.9935
+  }
+]

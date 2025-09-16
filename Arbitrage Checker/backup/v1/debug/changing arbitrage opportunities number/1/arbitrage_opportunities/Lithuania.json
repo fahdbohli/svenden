@@ -1,0 +1,29 @@
+[
+  {
+    "match_info": {
+      "home_team": "Dainava Alytus",
+      "away_team": "FA Siauliai",
+      "date": "11/05/2025",
+      "time": "16:25",
+      "sources": [
+        "1xbet",
+        "Asbet"
+      ],
+      "country": "Lithuania",
+      "tournament_1xbet": null,
+      "tournament_Asbet": null
+    },
+    "complementary_set": "pair_4",
+    "best_odds": {
+      "both_score_odd": {
+        "value": 1.98,
+        "source": "Asbet"
+      },
+      "both_noscore_odd": {
+        "value": 2.179,
+        "source": "1xbet"
+      }
+    },
+    "arbitrage_percentage": 0.964
+  }
+]

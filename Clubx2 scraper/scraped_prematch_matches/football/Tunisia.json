@@ -1,0 +1,96 @@
+[
+    {
+        "last_updated": "2025-09-16T20:53:19.923340+01:00"
+    },
+    {
+        "tournament_id": 2952,
+        "tournament_name": "Ligue 1",
+        "matches": [
+            {
+                "match_id": 13916701,
+                "date": "17/09/2025",
+                "time": "15:30",
+                "home_team": "CA Bizertin",
+                "away_team": "AS Gabes",
+                "1_odd": 1.7,
+                "draw_odd": 3.1,
+                "2_odd": 5.0,
+                "1X_odd": 1.1429,
+                "12_odd": 1.2858,
+                "X2_odd": 1.8334,
+                "over_2.5_odd": 2.4,
+                "under_2.5_odd": 1.4546,
+                "first_half_over_0.5_odd": 1.5,
+                "first_half_under_0.5_odd": 2.3
+            },
+            {
+                "match_id": 13916697,
+                "date": "17/09/2025",
+                "time": "15:30",
+                "home_team": "CS Sfaxien",
+                "away_team": "US Ben Guerdane",
+                "1_odd": 1.52,
+                "draw_odd": 3.4,
+                "2_odd": 6.3334,
+                "1X_odd": 1.1,
+                "12_odd": 1.2308,
+                "X2_odd": 2.0834,
+                "over_2.5_odd": 2.3,
+                "under_2.5_odd": 1.5,
+                "first_half_over_0.5_odd": 1.4546,
+                "first_half_under_0.5_odd": 2.4
+            },
+            {
+                "match_id": 13916699,
+                "date": "17/09/2025",
+                "time": "15:30",
+                "home_team": "ES Zarzis",
+                "away_team": "US Monastir",
+                "1_odd": 2.4546,
+                "draw_odd": 2.7143,
+                "2_odd": 3.0,
+                "1X_odd": 1.32,
+                "12_odd": 1.35,
+                "X2_odd": 1.4286,
+                "over_1.5_odd": 1.6667,
+                "under_1.5_odd": 2.0,
+                "first_half_over_0.5_odd": 1.6667,
+                "first_half_under_0.5_odd": 2.0
+            },
+            {
+                "match_id": 13916694,
+                "date": "17/09/2025",
+                "time": "15:30",
+                "home_team": "Js Omrane",
+                "away_team": "Africain",
+                "1_odd": 4.25,
+                "draw_odd": 3.4,
+                "2_odd": 1.7273,
+                "1X_odd": 1.8182,
+                "12_odd": 1.25,
+                "X2_odd": 1.1765,
+                "over_2.5_odd": 2.1,
+                "under_2.5_odd": 1.6,
+                "first_half_over_0.5_odd": 1.4,
+                "first_half_under_0.5_odd": 2.5455
+            },
+            {
+                "match_id": 13916700,
+                "date": "18/09/2025",
+                "time": "15:30",
+                "home_team": "Avenir S Marsa",
+                "away_team": "AS Soliman",
+                "1_odd": 1.8182,
+                "draw_odd": 2.9,
+                "2_odd": 4.2,
+                "1X_odd": 1.2,
+                "12_odd": 1.2858,
+                "X2_odd": 1.7,
+                "over_1.5_odd": 1.5,
+                "under_1.5_odd": 2.3,
+                "first_half_over_0.5_odd": 1.5,
+                "first_half_under_0.5_odd": 2.3
+            }
+        ]
+    }
+]

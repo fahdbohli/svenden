@@ -1,0 +1,5 @@
+le retrait n'est pas rapide malheureusement ;
+durée de retrait dépond de plusieurs facteurs : montant, format du montant , méthode , charge des retraits dans le système ,.... Ci-dessous les durées approximatives des 3 méthodes SuperT de retrait :
+- retrait SuperT D17 ynajjem yakhou wa9t : entre 24 heures et 48 heures ou plus parfois.
+- retrait SuperT FLOUCI ynajjem yakhou wa9t : entre 24 heures et 48 heures à 72 heures ou parfois plusieurs jours.
+- retrait SuperT BANK ynajjem yakhou wa9t : entre 48 heures et 72 heures à plusieurs jours.

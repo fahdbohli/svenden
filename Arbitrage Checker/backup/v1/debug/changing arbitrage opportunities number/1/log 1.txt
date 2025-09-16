@@ -1,0 +1,143 @@
+C:\Users\HP\AppData\Local\Programs\Python\Python311\python.exe "C:/Users/HP/PycharmProjects/Arbitrage Betting/Football/Arbitrage Checker/arbitrage_checker.py" 
+Team matching tests: 16/16 passed
+Country Africa: Found 4 matching groups across sources.
+Country Africa Cup of Nations U20: Found 18 matching groups across sources.
+Country Algeria: Found 18 matching groups across sources.
+Country Argentina: Found 54 matching groups across sources.
+Country Armenia: Found 2 matching groups across sources.
+Country Aruba: Found 1 matching groups across sources.
+Country Aruba Championship: Found 1 matching groups across sources.
+Country Australia: Found 123 matching groups across sources.
+Country Austria: Found 48 matching groups across sources.
+Country Azerbaijan: Found 1 matching groups across sources.
+Country Bangladesh: Found 10 matching groups across sources.
+Country Belarus: Found 6 matching groups across sources.
+Country Belgium: Found 13 matching groups across sources.
+Country Bhutan: Found 1 matching groups across sources.
+Country Bolivia: Found 9 matching groups across sources.
+Country Bosnia and Herzegovina: Found 8 matching groups across sources.
+Arbitrage found (pair_4): HSK Zrinjski vs FK Radnik Bijeljina on 10/05/2025 at 15:00, 0.9983
+Country Bosnia and Herzegovina: Found 1 arbitrage opportunities.
+Country Bosnia-Herz: Found 8 matching groups across sources.
+Arbitrage found (pair_4): HSK Zrinjski vs FK Radnik Bijeljina on 10/05/2025 at 15:00, 0.9983
+Country Bosnia-Herz: Found 1 arbitrage opportunities.
+Country BosniaHerzegovina: Found 8 matching groups across sources.
+Arbitrage found (pair_4): HSK Zrinjski vs FK Radnik Bijeljina on 10/05/2025 at 15:00, 0.9983
+Country BosniaHerzegovina: Found 1 arbitrage opportunities.
+Country Brazil: Found 70 matching groups across sources.
+Country Bulgaria: Found 11 matching groups across sources.
+Country Canada: Found 6 matching groups across sources.
+Country Chile: Found 23 matching groups across sources.
+Country China: Found 5 matching groups across sources.
+Country Club World Cup: Found 14 matching groups across sources.
+Country Colombia: Found 21 matching groups across sources.
+Country Copa Libertadores: Found 16 matching groups across sources.
+Arbitrage found (pair_4): Velez Sarsfield vs CD San Antonio Bulo Bulo on 14/05/2025 at 23:00, 0.9981
+Country Copa Libertadores: Found 1 arbitrage opportunities.
+Country Copa Sudamericana: Found 14 matching groups across sources.
+Country Croatia: Found 15 matching groups across sources.
+Country Cuba: Found 1 matching groups across sources.
+Country Cyprus: Found 9 matching groups across sources.
+Country Czech Republic: Found 44 matching groups across sources.
+Country Czech_Republic: Found 44 matching groups across sources.
+Country Denmark: Found 33 matching groups across sources.
+Country Djibouti: Found 1 matching groups across sources.
+Country Ecuador: Found 11 matching groups across sources.
+Arbitrage found (pair_2): Imbabura SC vs Guayaquil City FC on 09/05/2025 at 01:00, 0.9958
+Country Ecuador: Found 1 arbitrage opportunities.
+Country Egypt: Found 14 matching groups across sources.
+Country England: Found 41 matching groups across sources.
+Arbitrage found (three_way): Chelsea vs Manchester United on 16/05/2025 at 20:15, 0.9914
+Arbitrage found (three_way): Chelsea vs Manchester United on 16/05/2025 at 20:15, 0.9914
+Country England: Found 2 arbitrage opportunities.
+Country Estonia: Found 7 matching groups across sources.
+Country Ethiopia: Found 3 matching groups across sources.
+Country Europe: Found 2 matching groups across sources.
+Country Faroe Islands: Found 6 matching groups across sources.
+Country Faroe_Islands: Found 6 matching groups across sources.
+Country Finland: Found 24 matching groups across sources.
+Country France: Found 44 matching groups across sources.
+Country Friendlies: Found 14 matching groups across sources.
+Country Gambia: Found 2 matching groups across sources.
+Country Gambian Championship: Found 2 matching groups across sources.
+Country Georgia: Found 6 matching groups across sources.
+Country Germany: Found 122 matching groups across sources.
+Country Greece: Found 11 matching groups across sources.
+Country Guatemala: Found 1 matching groups across sources.
+Country Hong Kong: Found 2 matching groups across sources.
+Country Hong_Kong: Found 2 matching groups across sources.
+Country Hungary: Found 18 matching groups across sources.
+Country Iceland: Found 19 matching groups across sources.
+Country Indonesia: Found 13 matching groups across sources.
+Country International: Found 14 matching groups across sources.
+Country Ireland: Found 23 matching groups across sources.
+Country Israel: Found 21 matching groups across sources.
+Country Italy: Found 38 matching groups across sources.
+Country Jamaica: Found 4 matching groups across sources.
+Country Japan: Found 27 matching groups across sources.
+Country Kazakhstan: Found 8 matching groups across sources.
+Country Kenya: Found 2 matching groups across sources.
+Country Latvia: Found 9 matching groups across sources.
+Country Libya: Found 3 matching groups across sources.
+Country Lithuania: Found 12 matching groups across sources.
+Arbitrage found (pair_4): Dainava Alytus vs FA Siauliai on 11/05/2025 at 16:25, 0.9640
+Country Lithuania: Found 1 arbitrage opportunities.
+Country MLS+: Found 30 matching groups across sources.
+Country Malta: Found 3 matching groups across sources.
+Country Mexico: Found 9 matching groups across sources.
+Country Netherlands: Found 26 matching groups across sources.
+Country New Zealand: Found 1 matching groups across sources.
+Country New_Zealand: Found 0 matching groups across sources.
+Country Nicaragua: Found 1 matching groups across sources.
+Country Northern Ireland: Found 6 matching groups across sources.
+Country Northern_Ireland: Found 6 matching groups across sources.
+Country Norway: Found 36 matching groups across sources.
+Country Panama: Found 9 matching groups across sources.
+Country Paraguay: Found 19 matching groups across sources.
+Country Peru: Found 19 matching groups across sources.
+Country Poland: Found 72 matching groups across sources.
+Country Portugal: Found 33 matching groups across sources.
+Country Qatar: Found 4 matching groups across sources.
+Country Romania: Found 27 matching groups across sources.
+Country Russia: Found 33 matching groups across sources.
+Country Saudi Arabia: Found 11 matching groups across sources.
+Country Saudi_Arabia: Found 11 matching groups across sources.
+Country Scotland: Found 21 matching groups across sources.
+Country Sierra Leone: Found 1 matching groups across sources.
+Country Slovakia: Found 9 matching groups across sources.
+Country Slovenia: Found 9 matching groups across sources.
+Country South Africa: Found 15 matching groups across sources.
+Country South America: Found 14 matching groups across sources.
+Country South Korea: Found 33 matching groups across sources.
+Country South_Africa: Found 15 matching groups across sources.
+Country South_Korea: Found 33 matching groups across sources.
+Country Spain: Found 87 matching groups across sources.
+Country Suriname: Found 2 matching groups across sources.
+Country Suriname Championship: Found 2 matching groups across sources.
+Country Sweden: Found 105 matching groups across sources.
+Country Switzerland: Found 17 matching groups across sources.
+Country Tajikistan: Found 6 matching groups across sources.
+Country Trinidad and Tobago Pro League: Found 2 matching groups across sources.
+Country TrinidadTobago: Found 2 matching groups across sources.
+Country Turkey: Found 24 matching groups across sources.
+Country UAE: Found 7 matching groups across sources.
+Country UEFA Champions League: Found 14 matching groups across sources.
+Country UEFA Conference League: Found 14 matching groups across sources.
+Country UEFA Europa League: Found 14 matching groups across sources.
+Country UEFA Nations League: Found 14 matching groups across sources.
+Country USA: Found 71 matching groups across sources.
+Country Ukraine: Found 14 matching groups across sources.
+Arbitrage found (pair_4): Vorskla Poltava U19 vs Chornomorets Odesa U19 on 09/05/2025 at 11:00, 0.8808
+Arbitrage found (pair_5): Vorskla Poltava U19 vs Chornomorets Odesa U19 on 09/05/2025 at 11:00, 0.8567
+Country Ukraine: Found 1 arbitrage opportunities.
+Country United_States: Found 30 matching groups across sources.
+Country Uzbekistan: Found 2 matching groups across sources.
+Country Venezuela: Found 3 matching groups across sources.
+Country Vietnam: Found 3 matching groups across sources.
+Country World: Found 19 matching groups across sources.
+Country World Cup 2026: Found 14 matching groups across sources.
+Country World Cup 2026 Qualification: Found 14 matching groups across sources.
+Total matching groups: 2177
+Total arbitrage opportunities: 9
+
+Process finished with exit code 0

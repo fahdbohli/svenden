@@ -1,0 +1,19 @@
+HTTP/2 200 OK
+Content-Type: application/json; UTF-8
+Server: nginx
+Date: Sun, 18 May 2025 01:02:44 GMT
+Access-Control-Allow-Origin: *
+Timing-Allow-Origin: *
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Expires: -1
+X-Epoch: 1747115908808
+X-Version: 1747530130675
+Strict-Transport-Security: max-age=15768000
+Vary: accept-encoding
+X-Cache: Miss from cloudfront
+Via: 1.1 7c31222dfb462f00b764fa64f04146ca.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: MXP53-P2
+Alt-Svc: h3=":443"; ma=86400
+X-Amz-Cf-Id: yscX66WVuT8DwDbv5m4J8-OPQwKKBzL1viuajP5OuVvVl4CSq9vOxA==
+
+{"epoch":1747115908808,"version":1747530130675,"fixtures_versions":[1747530130675,1747530130676,1747530130677],"markets_versions":[1747530130678,1747530130679,1747530130680],"generated":1747530164139,"status":{"b79acebc":3394,"c19b525b":3392,"e668a2e4":2139,"fce0816":9423,"e127d117":1403,"184f04a":3558,"c09dfe2a":5996,"6135b1ec":6107,"88b1acf4":7155,"29fe5b1f":7489,"8f3bd0c0":4440,"82c16827":4101,"f5c658b1":1139,"5beccc5":5667,"91aa9db5":5625,"28f8f76e":6200,"77308e7c":2238,"e1c0693a":1476,"c7f03a33":3657,"5ef96b89":1405,"2d308dc":2701,"51244fca":1141,"82a38ff6":5894,"ecdd69f0":3655,"ff51244f":4632,"b69c62cd":2525,"b1f1a6d4":6806,"6ba2cd12":6803,"72b9fc53":4289,"c6f69642":1823,"665875f5":7425,"2e939f06":2708,"f83ce056":1402,"9cb79d7f":4485,"62148139":4409,"85acac3e":1413,"f7843f09":3139,"b0f70aa5":7485,"26237f5c":5644,"717f74ab":3408,"1632817a":5547,"2f953377":1127,"589203e1":4298,"95cfc11e":3137,"8447422":1137,"885614d9":1479,"782e80ad":1747,"f92ff824":6438,"48681207":1620,"1513b1af":4109,"75d4384a":2675,"b7656e30":1639,"678443d":4100,"1bc8399d":1432,"5994af90":2516,"78c93880":2683,"9bda5966":3806}}

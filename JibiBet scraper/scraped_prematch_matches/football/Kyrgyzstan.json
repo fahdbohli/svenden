@@ -1,0 +1,26 @@
+[
+    {
+        "last_updated": "2025-08-10T14:35:25.552316+01:00"
+    },
+    {
+        "tournament_id": 1985000902641192960,
+        "tournament_name": "Premier League",
+        "matches": [
+            {
+                "match_id": 2566276564052480043,
+                "date": "10/08/2025",
+                "time": "16:00",
+                "home_team": "FK Alay Osh",
+                "away_team": "FC Asiagoal",
+                "1_odd": "1.28",
+                "draw_odd": "4.7",
+                "2_odd": "9.8",
+                "1X_odd": "1.0",
+                "12_odd": "1.13",
+                "X2_odd": "3.1",
+                "over_2.5_odd": "1.78",
+                "under_2.5_odd": "1.92"
+            }
+        ]
+    }
+]

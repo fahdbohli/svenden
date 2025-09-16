@@ -1,0 +1,44 @@
+[
+    {
+        "last_updated": "2025-09-16T20:49:45.765827+01:00"
+    },
+    {
+        "tournament_id": 1672291925077704704,
+        "tournament_name": "Primera B",
+        "matches": [
+            {
+                "match_id": 2509735432120569888,
+                "date": "03/10/2025",
+                "time": "23:30",
+                "home_team": "Chile Primera B",
+                "away_team": "Winner 2025"
+            }
+        ]
+    },
+    {
+        "tournament_id": 1672291841594277888,
+        "tournament_name": "Copa Chile",
+        "matches": [
+            {
+                "match_id": 2564724696671195165,
+                "date": "29/09/2025",
+                "time": "23:00",
+                "home_team": "Copa Chile",
+                "away_team": "Winner 2025"
+            }
+        ]
+    },
+    {
+        "tournament_id": 1707822903636135936,
+        "tournament_name": "Primera Division",
+        "matches": [
+            {
+                "match_id": 2509714576157847565,
+                "date": "26/09/2025",
+                "time": "23:00",
+                "home_team": "Chile Primera Division",
+                "away_team": "Winner 2025"
+            }
+        ]
+    }
+]

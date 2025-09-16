@@ -1,0 +1,44 @@
+[
+    {
+        "last_updated": "2025-09-16T20:49:45.771941+01:00"
+    },
+    {
+        "tournament_id": 1670092873573470208,
+        "tournament_name": "Kategoria Superiore",
+        "matches": [
+            {
+                "match_id": 2579498732995350574,
+                "date": "17/09/2025",
+                "time": "14:00",
+                "home_team": "KF Teuta",
+                "away_team": "FC Dinamo City",
+                "1_odd": "2.6",
+                "draw_odd": "2.88",
+                "2_odd": "2.82",
+                "1X_odd": "1.4",
+                "12_odd": "1.35",
+                "X2_odd": "1.45",
+                "over_4.5_odd": "8.2",
+                "under_4.5_odd": "1.04",
+                "over_2.5_odd": "2.46",
+                "under_2.5_odd": "1.47",
+                "over_3.0_odd": "3.9",
+                "under_3.0_odd": "1.2",
+                "over_3.5_odd": "4.6",
+                "under_3.5_odd": "1.15",
+                "over_0.5_odd": "1.1",
+                "under_0.5_odd": "5.6",
+                "over_5.0_odd": "11.0",
+                "under_5.0_odd": "1.0",
+                "over_1.5_odd": "1.49",
+                "under_1.5_odd": "2.4",
+                "over_4.0_odd": "7.8",
+                "under_4.0_odd": "1.04",
+                "over_2.0_odd": "1.87",
+                "under_2.0_odd": "1.81",
+                "over_1.0_odd": "1.15",
+                "under_1.0_odd": "4.7"
+            }
+        ]
+    }
+]

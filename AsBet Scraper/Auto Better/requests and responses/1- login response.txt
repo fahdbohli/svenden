@@ -1,0 +1,1 @@
+{"code":0,"rid":"7b1e1c4ac68d98c6aa92e4160e57ecfb448821ea","data":{"user_id":259999265,"auth_token":"3291D158B52086C25FCB64F46EAC0E32","qr_code_origin":null,"authentication_status":0,"is_new_client":null,"deposit_count":1}}

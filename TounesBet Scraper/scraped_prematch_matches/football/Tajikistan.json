@@ -1,0 +1,101 @@
+[
+    {
+        "last_updated": "2025-09-16T20:55:03.945473+01:00"
+    },
+    {
+        "tournament_name": "Tajikistan premier League",
+        "tournament_id": 21849,
+        "matches": [
+            {
+                "match_id": 9906411,
+                "tournament_id": 21849,
+                "date": "18/09/2025",
+                "time": "14:00",
+                "home_team": "Regar-Tadaz",
+                "away_team": "FK Istaravshan",
+                "1_odd": null,
+                "draw_odd": null,
+                "2_odd": null,
+                "both_score_odd": null,
+                "both_noscore_odd": null,
+                "under_2.5_odd": null,
+                "over_2.5_odd": null,
+                "1X_odd": null,
+                "12_odd": null,
+                "X2_odd": null
+            },
+            {
+                "match_id": 9906413,
+                "tournament_id": 21849,
+                "date": "18/09/2025",
+                "time": "14:00",
+                "home_team": "FC Khujand",
+                "away_team": "Eskhata",
+                "1_odd": null,
+                "draw_odd": null,
+                "2_odd": null,
+                "both_score_odd": null,
+                "both_noscore_odd": null,
+                "under_2.5_odd": null,
+                "over_2.5_odd": null,
+                "1X_odd": null,
+                "12_odd": null,
+                "X2_odd": null
+            },
+            {
+                "match_id": 9906419,
+                "tournament_id": 21849,
+                "date": "19/09/2025",
+                "time": "14:00",
+                "home_team": "Ravshan Kulob",
+                "away_team": "Panjsher",
+                "1_odd": null,
+                "draw_odd": null,
+                "2_odd": null,
+                "both_score_odd": null,
+                "both_noscore_odd": null,
+                "under_2.5_odd": null,
+                "over_2.5_odd": null,
+                "1X_odd": null,
+                "12_odd": null,
+                "X2_odd": null
+            },
+            {
+                "match_id": 9906417,
+                "tournament_id": 21849,
+                "date": "20/09/2025",
+                "time": "14:00",
+                "home_team": "FC Khujand",
+                "away_team": "FC Hulbuk",
+                "1_odd": null,
+                "draw_odd": null,
+                "2_odd": null,
+                "both_score_odd": null,
+                "both_noscore_odd": null,
+                "under_2.5_odd": null,
+                "over_2.5_odd": null,
+                "1X_odd": null,
+                "12_odd": null,
+                "X2_odd": null
+            },
+            {
+                "match_id": 9906421,
+                "tournament_id": 21849,
+                "date": "20/09/2025",
+                "time": "14:00",
+                "home_team": "FK Vakhsh",
+                "away_team": "CSKA Pomir",
+                "1_odd": null,
+                "draw_odd": null,
+                "2_odd": null,
+                "both_score_odd": null,
+                "both_noscore_odd": null,
+                "under_2.5_odd": null,
+                "over_2.5_odd": null,
+                "1X_odd": null,
+                "12_odd": null,
+                "X2_odd": null
+            }
+        ]
+    }
+]

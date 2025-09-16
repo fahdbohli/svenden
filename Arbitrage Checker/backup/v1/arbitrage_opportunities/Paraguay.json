@@ -1,0 +1,33 @@
+[
+  {
+    "match_info": {
+      "home_team": "CA Juventud de Loma Pyta",
+      "away_team": "Pastoreo FC",
+      "date": "10/07/2025",
+      "time": "17:00",
+      "sources": [
+        "1xbet",
+        "Asbet",
+        "Clubx2",
+        "Tounesbet"
+      ],
+      "country": "Paraguay",
+      "tournament_1xbet": null,
+      "tournament_Asbet": null,
+      "tournament_Clubx2": null,
+      "tournament_Tounesbet": null
+    },
+    "complementary_set": "one_vs_x2",
+    "best_odds": {
+      "1_odd": {
+        "value": 14.52,
+        "source": "Tounesbet"
+      },
+      "X2_odd": {
+        "value": 1.1,
+        "source": "Asbet"
+      }
+    },
+    "arbitrage_percentage": 0.978
+  }
+]

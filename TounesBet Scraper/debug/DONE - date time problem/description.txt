@@ -1,0 +1,1 @@
+in the live mode, when calculating the estimated start time of the match, also make sure to adjust the date correctly

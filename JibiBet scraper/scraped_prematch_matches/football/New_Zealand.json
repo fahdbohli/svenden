@@ -1,0 +1,44 @@
+[
+    {
+        "last_updated": "2025-09-06T14:46:02.698412+01:00"
+    },
+    {
+        "tournament_id": 1997269633220096000,
+        "tournament_name": "Chatham Cup",
+        "matches": [
+            {
+                "match_id": 2576099201746350115,
+                "date": "07/09/2025",
+                "time": "02:00",
+                "home_team": "Auckland United FC",
+                "away_team": "Wellington Olympic",
+                "1_odd": "2.78",
+                "draw_odd": "3.75",
+                "2_odd": "2.12",
+                "1X_odd": "1.6",
+                "12_odd": "1.25",
+                "X2_odd": "1.4",
+                "over_4.5_odd": "3.3",
+                "under_4.5_odd": "1.26",
+                "over_2.5_odd": "1.41",
+                "under_2.5_odd": "2.56",
+                "over_5.5_odd": "5.6",
+                "under_5.5_odd": "1.09",
+                "over_3.0_odd": "1.63",
+                "under_3.0_odd": "2.06",
+                "over_3.5_odd": "2.04",
+                "under_3.5_odd": "1.64",
+                "over_6.0_odd": "8.0",
+                "under_6.0_odd": "1.03",
+                "over_2.0_odd": "1.16",
+                "under_2.0_odd": "4.2",
+                "over_5.0_odd": "5.0",
+                "under_5.0_odd": "1.11",
+                "over_1.5_odd": "1.12",
+                "under_1.5_odd": "4.9",
+                "over_4.0_odd": "2.76",
+                "under_4.0_odd": "1.36"
+            }
+        ]
+    }
+]

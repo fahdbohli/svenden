@@ -1,0 +1,3 @@
+- add all the inolved arbitrage odds to the misvalue log not just the changed odd
+- only the confirled opportunities
+- revise the misvalue source detection system (its not like the the ev overprice detection system)

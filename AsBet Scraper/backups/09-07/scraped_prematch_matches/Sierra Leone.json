@@ -1,0 +1,32 @@
+[
+    {
+        "tournament_name": "Premier League",
+        "tournament_id": 18280197,
+        "matches": [
+            {
+                "match_id": 27552412,
+                "date": "09/07/2025",
+                "time": "17:15",
+                "home_team": "Luawa FC",
+                "away_team": "Abacha City FC",
+                "match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Sierra Leone/18280197/premier-league/27552412/luawa-fc-abacha-city-fc",
+                "over_2.0_odd": 2.52,
+                "under_2.0_odd": 1.46,
+                "home_handicap_-0.5_odd": 2.3,
+                "away_handicap_0.5_odd": 1.55,
+                "home_handicap_0.0_odd": 1.52,
+                "away_handicap_0.0_odd": 2.37,
+                "1X_odd": 1.26,
+                "12_odd": 1.46,
+                "X2_odd": 1.54,
+                "over_1.5_odd": 1.76,
+                "under_1.5_odd": 1.94,
+                "home_handicap_-0.25_odd": 1.96,
+                "away_handicap_0.25_odd": 1.74,
+                "1_odd": 2.32,
+                "draw_odd": 2.53,
+                "2_odd": 3.65
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "last_updated": "2025-09-16T13:28:07.715288+01:00"
+    },
+    {
+        "tournament_id": 38317,
+        "tournament_name": "CAF Champions League",
+        "matches": [
+            {
+                "match_id": 654003966,
+                "date": "19/09/2025",
+                "time": "15:00",
+                "home_team": "Dadje",
+                "away_team": "Al-Ahly Tripoli",
+                "1_odd": 4.35,
+                "draw_odd": 3.54,
+                "2_odd": 1.67,
+                "1X_odd": 1.93,
+                "12_odd": 1.19,
+                "X2_odd": 1.13,
+                "both_score_odd": 1.94,
+                "both_noscore_odd": 1.73,
+                "over_1.5_odd": 1.29,
+                "over_2.0_odd": 1.5,
+                "over_2.5_odd": 2.02,
+                "over_3.0_odd": 3,
+                "over_3.5_odd": 3.81,
+                "under_1.5_odd": 3.16,
+                "under_2.0_odd": 2.35,
+                "under_2.5_odd": 1.67,
+                "under_3.0_odd": 1.32,
+                "under_3.5_odd": 1.2,
+                "home_handicap_0.0_odd": 3.24,
+                "home_handicap_1.0_odd": 1.48,
+                "home_handicap_1.5_odd": 1.28,
+                "away_handicap_0.0_odd": 1.27,
+                "away_handicap_-1.0_odd": 2.4,
+                "away_handicap_-1.5_odd": 3.19,
+                "home_over_0.5_odd": 1.53,
+                "home_under_0.5_odd": 2.22,
+                "away_over_1.5_odd": 1.93,
+                "away_under_1.5_odd": 1.74
+            }
+        ]
+    }
+]

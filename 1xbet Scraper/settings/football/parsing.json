@@ -1,0 +1,168 @@
+[
+  {
+    "description": "1X2 and Double Chance",
+    "conditions": {
+      "T": [1, 2, 3, 4, 5, 6]
+    },
+    "key_map": {
+      "marker": "T",
+      "map": {
+        "1": "1_odd",
+        "2": "draw_odd",
+        "3": "2_odd",
+        "4": "1X_odd",
+        "5": "12_odd",
+        "6": "X2_odd"
+      }
+    }
+  },
+  {
+    "description": "Home/Away to Qualify",
+    "conditions": {
+      "G": 100,
+      "T": [794, 795]
+    },
+    "key_map": {
+      "marker": "T",
+      "map": {
+        "794": "home_qualify_odd",
+        "795": "away_qualify_odd"
+      }
+    }
+  },
+  {
+    "description": "Both to Score",
+    "conditions": {
+      "G": 19,
+      "T": [180, 181]
+    },
+    "key_map": {
+      "marker": "T",
+      "map": {
+        "180": "both_score_odd",
+        "181": "both_noscore_odd"
+      }
+    }
+  },
+  {
+    "description": "Total Under",
+    "conditions": {
+      "T": 10
+    },
+    "key_format": "under_{p:.1f}_odd"
+  },
+  {
+    "description": "Total Over",
+    "conditions": {
+      "T": 9
+    },
+    "key_format": "over_{p:.1f}_odd"
+  },
+  {
+    "description": "Home Total Under",
+    "conditions": {
+      "T": 12
+    },
+    "key_format": "home_under_{p:.1f}_odd"
+  },
+  {
+    "description": "Home Total Over",
+    "conditions": {
+      "T": 11
+    },
+    "key_format": "home_over_{p:.1f}_odd"
+  },
+  {
+    "description": "Away Total Under",
+    "conditions": {
+      "T": 14
+    },
+    "key_format": "away_under_{p:.1f}_odd"
+  },
+  {
+    "description": "Away Total Over",
+    "conditions": {
+      "T": 13
+    },
+    "key_format": "away_over_{p:.1f}_odd"
+  },
+  {
+    "description": "Asian Total Over",
+    "conditions": {
+      "G": 99,
+      "T": 3827
+    },
+    "key_format": "over_{p:.2f}_odd"
+  },
+  {
+    "description": "Asian Total Under",
+    "conditions": {
+      "G": 99,
+      "T": 3828
+    },
+    "key_format": "under_{p:.2f}_odd"
+  },
+  {
+    "description": "Home Asian Total Over",
+    "conditions": {
+      "G": 8427,
+      "T": 7778
+    },
+    "key_format": "home_over_{p:.2f}_odd"
+  },
+  {
+    "description": "Home Asian Total Under",
+    "conditions": {
+      "G": 8427,
+      "T": 7779
+    },
+    "key_format": "home_under_{p:.2f}_odd"
+  },
+  {
+    "description": "Away Asian Total Over",
+    "conditions": {
+      "G": 8429,
+      "T": 7780
+    },
+    "key_format": "away_over_{p:.2f}_odd"
+  },
+  {
+    "description": "Away Asian Total Under",
+    "conditions": {
+      "G": 8429,
+      "T": 7781
+    },
+    "key_format": "away_under_{p:.2f}_odd"
+  },
+  {
+    "description": "Handicap",
+    "full_mapping_only": true,
+    "conditions": {
+      "T": [7, 8]
+    },
+    "key_format_map": {
+      "marker": "T",
+      "map": {
+        "7": "home_handicap_{p:.1f}_odd",
+        "8": "away_handicap_{p:.1f}_odd"
+      }
+    }
+  },
+  {
+    "description": "Asian Handicap",
+    "full_mapping_only": true,
+    "conditions": {
+      "T": [
+        3829,
+        3830
+      ]
+    },
+    "key_format_map": {
+      "marker": "T",
+      "map": {
+        "3829": "home_handicap_{p:.2f}_odd",
+        "3830": "away_handicap_{p:.2f}_odd"
+      }
+    }
+  }
+ ]

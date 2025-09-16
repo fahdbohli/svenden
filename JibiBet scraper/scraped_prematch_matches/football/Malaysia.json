@@ -1,0 +1,44 @@
+[
+    {
+        "last_updated": "2025-09-14T13:23:59.381823+01:00"
+    },
+    {
+        "tournament_id": 1729649797104799744,
+        "tournament_name": "FA Cup",
+        "matches": [
+            {
+                "match_id": 2578628258618814503,
+                "date": "15/09/2025",
+                "time": "14:00",
+                "home_team": "Penang FA",
+                "away_team": "Melaka FC",
+                "1_odd": "2.3",
+                "draw_odd": "3.8",
+                "2_odd": "2.48",
+                "1X_odd": "1.45",
+                "12_odd": "1.25",
+                "X2_odd": "1.55",
+                "over_4.5_odd": "4.1",
+                "under_4.5_odd": "1.17",
+                "over_2.5_odd": "1.56",
+                "under_2.5_odd": "2.18",
+                "over_5.5_odd": "6.6",
+                "under_5.5_odd": "1.06",
+                "over_3.0_odd": "1.92",
+                "under_3.0_odd": "1.73",
+                "over_3.5_odd": "2.4",
+                "under_3.5_odd": "1.46",
+                "over_5.0_odd": "6.4",
+                "under_5.0_odd": "1.06",
+                "over_1.5_odd": "1.17",
+                "under_1.5_odd": "4.2",
+                "over_4.0_odd": "3.55",
+                "under_4.0_odd": "1.23",
+                "over_2.0_odd": "1.24",
+                "under_2.0_odd": "3.45",
+                "over_1.0_odd": "1.02",
+                "under_1.0_odd": "8.8"
+            }
+        ]
+    }
+]

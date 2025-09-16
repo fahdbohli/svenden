@@ -1,0 +1,23 @@
+POST /Account/Login HTTP/2
+Host: tounesbet.com
+Cookie: TimeZone=-60; _culture=fr-fr; fpid=0FCNP+Dzjp4TduEGKCyGdlemTglKQMWw9H77uyEcfa+ooke+Tj/wVamzBvREJ0HaANS556IUhVPL7K99/+Fh2g==; TimeZone=-60; DDoS_Protection=805c244cfdcf6f7fc800f53c31cab2ff; ASP.NET_SessionId=fqds3kolkj3hhvsxvybr44is; __RequestVerificationToken=yu0KuaoMcvCCsvwXFtul5tbNiT2kHDe4wOh1NYUOUyMHoToQRvQQg_k6dEb_L4_ETKvNQEakfbIP_HizBpJo-ewUamWOUX04WwCA65_MOGc1; _gid=GA1.2.1700173859.1753193492; _vid_t=1dEW4YZVQHcIQD9Qe5oS9f95VbiL9dQGd2cevy04OtAN4gA56pWP4XQ6ZjlIqHoj74h+llSZDaePsg==; _ga_PGQGW1WPHH=GS2.1.s1753209341$o15$g0$t1753209341$j60$l0$h0; _ga=GA1.1.569672587.1751165027; comm100_visitorguid_5000334=c459aad1-d6c0-4d5f-aa12-589f203ea42e
+Content-Length: 43
+Cache-Control: max-age=0
+Sec-Ch-Ua: "Not)A;Brand";v="8", "Chromium";v="138"
+Sec-Ch-Ua-Mobile: ?0
+Sec-Ch-Ua-Platform: "Windows"
+Accept-Language: fr-FR,fr;q=0.9
+Origin: https://tounesbet.com
+Content-Type: application/x-www-form-urlencoded
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Referer: https://tounesbet.com/paris-sportif-live
+Accept-Encoding: gzip, deflate, br
+Priority: u=0, i
+
+Password=neymar10PSG%24&Username=fahdbohli7

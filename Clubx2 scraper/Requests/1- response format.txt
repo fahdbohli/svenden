@@ -1,0 +1,11 @@
+- at the begginning of the response : {"sports":[{"catIds":[1134,1133,497,506,502,501,1178,1132,1131,574,550,518,593,916,595,1155,797,590,544,852,517,810,564,820,557,707,703,767,908,560,716,760,729,814,561,854,512,602,826,882,847],"count":845,"typeId":1,"iconName":"soccer","hasLiveEvents":true,"id":66,"name":"Football "}, this list contain the countries ids of each country listed in the "Soccer" category
+- after the :""categories":[" the response lists Soccer as the first category
+- football lists are in this format : {"eventsCount":16,"champIds":[3145,5035,32316],"iso":"DNK","hasLiveEvents":false,"id":544,"name":"Danemark"},
+- "eventsCount" contain how many games in that country
+- "champsIds" contain a list of the tournaments ids of that country
+- "id" is the country id
+- "name" is the country name
+- to find the tournament name from its id, the id is matched with the tournament name in the response, example :   "eventsCount":4,"hasLiveEvents":false,"id":3145,"name":"Superligue"}, here the id 3145 is matched with the tournament named "Superligue" (in the Danemark country)
+--> after making the request and getting the response we should be able to extract these data based on the SPORT value which will be soccer in our case (can be changed to other sports in the code)
+	- a list of countries and their ids
+	- each country tournaments with their ids

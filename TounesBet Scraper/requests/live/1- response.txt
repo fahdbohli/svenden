@@ -1,0 +1,1202 @@
+HTTP/2 200 OK
+Server: nginx
+Date: Thu, 05 Jun 2025 00:21:16 GMT
+Content-Type: text/html; charset=utf-8
+Cache-Control: private
+X-Aspnetmvc-Version: 5.2
+X-Aspnet-Version: 4.0.30319
+Set-Cookie: _culture=en-us; expires=Fri, 05-Jun-2026 00:21:16 GMT; path=/; SameSite=None
+X-Powered-By: ASP.NET
+
+        <div class="live-match-list table-responsive" id="divTables" style="        display: block;
+        overflow: hidden
+">
+            
+            
+            <input type="hidden" class="page" value="1" />
+            <input type="hidden" class="page_size" value="5" />
+            <input type="hidden" class="current_page_size" value="5" />
+            <table id="live_matches_table" class="table" cellpadding="0" cellspacing="0" style="width: 100%;table-layout: auto;">
+                <tbody id="matchesTableBody" class="matchesTableBody_id">
+                                    <tr class="live_match_list_header first-header">
+                                        <td class="tournament_name_section">
+                                                <img src="/Content/images/flags/Brazil.png" height="26" width="26" />
+                                            <div class="category-tournament-title">Brazil / S&#233;rie A</div>
+                                        </td>
+                                        <td class="score-column">
+                                        </td>
+                                        <td class="auto-width-column">
+                                        </td>
+                                            <td class="header_width_columns_3 main-market-no_1"></td>
+                                            <td class="header_width_columns_3 main-market-no_2"></td>
+                                            <td class="header_width_columns_3 main-market-no_3"></td>
+                                            <td class="header_width_columns_2 main-market-no_4"></td>
+                                        <td onclick="OpenCloseChevronLive(this);" style="width: 50px; text-align: center; cursor: pointer">
+                                            <i class="fa fa-chevron-up"></i>
+                                        </td>
+                                    </tr>
+                                    <tr class="header_row prematch-header-row">
+                                        <th>
+                                            <input type="hidden" class="receivedTournamentCount" value="5" />
+                                            <span style="padding-left: 15px !important; font-weight: normal">Live</span>
+                                        </th>
+                                        <th class="score-column">
+                                        </th>
+                                        <th class="auto-width-column">
+                                        </th>
+
+                                            <th class="div-bet-column-header main-market-no_1">
+                                                
+                                                <div class="dibBetColumnHeader">
+                                                    <div class='betColumnHeader'><span>1</span><span style="width:50px">X</span><span>2</span></div>
+                                                </div>
+                                            </th>
+                                            <th class="div-bet-column-header main-market-no_2">
+                                                
+                                                <div class="dibBetColumnHeader">
+                                                    <div class='betColumnHeader'><label></label><label>Under</label><label>Over</label></div>
+                                                </div>
+                                            </th>
+                                            <th class="div-bet-column-header main-market-no_3">
+                                                
+                                                <div class="dibBetColumnHeader">
+                                                    <div class='betColumnHeader'><label>1X</label><label>12</label><label>X2</label></div>
+                                                </div>
+                                            </th>
+                                            <th class="div-bet-column-header main-market-no_4">
+                                                
+                                                <div class="dibBetColumnHeader">
+                                                    <div class='betColumnHeader'><label>Yes</label><label>No</label></div>
+                                                </div>
+                                            </th>
+                                        <th class="plus-sign-column" style="text-align:center;">
+                                        </th>
+                                    </tr>
+
+<tr class="trMatch live_match_data live_for_update" data-matchid="14908632"
+    data-matchbetstatus="1"
+    data-matchstatus="4"
+    data-matchactive="True"
+    data-matchallowed="True"
+    data-matchallowedbymatchtime="True"
+    data-firstperiodlastbet="-1"
+    data-secondperiodlastbet="-1">
+
+    <td class="tdMatch tdCompetitors hidden-sm hidden-xs match_odds_visibility" style="border-right: solid 1px #121B2C; cursor: pointer; text-align:left;">
+        <div class="live-status-wrapper">
+                    <label class="match_status_label match_time">
+                        58&#39;
+                    </label>
+
+        </div>
+        <div class="competitor-wrapper match_odds_details">
+            <div class="competitor1-section">
+                
+                <div class="competitor1-name">Botafogo RJ</div>
+                
+            </div>
+            <div class="competitors-result-separator"> - </div>
+            <div class="competitor2-section">
+                
+                <div class="competitor2-name">Ceara-ce </div>
+                
+            </div>
+        </div>
+
+
+
+    </td>
+    <td class="score-wrapper">
+        <div class="match_score" style="display: inline-block; margin-inline: 10px;">1:1</div>
+    </td>
+    <td class="auto-width-column">
+        <div class="btn-group pull-right" style="padding-top: 5px; padding-right: 5px">
+            <div class="spanLockMatchRow" title="This Match Not Alowed"><i class="fa fa-lock" aria-hidden="true"></i></div>
+            <label class="match_favorite" style="cursor: pointer; display: inline; margin-inline: 10px; ">
+ <img style="width:26px;" src="/Content/images/tounesTheme/fav1.png" />            </label>
+        </div>
+    </td>
+
+
+        <td class="betColumn main-market-no_1" style="min-width:96px;">
+
+                        <span class="match-odd match_odd_value quoteValue" data-matchid="14908632"
+                              data-matchoddid="1"
+                              data-matchoddtype="1"
+                              data-matchoddsubtype=""
+                              data-specialoddsvalue=""
+                              data-matchoddvaluetype="42073586314908632"
+                              data-matchoddvalueratio="0.00"
+                              data-matchoddsmaxvalue="0.00"
+                              data-show="True"
+                              data-oddvaluedecimal='2.38'
+                              data-oddvalueamerican="+138"
+                              data-isactive="True"
+                              style="float:left;">
+2.38                        </span>
+                        <span class="match-odd match_odd_value quoteValue" data-matchid="14908632"
+                              data-matchoddid="1"
+                              data-matchoddtype="1"
+                              data-matchoddsubtype=""
+                              data-specialoddsvalue=""
+                              data-matchoddvaluetype="18546502814908632"
+                              data-matchoddvalueratio="0.00"
+                              data-matchoddsmaxvalue="0.00"
+                              data-show="True"
+                              data-oddvaluedecimal='2.00'
+                              data-oddvalueamerican="+100"
+                              data-isactive="True"
+                              style="float:left;">
+2.00                        </span>
+                        <span class="match-odd match_odd_value quoteValue" data-matchid="14908632"
+                              data-matchoddid="1"
+                              data-matchoddtype="1"
+                              data-matchoddsubtype=""
+                              data-specialoddsvalue=""
+                              data-matchoddvaluetype="82402039014908632"
+                              data-matchoddvalueratio="0.00"
+                              data-matchoddsmaxvalue="0.00"
+                              data-show="True"
+                              data-oddvaluedecimal='7.00'
+                              data-oddvalueamerican="+600"
+                              data-isactive="True"
+                              style="float:left;">
+7.00                        </span>
+
+        </td>
+        <td class="betColumn main-market-no_2" style="min-width:96px;">
+
+                        <span class="match-odd match_odd_value quoteValue" data-matchid="14908632"
+                              data-matchoddid="2"
+                              data-matchoddtype="2"
+                              data-matchoddsubtype=""
+                              data-specialoddsvalue=""
+                              data-matchoddvaluetype="77300634514908632"
+                              data-matchoddvalueratio="-0.10"
+                              data-matchoddsmaxvalue="0.00"
+                              data-show="True"
+                              data-oddvaluedecimal='2.28'
+                              data-oddvalueamerican="+128"
+                              data-isactive="True"
+                              style="float:left;">
+2.28                        </span>
+                        <span class="match-odd match_odd_value quoteValue" data-matchid="14908632"
+                              data-matchoddid="2"
+                              data-matchoddtype="2"
+                              data-matchoddsubtype=""
+                              data-specialoddsvalue=""
+                              data-matchoddvaluetype="175874970114908632"
+                              data-matchoddvalueratio="-0.05"
+                              data-matchoddsmaxvalue="0.00"
+                              data-show="True"
+                              data-oddvaluedecimal='1.52'
+                              data-oddvalueamerican="-192"
+                              data-isactive="True"
+                              style="float:left;">
+1.52                        </span>
+
+        </td>
+        <td class="betColumn main-market-no_3" style="min-width:96px;">
+
+                        <span class="match-odd match_odd_value quoteValue" data-matchid="14908632"
+                              data-matchoddid="7"
+                              data-matchoddtype="7"
+                              data-matchoddsubtype=""
+                              data-specialoddsvalue=""
+                              data-matchoddvaluetype="111598856714908632"
+                              data-matchoddvalueratio="-0.10"
+                              data-matchoddsmaxvalue="0.00"
+                              data-show="True"
+                              data-oddvaluedecimal='1.00'
+                              data-oddvalueamerican=""
+                              data-isactive="True"
+                              style="float:left;">
+1.00                        </span>
+                        <span class="match-odd match_odd_value quoteValue" data-matchid="14908632"
+                              data-matchoddid="7"
+                              data-matchoddtype="7"
+                              data-matchoddsubtype=""
+                              data-specialoddsvalue=""
+                              data-matchoddvaluetype="111598863714908632"
+                              data-matchoddvalueratio="-0.10"
+                              data-matchoddsmaxvalue="0.00"
+                              data-show="True"
+                              data-oddvaluedecimal='1.63'
+                              data-oddvalueamerican="-159"
+                              data-isactive="True"
+                              style="float:left;">
+1.63                        </span>
+                        <span class="match-odd match_odd_value quoteValue" data-matchid="14908632"
+                              data-matchoddid="7"
+                              data-matchoddtype="7"
+                              data-matchoddsubtype=""
+                              data-specialoddsvalue=""
+                              data-matchoddvaluetype="182076781814908632"
+                              data-matchoddvalueratio="-0.10"
+                              data-matchoddsmaxvalue="0.00"
+                              data-show="True"
+                              data-oddvaluedecimal='1.43'
+                              data-oddvalueamerican="-231"
+                              data-isactive="True"
+                              style="float:left;">
+1.43                        </span>
+
+        </td>
+        <td class="betColumn main-market-no_4" style="min-width:96px;">
+
+
+                        <span class="match-odd" data-matchid="14908632"
+                              data-isactive="False"
+                              style="float:left;"></span>
+                        <span class="match-odd" data-matchid="14908632"
+                              data-isactive="False"
+                              style="float:left;"></span>
+        </td>
+
+    <td class="betColumn" style="text-align: center">
+        <label class="match_odds_details match_odds_visibility" data-oddscount="142" style="cursor:pointer;display: inline-block;">+ 142</label>
+    </td>
+
+
+</tr>
+                                    <tr class="live_match_list_header first-header">
+                                        <td class="tournament_name_section">
+                                                <img src="/Content/images/flags/United-States.png" height="26" width="26" />
+                                            <div class="category-tournament-title">United States / NPSL</div>
+                                        </td>
+                                        <td class="score-column">
+                                        </td>
+                                        <td class="auto-width-column">
+                                        </td>
+                                            <td class="header_width_columns_3 main-market-no_1"></td>
+                                            <td class="header_width_columns_3 main-market-no_2"></td>
+                                            <td class="header_width_columns_3 main-market-no_3"></td>
+                                            <td class="header_width_columns_2 main-market-no_4"></td>
+                                        <td onclick="OpenCloseChevronLive(this);" style="width: 50px; text-align: center; cursor: pointer">
+                                            <i class="fa fa-chevron-up"></i>
+                                        </td>
+                                    </tr>
+                                    <tr class="header_row prematch-header-row">
+                                        <th>
+                                            <input type="hidden" class="receivedTournamentCount" value="5" />
+                                            <span style="padding-left: 15px !important; font-weight: normal">Live</span>
+                                        </th>
+                                        <th class="score-column">
+                                        </th>
+                                        <th class="auto-width-column">
+                                        </th>
+
+                                            <th class="div-bet-column-header main-market-no_1">
+                                                
+                                                <div class="dibBetColumnHeader">
+                                                    <div class='betColumnHeader'><span>1</span><span style="width:50px">X</span><span>2</span></div>
+                                                </div>
+                                            </th>
+                                            <th class="div-bet-column-header main-market-no_2">
+                                                
+                                                <div class="dibBetColumnHeader">
+                                                    <div class='betColumnHeader'><label></label><label>Under</label><label>Over</label></div>
+                                                </div>
+                                            </th>
+                                            <th class="div-bet-column-header main-market-no_3">
+                                                
+                                                <div class="dibBetColumnHeader">
+                                                    <div class='betColumnHeader'><label>1X</label><label>12</label><label>X2</label></div>
+                                                </div>
+                                            </th>
+                                            <th class="div-bet-column-header main-market-no_4">
+                                                
+                                                <div class="dibBetColumnHeader">
+                                                    <div class='betColumnHeader'><label>Yes</label><label>No</label></div>
+                                                </div>
+                                            </th>
+                                        <th class="plus-sign-column" style="text-align:center;">
+                                        </th>
+                                    </tr>
+
+<tr class="trMatch live_match_data live_for_update" data-matchid="15825661"
+    data-matchbetstatus="1"
+    data-matchstatus="4"
+    data-matchactive="True"
+    data-matchallowed="True"
+    data-matchallowedbymatchtime="True"
+    data-firstperiodlastbet="-1"
+    data-secondperiodlastbet="-1">
+
+    <td class="tdMatch tdCompetitors hidden-sm hidden-xs match_odds_visibility" style="border-right: solid 1px #121B2C; cursor: pointer; text-align:left;">
+        <div class="live-status-wrapper">
+                    <label class="match_status_label match_time">
+                        92&#39;
+                    </label>
+
+        </div>
+        <div class="competitor-wrapper match_odds_details">
+            <div class="competitor1-section">
+                
+                <div class="competitor1-name">Miami Dutch Lions</div>
+                
+            </div>
+            <div class="competitors-result-separator"> - </div>
+            <div class="competitor2-section">
+                
+                <div class="competitor2-name">Global Soccer Pathways </div>
+                
+            </div>
+        </div>
+
+
+
+    </td>
+    <td class="score-wrapper">
+        <div class="match_score" style="display: inline-block; margin-inline: 10px;">6:4</div>
+    </td>
+    <td class="auto-width-column">
+        <div class="btn-group pull-right" style="padding-top: 5px; padding-right: 5px">
+            <div class="spanLockMatchRow" title="This Match Not Alowed"><i class="fa fa-lock" aria-hidden="true"></i></div>
+            <label class="match_favorite" style="cursor: pointer; display: inline; margin-inline: 10px; ">
+ <img style="width:26px;" src="/Content/images/tounesTheme/fav1.png" />            </label>
+        </div>
+    </td>
+
+
+        <td class="betColumn main-market-no_1" style="min-width:96px;">
+
+
+                        <span class="match-odd" data-matchid="15825661"
+                              data-isactive="False"
+                              style="float:left;"></span>
+                        <span class="match-odd" data-matchid="15825661"
+                              data-isactive="False"
+                              style="float:left;"></span>
+                        <span class="match-odd" data-matchid="15825661"
+                              data-isactive="False"
+                              style="float:left;"></span>
+        </td>
+        <td class="betColumn main-market-no_2" style="min-width:96px;">
+
+
+                        <span class="match-odd" data-matchid="15825661"
+                              data-isactive="False"
+                              style="float:left;"></span>
+                        <span class="match-odd" data-matchid="15825661"
+                              data-isactive="False"
+                              style="float:left;"></span>
+                        <span class="match-odd" data-matchid="15825661"
+                              data-isactive="False"
+                              style="float:left;"></span>
+        </td>
+        <td class="betColumn main-market-no_3" style="min-width:96px;">
+
+
+                        <span class="match-odd" data-matchid="15825661"
+                              data-isactive="False"
+                              style="float:left;"></span>
+                        <span class="match-odd" data-matchid="15825661"
+                              data-isactive="False"
+                              style="float:left;"></span>
+                        <span class="match-odd" data-matchid="15825661"
+                              data-isactive="False"
+                              style="float:left;"></span>
+        </td>
+        <td class="betColumn main-market-no_4" style="min-width:96px;">
+
+
+                        <span class="match-odd" data-matchid="15825661"
+                              data-isactive="False"
+                              style="float:left;"></span>
+                        <span class="match-odd" data-matchid="15825661"
+                              data-isactive="False"
+                              style="float:left;"></span>
+        </td>
+
+    <td class="betColumn" style="text-align: center">
+        <label class="match_odds_details match_odds_visibility" data-oddscount="3" style="cursor:pointer;display: inline-block;">+ 3</label>
+    </td>
+
+
+</tr>
+                                    <tr class="live_match_list_header first-header">
+                                        <td class="tournament_name_section">
+                                                <img src="/Content/images/flags/Colombia.png" height="26" width="26" />
+                                            <div class="category-tournament-title">Colombia / Primera A</div>
+                                        </td>
+                                        <td class="score-column">
+                                        </td>
+                                        <td class="auto-width-column">
+                                        </td>
+                                            <td class="header_width_columns_3 main-market-no_1"></td>
+                                            <td class="header_width_columns_3 main-market-no_2"></td>
+                                            <td class="header_width_columns_3 main-market-no_3"></td>
+                                            <td class="header_width_columns_2 main-market-no_4"></td>
+                                        <td onclick="OpenCloseChevronLive(this);" style="width: 50px; text-align: center; cursor: pointer">
+                                            <i class="fa fa-chevron-up"></i>
+                                        </td>
+                                    </tr>
+                                    <tr class="header_row prematch-header-row">
+                                        <th>
+                                            <input type="hidden" class="receivedTournamentCount" value="5" />
+                                            <span style="padding-left: 15px !important; font-weight: normal">Live</span>
+                                        </th>
+                                        <th class="score-column">
+                                        </th>
+                                        <th class="auto-width-column">
+                                        </th>
+
+                                            <th class="div-bet-column-header main-market-no_1">
+                                                
+                                                <div class="dibBetColumnHeader">
+                                                    <div class='betColumnHeader'><span>1</span><span style="width:50px">X</span><span>2</span></div>
+                                                </div>
+                                            </th>
+                                            <th class="div-bet-column-header main-market-no_2">
+                                                
+                                                <div class="dibBetColumnHeader">
+                                                    <div class='betColumnHeader'><label></label><label>Under</label><label>Over</label></div>
+                                                </div>
+                                            </th>
+                                            <th class="div-bet-column-header main-market-no_3">
+                                                
+                                                <div class="dibBetColumnHeader">
+                                                    <div class='betColumnHeader'><label>1X</label><label>12</label><label>X2</label></div>
+                                                </div>
+                                            </th>
+                                            <th class="div-bet-column-header main-market-no_4">
+                                                
+                                                <div class="dibBetColumnHeader">
+                                                    <div class='betColumnHeader'><label>Yes</label><label>No</label></div>
+                                                </div>
+                                            </th>
+                                        <th class="plus-sign-column" style="text-align:center;">
+                                        </th>
+                                    </tr>
+
+<tr class="trMatch live_match_data live_for_update" data-matchid="15768225"
+    data-matchbetstatus="1"
+    data-matchstatus="4"
+    data-matchactive="True"
+    data-matchallowed="True"
+    data-matchallowedbymatchtime="True"
+    data-firstperiodlastbet="-1"
+    data-secondperiodlastbet="-1">
+
+    <td class="tdMatch tdCompetitors hidden-sm hidden-xs match_odds_visibility" style="border-right: solid 1px #121B2C; cursor: pointer; text-align:left;">
+        <div class="live-status-wrapper">
+                    <label class="match_status_label match_time">
+                        47&#39;
+                    </label>
+
+        </div>
+        <div class="competitor-wrapper match_odds_details">
+            <div class="competitor1-section">
+                
+                <div class="competitor1-name">Deportes Tolima</div>
+                
+            </div>
+            <div class="competitors-result-separator"> - </div>
+            <div class="competitor2-section">
+                
+                <div class="competitor2-name">Independiente Medell&#237;n </div>
+                
+            </div>
+        </div>
+
+
+
+    </td>
+    <td class="score-wrapper">
+        <div class="match_score" style="display: inline-block; margin-inline: 10px;">1:1</div>
+    </td>
+    <td class="auto-width-column">
+        <div class="btn-group pull-right" style="padding-top: 5px; padding-right: 5px">
+            <div class="spanLockMatchRow" title="This Match Not Alowed"><i class="fa fa-lock" aria-hidden="true"></i></div>
+            <label class="match_favorite" style="cursor: pointer; display: inline; margin-inline: 10px; ">
+ <img style="width:26px;" src="/Content/images/tounesTheme/fav1.png" />            </label>
+        </div>
+    </td>
+
+
+        <td class="betColumn main-market-no_1" style="min-width:96px;">
+
+                        <span class="match-odd match_odd_value quoteValue" data-matchid="15768225"
+                              data-matchoddid="1"
+                              data-matchoddtype="1"
+                              data-matchoddsubtype=""
+                              data-specialoddsvalue=""
+                              data-matchoddvaluetype="204273596015768225"
+                              data-matchoddvalueratio="0.00"
+                              data-matchoddsmaxvalue="0.00"
+                              data-show="True"
+                              data-oddvaluedecimal='4.33'
+                              data-oddvalueamerican="+333"
+                              data-isactive="True"
+                              style="float:left;">
+4.33                        </span>
+                        <span class="match-odd match_odd_value quoteValue" data-matchid="15768225"
+                              data-matchoddid="1"
+                              data-matchoddtype="1"
+                              data-matchoddsubtype=""
+                              data-specialoddsvalue=""
+                              data-matchoddvaluetype="180746512515768225"
+                              data-matchoddvalueratio="0.00"
+                              data-matchoddsmaxvalue="0.00"
+                              data-show="True"
+                              data-oddvaluedecimal='2.25'
+                              data-oddvalueamerican="+125"
+                              data-isactive="True"
+                              style="float:left;">
+2.25                        </span>
+                        <span class="match-odd match_odd_value quoteValue" data-matchid="15768225"
+                              data-matchoddid="1"
+                              data-matchoddtype="1"
+                              data-matchoddsubtype=""
+                              data-specialoddsvalue=""
+                              data-matchoddvaluetype="184894680915768225"
+                              data-matchoddvalueratio="0.00"
+                              data-matchoddsmaxvalue="0.00"
+                              data-show="True"
+                              data-oddvaluedecimal='2.50'
+                              data-oddvalueamerican="+150"
+                              data-isactive="True"
+                              style="float:left;">
+2.50                        </span>
+
+        </td>
+        <td class="betColumn main-market-no_2" style="min-width:96px;">
+
+                        <span class="match-odd match_odd_value quoteValue" data-matchid="15768225"
+                              data-matchoddid="2"
+                              data-matchoddtype="2"
+                              data-matchoddsubtype=""
+                              data-specialoddsvalue=""
+                              data-matchoddvaluetype="122608404215768225"
+                              data-matchoddvalueratio="-0.10"
+                              data-matchoddsmaxvalue="0.00"
+                              data-show="True"
+                              data-oddvaluedecimal='2.90'
+                              data-oddvalueamerican="+190"
+                              data-isactive="True"
+                              style="float:left;">
+2.90                        </span>
+                        <span class="match-odd match_odd_value quoteValue" data-matchid="15768225"
+                              data-matchoddid="2"
+                              data-matchoddtype="2"
+                              data-matchoddsubtype=""
+                              data-specialoddsvalue=""
+                              data-matchoddvaluetype="162013809815768225"
+                              data-matchoddvalueratio="-0.05"
+                              data-matchoddsmaxvalue="0.00"
+                              data-show="True"
+                              data-oddvaluedecimal='1.31'
+                              data-oddvalueamerican="-318"
+                              data-isactive="True"
+                              style="float:left;">
+1.31                        </span>
+
+        </td>
+        <td class="betColumn main-market-no_3" style="min-width:96px;">
+
+                        <span class="match-odd match_odd_value quoteValue" data-matchid="15768225"
+                              data-matchoddid="7"
+                              data-matchoddtype="7"
+                              data-matchoddsubtype=""
+                              data-specialoddsvalue=""
+                              data-matchoddvaluetype="9134763615768225"
+                              data-matchoddvalueratio="-0.10"
+                              data-matchoddsmaxvalue="0.00"
+                              data-show="True"
+                              data-oddvaluedecimal='1.40'
+                              data-oddvalueamerican="-250"
+                              data-isactive="True"
+                              style="float:left;">
+1.40                        </span>
+                        <span class="match-odd match_odd_value quoteValue" data-matchid="15768225"
+                              data-matchoddid="7"
+                              data-matchoddtype="7"
+                              data-matchoddsubtype=""
+                              data-specialoddsvalue=""
+                              data-matchoddvaluetype="9134770615768225"
+                              data-matchoddvalueratio="-0.10"
+                              data-matchoddsmaxvalue="0.00"
+                              data-show="True"
+                              data-oddvaluedecimal='1.47'
+                              data-oddvalueamerican="-212"
+                              data-isactive="True"
+                              style="float:left;">
+1.47                        </span>
+                        <span class="match-odd match_odd_value quoteValue" data-matchid="15768225"
+                              data-matchoddid="7"
+                              data-matchoddtype="7"
+                              data-matchoddsubtype=""
+                              data-specialoddsvalue=""
+                              data-matchoddvaluetype="201814993915768225"
+                              data-matchoddvalueratio="-0.10"
+                              data-matchoddsmaxvalue="0.00"
+                              data-show="True"
+                              data-oddvaluedecimal='1.10'
+                              data-oddvalueamerican="-1000"
+                              data-isactive="True"
+                              style="float:left;">
+1.10                        </span>
+
+        </td>
+        <td class="betColumn main-market-no_4" style="min-width:96px;">
+
+
+                        <span class="match-odd" data-matchid="15768225"
+                              data-isactive="False"
+                              style="float:left;"></span>
+                        <span class="match-odd" data-matchid="15768225"
+                              data-isactive="False"
+                              style="float:left;"></span>
+        </td>
+
+    <td class="betColumn" style="text-align: center">
+        <label class="match_odds_details match_odds_visibility" data-oddscount="151" style="cursor:pointer;display: inline-block;">+ 151</label>
+    </td>
+
+
+</tr>
+                                    <tr class="live_match_list_header first-header">
+                                        <td class="tournament_name_section">
+                                                <img src="/Content/images/flags/United-States.png" height="26" width="26" />
+                                            <div class="category-tournament-title">United States / USA WPSL Women</div>
+                                        </td>
+                                        <td class="score-column">
+                                        </td>
+                                        <td class="auto-width-column">
+                                        </td>
+                                            <td class="header_width_columns_3 main-market-no_1"></td>
+                                            <td class="header_width_columns_3 main-market-no_2"></td>
+                                            <td class="header_width_columns_3 main-market-no_3"></td>
+                                            <td class="header_width_columns_2 main-market-no_4"></td>
+                                        <td onclick="OpenCloseChevronLive(this);" style="width: 50px; text-align: center; cursor: pointer">
+                                            <i class="fa fa-chevron-up"></i>
+                                        </td>
+                                    </tr>
+                                    <tr class="header_row prematch-header-row">
+                                        <th>
+                                            <input type="hidden" class="receivedTournamentCount" value="5" />
+                                            <span style="padding-left: 15px !important; font-weight: normal">Live</span>
+                                        </th>
+                                        <th class="score-column">
+                                        </th>
+                                        <th class="auto-width-column">
+                                        </th>
+
+                                            <th class="div-bet-column-header main-market-no_1">
+                                                
+                                                <div class="dibBetColumnHeader">
+                                                    <div class='betColumnHeader'><span>1</span><span style="width:50px">X</span><span>2</span></div>
+                                                </div>
+                                            </th>
+                                            <th class="div-bet-column-header main-market-no_2">
+                                                
+                                                <div class="dibBetColumnHeader">
+                                                    <div class='betColumnHeader'><label></label><label>Under</label><label>Over</label></div>
+                                                </div>
+                                            </th>
+                                            <th class="div-bet-column-header main-market-no_3">
+                                                
+                                                <div class="dibBetColumnHeader">
+                                                    <div class='betColumnHeader'><label>1X</label><label>12</label><label>X2</label></div>
+                                                </div>
+                                            </th>
+                                            <th class="div-bet-column-header main-market-no_4">
+                                                
+                                                <div class="dibBetColumnHeader">
+                                                    <div class='betColumnHeader'><label>Yes</label><label>No</label></div>
+                                                </div>
+                                            </th>
+                                        <th class="plus-sign-column" style="text-align:center;">
+                                        </th>
+                                    </tr>
+
+<tr class="trMatch live_match_data live_for_update" data-matchid="15826052"
+    data-matchbetstatus="1"
+    data-matchstatus="3"
+    data-matchactive="True"
+    data-matchallowed="True"
+    data-matchallowedbymatchtime="True"
+    data-firstperiodlastbet="-1"
+    data-secondperiodlastbet="-1">
+
+    <td class="tdMatch tdCompetitors hidden-sm hidden-xs match_odds_visibility" style="border-right: solid 1px #121B2C; cursor: pointer; text-align:left;">
+        <div class="live-status-wrapper">
+                    <label class="match_status_label match_time">
+                        18&#39;
+                    </label>
+
+        </div>
+        <div class="competitor-wrapper match_odds_details">
+            <div class="competitor1-section">
+                
+                <div class="competitor1-name">Saint Croix W</div>
+                
+            </div>
+            <div class="competitors-result-separator"> - </div>
+            <div class="competitor2-section">
+                
+                <div class="competitor2-name">Minnesota Bliss W </div>
+                
+            </div>
+        </div>
+
+
+
+    </td>
+    <td class="score-wrapper">
+        <div class="match_score" style="display: inline-block; margin-inline: 10px;">1:1</div>
+    </td>
+    <td class="auto-width-column">
+        <div class="btn-group pull-right" style="padding-top: 5px; padding-right: 5px">
+            <div class="spanLockMatchRow" title="This Match Not Alowed"><i class="fa fa-lock" aria-hidden="true"></i></div>
+            <label class="match_favorite" style="cursor: pointer; display: inline; margin-inline: 10px; ">
+ <img style="width:26px;" src="/Content/images/tounesTheme/fav1.png" />            </label>
+        </div>
+    </td>
+
+
+        <td class="betColumn main-market-no_1" style="min-width:96px;">
+
+                        <span class="match-odd match_odd_value quoteValue" data-matchid="15826052"
+                              data-matchoddid="1"
+                              data-matchoddtype="1"
+                              data-matchoddsubtype=""
+                              data-specialoddsvalue=""
+                              data-matchoddvaluetype="42492671115826052"
+                              data-matchoddvalueratio="0.00"
+                              data-matchoddsmaxvalue="0.00"
+                              data-show="True"
+                              data-oddvaluedecimal='2.00'
+                              data-oddvalueamerican="+100"
+                              data-isactive="True"
+                              style="float:left;">
+2.00                        </span>
+                        <span class="match-odd match_odd_value quoteValue" data-matchid="15826052"
+                              data-matchoddid="1"
+                              data-matchoddtype="1"
+                              data-matchoddsubtype=""
+                              data-specialoddsvalue=""
+                              data-matchoddvaluetype="5226317415826052"
+                              data-matchoddvalueratio="0.00"
+                              data-matchoddsmaxvalue="0.00"
+                              data-show="True"
+                              data-oddvaluedecimal='4.00'
+                              data-oddvalueamerican="+300"
+                              data-isactive="True"
+                              style="float:left;">
+4.00                        </span>
+                        <span class="match-odd match_odd_value quoteValue" data-matchid="15826052"
+                              data-matchoddid="1"
+                              data-matchoddtype="1"
+                              data-matchoddsubtype=""
+                              data-specialoddsvalue=""
+                              data-matchoddvaluetype="199101065215826052"
+                              data-matchoddvalueratio="0.00"
+                              data-matchoddsmaxvalue="0.00"
+                              data-show="True"
+                              data-oddvaluedecimal='3.20'
+                              data-oddvalueamerican="+220"
+                              data-isactive="True"
+                              style="float:left;">
+3.20                        </span>
+
+        </td>
+        <td class="betColumn main-market-no_2" style="min-width:96px;">
+
+                        <span class="match-odd match_odd_value quoteValue" data-matchid="15826052"
+                              data-matchoddid="2"
+                              data-matchoddtype="2"
+                              data-matchoddsubtype=""
+                              data-specialoddsvalue=""
+                              data-matchoddvaluetype="203930692915826052"
+                              data-matchoddvalueratio="-0.10"
+                              data-matchoddsmaxvalue="0.00"
+                              data-show="True"
+                              data-oddvaluedecimal='2.10'
+                              data-oddvalueamerican="+110"
+                              data-isactive="True"
+                              style="float:left;">
+2.10                        </span>
+                        <span class="match-odd match_odd_value quoteValue" data-matchid="15826052"
+                              data-matchoddid="2"
+                              data-matchoddtype="2"
+                              data-matchoddsubtype=""
+                              data-specialoddsvalue=""
+                              data-matchoddvaluetype="135180094915826052"
+                              data-matchoddvalueratio="-0.15"
+                              data-matchoddsmaxvalue="0.00"
+                              data-show="True"
+                              data-oddvaluedecimal='1.47'
+                              data-oddvalueamerican="-215"
+                              data-isactive="True"
+                              style="float:left;">
+1.47                        </span>
+
+        </td>
+        <td class="betColumn main-market-no_3" style="min-width:96px;">
+
+                        <span class="match-odd match_odd_value quoteValue" data-matchid="15826052"
+                              data-matchoddid="7"
+                              data-matchoddtype="7"
+                              data-matchoddsubtype=""
+                              data-specialoddsvalue=""
+                              data-matchoddvaluetype="148525472915826052"
+                              data-matchoddvalueratio="-0.10"
+                              data-matchoddsmaxvalue="0.00"
+                              data-show="True"
+                              data-oddvaluedecimal='1.23'
+                              data-oddvalueamerican="-429"
+                              data-isactive="True"
+                              style="float:left;">
+1.23                        </span>
+                        <span class="match-odd match_odd_value quoteValue" data-matchid="15826052"
+                              data-matchoddid="7"
+                              data-matchoddtype="7"
+                              data-matchoddsubtype=""
+                              data-specialoddsvalue=""
+                              data-matchoddvaluetype="148525467515826052"
+                              data-matchoddvalueratio="-0.10"
+                              data-matchoddsmaxvalue="0.00"
+                              data-show="True"
+                              data-oddvaluedecimal='1.12'
+                              data-oddvalueamerican="-820"
+                              data-isactive="True"
+                              style="float:left;">
+1.12                        </span>
+                        <span class="match-odd match_odd_value quoteValue" data-matchid="15826052"
+                              data-matchoddid="7"
+                              data-matchoddtype="7"
+                              data-matchoddsubtype=""
+                              data-specialoddsvalue=""
+                              data-matchoddvaluetype="182744833615826052"
+                              data-matchoddvalueratio="-0.10"
+                              data-matchoddsmaxvalue="0.00"
+                              data-show="True"
+                              data-oddvaluedecimal='1.63'
+                              data-oddvalueamerican="-159"
+                              data-isactive="True"
+                              style="float:left;">
+1.63                        </span>
+
+        </td>
+        <td class="betColumn main-market-no_4" style="min-width:96px;">
+
+
+                        <span class="match-odd" data-matchid="15826052"
+                              data-isactive="False"
+                              style="float:left;"></span>
+                        <span class="match-odd" data-matchid="15826052"
+                              data-isactive="False"
+                              style="float:left;"></span>
+        </td>
+
+    <td class="betColumn" style="text-align: center">
+        <label class="match_odds_details match_odds_visibility" data-oddscount="89" style="cursor:pointer;display: inline-block;">+ 89</label>
+    </td>
+
+
+</tr>
+                                    <tr class="live_match_list_header first-header">
+                                        <td class="tournament_name_section">
+                                                <img src="/Content/images/flags/United-States.png" height="26" width="26" />
+                                            <div class="category-tournament-title">United States / USL League Two</div>
+                                        </td>
+                                        <td class="score-column">
+                                        </td>
+                                        <td class="auto-width-column">
+                                        </td>
+                                            <td class="header_width_columns_3 main-market-no_1"></td>
+                                            <td class="header_width_columns_3 main-market-no_2"></td>
+                                            <td class="header_width_columns_3 main-market-no_3"></td>
+                                            <td class="header_width_columns_2 main-market-no_4"></td>
+                                        <td onclick="OpenCloseChevronLive(this);" style="width: 50px; text-align: center; cursor: pointer">
+                                            <i class="fa fa-chevron-up"></i>
+                                        </td>
+                                    </tr>
+                                    <tr class="header_row prematch-header-row">
+                                        <th>
+                                            <input type="hidden" class="receivedTournamentCount" value="5" />
+                                            <span style="padding-left: 15px !important; font-weight: normal">Live</span>
+                                        </th>
+                                        <th class="score-column">
+                                        </th>
+                                        <th class="auto-width-column">
+                                        </th>
+
+                                            <th class="div-bet-column-header main-market-no_1">
+                                                
+                                                <div class="dibBetColumnHeader">
+                                                    <div class='betColumnHeader'><span>1</span><span style="width:50px">X</span><span>2</span></div>
+                                                </div>
+                                            </th>
+                                            <th class="div-bet-column-header main-market-no_2">
+                                                
+                                                <div class="dibBetColumnHeader">
+                                                    <div class='betColumnHeader'><label></label><label>Under</label><label>Over</label></div>
+                                                </div>
+                                            </th>
+                                            <th class="div-bet-column-header main-market-no_3">
+                                                
+                                                <div class="dibBetColumnHeader">
+                                                    <div class='betColumnHeader'><label>1X</label><label>12</label><label>X2</label></div>
+                                                </div>
+                                            </th>
+                                            <th class="div-bet-column-header main-market-no_4">
+                                                
+                                                <div class="dibBetColumnHeader">
+                                                    <div class='betColumnHeader'><label>Yes</label><label>No</label></div>
+                                                </div>
+                                            </th>
+                                        <th class="plus-sign-column" style="text-align:center;">
+                                        </th>
+                                    </tr>
+
+<tr class="trMatch live_match_data live_for_update" data-matchid="14958144"
+    data-matchbetstatus="1"
+    data-matchstatus="4"
+    data-matchactive="True"
+    data-matchallowed="True"
+    data-matchallowedbymatchtime="True"
+    data-firstperiodlastbet="-1"
+    data-secondperiodlastbet="-1">
+
+    <td class="tdMatch tdCompetitors hidden-sm hidden-xs match_odds_visibility" style="border-right: solid 1px #121B2C; cursor: pointer; text-align:left;">
+        <div class="live-status-wrapper">
+                    <label class="match_status_label match_time">
+                        86&#39;
+                    </label>
+
+        </div>
+        <div class="competitor-wrapper match_odds_details">
+            <div class="competitor1-section">
+                
+                <div class="competitor1-name">Weston</div>
+                
+            </div>
+            <div class="competitors-result-separator"> - </div>
+            <div class="competitor2-section">
+                
+                <div class="competitor2-name">Kings Hammer </div>
+                
+            </div>
+        </div>
+
+
+
+    </td>
+    <td class="score-wrapper">
+        <div class="match_score" style="display: inline-block; margin-inline: 10px;">0:3</div>
+    </td>
+    <td class="auto-width-column">
+        <div class="btn-group pull-right" style="padding-top: 5px; padding-right: 5px">
+            <div class="spanLockMatchRow" title="This Match Not Alowed"><i class="fa fa-lock" aria-hidden="true"></i></div>
+            <label class="match_favorite" style="cursor: pointer; display: inline; margin-inline: 10px; ">
+ <img style="width:26px;" src="/Content/images/tounesTheme/fav1.png" />            </label>
+        </div>
+    </td>
+
+
+        <td class="betColumn main-market-no_1" style="min-width:96px;">
+
+
+                        <span class="match-odd" data-matchid="14958144"
+                              data-isactive="False"
+                              style="float:left;"></span>
+                        <span class="match-odd" data-matchid="14958144"
+                              data-isactive="False"
+                              style="float:left;"></span>
+                        <span class="match-odd" data-matchid="14958144"
+                              data-isactive="False"
+                              style="float:left;"></span>
+        </td>
+        <td class="betColumn main-market-no_2" style="min-width:96px;">
+
+                        <span class="match-odd match_odd_value quoteValue" data-matchid="14958144"
+                              data-matchoddid="2"
+                              data-matchoddtype="2"
+                              data-matchoddsubtype=""
+                              data-specialoddsvalue=""
+                              data-matchoddvaluetype="111216753914958144"
+                              data-matchoddvalueratio="-0.10"
+                              data-matchoddsmaxvalue="0.00"
+                              data-show="True"
+                              data-oddvaluedecimal='1.23'
+                              data-oddvalueamerican="-429"
+                              data-isactive="True"
+                              style="float:left;">
+1.23                        </span>
+                        <span class="match-odd match_odd_value quoteValue" data-matchid="14958144"
+                              data-matchoddid="2"
+                              data-matchoddtype="2"
+                              data-matchoddsubtype=""
+                              data-specialoddsvalue=""
+                              data-matchoddvaluetype="25813424514958144"
+                              data-matchoddvalueratio="-0.10"
+                              data-matchoddsmaxvalue="0.00"
+                              data-show="True"
+                              data-oddvaluedecimal='3.15'
+                              data-oddvalueamerican="+215"
+                              data-isactive="True"
+                              style="float:left;">
+3.15                        </span>
+
+        </td>
+        <td class="betColumn main-market-no_3" style="min-width:96px;">
+
+
+                        <span class="match-odd" data-matchid="14958144"
+                              data-isactive="False"
+                              style="float:left;"></span>
+                        <span class="match-odd" data-matchid="14958144"
+                              data-isactive="False"
+                              style="float:left;"></span>
+                        <span class="match-odd" data-matchid="14958144"
+                              data-isactive="False"
+                              style="float:left;"></span>
+        </td>
+        <td class="betColumn main-market-no_4" style="min-width:96px;">
+
+                        <span class="match-odd match_odd_value quoteValue" data-matchid="14958144"
+                              data-matchoddid="17"
+                              data-matchoddtype="17"
+                              data-matchoddsubtype=""
+                              data-specialoddsvalue=""
+                              data-matchoddvaluetype="192663394514958144"
+                              data-matchoddvalueratio="0.00"
+                              data-matchoddsmaxvalue="0.00"
+                              data-show="True"
+                              data-oddvaluedecimal='4.50'
+                              data-oddvalueamerican="+350"
+                              data-isactive="True"
+                              style="float:left;">
+4.50                        </span>
+                        <span class="match-odd match_odd_value quoteValue" data-matchid="14958144"
+                              data-matchoddid="17"
+                              data-matchoddtype="17"
+                              data-matchoddsubtype=""
+                              data-specialoddsvalue=""
+                              data-matchoddvaluetype="206177927514958144"
+                              data-matchoddvalueratio="0.00"
+                              data-matchoddsmaxvalue="0.00"
+                              data-show="True"
+                              data-oddvaluedecimal='1.17'
+                              data-oddvalueamerican="-599"
+                              data-isactive="True"
+                              style="float:left;">
+1.17                        </span>
+
+        </td>
+
+    <td class="betColumn" style="text-align: center">
+        <label class="match_odds_details match_odds_visibility" data-oddscount="58" style="cursor:pointer;display: inline-block;">+ 58</label>
+    </td>
+
+
+</tr>
+                </tbody>
+            </table>
+
+            <div style="text-align:center;">
+                <div class="btn cTicketButton match_load_more_btn" style="margin: 20px auto;padding: 12px 40px;" onclick="liveMatchList(true);">Load more</div>
+            </div>
+        </div>
+
+    <script type="text/javascript">
+        $(document).ready(function () {
+            SubscribeToSport('1181');
+        });
+    </script>
+
+
+<script type="text/javascript">
+
+    $(document).ready(function () {
+
+        InitLiveMatchList();
+
+        var waypoint = new Waypoint({
+            element: $('#live_data_holder'),
+            handler: function (direction) {
+                if ((direction === 'down') && !$(".main").hasClass("TicketMobileShow")) {
+                    Waypoint.disableAll();
+                    liveMatchList(true);
+                }
+            },
+            offset: 'bottom-in-view'
+        })
+
+    });
+
+    function InitLiveMatchList(){
+        $(".match_odd_value").off("click").on("click", function () {
+            var liveMatchId = $(this).attr("data-matchid");
+            var liveMatchOddId = $(this).attr("data-matchoddid");
+            var liveMatchOddValueType = $(this).attr("data-matchoddvaluetype");
+            processLiveMatchOdd(liveMatchId, liveMatchOddId, liveMatchOddValueType);
+        });
+
+        $(".match_odds_details").off("click").on("click", function () {
+            var currentRow = $(this).closest("tr");
+            var liveMatchId = currentRow.attr("data-matchid");
+            liveMatchDetails(liveMatchId);
+            Waypoint.disableAll();
+        });
+
+        $(".match_tv_channels").popover({
+            html: true,
+            content: function () {
+                var currentRow = $(this).closest("tr");
+                var matchId = currentRow.attr("data-matchid");
+                var contentHolder = $(".match_tv_channels").next(".match_tv_channels_content");
+                return contentHolder.html();
+            }
+        }).mouseleave(function (e) {
+            var ref = $(this);
+            timeoutObj = setTimeout(function () {
+                ref.popover('hide');
+            }, 0);
+        });
+
+        $(".match_favorite").off("click").on("click", function () {
+            var currentEl = $(this);
+            var currentRow = $(this).closest("tr");
+            var matchId = currentRow.attr("data-matchid");
+            var liveMatchActive = currentRow.attr("data-matchactive");
+            var liveMatchAllowed = currentRow.attr("data-matchallowed");
+            var liveMatchAllowedByMatchTime = currentRow.attr("data-matchallowedbymatchtime");
+            if ((liveMatchAllowed != "False") && (liveMatchAllowedByMatchTime != "False") && (liveMatchActive != "False")) {
+                ProcessFavorite(matchId, function (result) {
+                    if (result.Result == true) {
+                        if (THEME_TEMPLATE == "modern" ||
+                            THEME_TEMPLATE == "kenya" ||
+                            THEME_TEMPLATE == "tounes" ||
+                            THEME_TEMPLATE == "marmara") {
+                            currentEl.html('<img src="/Content/images/modernTheme/favsel.png" />');
+                        } else {
+                            currentEl.html('<i class="fa fa-star fa-2x"></i>');
+                            }
+                    }
+                    else {
+                        if (THEME_TEMPLATE == "modern" ||
+                            THEME_TEMPLATE == "kenya" ||
+                            THEME_TEMPLATE == "tounes" ||
+                            THEME_TEMPLATE == "marmara") {
+                            currentEl.html('<img src="/Content/images/modernTheme/fav.png" />');
+                        } else {
+                            currentEl.html('<i class="fa fa-star-o fa-2x"></i>');
+                        }
+                    }
+                    $("#favorites_count").html(result.FavoritesCount);
+                });
+            }
+            //else {
+            //    currentEl.html('<i class="fa fa-lock"></i>');
+            //}
+        });
+
+        processMatchStatusAll();
+        updateActiveBetItems();
+    }
+
+</script>

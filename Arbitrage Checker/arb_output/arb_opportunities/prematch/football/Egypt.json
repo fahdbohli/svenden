@@ -1,0 +1,1125 @@
+[
+  {
+    "group_id": "653763555-11261494-13927621",
+    "home_team": "El-Entag El-Harby",
+    "away_team": "Abo Qair Semads",
+    "date": "18/09/2025",
+    "time": "18:30",
+    "country": "Egypt",
+    "all_sources": [
+      "1xbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "first_half_under_0.5_vs_first_half_over_0.5",
+        "best_odds": {
+          "first_half_under_0.5_odd": {
+            "value": 2.2,
+            "source": "Clubx2"
+          },
+          "first_half_over_0.5_odd": {
+            "value": 1.876,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9876,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13927621-11261494",
+        "Clubx2_country_name": "Egypt",
+        "tournament_Clubx2": "2nd Division",
+        "Clubx2_match_id": 13927621,
+        "Clubx2_tournament_id": 3795,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13927621#/overview",
+        "Tounesbet_country_name": "Egypt",
+        "tournament_Tounesbet": "Second Division",
+        "Tounesbet_match_id": 11261494,
+        "Tounesbet_tournament_id": 23323,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653763555-11261494-13927621",
+        "home_team": "El-Entag El-Harby",
+        "away_team": "Abo Qair Semads",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2578679039552262149-653382159-11254530-13470469-27996450",
+    "home_team": "Al Mokawloon Al Arab",
+    "away_team": "Pharco FC",
+    "date": "17/09/2025",
+    "time": "15:00",
+    "country": "Egypt",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.16,
+            "source": "1xbet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 2.029,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9558,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653382159-11254530",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Egypt",
+        "tournament_1xbet": "Premier League",
+        "1xbet_match_id": 653382159,
+        "1xbet_tournament_id": 147087,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/147087/653382159",
+        "Tounesbet_country_name": "Egypt",
+        "tournament_Tounesbet": "Premier League",
+        "Tounesbet_match_id": 11254530,
+        "Tounesbet_tournament_id": 23321,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578679039552262149-653382159-11254530-13470469-27996450",
+        "home_team": "Al Mokawloon Al Arab",
+        "away_team": "Pharco FC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.12,
+            "source": "Jibibet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 2.029,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9646,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2578679039552262149-11254530",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "Egypt",
+        "tournament_Jibibet": "Premier League",
+        "Jibibet_match_id": 2578679039552262149,
+        "Jibibet_tournament_id": 1669817278671228928,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "Egypt",
+        "tournament_Tounesbet": "Premier League",
+        "Tounesbet_match_id": 11254530,
+        "Tounesbet_tournament_id": 23321,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578679039552262149-653382159-11254530-13470469-27996450",
+        "home_team": "Al Mokawloon Al Arab",
+        "away_team": "Pharco FC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "first_half_under_0.5_vs_first_half_over_0.5",
+        "best_odds": {
+          "first_half_under_0.5_odd": {
+            "value": 2.2,
+            "source": "Clubx2"
+          },
+          "first_half_over_0.5_odd": {
+            "value": 1.958,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9653,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13470469-11254530",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Egypt",
+        "tournament_Clubx2": "Premier League",
+        "Clubx2_match_id": 13470469,
+        "Clubx2_tournament_id": 2974,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13470469#/overview",
+        "Tounesbet_country_name": "Egypt",
+        "tournament_Tounesbet": "Premier League",
+        "Tounesbet_match_id": 11254530,
+        "Tounesbet_tournament_id": 23321,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578679039552262149-653382159-11254530-13470469-27996450",
+        "home_team": "Al Mokawloon Al Arab",
+        "away_team": "Pharco FC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.11,
+            "source": "Asbet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 2.029,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9668,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27996450-11254530",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Egypt",
+        "tournament_Asbet": "Premier League",
+        "Asbet_match_id": 27996450,
+        "Asbet_tournament_id": 1836,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Egypt/1836/premier-league/27996450/al-mokawloon-al-arab-pharco-fc",
+        "Tounesbet_country_name": "Egypt",
+        "tournament_Tounesbet": "Premier League",
+        "Tounesbet_match_id": 11254530,
+        "Tounesbet_tournament_id": 23321,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578679039552262149-653382159-11254530-13470469-27996450",
+        "home_team": "Al Mokawloon Al Arab",
+        "away_team": "Pharco FC",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2578694383805272099-653382168-11254599-13470487-27997380",
+    "home_team": "El Mesry Club",
+    "away_team": "Ghazl El Mahallah CK",
+    "date": "17/09/2025",
+    "time": "18:00",
+    "country": "Egypt",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_-1.0_home_vs_away",
+        "best_odds": {
+          "home_handicap_-1.0_odd": {
+            "value": 2.1,
+            "source": "1xbet"
+          },
+          "away_handicap_1.0_odd": {
+            "value": 2.242,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9222,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653382168-11254599",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Egypt",
+        "tournament_1xbet": "Premier League",
+        "1xbet_match_id": 653382168,
+        "1xbet_tournament_id": 147087,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/147087/653382168",
+        "Tounesbet_country_name": "Egypt",
+        "tournament_Tounesbet": "Premier League",
+        "Tounesbet_match_id": 11254599,
+        "Tounesbet_tournament_id": 23321,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578694383805272099-653382168-11254599-13470487-27997380",
+        "home_team": "El Mesry Club",
+        "away_team": "Ghazl El Mahallah CK",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "homewin_handicap_vs_x2",
+        "best_odds": {
+          "home_handicap_-0.5_odd": {
+            "value": 1.793,
+            "source": "Tounesbet"
+          },
+          "X2_odd": {
+            "value": 2.45,
+            "source": "Jibibet"
+          }
+        },
+        "arbitrage_percentage": 0.9659,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2578694383805272099-11254599",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Egypt",
+        "tournament_Tounesbet": "Premier League",
+        "Tounesbet_match_id": 11254599,
+        "Tounesbet_tournament_id": 23321,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Jibibet_country_name": "Egypt",
+        "tournament_Jibibet": "Premier League",
+        "Jibibet_match_id": 2578694383805272099,
+        "Jibibet_tournament_id": 1669817278671228928,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "group_id": "2578694383805272099-653382168-11254599-13470487-27997380",
+        "home_team": "El Mesry Club",
+        "away_team": "Ghazl El Mahallah CK",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_-1.25_home_vs_away",
+        "best_odds": {
+          "home_handicap_-1.25_odd": {
+            "value": 2.21,
+            "source": "Asbet"
+          },
+          "away_handicap_1.25_odd": {
+            "value": 1.947,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9661,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27997380-11254599",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Egypt",
+        "tournament_Asbet": "Premier League",
+        "Asbet_match_id": 27997380,
+        "Asbet_tournament_id": 1836,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Egypt/1836/premier-league/27997380/al-masry-ghazl-el-mahallah-ck",
+        "Tounesbet_country_name": "Egypt",
+        "tournament_Tounesbet": "Premier League",
+        "Tounesbet_match_id": 11254599,
+        "Tounesbet_tournament_id": 23321,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578694383805272099-653382168-11254599-13470487-27997380",
+        "home_team": "El Mesry Club",
+        "away_team": "Ghazl El Mahallah CK",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_-1.25_home_vs_away",
+        "best_odds": {
+          "home_handicap_-1.25_odd": {
+            "value": 2.2,
+            "source": "Clubx2"
+          },
+          "away_handicap_1.25_odd": {
+            "value": 1.947,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9682,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13470487-11254599",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Egypt",
+        "tournament_Clubx2": "Premier League",
+        "Clubx2_match_id": 13470487,
+        "Clubx2_tournament_id": 2974,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13470487#/overview",
+        "Tounesbet_country_name": "Egypt",
+        "tournament_Tounesbet": "Premier League",
+        "Tounesbet_match_id": 11254599,
+        "Tounesbet_tournament_id": 23321,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578694383805272099-653382168-11254599-13470487-27997380",
+        "home_team": "El Mesry Club",
+        "away_team": "Ghazl El Mahallah CK",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2578679039552262150-653382165-11254603-13470484-27997379",
+    "home_team": "El Gouna FC",
+    "away_team": "Petrojet FC",
+    "date": "17/09/2025",
+    "time": "18:00",
+    "country": "Egypt",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.5715,
+            "source": "Clubx2"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.793,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9466,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13470484-11254603",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Egypt",
+        "tournament_Clubx2": "Premier League",
+        "Clubx2_match_id": 13470484,
+        "Clubx2_tournament_id": 2974,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13470484#/overview",
+        "Tounesbet_country_name": "Egypt",
+        "tournament_Tounesbet": "Premier League",
+        "Tounesbet_match_id": 11254603,
+        "Tounesbet_tournament_id": 23321,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578679039552262150-653382165-11254603-13470484-27997379",
+        "home_team": "El Gouna FC",
+        "away_team": "Petrojet FC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.57,
+            "source": "Asbet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.793,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9468,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27997379-11254603",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Egypt",
+        "tournament_Asbet": "Premier League",
+        "Asbet_match_id": 27997379,
+        "Asbet_tournament_id": 1836,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Egypt/1836/premier-league/27997379/el-gouna-fc-petrojet-fc",
+        "Tounesbet_country_name": "Egypt",
+        "tournament_Tounesbet": "Premier League",
+        "Tounesbet_match_id": 11254603,
+        "Tounesbet_tournament_id": 23321,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578679039552262150-653382165-11254603-13470484-27997379",
+        "home_team": "El Gouna FC",
+        "away_team": "Petrojet FC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.56,
+            "source": "Jibibet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.793,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9483,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2578679039552262150-11254603",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "Egypt",
+        "tournament_Jibibet": "Premier League",
+        "Jibibet_match_id": 2578679039552262150,
+        "Jibibet_tournament_id": 1669817278671228928,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "Egypt",
+        "tournament_Tounesbet": "Premier League",
+        "Tounesbet_match_id": 11254603,
+        "Tounesbet_tournament_id": 23321,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578679039552262150-653382165-11254603-13470484-27997379",
+        "home_team": "El Gouna FC",
+        "away_team": "Petrojet FC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.51,
+            "source": "1xbet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.793,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9561,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653382165-11254603",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Egypt",
+        "tournament_1xbet": "Premier League",
+        "1xbet_match_id": 653382165,
+        "1xbet_tournament_id": 147087,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/147087/653382165",
+        "Tounesbet_country_name": "Egypt",
+        "tournament_Tounesbet": "Premier League",
+        "Tounesbet_match_id": 11254603,
+        "Tounesbet_tournament_id": 23321,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578679039552262150-653382165-11254603-13470484-27997379",
+        "home_team": "El Gouna FC",
+        "away_team": "Petrojet FC",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2579421916574130204-653902365-11261469-13470462-28003441",
+    "home_team": "Ismaily SC",
+    "away_team": "Zamalek SC",
+    "date": "18/09/2025",
+    "time": "15:00",
+    "country": "Egypt",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_1.25_home_vs_away",
+        "best_odds": {
+          "home_handicap_1.25_odd": {
+            "value": 1.947,
+            "source": "Tounesbet"
+          },
+          "away_handicap_-1.25_odd": {
+            "value": 2.21,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9661,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "28003441-11261469",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Egypt",
+        "tournament_Tounesbet": "Premier League",
+        "Tounesbet_match_id": 11261469,
+        "Tounesbet_tournament_id": 23321,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "Egypt",
+        "tournament_Asbet": "Premier League",
+        "Asbet_match_id": 28003441,
+        "Asbet_tournament_id": 1836,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Egypt/1836/premier-league/28003441/ismaily-sc-zamalek-sc",
+        "group_id": "2579421916574130204-653902365-11261469-13470462-28003441",
+        "home_team": "Ismaily SC",
+        "away_team": "Zamalek SC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_0.75_home_vs_away",
+        "best_odds": {
+          "home_handicap_0.75_odd": {
+            "value": 2.2,
+            "source": "Clubx2"
+          },
+          "away_handicap_-0.75_odd": {
+            "value": 1.947,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9682,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13470462-11261469",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Egypt",
+        "tournament_Clubx2": "Premier League",
+        "Clubx2_match_id": 13470462,
+        "Clubx2_tournament_id": 2974,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13470462#/overview",
+        "Tounesbet_country_name": "Egypt",
+        "tournament_Tounesbet": "Premier League",
+        "Tounesbet_match_id": 11261469,
+        "Tounesbet_tournament_id": 23321,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579421916574130204-653902365-11261469-13470462-28003441",
+        "home_team": "Ismaily SC",
+        "away_team": "Zamalek SC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_1.25_home_vs_away",
+        "best_odds": {
+          "home_handicap_1.25_odd": {
+            "value": 1.947,
+            "source": "Tounesbet"
+          },
+          "away_handicap_-1.25_odd": {
+            "value": 2.15,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.9787,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653902365-11261469",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Egypt",
+        "tournament_Tounesbet": "Premier League",
+        "Tounesbet_match_id": 11261469,
+        "Tounesbet_tournament_id": 23321,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "1xbet_country_name": "Egypt",
+        "tournament_1xbet": "Premier League",
+        "1xbet_match_id": 653902365,
+        "1xbet_tournament_id": 147087,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/147087/653902365",
+        "group_id": "2579421916574130204-653902365-11261469-13470462-28003441",
+        "home_team": "Ismaily SC",
+        "away_team": "Zamalek SC",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "653678602-11289014-13470454-28004065",
+    "home_team": "Al Ittihad Alexandria",
+    "away_team": "Kahrbaa Alasmalia",
+    "date": "18/09/2025",
+    "time": "18:00",
+    "country": "Egypt",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "first_half_under_0.5_vs_first_half_over_0.5",
+        "best_odds": {
+          "first_half_under_0.5_odd": {
+            "value": 2.2858,
+            "source": "Clubx2"
+          },
+          "first_half_over_0.5_odd": {
+            "value": 1.958,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9482,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13470454-11289014",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Egypt",
+        "tournament_Clubx2": "Premier League",
+        "Clubx2_match_id": 13470454,
+        "Clubx2_tournament_id": 2974,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13470454#/overview",
+        "Tounesbet_country_name": "Egypt",
+        "tournament_Tounesbet": "Premier League",
+        "Tounesbet_match_id": 11289014,
+        "Tounesbet_tournament_id": 23321,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653678602-11289014-13470454-28004065",
+        "home_team": "Al Ittihad Alexandria",
+        "away_team": "Kahrbaa Alasmalia",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.09,
+            "source": "1xbet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 2.088,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9574,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653678602-11289014",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Egypt",
+        "tournament_1xbet": "Premier League",
+        "1xbet_match_id": 653678602,
+        "1xbet_tournament_id": 147087,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/147087/653678602",
+        "Tounesbet_country_name": "Egypt",
+        "tournament_Tounesbet": "Premier League",
+        "Tounesbet_match_id": 11289014,
+        "Tounesbet_tournament_id": 23321,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653678602-11289014-13470454-28004065",
+        "home_team": "Al Ittihad Alexandria",
+        "away_team": "Kahrbaa Alasmalia",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "first_half_under_0.5_vs_first_half_over_0.5",
+        "best_odds": {
+          "first_half_under_0.5_odd": {
+            "value": 2.21,
+            "source": "Asbet"
+          },
+          "first_half_over_0.5_odd": {
+            "value": 1.958,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9632,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "28004065-11289014",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Egypt",
+        "tournament_Asbet": "Premier League",
+        "Asbet_match_id": 28004065,
+        "Asbet_tournament_id": 1836,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Egypt/1836/premier-league/28004065/al-ittihad-alexandria-kahraba-ismailia",
+        "Tounesbet_country_name": "Egypt",
+        "tournament_Tounesbet": "Premier League",
+        "Tounesbet_match_id": 11289014,
+        "Tounesbet_tournament_id": 23321,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653678602-11289014-13470454-28004065",
+        "home_team": "Al Ittihad Alexandria",
+        "away_team": "Kahrbaa Alasmalia",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "653382162-11261492-13470471-28004064",
+    "home_team": "Pyramids FC",
+    "away_team": "ZED FC",
+    "date": "18/09/2025",
+    "time": "18:00",
+    "country": "Egypt",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_-0.75_home_vs_away",
+        "best_odds": {
+          "home_handicap_-0.75_odd": {
+            "value": 1.829,
+            "source": "Tounesbet"
+          },
+          "away_handicap_0.75_odd": {
+            "value": 2.4,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9634,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13470471-11261492",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Egypt",
+        "tournament_Tounesbet": "Premier League",
+        "Tounesbet_match_id": 11261492,
+        "Tounesbet_tournament_id": 23321,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "Egypt",
+        "tournament_Clubx2": "Premier League",
+        "Clubx2_match_id": 13470471,
+        "Clubx2_tournament_id": 2974,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13470471#/overview",
+        "group_id": "653382162-11261492-13470471-28004064",
+        "home_team": "Pyramids FC",
+        "away_team": "ZED FC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_-1.5_home_vs_away",
+        "best_odds": {
+          "home_handicap_-1.5_odd": {
+            "value": 2.35,
+            "source": "Asbet"
+          },
+          "away_handicap_1.5_odd": {
+            "value": 1.852,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9655,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "28004064-11261492",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Egypt",
+        "tournament_Asbet": "Premier League",
+        "Asbet_match_id": 28004064,
+        "Asbet_tournament_id": 1836,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Egypt/1836/premier-league/28004064/pyramids-fc-zed-fc",
+        "Tounesbet_country_name": "Egypt",
+        "tournament_Tounesbet": "Premier League",
+        "Tounesbet_match_id": 11261492,
+        "Tounesbet_tournament_id": 23321,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653382162-11261492-13470471-28004064",
+        "home_team": "Pyramids FC",
+        "away_team": "ZED FC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_-1.5_home_vs_away",
+        "best_odds": {
+          "home_handicap_-1.5_odd": {
+            "value": 2.28,
+            "source": "1xbet"
+          },
+          "away_handicap_1.5_odd": {
+            "value": 1.852,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9786,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653382162-11261492",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Egypt",
+        "tournament_1xbet": "Premier League",
+        "1xbet_match_id": 653382162,
+        "1xbet_tournament_id": 147087,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/147087/653382162",
+        "Tounesbet_country_name": "Egypt",
+        "tournament_Tounesbet": "Premier League",
+        "Tounesbet_match_id": 11261492,
+        "Tounesbet_tournament_id": 23321,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653382162-11261492-13470471-28004064",
+        "home_team": "Pyramids FC",
+        "away_team": "ZED FC",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "653678611-11268643-13470482-28010231",
+    "home_team": "Wadi Degla FC",
+    "away_team": "Talaea El Gaish SC",
+    "date": "19/09/2025",
+    "time": "15:00",
+    "country": "Egypt",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.625,
+            "source": "Clubx2"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.793,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9387,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13470482-11268643",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Egypt",
+        "tournament_Clubx2": "Premier League",
+        "Clubx2_match_id": 13470482,
+        "Clubx2_tournament_id": 2974,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13470482#/overview",
+        "Tounesbet_country_name": "Egypt",
+        "tournament_Tounesbet": "Premier League",
+        "Tounesbet_match_id": 11268643,
+        "Tounesbet_tournament_id": 23321,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653678611-11268643-13470482-28010231",
+        "home_team": "Wadi Degla FC",
+        "away_team": "Talaea El Gaish SC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.55,
+            "source": "Asbet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.793,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9499,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "28010231-11268643",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Egypt",
+        "tournament_Asbet": "Premier League",
+        "Asbet_match_id": 28010231,
+        "Asbet_tournament_id": 1836,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Egypt/1836/premier-league/28010231/wadi-degla-fc-talaea-el-gaish-sc",
+        "Tounesbet_country_name": "Egypt",
+        "tournament_Tounesbet": "Premier League",
+        "Tounesbet_match_id": 11268643,
+        "Tounesbet_tournament_id": 23321,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653678611-11268643-13470482-28010231",
+        "home_team": "Wadi Degla FC",
+        "away_team": "Talaea El Gaish SC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.54,
+            "source": "1xbet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.793,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9514,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653678611-11268643",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Egypt",
+        "tournament_1xbet": "Premier League",
+        "1xbet_match_id": 653678611,
+        "1xbet_tournament_id": 147087,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/147087/653678611",
+        "Tounesbet_country_name": "Egypt",
+        "tournament_Tounesbet": "Premier League",
+        "Tounesbet_match_id": 11268643,
+        "Tounesbet_tournament_id": 23321,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653678611-11268643-13470482-28010231",
+        "home_team": "Wadi Degla FC",
+        "away_team": "Talaea El Gaish SC",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "653678605-11268699-13470468-28010893",
+    "home_team": "Al Ahly Cairo",
+    "away_team": "Ceramica Cleopatra FC",
+    "date": "19/09/2025",
+    "time": "18:00",
+    "country": "Egypt",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_-1.25_home_vs_away",
+        "best_odds": {
+          "home_handicap_-1.25_odd": {
+            "value": 2.33,
+            "source": "Asbet"
+          },
+          "away_handicap_1.25_odd": {
+            "value": 1.888,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9588,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "28010893-11268699",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Egypt",
+        "tournament_Asbet": "Premier League",
+        "Asbet_match_id": 28010893,
+        "Asbet_tournament_id": 1836,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Egypt/1836/premier-league/28010893/al-ahli-cairo-ceramica-cleopatra-fc",
+        "Tounesbet_country_name": "Egypt",
+        "tournament_Tounesbet": "Premier League",
+        "Tounesbet_match_id": 11268699,
+        "Tounesbet_tournament_id": 23321,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653678605-11268699-13470468-28010893",
+        "home_team": "Al Ahly Cairo",
+        "away_team": "Ceramica Cleopatra FC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "away_under_0.5_vs_away_over_0.5",
+        "best_odds": {
+          "away_under_0.5_odd": {
+            "value": 2.03,
+            "source": "1xbet"
+          },
+          "away_over_0.5_odd": {
+            "value": 2.124,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9634,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653678605-11268699",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Egypt",
+        "tournament_1xbet": "Premier League",
+        "1xbet_match_id": 653678605,
+        "1xbet_tournament_id": 147087,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/147087/653678605",
+        "Tounesbet_country_name": "Egypt",
+        "tournament_Tounesbet": "Premier League",
+        "Tounesbet_match_id": 11268699,
+        "Tounesbet_tournament_id": 23321,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653678605-11268699-13470468-28010893",
+        "home_team": "Al Ahly Cairo",
+        "away_team": "Ceramica Cleopatra FC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "first_half_under_1.0_vs_first_half_over_1.0",
+        "best_odds": {
+          "first_half_under_1.0_odd": {
+            "value": 1.8334,
+            "source": "Clubx2"
+          },
+          "first_half_over_1.0_odd": {
+            "value": 2.324,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9757,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13470468-11268699",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Egypt",
+        "tournament_Clubx2": "Premier League",
+        "Clubx2_match_id": 13470468,
+        "Clubx2_tournament_id": 2974,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13470468#/overview",
+        "Tounesbet_country_name": "Egypt",
+        "tournament_Tounesbet": "Premier League",
+        "Tounesbet_match_id": 11268699,
+        "Tounesbet_tournament_id": 23321,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653678605-11268699-13470468-28010893",
+        "home_team": "Al Ahly Cairo",
+        "away_team": "Ceramica Cleopatra FC",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "653394671-11268603-13470509-28010892",
+    "home_team": "Smouha SC",
+    "away_team": "Haras El-Hodood SC",
+    "date": "19/09/2025",
+    "time": "18:00",
+    "country": "Egypt",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_-1.25_home_vs_away",
+        "best_odds": {
+          "home_handicap_-1.25_odd": {
+            "value": 2.65,
+            "source": "Asbet"
+          },
+          "away_handicap_1.25_odd": {
+            "value": 1.793,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9351,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "28010892-11268603",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Egypt",
+        "tournament_Asbet": "Premier League",
+        "Asbet_match_id": 28010892,
+        "Asbet_tournament_id": 1836,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Egypt/1836/premier-league/28010892/smouha-sc-haras-el-hodood-sc",
+        "Tounesbet_country_name": "Egypt",
+        "tournament_Tounesbet": "Premier League",
+        "Tounesbet_match_id": 11268603,
+        "Tounesbet_tournament_id": 23321,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653394671-11268603-13470509-28010892",
+        "home_team": "Smouha SC",
+        "away_team": "Haras El-Hodood SC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "first_half_under_0.5_vs_first_half_over_0.5",
+        "best_odds": {
+          "first_half_under_0.5_odd": {
+            "value": 2.2858,
+            "source": "Clubx2"
+          },
+          "first_half_over_0.5_odd": {
+            "value": 1.935,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9543,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13470509-11268603",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Egypt",
+        "tournament_Clubx2": "Premier League",
+        "Clubx2_match_id": 13470509,
+        "Clubx2_tournament_id": 2974,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13470509#/overview",
+        "Tounesbet_country_name": "Egypt",
+        "tournament_Tounesbet": "Premier League",
+        "Tounesbet_match_id": 11268603,
+        "Tounesbet_tournament_id": 23321,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653394671-11268603-13470509-28010892",
+        "home_team": "Smouha SC",
+        "away_team": "Haras El-Hodood SC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_-1.25_home_vs_away",
+        "best_odds": {
+          "home_handicap_-1.25_odd": {
+            "value": 2.49,
+            "source": "1xbet"
+          },
+          "away_handicap_1.25_odd": {
+            "value": 1.793,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9593,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653394671-11268603",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Egypt",
+        "tournament_1xbet": "Premier League",
+        "1xbet_match_id": 653394671,
+        "1xbet_tournament_id": 147087,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/147087/653394671",
+        "Tounesbet_country_name": "Egypt",
+        "tournament_Tounesbet": "Premier League",
+        "Tounesbet_match_id": 11268603,
+        "Tounesbet_tournament_id": 23321,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653394671-11268603-13470509-28010892",
+        "home_team": "Smouha SC",
+        "away_team": "Haras El-Hodood SC",
+        "activity_duration": "1 hour"
+      }
+    ]
+  }
+]

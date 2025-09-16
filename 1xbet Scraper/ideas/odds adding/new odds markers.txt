@@ -1,0 +1,4 @@
+- "G":100 and "T":794 : home to qualify
+- "G":100 and "T":795 : away to qualify
+- "G":50 and "T":518 : penalty in match
+- "G":50 and "T":519 : no penalty in match

@@ -1,0 +1,44 @@
+[
+    {
+        "last_updated": "2025-09-16T20:49:45.775492+01:00"
+    },
+    {
+        "tournament_id": 2169861726785384456,
+        "tournament_name": "Ligue A",
+        "matches": [
+            {
+                "match_id": 2579757471174365185,
+                "date": "17/09/2025",
+                "time": "14:45",
+                "home_team": "Royal Vision 2026",
+                "away_team": "Musongati FC",
+                "1_odd": "6.0",
+                "draw_odd": "3.65",
+                "2_odd": "1.51",
+                "1X_odd": "2.35",
+                "12_odd": "1.25",
+                "X2_odd": "1.12",
+                "over_4.5_odd": "6.0",
+                "under_4.5_odd": "1.07",
+                "over_2.5_odd": "1.96",
+                "under_2.5_odd": "1.7",
+                "over_3.0_odd": "2.76",
+                "under_3.0_odd": "1.36",
+                "over_3.5_odd": "3.4",
+                "under_3.5_odd": "1.25",
+                "over_0.5_odd": "1.05",
+                "under_0.5_odd": "6.8",
+                "over_5.0_odd": "8.8",
+                "under_5.0_odd": "1.02",
+                "over_1.5_odd": "1.31",
+                "under_1.5_odd": "2.96",
+                "over_4.0_odd": "5.4",
+                "under_4.0_odd": "1.09",
+                "over_2.0_odd": "1.51",
+                "under_2.0_odd": "2.3",
+                "over_1.0_odd": "1.07",
+                "under_1.0_odd": "6.0"
+            }
+        ]
+    }
+]

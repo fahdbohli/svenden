@@ -1,0 +1,44 @@
+[
+    {
+        "last_updated": "2025-09-16T20:49:45.773734+01:00"
+    },
+    {
+        "tournament_id": 1709331615332831232,
+        "tournament_name": "First Division",
+        "matches": [
+            {
+                "match_id": 2579548135336587283,
+                "date": "17/09/2025",
+                "time": "15:00",
+                "home_team": "AL Arabi",
+                "away_team": "Sama",
+                "1_odd": "2.52",
+                "draw_odd": "2.96",
+                "2_odd": "2.74",
+                "1X_odd": "1.4",
+                "12_odd": "1.35",
+                "X2_odd": "1.45",
+                "over_4.5_odd": "6.8",
+                "under_4.5_odd": "1.05",
+                "over_2.5_odd": "2.16",
+                "under_2.5_odd": "1.57",
+                "over_3.0_odd": "3.2",
+                "under_3.0_odd": "1.27",
+                "over_3.5_odd": "3.85",
+                "under_3.5_odd": "1.19",
+                "over_0.5_odd": "1.07",
+                "under_0.5_odd": "6.0",
+                "over_5.0_odd": "9.2",
+                "under_5.0_odd": "1.01",
+                "over_1.5_odd": "1.39",
+                "under_1.5_odd": "2.64",
+                "over_4.0_odd": "6.4",
+                "under_4.0_odd": "1.06",
+                "over_2.0_odd": "1.65",
+                "under_2.0_odd": "2.02",
+                "over_1.0_odd": "1.1",
+                "under_1.0_odd": "5.2"
+            }
+        ]
+    }
+]

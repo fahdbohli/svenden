@@ -1,0 +1,1 @@
+{"command":"create_bets","params":{"bets":[{"Source":42,"Type":2,"AcceptTypeId":0,"OddType":0,"EachWay":false,"Events":[{"SelectionId":5788224398,"Coeficient":3.52},{"SelectionId":5723076366,"Coeficient":3.85},{"SelectionId":5723081133,"Coeficient":2.57}],"IsSuperBet":false,"Amount":1}]},"rid":"775c501ab3c2e41b5ae3df08b00ef9a66b0cb730"}

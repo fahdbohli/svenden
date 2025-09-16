@@ -1,0 +1,26 @@
+[
+    {
+        "last_updated": "2025-09-09T15:26:37.624087+01:00"
+    },
+    {
+        "tournament_id": 2220439782998282258,
+        "tournament_name": "Premier League, Women",
+        "matches": [
+            {
+                "match_id": 2577188627117383717,
+                "date": "10/09/2025",
+                "time": "08:00",
+                "home_team": "Addis Ababa Ketema",
+                "away_team": "Ethio Electric SC",
+                "1_odd": "10.0",
+                "draw_odd": "4.0",
+                "2_odd": "1.33",
+                "1X_odd": "2.85",
+                "12_odd": "1.17",
+                "X2_odd": "1.0",
+                "over_2.5_odd": "1.99",
+                "under_2.5_odd": "1.68"
+            }
+        ]
+    }
+]

@@ -1,0 +1,22 @@
+HTTP/2 302 Found
+Date: Tue, 22 Jul 2025 18:39:00 GMT
+Content-Type: text/html; charset=utf-8
+Server: cloudflare
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=gKfkJnx1ZcR1s2l4lPFL4N6Up4dnwcUnMPdsOmS3BAr8Bfbk1uvS1YQpvNKt28VCnvHg1ZiOSpiy5qEibYzy4XpL1peX5NzlX%2BxDPgg%3D"}]}
+Cache-Control: private
+Pragma: no-cache
+Expires: -1
+Location: /Home/SetCulture?culture=fr-fr
+X-Aspnetmvc-Version: 5.2
+X-Aspnet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+Cf-Cache-Status: DYNAMIC
+Set-Cookie: _culture=fr-fr; SameSite=None; Secure; Path=/; Expires=Wed, 22 Jul 2026 18:39:00 GMT
+Set-Cookie: 471c5e24-fcdc-43d4-892b-d12a14da7dd2=r-Wh_4vbDPtLcbp6e-bZRoaHZgPunkIjoZdsyb3hXj1Ohsr70J87Q979JciLCS47RbR6a7M8V2g_25jxGb2tRzc80LXJJYmLrWZPGvYgZDLbp9X7kzYYPjw0mYD21R2-4W1whtztEpOR9sbiyvjtME4cFAXA1zngDl-EYowKUodxlHOzwbrYS5wF4V_d5a3Xy4d2Ic-gHVdaLjZxOppsz61tI3SbBcpfXNmRCcIaTRglQBKirKWj3EZd3Ruv68LAOSJDyFJDIJuAo7W_HvpRi3_s9p3AOgNL2qLZ1WIENKY0EYK5Bo3gBqhuwBzX2k2roEzHamahd8BUTE6dbqc_JwwxZcz1SQ_2-PA_8hbZKW6SDYnUFhvstri-nTvxUewOSYejfS0v3CS1xxF1bEvxN4BZ4KuJWFDbMnLopK1iu_G9wV2BQFs6ngcqMkTGrmQNPGypNnwwlZ7hO8e_723y8g; HttpOnly; Path=/
+Cf-Ray: 96350eea7f801d43-MRS
+Alt-Svc: h3=":443"; ma=86400
+
+<html><head><title>Object moved</title></head><body>
+<h2>Object moved to <a href="/Home/SetCulture?culture=fr-fr">here</a>.</h2>
+</body></html>

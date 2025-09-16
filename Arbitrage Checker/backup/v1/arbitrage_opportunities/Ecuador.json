@@ -1,0 +1,37 @@
+[
+  {
+    "match_info": {
+      "home_team": "9 de Octubre FC",
+      "away_team": "CD Vargas Torres",
+      "date": "11/07/2025",
+      "time": "01:00",
+      "sources": [
+        "1xbet",
+        "Asbet",
+        "Clubx2",
+        "Tounesbet"
+      ],
+      "country": "Ecuador",
+      "tournament_1xbet": null,
+      "tournament_Asbet": null,
+      "tournament_Clubx2": null,
+      "tournament_Tounesbet": null
+    },
+    "complementary_set": "three_way",
+    "best_odds": {
+      "1_odd": {
+        "value": 1.749,
+        "source": "Tounesbet"
+      },
+      "draw_odd": {
+        "value": 3.6,
+        "source": "Clubx2"
+      },
+      "2_odd": {
+        "value": 6.765,
+        "source": "Tounesbet"
+      }
+    },
+    "arbitrage_percentage": 0.9974
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "match_info": {
+      "home_team": "Real Esteli FC",
+      "away_team": "CD Walter Ferretti",
+      "date": "10/07/2025",
+      "time": "01:00",
+      "sources": [
+        "1xbet",
+        "Asbet",
+        "Tounesbet"
+      ],
+      "country": "Nicaragua",
+      "tournament_1xbet": null,
+      "tournament_Asbet": null,
+      "tournament_Tounesbet": null
+    },
+    "complementary_set": "x_vs_12",
+    "best_odds": {
+      "draw_odd": {
+        "value": 4.675,
+        "source": "Tounesbet"
+      },
+      "12_odd": {
+        "value": 1.32,
+        "source": "Asbet"
+      }
+    },
+    "arbitrage_percentage": 0.9715
+  }
+]

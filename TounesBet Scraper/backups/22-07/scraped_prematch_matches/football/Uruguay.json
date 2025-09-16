@@ -1,0 +1,31 @@
+[
+    {
+        "last_updated": "2025-07-23T16:35:40.150150+01:00"
+    },
+    {
+        "tournament_name": "Segunda Division",
+        "tournament_id": "23632",
+        "matches": [
+            {
+                "match_id": "10928647",
+                "tournament_id": "23632",
+                "date": "26/07/2025",
+                "time": "14:00",
+                "home_team": "Colon FC",
+                "away_team": "Artigas",
+                "1_odd": null,
+                "draw_odd": null,
+                "2_odd": null,
+                "both_score_odd": null,
+                "both_noscore_odd": null,
+                "1X_odd": null,
+                "12_odd": null,
+                "X2_odd": null,
+                "home_under_1.5_odd": 1.97,
+                "home_over_1.5_odd": 1.72,
+                "away_under_0.5_odd": 2.25,
+                "away_over_0.5_odd": 1.55
+            }
+        ]
+    }
+]

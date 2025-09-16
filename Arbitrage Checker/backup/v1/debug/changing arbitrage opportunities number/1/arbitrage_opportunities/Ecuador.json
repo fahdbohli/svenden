@@ -1,0 +1,31 @@
+[
+  {
+    "match_info": {
+      "home_team": "Imbabura SC",
+      "away_team": "Guayaquil City FC",
+      "date": "09/05/2025",
+      "time": "01:00",
+      "sources": [
+        "1xbet",
+        "Asbet",
+        "Tounesbet"
+      ],
+      "country": "Ecuador",
+      "tournament_1xbet": null,
+      "tournament_Asbet": null,
+      "tournament_Tounesbet": null
+    },
+    "complementary_set": "pair_2",
+    "best_odds": {
+      "draw_odd": {
+        "value": 4.1,
+        "source": "1xbet"
+      },
+      "12_odd": {
+        "value": 1.33,
+        "source": "Tounesbet"
+      }
+    },
+    "arbitrage_percentage": 0.9958
+  }
+]

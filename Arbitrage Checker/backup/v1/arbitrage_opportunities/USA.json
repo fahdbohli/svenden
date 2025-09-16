@@ -1,0 +1,209 @@
+[
+  {
+    "match_info": {
+      "home_team": "Inter Miami CF II",
+      "away_team": "Crown Legacy FC",
+      "date": "14/07/2025",
+      "time": "00:00",
+      "sources": [
+        "Asbet",
+        "Clubx2",
+        "Tounesbet"
+      ],
+      "country": "USA",
+      "tournament_Asbet": null,
+      "tournament_Clubx2": null,
+      "tournament_Tounesbet": null
+    },
+    "complementary_set": "three_way",
+    "best_odds": {
+      "1_odd": {
+        "value": 2.365,
+        "source": "Tounesbet"
+      },
+      "draw_odd": {
+        "value": 4.3,
+        "source": "Asbet"
+      },
+      "2_odd": {
+        "value": 2.959,
+        "source": "Tounesbet"
+      }
+    },
+    "arbitrage_percentage": 0.9933
+  },
+  {
+    "match_info": {
+      "home_team": "Indy Eleven",
+      "away_team": "Rhode Island FC",
+      "date": "13/07/2025",
+      "time": "00:00",
+      "sources": [
+        "Clubx2",
+        "Tounesbet"
+      ],
+      "country": "USA",
+      "tournament_Clubx2": null,
+      "tournament_Tounesbet": null
+    },
+    "complementary_set": "ah_-0.5_home_vs_away",
+    "best_odds": {
+      "home_handicap_-0.5_odd": {
+        "value": 2.2858,
+        "source": "Clubx2"
+      },
+      "away_handicap_0.5_odd": {
+        "value": 1.925,
+        "source": "Tounesbet"
+      }
+    },
+    "arbitrage_percentage": 0.957
+  },
+  {
+    "match_info": {
+      "home_team": "San Antonio FC",
+      "away_team": "Tampa Bay Rowdies",
+      "date": "13/07/2025",
+      "time": "02:00",
+      "sources": [
+        "Clubx2",
+        "Tounesbet"
+      ],
+      "country": "USA",
+      "tournament_Clubx2": null,
+      "tournament_Tounesbet": null
+    },
+    "complementary_set": "ah_-0.5_home_vs_away",
+    "best_odds": {
+      "home_handicap_-0.5_odd": {
+        "value": 2.1,
+        "source": "Clubx2"
+      },
+      "away_handicap_0.5_odd": {
+        "value": 2.167,
+        "source": "Tounesbet"
+      }
+    },
+    "arbitrage_percentage": 0.9377
+  },
+  {
+    "match_info": {
+      "home_team": "Miami FC",
+      "away_team": "Lexington SC",
+      "date": "13/07/2025",
+      "time": "00:30",
+      "sources": [
+        "1xbet",
+        "Clubx2",
+        "Tounesbet"
+      ],
+      "country": "USA",
+      "tournament_1xbet": null,
+      "tournament_Clubx2": null,
+      "tournament_Tounesbet": null
+    },
+    "complementary_set": "both_score",
+    "best_odds": {
+      "both_score_odd": {
+        "value": 2.013,
+        "source": "Tounesbet"
+      },
+      "both_noscore_odd": {
+        "value": 2.293,
+        "source": "1xbet"
+      }
+    },
+    "arbitrage_percentage": 0.9329
+  },
+  {
+    "match_info": {
+      "home_team": "San Antonio Texas",
+      "away_team": "Tampa Bay Rowdies",
+      "date": "13/07/2025",
+      "time": "02:00",
+      "sources": [
+        "1xbet",
+        "Clubx2",
+        "Tounesbet"
+      ],
+      "country": "USA",
+      "tournament_1xbet": null,
+      "tournament_Clubx2": null,
+      "tournament_Tounesbet": null
+    },
+    "complementary_set": "ah_-0.5_home_vs_away",
+    "best_odds": {
+      "home_handicap_-0.5_odd": {
+        "value": 2.1,
+        "source": "Clubx2"
+      },
+      "away_handicap_0.5_odd": {
+        "value": 2.167,
+        "source": "Tounesbet"
+      }
+    },
+    "arbitrage_percentage": 0.9377
+  },
+  {
+    "match_info": {
+      "home_team": "Chicago Fire FC II",
+      "away_team": "New England Revolution II",
+      "date": "13/07/2025",
+      "time": "19:00",
+      "sources": [
+        "1xbet",
+        "Asbet",
+        "Clubx2",
+        "Tounesbet"
+      ],
+      "country": "USA",
+      "tournament_1xbet": null,
+      "tournament_Asbet": null,
+      "tournament_Clubx2": null,
+      "tournament_Tounesbet": null
+    },
+    "complementary_set": "both_score",
+    "best_odds": {
+      "both_score_odd": {
+        "value": 1.5,
+        "source": "Clubx2"
+      },
+      "both_noscore_odd": {
+        "value": 3.047,
+        "source": "Tounesbet"
+      }
+    },
+    "arbitrage_percentage": 0.9949
+  },
+  {
+    "match_info": {
+      "home_team": "Marin FC Legends",
+      "away_team": "San Francisco Glens SC",
+      "date": "10/07/2025",
+      "time": "01:30",
+      "sources": [
+        "1xbet",
+        "Asbet",
+        "Clubx2",
+        "Tounesbet"
+      ],
+      "country": "USA",
+      "tournament_1xbet": null,
+      "tournament_Asbet": null,
+      "tournament_Clubx2": null,
+      "tournament_Tounesbet": null
+    },
+    "complementary_set": "ah_0.5_home_vs_away",
+    "best_odds": {
+      "home_handicap_0.5_odd": {
+        "value": 2.27,
+        "source": "Asbet"
+      },
+      "away_handicap_-0.5_odd": {
+        "value": 1.98,
+        "source": "Tounesbet"
+      }
+    },
+    "arbitrage_percentage": 0.9456
+  }
+]

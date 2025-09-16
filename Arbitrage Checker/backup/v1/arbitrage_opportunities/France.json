@@ -1,0 +1,31 @@
+[
+  {
+    "match_info": {
+      "home_team": "Angers SCO",
+      "away_team": "Paris Saint-Germain",
+      "date": "17/08/2025",
+      "time": "16:00",
+      "sources": [
+        "1xbet",
+        "Asbet",
+        "Clubx2"
+      ],
+      "country": "France",
+      "tournament_1xbet": null,
+      "tournament_Asbet": null,
+      "tournament_Clubx2": null
+    },
+    "complementary_set": "ah_1.0_home_vs_away",
+    "best_odds": {
+      "home_handicap_1.0_odd": {
+        "value": 2.5,
+        "source": "Asbet"
+      },
+      "away_handicap_-1.0_odd": {
+        "value": 4.55,
+        "source": "1xbet"
+      }
+    },
+    "arbitrage_percentage": 0.6198
+  }
+]

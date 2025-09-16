@@ -1,0 +1,243 @@
+[
+  {
+    "group_id": "654048107-11234307-28017118",
+    "home_team": "FK Vardar (Wom)",
+    "away_team": "ZFK Kocani (Wom)",
+    "date": "17/09/2025",
+    "time": "15:30",
+    "country": "North Macedonia",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_3.0_home_vs_away",
+        "best_odds": {
+          "home_handicap_3.0_odd": {
+            "value": 2.35,
+            "source": "Asbet"
+          },
+          "away_handicap_-3.0_odd": {
+            "value": 1.9,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.9518,
+        "arbitrage_sources": "1xbet, Asbet",
+        "unique_id": "654048107-28017118",
+        "Asbet_country_name": "North Macedonia",
+        "tournament_Asbet": "First League - Women",
+        "Asbet_match_id": 28017118,
+        "Asbet_tournament_id": 11742,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/North Macedonia/11742/first-league---women/28017118/fk-vardar-wom-zfk-kocani-wom",
+        "1xbet_country_name": "North Macedonia",
+        "tournament_1xbet": "Women",
+        "1xbet_match_id": 654048107,
+        "1xbet_tournament_id": 1884082,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/1884082/654048107",
+        "group_id": "654048107-11234307-28017118",
+        "home_team": "FK Vardar (Wom)",
+        "away_team": "ZFK Kocani (Wom)",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_3.5_home_vs_away",
+        "best_odds": {
+          "home_handicap_3.5_odd": {
+            "value": 2.242,
+            "source": "Tounesbet"
+          },
+          "away_handicap_-3.5_odd": {
+            "value": 1.85,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9866,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "28017118-11234307",
+        "Tounesbet_country_name": "North Macedonia",
+        "tournament_Tounesbet": "FYR Championship Women",
+        "Tounesbet_match_id": 11234307,
+        "Tounesbet_tournament_id": 25395,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "North Macedonia",
+        "tournament_Asbet": "First League - Women",
+        "Asbet_match_id": 28017118,
+        "Asbet_tournament_id": 11742,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/North Macedonia/11742/first-league---women/28017118/fk-vardar-wom-zfk-kocani-wom",
+        "group_id": "654048107-11234307-28017118",
+        "home_team": "FK Vardar (Wom)",
+        "away_team": "ZFK Kocani (Wom)",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2579667331496153121-654042441-11254558",
+    "home_team": "FC Struga Trim Lum",
+    "away_team": "Shkendija Tetovo",
+    "date": "17/09/2025",
+    "time": "14:30",
+    "country": "North Macedonia",
+    "all_sources": [
+      "1xbet",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_0.25_home_vs_away",
+        "best_odds": {
+          "home_handicap_0.25_odd": {
+            "value": 2.065,
+            "source": "Tounesbet"
+          },
+          "away_handicap_-0.25_odd": {
+            "value": 2.05,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.9721,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "654042441-11254558",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "North Macedonia",
+        "tournament_Tounesbet": "First League",
+        "Tounesbet_match_id": 11254558,
+        "Tounesbet_tournament_id": 23665,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "1xbet_country_name": "North Macedonia",
+        "tournament_1xbet": "First League",
+        "1xbet_match_id": 654042441,
+        "1xbet_tournament_id": 1884157,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/1884157/654042441",
+        "group_id": "2579667331496153121-654042441-11254558",
+        "home_team": "FC Struga Trim Lum",
+        "away_team": "Shkendija Tetovo",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "under_2.5_vs_over_2.5",
+        "best_odds": {
+          "under_2.5_odd": {
+            "value": 1.7,
+            "source": "Jibibet"
+          },
+          "over_2.5_odd": {
+            "value": 2.442,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9977,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2579667331496153121-11254558",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "North Macedonia",
+        "tournament_Jibibet": "1. MFL",
+        "Jibibet_match_id": 2579667331496153121,
+        "Jibibet_tournament_id": 1672644198391791616,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "North Macedonia",
+        "tournament_Tounesbet": "First League",
+        "Tounesbet_match_id": 11254558,
+        "Tounesbet_tournament_id": 23665,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579667331496153121-654042441-11254558",
+        "home_team": "FC Struga Trim Lum",
+        "away_team": "Shkendija Tetovo",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "654035547-11254557",
+    "home_team": "Tikvesh",
+    "away_team": "Shkupi",
+    "date": "17/09/2025",
+    "time": "14:30",
+    "country": "North Macedonia",
+    "all_sources": [
+      "1xbet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "under_2.5_vs_over_2.5",
+        "best_odds": {
+          "under_2.5_odd": {
+            "value": 1.958,
+            "source": "Tounesbet"
+          },
+          "over_2.5_odd": {
+            "value": 2.2,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.9653,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "654035547-11254557",
+        "Tounesbet_country_name": "North Macedonia",
+        "tournament_Tounesbet": "First League",
+        "Tounesbet_match_id": 11254557,
+        "Tounesbet_tournament_id": 23665,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "1xbet_country_name": "North Macedonia",
+        "tournament_1xbet": "First League",
+        "1xbet_match_id": 654035547,
+        "1xbet_tournament_id": 1884157,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/1884157/654035547",
+        "group_id": "654035547-11254557",
+        "home_team": "Tikvesh",
+        "away_team": "Shkupi",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "11234381-13955533-28015659",
+    "home_team": "FK Ljuboten (Wom)",
+    "away_team": "ZFK Skopje 2014 (Wom)",
+    "date": "17/09/2025",
+    "time": "11:00",
+    "country": "North Macedonia",
+    "all_sources": [
+      "Asbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_-3.25_home_vs_away",
+        "best_odds": {
+          "home_handicap_-3.25_odd": {
+            "value": 2.183,
+            "source": "Tounesbet"
+          },
+          "away_handicap_3.25_odd": {
+            "value": 1.9,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9844,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "28015659-11234381",
+        "Tounesbet_country_name": "North Macedonia",
+        "tournament_Tounesbet": "FYR Championship Women",
+        "Tounesbet_match_id": 11234381,
+        "Tounesbet_tournament_id": 25395,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "North Macedonia",
+        "tournament_Asbet": "First League - Women",
+        "Asbet_match_id": 28015659,
+        "Asbet_tournament_id": 11742,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/North Macedonia/11742/first-league---women/28015659/fk-ljuboten-wom-zfk-skopje-wom",
+        "group_id": "11234381-13955533-28015659",
+        "home_team": "FK Ljuboten (Wom)",
+        "away_team": "ZFK Skopje 2014 (Wom)",
+        "activity_duration": "1 hour"
+      }
+    ]
+  }
+]

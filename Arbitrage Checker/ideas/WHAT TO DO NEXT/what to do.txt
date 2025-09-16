@@ -1,0 +1,2 @@
+- add a new option in the arbitrage calculator to let it choose the most profitable arbitrage combination given that tounesbet bet will always get 200 dt in bet
+- add e games scraping and checking

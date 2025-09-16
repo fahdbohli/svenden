@@ -1,0 +1,28 @@
+{
+    "OUTPUT_DIRECTORY": "./ev_output/ev_opportunities",
+
+    "METHOD": "ONE_SHARPING",
+    "method_description": "METHOD (ONE_SHARPING or MULTIPLE_SHARPING)",
+
+    "SHARP_SOURCE": "1xbet",
+
+    "SHARPING_GROUP": [
+        "1xbet",
+        "Asbet",
+        "Clubx2"
+    ],
+
+    "EV_SOURCE": "Asbet",
+
+    "ODDS_INTERVAL": [1.1, 3.0],
+
+    "MIN_OVERPRICE": 0.15,
+
+    "OVERPRICE_SOURCE_LOGGING": true,
+
+    "APPEARANCE_INVESTIGATION": true,
+    "method_description_2": "If true, attempts to determine the overprice source when an opportunity first appears.",
+
+    "DOUBLE_CHECK": false,
+    "method_description_3": "If true, the disappearance method will re-investigate opportunities already analyzed by the appearance method."
+}

@@ -1,0 +1,39 @@
+[
+    {
+        "last_updated": "2025-09-16T13:28:46.510280+01:00"
+    },
+    {
+        "tournament_id": 164275,
+        "tournament_name": "Vietnam Championship. Women",
+        "matches": [
+            {
+                "match_id": 654060504,
+                "date": "17/09/2025",
+                "time": "09:30",
+                "home_team": "Phong Phu Ha Nam (Women)",
+                "away_team": "GT Thai Nguyen (Women)",
+                "1_odd": 3.885,
+                "draw_odd": 3.1,
+                "2_odd": 1.92,
+                "over_2.5_odd": 2.25,
+                "under_2.5_odd": 1.615
+            },
+            {
+                "match_id": 654060505,
+                "date": "17/09/2025",
+                "time": "10:00",
+                "home_team": "Ho Chi Minh City II (Women)",
+                "away_team": "Ha Noi (Women)",
+                "1_odd": 50,
+                "draw_odd": 19,
+                "2_odd": 1.025,
+                "over_2.5_odd": 1.167,
+                "over_4.5_odd": 1.95,
+                "under_2.5_odd": 4.5,
+                "under_4.5_odd": 1.85,
+                "home_handicap_4.0_odd": 1.85,
+                "away_handicap_-4.0_odd": 1.95
+            }
+        ]
+    }
+]

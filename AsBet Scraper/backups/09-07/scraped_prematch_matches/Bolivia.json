@@ -1,0 +1,36 @@
+[
+    {
+        "tournament_name": "Copa De La Division Profesional",
+        "tournament_id": 18284830,
+        "matches": [
+            {
+                "match_id": 27549454,
+                "date": "09/07/2025",
+                "time": "22:30",
+                "home_team": "CD Gualberto Villarroel San Jose",
+                "away_team": "Club Aurora Cochabamba",
+                "match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Bolivia/18284830/copa-de-la-division-profesional/27549454/cd-gualberto-villarroel-san-jose-club-aurora-cochabamba",
+                "home_handicap_-0.75_odd": 2.27,
+                "away_handicap_0.75_odd": 1.56,
+                "1_odd": 1.96,
+                "draw_odd": 3.23,
+                "2_odd": 3.58,
+                "home_handicap_-0.5_odd": 1.9,
+                "away_handicap_0.5_odd": 1.8,
+                "home_handicap_-0.25_odd": 1.7,
+                "away_handicap_0.25_odd": 2.02,
+                "1X_odd": 1.27,
+                "12_odd": 1.31,
+                "X2_odd": 1.74,
+                "over_3.5_odd": 2.37,
+                "under_3.5_odd": 1.52,
+                "over_3.0_odd": 1.87,
+                "under_3.0_odd": 1.83,
+                "over_2.5_odd": 1.54,
+                "under_2.5_odd": 2.33,
+                "home_handicap_0.0_odd": 1.44,
+                "away_handicap_0.0_odd": 2.59
+            }
+        ]
+    }
+]

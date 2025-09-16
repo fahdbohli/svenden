@@ -1,0 +1,2 @@
+add home and away total per half (its already requested by the total half request)
+not sure

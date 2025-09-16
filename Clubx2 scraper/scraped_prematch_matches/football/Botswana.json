@@ -1,0 +1,28 @@
+[
+    {
+        "last_updated": "2025-09-16T20:53:01.148273+01:00"
+    },
+    {
+        "tournament_id": 3793,
+        "tournament_name": "Premier League",
+        "matches": [
+            {
+                "match_id": 13681965,
+                "date": "17/09/2025",
+                "time": "18:00",
+                "home_team": "Township Rollers",
+                "away_team": "Tafic",
+                "1_odd": 2.4546,
+                "draw_odd": 3.0,
+                "2_odd": 2.7143,
+                "1X_odd": 1.35,
+                "12_odd": 1.32,
+                "X2_odd": 1.4286,
+                "over_1.5_odd": 1.5556,
+                "under_1.5_odd": 2.2,
+                "first_half_over_0.5_odd": 1.5556,
+                "first_half_under_0.5_odd": 2.2
+            }
+        ]
+    }
+]

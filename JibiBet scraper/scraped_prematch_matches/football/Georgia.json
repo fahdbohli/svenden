@@ -1,0 +1,57 @@
+[
+    {
+        "last_updated": "2025-09-14T13:23:59.367004+01:00"
+    },
+    {
+        "tournament_id": 1670008002528284672,
+        "tournament_name": "Erovnuli Liga",
+        "matches": [
+            {
+                "match_id": 2578592737880322067,
+                "date": "14/09/2025",
+                "time": "17:00",
+                "home_team": "FC Iberia 1999",
+                "away_team": "FC Kolkheti-1913 Poti",
+                "1_odd": "1.25",
+                "draw_odd": "5.4",
+                "2_odd": "10.0",
+                "1X_odd": "1.02",
+                "12_odd": "1.09",
+                "X2_odd": "3.2",
+                "over_4.5_odd": "4.6",
+                "under_4.5_odd": "1.15",
+                "over_1.5_odd": "1.21",
+                "under_1.5_odd": "3.85",
+                "over_2.5_odd": "1.69",
+                "under_2.5_odd": "2.02",
+                "over_3.5_odd": "2.66",
+                "under_3.5_odd": "1.4",
+                "over_0.5_odd": "1.02",
+                "under_0.5_odd": "9.4"
+            },
+            {
+                "match_id": 2577987422805696539,
+                "date": "14/09/2025",
+                "time": "18:00",
+                "home_team": "FC Dila Gori",
+                "away_team": "FC Dinamo Batumi",
+                "1_odd": "1.55",
+                "draw_odd": "3.7",
+                "2_odd": "5.8",
+                "1X_odd": "1.08",
+                "12_odd": "1.2",
+                "X2_odd": "2.23",
+                "over_4.5_odd": "6.6",
+                "under_4.5_odd": "1.07",
+                "over_1.5_odd": "1.31",
+                "under_1.5_odd": "3.1",
+                "over_2.5_odd": "2.02",
+                "under_2.5_odd": "1.69",
+                "over_3.5_odd": "3.4",
+                "under_3.5_odd": "1.26",
+                "over_0.5_odd": "1.04",
+                "under_0.5_odd": "8.0"
+            }
+        ]
+    }
+]

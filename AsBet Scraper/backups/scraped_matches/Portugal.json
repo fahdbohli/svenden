@@ -1,0 +1,54 @@
+[
+    {
+        "tournament_name": "Liga Portugal. Outright",
+        "tournament_id": "20691",
+        "matches": []
+    },
+    {
+        "tournament_name": "Super Cup",
+        "tournament_id": "1982",
+        "matches": [
+            {
+                "match_id": 27472930,
+                "date": "31/07/2025",
+                "time": "20:45",
+                "home_team": "Sporting CP",
+                "away_team": "SL Benfica",
+                "2_odd": 2.68,
+                "1_odd": 2.32,
+                "draw_odd": 3.17,
+                "over_1.5_odd": 1.29,
+                "under_1.5_odd": 3.25,
+                "over_2.0_odd": 1.46,
+                "under_2.0_odd": 2.52,
+                "over_2.5_odd": 1.9,
+                "under_2.5_odd": 1.8,
+                "under_3.0_odd": 1.44,
+                "over_3.0_odd": 2.59,
+                "under_3.5_odd": 1.3,
+                "over_3.5_odd": 3.2,
+                "away_handicap_-0.25_odd": 2.35,
+                "home_handicap_0.25_odd": 1.53,
+                "away_handicap_0.0_odd": 1.97,
+                "home_handicap_0.0_odd": 1.73,
+                "away_handicap_1.0_odd": 1.22,
+                "home_handicap_-1.0_odd": 3.83,
+                "away_handicap_-0.75_odd": 3.25,
+                "home_handicap_0.75_odd": 1.29,
+                "away_handicap_0.75_odd": 1.38,
+                "home_handicap_-0.75_odd": 2.8,
+                "away_handicap_0.25_odd": 1.7,
+                "home_handicap_-0.25_odd": 2.02,
+                "both_noscore_odd": 2.01,
+                "both_score_odd": 1.71,
+                "away_handicap_0.5_odd": 1.53,
+                "home_handicap_-0.5_odd": 2.35,
+                "away_handicap_-0.5_odd": 2.68,
+                "home_handicap_0.5_odd": 1.41,
+                "X2_odd": 1.53,
+                "1X_odd": 1.4,
+                "12_odd": 1.31
+            }
+        ]
+    }
+]

@@ -1,0 +1,11 @@
+{
+  "full_check_markets": [
+    "one_vs_x2",
+    "two_vs_1x",
+    "x_vs_12",
+    "homewin_handicap_vs_x2",
+    "awaywin_handicap_vs_1x",
+    "one_vs_x2_handicap",
+    "two_vs_1x_handicap"
+  ]
+}

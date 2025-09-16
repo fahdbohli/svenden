@@ -1,0 +1,19 @@
+GET /api/v3/prematch/brand/2420651747870650368/event/en/2558278497114136589 HTTP/2
+Host: api-h-c7818b61-608.sptpub.com
+Sec-Ch-Ua-Platform: "Windows"
+Accept-Language: fr-FR,fr;q=0.9
+Sec-Ch-Ua: "Not)A;Brand";v="8", "Chromium";v="138"
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+Sec-Ch-Ua-Mobile: ?0
+Accept: */*
+Origin: https://jibibet.com
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://jibibet.com/
+Accept-Encoding: gzip, deflate, br
+Priority: u=1, i
+
+
+2558278497114136589 is the event id
+

@@ -1,0 +1,36 @@
+{
+  "swap_pairs": [
+    {
+      "pattern1": "home",
+      "pattern2": "away"
+    },
+    {
+      "pattern1": "player1",
+      "pattern2": "player2"
+    },
+    {
+      "pattern1": "team1",
+      "pattern2": "team2"
+    },
+    {
+      "pattern1": "host",
+      "pattern2": "guest"
+    },
+    {
+      "pattern1": "1",
+      "pattern2": "2"
+    },
+    {
+      "pattern1": "winner1",
+      "pattern2": "winner2"
+    },
+    {
+      "pattern1": "p1",
+      "pattern2": "p2"
+    },
+    {
+      "pattern1": "t1",
+      "pattern2": "t2"
+    }
+  ]
+}

@@ -1,0 +1,947 @@
+[
+  {
+    "group_id": "2579062621760262169-653678620-10667272-27949881",
+    "home_team": "HNK Hajduk Split",
+    "away_team": "GNK Dinamo Zagreb",
+    "date": "20/09/2025",
+    "time": "16:00",
+    "country": "Croatia",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_0.0_home_vs_away",
+        "best_odds": {
+          "home_handicap_0.0_odd": {
+            "value": 2.29,
+            "source": "1xbet"
+          },
+          "away_handicap_0.0_odd": {
+            "value": 1.947,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9503,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653678620-10667272",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Croatia",
+        "tournament_1xbet": "HNL",
+        "1xbet_match_id": 653678620,
+        "1xbet_tournament_id": 27735,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/27735/653678620",
+        "Tounesbet_country_name": "Croatia",
+        "tournament_Tounesbet": "HNL",
+        "Tounesbet_match_id": 10667272,
+        "Tounesbet_tournament_id": 175501,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579062621760262169-653678620-10667272-27949881",
+        "home_team": "HNK Hajduk Split",
+        "away_team": "GNK Dinamo Zagreb",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "first_half_ah_0.0_home_vs_away",
+        "best_odds": {
+          "home_first_half_handicap_0.0_odd": {
+            "value": 2.13,
+            "source": "Asbet"
+          },
+          "away_first_half_handicap_0.0_odd": {
+            "value": 2.006,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.968,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27949881-10667272",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Croatia",
+        "tournament_Asbet": "HNL",
+        "Asbet_match_id": 27949881,
+        "Asbet_tournament_id": 1822,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Croatia/1822/hnl/27949881/hnk-hajduk-split-gnk-dinamo-zagreb",
+        "Tounesbet_country_name": "Croatia",
+        "tournament_Tounesbet": "HNL",
+        "Tounesbet_match_id": 10667272,
+        "Tounesbet_tournament_id": 175501,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579062621760262169-653678620-10667272-27949881",
+        "home_team": "HNK Hajduk Split",
+        "away_team": "GNK Dinamo Zagreb",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "two_vs_1x_handicap",
+        "best_odds": {
+          "2_odd": {
+            "value": 2.24,
+            "source": "Jibibet"
+          },
+          "home_handicap_0.5_odd": {
+            "value": 1.911,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9697,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2579062621760262169-10667272",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "Croatia",
+        "tournament_Jibibet": "HNL",
+        "Jibibet_match_id": 2579062621760262169,
+        "Jibibet_tournament_id": 1669818889791475712,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "Croatia",
+        "tournament_Tounesbet": "HNL",
+        "Tounesbet_match_id": 10667272,
+        "Tounesbet_tournament_id": 175501,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579062621760262169-653678620-10667272-27949881",
+        "home_team": "HNK Hajduk Split",
+        "away_team": "GNK Dinamo Zagreb",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2578708729528721444-653678626-10667269-27949880",
+    "home_team": "NK Lokomotiva Zagreb",
+    "away_team": "NK Varazdin",
+    "date": "20/09/2025",
+    "time": "19:00",
+    "country": "Croatia",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_-0.25_home_vs_away",
+        "best_odds": {
+          "home_handicap_-0.25_odd": {
+            "value": 2.39,
+            "source": "Asbet"
+          },
+          "away_handicap_0.25_odd": {
+            "value": 1.852,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9584,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27949880-10667269",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Croatia",
+        "tournament_Asbet": "HNL",
+        "Asbet_match_id": 27949880,
+        "Asbet_tournament_id": 1822,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Croatia/1822/hnl/27949880/nk-lokomotiva-zagreb-nk-varazdin",
+        "Tounesbet_country_name": "Croatia",
+        "tournament_Tounesbet": "HNL",
+        "Tounesbet_match_id": 10667269,
+        "Tounesbet_tournament_id": 175501,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578708729528721444-653678626-10667269-27949880",
+        "home_team": "NK Lokomotiva Zagreb",
+        "away_team": "NK Varazdin",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_0.0_home_vs_away",
+        "best_odds": {
+          "home_handicap_0.0_odd": {
+            "value": 2.36,
+            "source": "Tounesbet"
+          },
+          "away_handicap_0.0_odd": {
+            "value": 1.81,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.9762,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653678626-10667269",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Croatia",
+        "tournament_Tounesbet": "HNL",
+        "Tounesbet_match_id": 10667269,
+        "Tounesbet_tournament_id": 175501,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "1xbet_country_name": "Croatia",
+        "tournament_1xbet": "HNL",
+        "1xbet_match_id": 653678626,
+        "1xbet_tournament_id": 27735,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/27735/653678626",
+        "group_id": "2578708729528721444-653678626-10667269-27949880",
+        "home_team": "NK Lokomotiva Zagreb",
+        "away_team": "NK Varazdin",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2579064483485986817-653678623-10667270-27956428",
+    "home_team": "HNK Gorica",
+    "away_team": "NK Slaven Belupo",
+    "date": "21/09/2025",
+    "time": "16:00",
+    "country": "Croatia",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.61,
+            "source": "1xbet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.793,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9409,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653678623-10667270",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Croatia",
+        "tournament_1xbet": "HNL",
+        "1xbet_match_id": 653678623,
+        "1xbet_tournament_id": 27735,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/27735/653678623",
+        "Tounesbet_country_name": "Croatia",
+        "tournament_Tounesbet": "HNL",
+        "Tounesbet_match_id": 10667270,
+        "Tounesbet_tournament_id": 175501,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579064483485986817-653678623-10667270-27956428",
+        "home_team": "HNK Gorica",
+        "away_team": "NK Slaven Belupo",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.52,
+            "source": "Jibibet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.793,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9545,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2579064483485986817-10667270",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "Croatia",
+        "tournament_Jibibet": "HNL",
+        "Jibibet_match_id": 2579064483485986817,
+        "Jibibet_tournament_id": 1669818889791475712,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "Croatia",
+        "tournament_Tounesbet": "HNL",
+        "Tounesbet_match_id": 10667270,
+        "Tounesbet_tournament_id": 175501,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579064483485986817-653678623-10667270-27956428",
+        "home_team": "HNK Gorica",
+        "away_team": "NK Slaven Belupo",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_-0.5_home_vs_away",
+        "best_odds": {
+          "home_handicap_-0.5_odd": {
+            "value": 2.44,
+            "source": "Asbet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.793,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9676,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27956428-10667270",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Croatia",
+        "tournament_Asbet": "HNL",
+        "Asbet_match_id": 27956428,
+        "Asbet_tournament_id": 1822,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Croatia/1822/hnl/27956428/hnk-gorica-nk-slaven-belupo",
+        "Tounesbet_country_name": "Croatia",
+        "tournament_Tounesbet": "HNL",
+        "Tounesbet_match_id": 10667270,
+        "Tounesbet_tournament_id": 175501,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579064483485986817-653678623-10667270-27956428",
+        "home_team": "HNK Gorica",
+        "away_team": "NK Slaven Belupo",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2579062621760262168-653678617-10667271-27956427",
+    "home_team": "NK Istra 1961",
+    "away_team": "NK Osijek",
+    "date": "21/09/2025",
+    "time": "18:15",
+    "country": "Croatia",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.12,
+            "source": "1xbet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 2.065,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.956,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653678617-10667271",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Croatia",
+        "tournament_1xbet": "HNL",
+        "1xbet_match_id": 653678617,
+        "1xbet_tournament_id": 27735,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/27735/653678617",
+        "Tounesbet_country_name": "Croatia",
+        "tournament_Tounesbet": "HNL",
+        "Tounesbet_match_id": 10667271,
+        "Tounesbet_tournament_id": 175501,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579062621760262168-653678617-10667271-27956427",
+        "home_team": "NK Istra 1961",
+        "away_team": "NK Osijek",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "first_half_ah_0.0_home_vs_away",
+        "best_odds": {
+          "home_first_half_handicap_0.0_odd": {
+            "value": 1.852,
+            "source": "Tounesbet"
+          },
+          "away_first_half_handicap_0.0_odd": {
+            "value": 2.37,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9619,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27956427-10667271",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Croatia",
+        "tournament_Tounesbet": "HNL",
+        "Tounesbet_match_id": 10667271,
+        "Tounesbet_tournament_id": 175501,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "Croatia",
+        "tournament_Asbet": "HNL",
+        "Asbet_match_id": 27956427,
+        "Asbet_tournament_id": 1822,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Croatia/1822/hnl/27956427/nk-istra--nk-osijek",
+        "group_id": "2579062621760262168-653678617-10667271-27956427",
+        "home_team": "NK Istra 1961",
+        "away_team": "NK Osijek",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.04,
+            "source": "Jibibet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 2.065,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9745,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2579062621760262168-10667271",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "Croatia",
+        "tournament_Jibibet": "HNL",
+        "Jibibet_match_id": 2579062621760262168,
+        "Jibibet_tournament_id": 1669818889791475712,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "Croatia",
+        "tournament_Tounesbet": "HNL",
+        "Tounesbet_match_id": 10667271,
+        "Tounesbet_tournament_id": 175501,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579062621760262168-653678617-10667271-27956427",
+        "home_team": "NK Istra 1961",
+        "away_team": "NK Osijek",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2579720698712952877-653868785-10667231-27942305",
+    "home_team": "HNK Vukovar 1991",
+    "away_team": "HNK Rijeka",
+    "date": "22/09/2025",
+    "time": "17:00",
+    "country": "Croatia",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_1.0_home_vs_away",
+        "best_odds": {
+          "home_handicap_1.0_odd": {
+            "value": 2.065,
+            "source": "Tounesbet"
+          },
+          "away_handicap_-1.0_odd": {
+            "value": 2.16,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.9472,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653868785-10667231",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Croatia",
+        "tournament_Tounesbet": "HNL",
+        "Tounesbet_match_id": 10667231,
+        "Tounesbet_tournament_id": 175501,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "1xbet_country_name": "Croatia",
+        "tournament_1xbet": "HNL",
+        "1xbet_match_id": 653868785,
+        "1xbet_tournament_id": 27735,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/27735/653868785",
+        "group_id": "2579720698712952877-653868785-10667231-27942305",
+        "home_team": "HNK Vukovar 1991",
+        "away_team": "HNK Rijeka",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "awaywin_handicap_vs_1x",
+        "best_odds": {
+          "away_handicap_-0.5_odd": {
+            "value": 1.911,
+            "source": "Tounesbet"
+          },
+          "1X_odd": {
+            "value": 2.31,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9562,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27942305-10667231",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Croatia",
+        "tournament_Tounesbet": "HNL",
+        "Tounesbet_match_id": 10667231,
+        "Tounesbet_tournament_id": 175501,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "Croatia",
+        "tournament_Asbet": "HNL",
+        "Asbet_match_id": 27942305,
+        "Asbet_tournament_id": 1822,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Croatia/1822/hnl/27942305/hnk-vukovar--hnk-rijeka",
+        "group_id": "2579720698712952877-653868785-10667231-27942305",
+        "home_team": "HNK Vukovar 1991",
+        "away_team": "HNK Rijeka",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "awaywin_handicap_vs_1x",
+        "best_odds": {
+          "away_handicap_-0.5_odd": {
+            "value": 1.911,
+            "source": "Tounesbet"
+          },
+          "1X_odd": {
+            "value": 2.15,
+            "source": "Jibibet"
+          }
+        },
+        "arbitrage_percentage": 0.9884,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2579720698712952877-10667231",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Croatia",
+        "tournament_Tounesbet": "HNL",
+        "Tounesbet_match_id": 10667231,
+        "Tounesbet_tournament_id": 175501,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Jibibet_country_name": "Croatia",
+        "tournament_Jibibet": "HNL",
+        "Jibibet_match_id": 2579720698712952877,
+        "Jibibet_tournament_id": 1669818889791475712,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "group_id": "2579720698712952877-653868785-10667231-27942305",
+        "home_team": "HNK Vukovar 1991",
+        "away_team": "HNK Rijeka",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2579702764871495694-10725364-13877868",
+    "home_team": "NK Dubrava Zagreb",
+    "away_team": "NK BSK Bijelo Brdo",
+    "date": "17/09/2025",
+    "time": "13:30",
+    "country": "Croatia",
+    "all_sources": [
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.42,
+            "source": "Jibibet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.793,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9709,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2579702764871495694-10725364",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "Croatia",
+        "tournament_Jibibet": "Prva NL",
+        "Jibibet_match_id": 2579702764871495694,
+        "Jibibet_tournament_id": 1670112326122082304,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "Croatia",
+        "tournament_Tounesbet": "1. HNL",
+        "Tounesbet_match_id": 10725364,
+        "Tounesbet_tournament_id": 21302,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579702764871495694-10725364-13877868",
+        "home_team": "NK Dubrava Zagreb",
+        "away_team": "NK BSK Bijelo Brdo",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.4,
+            "source": "Clubx2"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.793,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9744,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13877868-10725364",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Croatia",
+        "tournament_Clubx2": "2. HNL",
+        "Clubx2_match_id": 13877868,
+        "Clubx2_tournament_id": 4719,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13877868#/overview",
+        "Tounesbet_country_name": "Croatia",
+        "tournament_Tounesbet": "1. HNL",
+        "Tounesbet_match_id": 10725364,
+        "Tounesbet_tournament_id": 21302,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579702764871495694-10725364-13877868",
+        "home_team": "NK Dubrava Zagreb",
+        "away_team": "NK BSK Bijelo Brdo",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2579733514874400799-10725363-13877870",
+    "home_team": "NK Dugopolje",
+    "away_team": "NK Hrvace",
+    "date": "17/09/2025",
+    "time": "15:30",
+    "country": "Croatia",
+    "all_sources": [
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.12,
+            "source": "Jibibet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 2.006,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9702,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2579733514874400799-10725363",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "Croatia",
+        "tournament_Jibibet": "Prva NL",
+        "Jibibet_match_id": 2579733514874400799,
+        "Jibibet_tournament_id": 1670112326122082304,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "Croatia",
+        "tournament_Tounesbet": "1. HNL",
+        "Tounesbet_match_id": 10725363,
+        "Tounesbet_tournament_id": 21302,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579733514874400799-10725363-13877870",
+        "home_team": "NK Dugopolje",
+        "away_team": "NK Hrvace",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_-0.5_home_vs_away",
+        "best_odds": {
+          "home_handicap_-0.5_odd": {
+            "value": 2.1,
+            "source": "Clubx2"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 2.006,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9747,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13877870-10725363",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Croatia",
+        "tournament_Clubx2": "2. HNL",
+        "Clubx2_match_id": 13877870,
+        "Clubx2_tournament_id": 4719,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13877870#/overview",
+        "Tounesbet_country_name": "Croatia",
+        "tournament_Tounesbet": "1. HNL",
+        "Tounesbet_match_id": 10725363,
+        "Tounesbet_tournament_id": 21302,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579733514874400799-10725363-13877870",
+        "home_team": "NK Dugopolje",
+        "away_team": "NK Hrvace",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2579733514874400798-11294379-13877867",
+    "home_team": "NK Jarun Zagreb",
+    "away_team": "NK Opatija",
+    "date": "17/09/2025",
+    "time": "15:30",
+    "country": "Croatia",
+    "all_sources": [
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "two_vs_1x_handicap",
+        "best_odds": {
+          "2_odd": {
+            "value": 2.3637,
+            "source": "Clubx2"
+          },
+          "home_handicap_0.5_odd": {
+            "value": 1.911,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9464,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13877867-11294379",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Croatia",
+        "tournament_Clubx2": "2. HNL",
+        "Clubx2_match_id": 13877867,
+        "Clubx2_tournament_id": 4719,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13877867#/overview",
+        "Tounesbet_country_name": "Croatia",
+        "tournament_Tounesbet": "1. HNL",
+        "Tounesbet_match_id": 11294379,
+        "Tounesbet_tournament_id": 21302,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579733514874400798-11294379-13877867",
+        "home_team": "NK Jarun Zagreb",
+        "away_team": "NK Opatija",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "two_vs_1x_handicap",
+        "best_odds": {
+          "2_odd": {
+            "value": 2.34,
+            "source": "Jibibet"
+          },
+          "home_handicap_0.5_odd": {
+            "value": 1.911,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9506,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2579733514874400798-11294379",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "Croatia",
+        "tournament_Jibibet": "Prva NL",
+        "Jibibet_match_id": 2579733514874400798,
+        "Jibibet_tournament_id": 1670112326122082304,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "Croatia",
+        "tournament_Tounesbet": "1. HNL",
+        "Tounesbet_match_id": 11294379,
+        "Tounesbet_tournament_id": 21302,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579733514874400798-11294379-13877867",
+        "home_team": "NK Jarun Zagreb",
+        "away_team": "NK Opatija",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2579733514874400800-10725200-13877866",
+    "home_team": "Orijent 1919 Rijeka",
+    "away_team": "NK Radnik Sesvete",
+    "date": "17/09/2025",
+    "time": "15:30",
+    "country": "Croatia",
+    "all_sources": [
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "both_score",
+        "best_odds": {
+          "both_score_odd": {
+            "value": 2.242,
+            "source": "Tounesbet"
+          },
+          "both_noscore_odd": {
+            "value": 1.9,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9723,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13877866-10725200",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Croatia",
+        "tournament_Tounesbet": "1. HNL",
+        "Tounesbet_match_id": 10725200,
+        "Tounesbet_tournament_id": 21302,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "Croatia",
+        "tournament_Clubx2": "2. HNL",
+        "Clubx2_match_id": 13877866,
+        "Clubx2_tournament_id": 4719,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13877866#/overview",
+        "group_id": "2579733514874400800-10725200-13877866",
+        "home_team": "Orijent 1919 Rijeka",
+        "away_team": "NK Radnik Sesvete",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "homewin_handicap_vs_x2",
+        "best_odds": {
+          "home_handicap_-0.5_odd": {
+            "value": 2.124,
+            "source": "Tounesbet"
+          },
+          "X2_odd": {
+            "value": 1.92,
+            "source": "Jibibet"
+          }
+        },
+        "arbitrage_percentage": 0.9916,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2579733514874400800-10725200",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Croatia",
+        "tournament_Tounesbet": "1. HNL",
+        "Tounesbet_match_id": 10725200,
+        "Tounesbet_tournament_id": 21302,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Jibibet_country_name": "Croatia",
+        "tournament_Jibibet": "Prva NL",
+        "Jibibet_match_id": 2579733514874400800,
+        "Jibibet_tournament_id": 1670112326122082304,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "group_id": "2579733514874400800-10725200-13877866",
+        "home_team": "Orijent 1919 Rijeka",
+        "away_team": "NK Radnik Sesvete",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2579741303298465806-10725362-13919268",
+    "home_team": "NK Croatia Zmijavci",
+    "away_team": "HNK Cibalia Vinkovci",
+    "date": "17/09/2025",
+    "time": "15:45",
+    "country": "Croatia",
+    "all_sources": [
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.3,
+            "source": "Jibibet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.852,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9747,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2579741303298465806-10725362",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "Croatia",
+        "tournament_Jibibet": "Prva NL",
+        "Jibibet_match_id": 2579741303298465806,
+        "Jibibet_tournament_id": 1670112326122082304,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "Croatia",
+        "tournament_Tounesbet": "1. HNL",
+        "Tounesbet_match_id": 10725362,
+        "Tounesbet_tournament_id": 21302,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579741303298465806-10725362-13919268",
+        "home_team": "NK Croatia Zmijavci",
+        "away_team": "HNK Cibalia Vinkovci",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.25,
+            "source": "Clubx2"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.852,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9844,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13919268-10725362",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Croatia",
+        "tournament_Clubx2": "2. HNL",
+        "Clubx2_match_id": 13919268,
+        "Clubx2_tournament_id": 4719,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13919268#/overview",
+        "Tounesbet_country_name": "Croatia",
+        "tournament_Tounesbet": "1. HNL",
+        "Tounesbet_match_id": 10725362,
+        "Tounesbet_tournament_id": 21302,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579741303298465806-10725362-13919268",
+        "home_team": "NK Croatia Zmijavci",
+        "away_team": "HNK Cibalia Vinkovci",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2579752594478080042-10725360-13877869",
+    "home_team": "NK Karlovac 1919",
+    "away_team": "NK Rudes Zagreb",
+    "date": "17/09/2025",
+    "time": "18:30",
+    "country": "Croatia",
+    "all_sources": [
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "both_score",
+        "best_odds": {
+          "both_score_odd": {
+            "value": 2.596,
+            "source": "Tounesbet"
+          },
+          "both_noscore_odd": {
+            "value": 1.75,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9566,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13877869-10725360",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Croatia",
+        "tournament_Tounesbet": "1. HNL",
+        "Tounesbet_match_id": 10725360,
+        "Tounesbet_tournament_id": 21302,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "Croatia",
+        "tournament_Clubx2": "2. HNL",
+        "Clubx2_match_id": 13877869,
+        "Clubx2_tournament_id": 4719,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13877869#/overview",
+        "group_id": "2579752594478080042-10725360-13877869",
+        "home_team": "NK Karlovac 1919",
+        "away_team": "NK Rudes Zagreb",
+        "activity_duration": "1 hour"
+      }
+    ]
+  }
+]

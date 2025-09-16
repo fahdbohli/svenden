@@ -1,0 +1,71 @@
+[
+    {
+        "last_updated": "2025-09-16T13:28:41.431838+01:00"
+    },
+    {
+        "tournament_id": 76129,
+        "tournament_name": "Primera Division",
+        "matches": [
+            {
+                "match_id": 653910396,
+                "date": "20/09/2025",
+                "time": "21:00",
+                "home_team": "A.D. Isidro Metapán",
+                "away_team": "FAS",
+                "1_odd": 2.23,
+                "draw_odd": 3.1,
+                "2_odd": 3.145,
+                "home_handicap_0.0_odd": 1.58,
+                "away_handicap_0.0_odd": 2.18
+            },
+            {
+                "match_id": 653910394,
+                "date": "20/09/2025",
+                "time": "21:00",
+                "home_team": "C.D. Luis Ángel Firpo",
+                "away_team": "C.D. Municipal Limeno",
+                "1_odd": 1.46,
+                "draw_odd": 4.5,
+                "2_odd": 5.51,
+                "home_handicap_0.0_odd": 1.18,
+                "away_handicap_0.0_odd": 4.1
+            },
+            {
+                "match_id": 653915206,
+                "date": "20/09/2025",
+                "time": "21:00",
+                "home_team": "CD Cacahuatique",
+                "away_team": "Zacatecoluca",
+                "1_odd": 1.76,
+                "draw_odd": 3.6,
+                "2_odd": 4.045,
+                "home_handicap_0.0_odd": 1.32,
+                "away_handicap_0.0_odd": 2.92
+            },
+            {
+                "match_id": 653911076,
+                "date": "20/09/2025",
+                "time": "21:00",
+                "home_team": "CD Hercules",
+                "away_team": "Fuerte San Francisco",
+                "1_odd": 1.95,
+                "draw_odd": 3.3,
+                "2_odd": 3.645,
+                "home_handicap_0.0_odd": 1.41,
+                "away_handicap_0.0_odd": 2.55
+            },
+            {
+                "match_id": 653910395,
+                "date": "20/09/2025",
+                "time": "21:00",
+                "home_team": "CD Platense Zacatecoluca",
+                "away_team": "Aguila",
+                "1_odd": 3.245,
+                "draw_odd": 3.3,
+                "2_odd": 2.08,
+                "home_handicap_0.0_odd": 2.31,
+                "away_handicap_0.0_odd": 1.51
+            }
+        ]
+    }
+]

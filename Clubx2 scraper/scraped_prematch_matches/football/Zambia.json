@@ -1,0 +1,24 @@
+[
+    {
+        "last_updated": "2025-09-16T20:53:21.959876+01:00"
+    },
+    {
+        "tournament_id": 3085,
+        "tournament_name": "Super League",
+        "matches": [
+            {
+                "match_id": 13919145,
+                "date": "17/09/2025",
+                "time": "14:00",
+                "home_team": "Kabwe Warriors",
+                "away_team": "Green Buffaloes",
+                "1_odd": 2.1429,
+                "draw_odd": 2.75,
+                "2_odd": 3.6,
+                "1X_odd": 1.2308,
+                "12_odd": 1.3637,
+                "X2_odd": 1.5295
+            }
+        ]
+    }
+]

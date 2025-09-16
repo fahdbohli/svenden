@@ -1,0 +1,29 @@
+[
+    {
+        "last_updated": "2025-09-16T20:53:52.159315+01:00"
+    },
+    {
+        "tournament_name": "ACT Premier League",
+        "tournament_id": 22720,
+        "matches": [
+            {
+                "match_id": 11294871,
+                "tournament_id": 22720,
+                "date": "20/09/2025",
+                "time": "10:00",
+                "home_team": "Cooma Tigers",
+                "away_team": "Monaro Panthers",
+                "1_odd": null,
+                "draw_odd": null,
+                "2_odd": null,
+                "both_score_odd": null,
+                "both_noscore_odd": null,
+                "under_2.5_odd": null,
+                "over_2.5_odd": null,
+                "1X_odd": null,
+                "12_odd": null,
+                "X2_odd": null
+            }
+        ]
+    }
+]

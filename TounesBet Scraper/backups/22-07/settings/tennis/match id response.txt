@@ -1,0 +1,2204 @@
+HTTP/1.1 200 OK
+Date: Tue, 22 Jul 2025 14:21:37 GMT
+Content-Type: text/html; charset=utf-8
+Connection: keep-alive
+Server: cloudflare
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=P4IYur%2B8cmKjbt4Kys0AUHYCx7SSTB65Hc4F4dXY2OrP83wY%2BU9%2FxIbh8fjsDjuMTSJHXrAQEzu%2FjKBPK5ZoR5pOKmg8juwDiIAlFpI%3D"}]}
+Cache-Control: private
+X-Aspnetmvc-Version: 5.2
+X-Aspnet-Version: 4.0.30319
+Vary: accept-encoding
+X-Powered-By: ASP.NET
+Cf-Cache-Status: DYNAMIC
+Set-Cookie: _culture=fr-fr; Path=/; Expires=Wed, 22 Jul 2026 14:21:37 GMT
+CF-RAY: 963395e4d953e179-MRS
+alt-svc: h2=":443"; ma=60
+Content-Length: 150849
+
+
+
+<style>
+    .description-header {
+        cursor: pointer;
+    }
+
+        .description-header .fa {
+            margin-right: 9px;
+        }
+
+    .description-section {
+        background-color: #343039;
+        color: #fff;
+    }
+
+    .description-header {
+        padding: 5px;
+    }
+
+        .description-header span {
+            display: inline-block !important;
+            width: auto !important;
+            height: auto !important;
+            line-height: 1 !important;
+            vertical-align: middle !important;
+            border-right: none !important;
+            padding-top: 2px;
+        }
+
+    .description-body {
+        background-color: rgb(36, 32, 41);
+        padding: 5px;
+        font-weight: normal;
+    }
+
+    .group-name {
+        text-align: left;
+    }
+</style>
+
+
+<div id="divMatchExtraOddsInline" class="divOddsTable fixturesTable" style="background: #c5d1d9; width:100%; float:left; display:block;">
+    <div id="MatchBetStatisticsContent"></div>
+
+    <div class="odd-type-group-header-menu match-detail-category-slider" style="background-color: #2F4C78; text-align:left; padding-bottom:0; float:left; width:100%; overflow:hidden; display:block;">
+        <span class="selected" style="padding: 10px; margin-bottom: 3px; display: inline-block;" data-groupid="-1">tous</span>
+                <span style="padding: 10px; margin-bottom: 3px; display: inline-block;" data-groupid="0">Hors cat&#233;gorie</span>
+    </div>
+
+    
+    
+            <div class="odd_type_group odd-type-group not-visible" data-groupid="0">
+                <div class="odd_type_group_header odd-type-group-header" data-groupid="0">
+                    <img style="margin-right: 10px; float: right; line-height: 2.5; transform: rotate(-90deg); padding: 5px; margin-top: 5px" class="fa-chevron-up " src="/Content/images/marmaraTheme/chevron-right-white.svg" />
+                    <img style="margin-right: 10px; float: right; line-height: 2.5; transform: rotate(90deg); padding: 5px; margin-top: 5px" class="fa-chevron-down " src="/Content/images/marmaraTheme/chevron-right-white.svg" />
+                    <span class="group-name">Hors cat&#233;gorie (156)</span>
+                </div>
+
+                <div class="odd_type_group_body odd-type-group-body" data-groupid="0">
+                        <div class="divOddRow">
+                                <div class="oddName" style="padding: 0;">
+                                        <span style="border-right: none;">Under / Over -&#201;quipe ext&#233;rieure </span>
+                                </div>
+                            <div class="clearfix"></div>
+
+                            <div class="divOdds" data-active-outcomes="2">
+
+                                    <div class="divOddsTable">
+
+                                                <div class="divOdd has-specialBet-col">
+                                                    <div data-matchoddid="505791620" class="match-odd" data-isactive="True">
+                                                        <label class="outcome-label-multirow">Over</label>
+                                                        <span class="quoteValue"
+                                                              data-oddvaluedecimal='1,66'
+                                                              data-oddvalueamerican="-152">
+1,66                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="divOddSpecial">
+                                                    <label>10.0</label>
+                                                </div>
+                                                <div class="divOdd has-specialBet-col">
+                                                    <div data-matchoddid="505791621" class="match-odd" data-isactive="True">
+                                                        <label class="outcome-label-multirow">Under</label>
+                                                        <span class="quoteValue"
+                                                              data-oddvaluedecimal='2,06'
+                                                              data-oddvalueamerican="+106">
+2,06                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="clearfix"></div>
+                                    </div>
+                            </div>
+                        </div>
+                        <div class="divOddRow">
+                            <div class="clearfix"></div>
+
+                            <div class="divOdds" data-active-outcomes="2">
+
+                                    <div class="divOddsTable">
+
+                                                <div class="divOdd has-specialBet-col">
+                                                    <div data-matchoddid="505706866" class="match-odd" data-isactive="True">
+                                                        <label class="outcome-label-multirow">Over</label>
+                                                        <span class="quoteValue"
+                                                              data-oddvaluedecimal='1,74'
+                                                              data-oddvalueamerican="-135">
+1,74                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="divOddSpecial">
+                                                    <label>10.5</label>
+                                                </div>
+                                                <div class="divOdd has-specialBet-col">
+                                                    <div data-matchoddid="505706869" class="match-odd" data-isactive="True">
+                                                        <label class="outcome-label-multirow">Under</label>
+                                                        <span class="quoteValue"
+                                                              data-oddvaluedecimal='1,95'
+                                                              data-oddvalueamerican="-105">
+1,95                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="clearfix"></div>
+                                    </div>
+                            </div>
+                        </div>
+                        <div class="divOddRow">
+                            <div class="clearfix"></div>
+
+                            <div class="divOdds" data-active-outcomes="2">
+
+                                    <div class="divOddsTable">
+
+                                                <div class="divOdd has-specialBet-col">
+                                                    <div data-matchoddid="505727021" class="match-odd" data-isactive="True">
+                                                        <label class="outcome-label-multirow">Over</label>
+                                                        <span class="quoteValue"
+                                                              data-oddvaluedecimal='1,82'
+                                                              data-oddvalueamerican="-122">
+1,82                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="divOddSpecial">
+                                                    <label>11.0</label>
+                                                </div>
+                                                <div class="divOdd has-specialBet-col">
+                                                    <div data-matchoddid="505727024" class="match-odd" data-isactive="True">
+                                                        <label class="outcome-label-multirow">Under</label>
+                                                        <span class="quoteValue"
+                                                              data-oddvaluedecimal='1,88'
+                                                              data-oddvalueamerican="-114">
+1,88                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="clearfix"></div>
+                                    </div>
+                            </div>
+                        </div>
+                        <div class="divOddRow">
+                            <div class="clearfix"></div>
+
+                            <div class="divOdds" data-active-outcomes="2">
+
+                                    <div class="divOddsTable">
+
+                                                <div class="divOdd has-specialBet-col">
+                                                    <div data-matchoddid="505706867" class="match-odd" data-isactive="True">
+                                                        <label class="outcome-label-multirow">Over</label>
+                                                        <span class="quoteValue"
+                                                              data-oddvaluedecimal='1,87'
+                                                              data-oddvalueamerican="-115">
+1,87                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="divOddSpecial">
+                                                    <label>11.5</label>
+                                                </div>
+                                                <div class="divOdd has-specialBet-col">
+                                                    <div data-matchoddid="505706868" class="match-odd" data-isactive="True">
+                                                        <label class="outcome-label-multirow">Under</label>
+                                                        <span class="quoteValue"
+                                                              data-oddvaluedecimal='1,81'
+                                                              data-oddvalueamerican="-123">
+1,81                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="clearfix"></div>
+                                    </div>
+                            </div>
+                        </div>
+                        <div class="divOddRow">
+                                <div class="oddName" style="padding: 0;">
+                                        <span style="border-right: none;">Under / Over 1&#232;re p&#233;riode </span>
+                                </div>
+                            <div class="clearfix"></div>
+
+                            <div class="divOdds" data-active-outcomes="2">
+
+                                    <div class="divOddsTable">
+
+                                                <div class="divOdd has-specialBet-col">
+                                                    <div data-matchoddid="505706873" class="match-odd" data-isactive="True">
+                                                        <label class="outcome-label-multirow">Over</label>
+                                                        <span class="quoteValue"
+                                                              data-oddvaluedecimal='3,26'
+                                                              data-oddvalueamerican="+226">
+3,26                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="divOddSpecial">
+                                                    <label>10.5</label>
+                                                </div>
+                                                <div class="divOdd has-specialBet-col">
+                                                    <div data-matchoddid="505706876" class="match-odd" data-isactive="True">
+                                                        <label class="outcome-label-multirow">Under</label>
+                                                        <span class="quoteValue"
+                                                              data-oddvaluedecimal='1,28'
+                                                              data-oddvalueamerican="-357">
+1,28                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="clearfix"></div>
+                                    </div>
+                            </div>
+                        </div>
+                        <div class="divOddRow">
+                            <div class="clearfix"></div>
+
+                            <div class="divOdds" data-active-outcomes="2">
+
+                                    <div class="divOddsTable">
+
+                                                <div class="divOdd has-specialBet-col">
+                                                    <div data-matchoddid="505706874" class="match-odd" data-isactive="True">
+                                                        <label class="outcome-label-multirow">Over</label>
+                                                        <span class="quoteValue"
+                                                              data-oddvaluedecimal='4,60'
+                                                              data-oddvalueamerican="+360">
+4,60                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="divOddSpecial">
+                                                    <label>12.5</label>
+                                                </div>
+                                                <div class="divOdd has-specialBet-col">
+                                                    <div data-matchoddid="505706875" class="match-odd" data-isactive="True">
+                                                        <label class="outcome-label-multirow">Under</label>
+                                                        <span class="quoteValue"
+                                                              data-oddvaluedecimal='1,14'
+                                                              data-oddvalueamerican="-714">
+1,14                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="clearfix"></div>
+                                    </div>
+                            </div>
+                        </div>
+                        <div class="divOddRow">
+                            <div class="clearfix"></div>
+
+                            <div class="divOdds" data-active-outcomes="2">
+
+                                    <div class="divOddsTable">
+
+                                                <div class="divOdd has-specialBet-col">
+                                                    <div data-matchoddid="505706870" class="match-odd" data-isactive="True">
+                                                        <label class="outcome-label-multirow">Over</label>
+                                                        <span class="quoteValue"
+                                                              data-oddvaluedecimal='1,03'
+                                                              data-oddvalueamerican="-3333">
+1,03                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="divOddSpecial">
+                                                    <label>7.5</label>
+                                                </div>
+                                                <div class="divOdd has-specialBet-col">
+                                                    <div data-matchoddid="505706879" class="match-odd" data-isactive="True">
+                                                        <label class="outcome-label-multirow">Under</label>
+                                                        <span class="quoteValue"
+                                                              data-oddvaluedecimal='7,60'
+                                                              data-oddvalueamerican="+660">
+7,60                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="clearfix"></div>
+                                    </div>
+                            </div>
+                        </div>
+                        <div class="divOddRow">
+                            <div class="clearfix"></div>
+
+                            <div class="divOdds" data-active-outcomes="2">
+
+                                    <div class="divOddsTable">
+
+                                                <div class="divOdd has-specialBet-col">
+                                                    <div data-matchoddid="505706871" class="match-odd" data-isactive="True">
+                                                        <label class="outcome-label-multirow">Over</label>
+                                                        <span class="quoteValue"
+                                                              data-oddvaluedecimal='1,27'
+                                                              data-oddvalueamerican="-370">
+1,27                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="divOddSpecial">
+                                                    <label>8.5</label>
+                                                </div>
+                                                <div class="divOdd has-specialBet-col">
+                                                    <div data-matchoddid="505706878" class="match-odd" data-isactive="True">
+                                                        <label class="outcome-label-multirow">Under</label>
+                                                        <span class="quoteValue"
+                                                              data-oddvaluedecimal='3,34'
+                                                              data-oddvalueamerican="+234">
+3,34                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="clearfix"></div>
+                                    </div>
+                            </div>
+                        </div>
+                        <div class="divOddRow">
+                            <div class="clearfix"></div>
+
+                            <div class="divOdds" data-active-outcomes="2">
+
+                                    <div class="divOddsTable">
+
+                                                <div class="divOdd has-specialBet-col">
+                                                    <div data-matchoddid="505706872" class="match-odd" data-isactive="True">
+                                                        <label class="outcome-label-multirow">Over</label>
+                                                        <span class="quoteValue"
+                                                              data-oddvaluedecimal='1,89'
+                                                              data-oddvalueamerican="-112">
+1,89                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="divOddSpecial">
+                                                    <label>9.5</label>
+                                                </div>
+                                                <div class="divOdd has-specialBet-col">
+                                                    <div data-matchoddid="505706877" class="match-odd" data-isactive="True">
+                                                        <label class="outcome-label-multirow">Under</label>
+                                                        <span class="quoteValue"
+                                                              data-oddvaluedecimal='1,81'
+                                                              data-oddvalueamerican="-123">
+1,81                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="clearfix"></div>
+                                    </div>
+                            </div>
+                        </div>
+                        <div class="divOddRow">
+                                <div class="oddName" style="padding: 0;">
+                                        <span style="border-right: none;">Score correct </span>
+                                </div>
+                            <div class="clearfix"></div>
+
+                            <div class="divOdds" data-active-outcomes="4">
+
+                                    <div class="divOddsTable">
+
+                                                <div class="divOdd ">
+                                                    <div data-matchoddid="505706880" class="match-odd" data-isactive="True">
+                                                        <label class="outcome-label-multirow">0-2</label>
+                                                        <span class="quoteValue"
+                                                              data-oddvaluedecimal='5,30'
+                                                              data-oddvalueamerican="+430">
+5,30                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="divOdd ">
+                                                    <div data-matchoddid="505706881" class="match-odd" data-isactive="True">
+                                                        <label class="outcome-label-multirow">1-2</label>
+                                                        <span class="quoteValue"
+                                                              data-oddvaluedecimal='6,70'
+                                                              data-oddvalueamerican="+570">
+6,70                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="divOdd ">
+                                                    <div data-matchoddid="505706882" class="match-odd" data-isactive="True">
+                                                        <label class="outcome-label-multirow">2-0</label>
+                                                        <span class="quoteValue"
+                                                              data-oddvaluedecimal='1,98'
+                                                              data-oddvalueamerican="-102">
+1,98                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="clearfix"></div>
+                                                <div class="divOdd ">
+                                                    <div data-matchoddid="505706883" class="match-odd" data-isactive="True">
+                                                        <label class="outcome-label-multirow">2-1</label>
+                                                        <span class="quoteValue"
+                                                              data-oddvaluedecimal='3,74'
+                                                              data-oddvalueamerican="+274">
+3,74                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="clearfix"></div>
+                                    </div>
+                            </div>
+                        </div>
+                        <div class="divOddRow">
+                                <div class="oddName" style="padding: 0;">
+                                        <span style="border-right: none;">Under/Over jeu </span>
+                                </div>
+                            <div class="clearfix"></div>
+
+                            <div class="divOdds" data-active-outcomes="2">
+
+                                    <div class="divOddsTable">
+
+                                                <div class="divOdd has-specialBet-col">
+                                                    <div data-matchoddid="505727025" class="match-odd" data-isactive="True">
+                                                        <label class="outcome-label-multirow">Over</label>
+                                                        <span class="quoteValue"
+                                                              data-oddvaluedecimal='1,43'
+                                                              data-oddvalueamerican="-233">
+1,43                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="divOddSpecial">
+                                                    <label>20.0</label>
+                                                </div>
+                                                <div class="divOdd has-specialBet-col">
+                                                    <div data-matchoddid="505727036" class="match-odd" data-isactive="True">
+                                                        <label class="outcome-label-multirow">Under</label>
+                                                        <span class="quoteValue"
+                                                              data-oddvaluedecimal='2,55'
+                                                              data-oddvalueamerican="+155">
+2,55                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="clearfix"></div>
+                                    </div>
+                            </div>
+                        </div>
+                        <div class="divOddRow">
+                            <div class="clearfix"></div>
+
+                            <div class="divOdds" data-active-outcomes="2">
+
+                                    <div class="divOddsTable">
+
+                                                <div class="divOdd has-specialBet-col">
+                                                    <div data-matchoddid="505724131" class="match-odd" data-isactive="True">
+                                                        <label class="outcome-label-multirow">Over</label>
+                                                        <span class="quoteValue"
+                                                              data-oddvaluedecimal='1,55'
+                                                              data-oddvalueamerican="-182">
+1,55                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="divOddSpecial">
+                                                    <label>20.5</label>
+                                                </div>
+                                                <div class="divOdd has-specialBet-col">
+                                                    <div data-matchoddid="505724138" class="match-odd" data-isactive="True">
+                                                        <label class="outcome-label-multirow">Under</label>
+                                                        <span class="quoteValue"
+                                                              data-oddvaluedecimal='2,27'
+                                                              data-oddvalueamerican="+127">
+2,27                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="clearfix"></div>
+                                    </div>
+                            </div>
+                        </div>
+                        <div class="divOddRow">
+                            <div class="clearfix"></div>
+
+                            <div class="divOdds" data-active-outcomes="2">
+
+                                    <div class="divOddsTable">
+
+                                                <div class="divOdd has-specialBet-col">
+                                                    <div data-matchoddid="505727026" class="match-odd" data-isactive="True">
+                                                        <label class="outcome-label-multirow">Over</label>
+                                                        <span class="quoteValue"
+                                                              data-oddvaluedecimal='1,62'
+                                                              data-oddvalueamerican="-161">
+1,62                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="divOddSpecial">
+                                                    <label>21.0</label>
+                                                </div>
+                                                <div class="divOdd has-specialBet-col">
+                                                    <div data-matchoddid="505727035" class="match-odd" data-isactive="True">
+                                                        <label class="outcome-label-multirow">Under</label>
+                                                        <span class="quoteValue"
+                                                              data-oddvaluedecimal='2,16'
+                                                              data-oddvalueamerican="+116">
+2,16                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="clearfix"></div>
+                                    </div>
+                            </div>
+                        </div>
+                        <div class="divOddRow">
+                            <div class="clearfix"></div>
+
+                            <div class="divOdds" data-active-outcomes="2">
+
+                                    <div class="divOddsTable">
+
+                                                <div class="divOdd has-specialBet-col">
+                                                    <div data-matchoddid="505706884" class="match-odd" data-isactive="True">
+                                                        <label class="outcome-label-multirow">Over</label>
+                                                        <span class="quoteValue"
+                                                              data-oddvaluedecimal='1,73'
+                                                              data-oddvalueamerican="-137">
+1,73                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="divOddSpecial">
+                                                    <label>21.5</label>
+                                                </div>
+                                                <div class="divOdd has-specialBet-col">
+                                                    <div data-matchoddid="505706891" class="match-odd" data-isactive="True">
+                                                        <label class="outcome-label-multirow">Under</label>
+                                                        <span class="quoteValue"
+                                                              data-oddvaluedecimal='2,02'
+                                                              data-oddvalueamerican="+102">
+2,02                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="clearfix"></div>
+                                    </div>
+                            </div>
+                        </div>
+                        <div class="divOddRow">
+                            <div class="clearfix"></div>
+
+                            <div class="divOdds" data-active-outcomes="2">
+
+                                    <div class="divOddsTable">
+
+                                                <div class="divOdd has-specialBet-col">
+                                                    <div data-matchoddid="505727027" class="match-odd" data-isactive="True">
+                                                        <label class="outcome-label-multirow">Over</label>
+                                                        <span class="quoteValue"
+                                                              data-oddvaluedecimal='1,87'
+                                                              data-oddvalueamerican="-115">
+1,87                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="divOddSpecial">
+                                                    <label>22.0</label>
+                                                </div>
+                                                <div class="divOdd has-specialBet-col">
+                                                    <div data-matchoddid="505727034" class="match-odd" data-isactive="True">
+                                                        <label class="outcome-label-multirow">Under</label>
+                                                        <span class="quoteValue"
+                                                              data-oddvaluedecimal='1,88'
+                                                              data-oddvalueamerican="-114">
+1,88                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="clearfix"></div>
+                                    </div>
+                            </div>
+                        </div>
+                        <div class="divOddRow">
+                            <div class="clearfix"></div>
+
+                            <div class="divOdds" data-active-outcomes="2">
+
+                                    <div class="divOddsTable">
+
+                                                <div class="divOdd has-specialBet-col">
+                                                    <div data-matchoddid="505706885" class="match-odd" data-isactive="True">
+                                                        <label class="outcome-label-multirow">Over</label>
+                                                        <span class="quoteValue"
+                                                              data-oddvaluedecimal='2,02'
+                                                              data-oddvalueamerican="+102">
+2,02                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="divOddSpecial">
+                                                    <label>22.5</label>
+                                                </div>
+                                                <div class="divOdd has-specialBet-col">
+                                                    <div data-matchoddid="505706890" class="match-odd" data-isactive="True">
+                                                        <label class="outcome-label-multirow">Under</label>
+                                                        <span class="quoteValue"
+                                                              data-oddvaluedecimal='1,76'
+                                                              data-oddvalueamerican="-132">
+1,76                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="clearfix"></div>
+                                    </div>
+                            </div>
+                        </div>
+                        <div class="divOddRow">
+                            <div class="clearfix"></div>
+
+                            <div class="divOdds" data-active-outcomes="2">
+
+                                    <div class="divOddsTable">
+
+                                                <div class="divOdd has-specialBet-col">
+                                                    <div data-matchoddid="505727028" class="match-odd" data-isactive="True">
+                                                        <label class="outcome-label-multirow">Over</label>
+                                                        <span class="quoteValue"
+                                                              data-oddvaluedecimal='2,15'
+                                                              data-oddvalueamerican="+115">
+2,15                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="divOddSpecial">
+                                                    <label>23.0</label>
+                                                </div>
+                                                <div class="divOdd has-specialBet-col">
+                                                    <div data-matchoddid="505727033" class="match-odd" data-isactive="True">
+                                                        <label class="outcome-label-multirow">Under</label>
+                                                        <span class="quoteValue"
+                                                              data-oddvaluedecimal='1,66'
+                                                              data-oddvalueamerican="-152">
+1,66                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="clearfix"></div>
+                                    </div>
+                            </div>
+                        </div>
+                        <div class="divOddRow">
+                            <div class="clearfix"></div>
+
+                            <div class="divOdds" data-active-outcomes="2">
+
+                                    <div class="divOddsTable">
+
+                                                <div class="divOdd has-specialBet-col">
+                                                    <div data-matchoddid="505706886" class="match-odd" data-isactive="True">
+                                                        <label class="outcome-label-multirow">Over</label>
+                                                        <span class="quoteValue"
+                                                              data-oddvaluedecimal='2,25'
+                                                              data-oddvalueamerican="+125">
+2,25                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="divOddSpecial">
+                                                    <label>23.5</label>
+                                                </div>
+                                                <div class="divOdd has-specialBet-col">
+                                                    <div data-matchoddid="505706889" class="match-odd" data-isactive="True">
+                                                        <label class="outcome-label-multirow">Under</label>
+                                                        <span class="quoteValue"
+                                                              data-oddvaluedecimal='1,59'
+                                                              data-oddvalueamerican="-169">
+1,59                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="clearfix"></div>
+                                    </div>
+                            </div>
+                        </div>
+                        <div class="divOddRow">
+                            <div class="clearfix"></div>
+
+                            <div class="divOdds" data-active-outcomes="2">
+
+                                    <div class="divOddsTable">
+
+                                                <div class="divOdd has-specialBet-col">
+                                                    <div data-matchoddid="505727029" class="match-odd" data-isactive="True">
+                                                        <label class="outcome-label-multirow">Over</label>
+                                                        <span class="quoteValue"
+                                                              data-oddvaluedecimal='2,28'
+                                                              data-oddvalueamerican="+128">
+2,28                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="divOddSpecial">
+                                                    <label>24.0</label>
+                                                </div>
+                                                <div class="divOdd has-specialBet-col">
+                                                    <div data-matchoddid="505727032" class="match-odd" data-isactive="True">
+                                                        <label class="outcome-label-multirow">Under</label>
+                                                        <span class="quoteValue"
+                                                              data-oddvaluedecimal='1,56'
+                                                              data-oddvalueamerican="-179">
+1,56                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="clearfix"></div>
+                                    </div>
+                            </div>
+                        </div>
+                        <div class="divOddRow">
+                            <div class="clearfix"></div>
+
+                            <div class="divOdds" data-active-outcomes="2">
+
+                                    <div class="divOddsTable">
+
+                                                <div class="divOdd has-specialBet-col">
+                                                    <div data-matchoddid="505706887" class="match-odd" data-isactive="True">
+                                                        <label class="outcome-label-multirow">Over</label>
+                                                        <span class="quoteValue"
+                                                              data-oddvaluedecimal='2,31'
+                                                              data-oddvalueamerican="+131">
+2,31                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="divOddSpecial">
+                                                    <label>24.5</label>
+                                                </div>
+                                                <div class="divOdd has-specialBet-col">
+                                                    <div data-matchoddid="505706888" class="match-odd" data-isactive="True">
+                                                        <label class="outcome-label-multirow">Under</label>
+                                                        <span class="quoteValue"
+                                                              data-oddvaluedecimal='1,53'
+                                                              data-oddvalueamerican="-189">
+1,53                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="clearfix"></div>
+                                    </div>
+                            </div>
+                        </div>
+                        <div class="divOddRow">
+                            <div class="clearfix"></div>
+
+                            <div class="divOdds" data-active-outcomes="2">
+
+                                    <div class="divOddsTable">
+
+                                                <div class="divOdd has-specialBet-col">
+                                                    <div data-matchoddid="505727030" class="match-odd" data-isactive="True">
+                                                        <label class="outcome-label-multirow">Over</label>
+                                                        <span class="quoteValue"
+                                                              data-oddvaluedecimal='2,40'
+                                                              data-oddvalueamerican="+140">
+2,40                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="divOddSpecial">
+                                                    <label>25.0</label>
+                                                </div>
+                                                <div class="divOdd has-specialBet-col">
+                                                    <div data-matchoddid="505727031" class="match-odd" data-isactive="True">
+                                                        <label class="outcome-label-multirow">Under</label>
+                                                        <span class="quoteValue"
+                                                              data-oddvaluedecimal='1,48'
+                                                              data-oddvalueamerican="-208">
+1,48                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="clearfix"></div>
+                                    </div>
+                            </div>
+                        </div>
+                        <div class="divOddRow">
+                                <div class="oddName" style="padding: 0;">
+                                        <span style="border-right: none;">12 </span>
+                                </div>
+                            <div class="clearfix"></div>
+
+                            <div class="divOdds" data-active-outcomes="2">
+
+                                    <div class="divOddsTable">
+
+                                                <div class="divOdd ">
+                                                    <div data-matchoddid="505706892" class="match-odd" data-isactive="True">
+                                                        <label class="outcome-label-multirow">1</label>
+                                                        <span class="quoteValue"
+                                                              data-oddvaluedecimal='1,32'
+                                                              data-oddvalueamerican="-313">
+1,32                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="divOdd ">
+                                                    <div data-matchoddid="505706893" class="match-odd" data-isactive="True">
+                                                        <label class="outcome-label-multirow">2</label>
+                                                        <span class="quoteValue"
+                                                              data-oddvaluedecimal='3,07'
+                                                              data-oddvalueamerican="+207">
+3,07                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="clearfix"></div>
+                                    </div>
+                            </div>
+                        </div>
+                        <div class="divOddRow">
+                                <div class="oddName" style="padding: 0;">
+                                        <span style="border-right: none;">Score correct 1&#232;re p&#233;riode </span>
+                                </div>
+                            <div class="clearfix"></div>
+
+                            <div class="divOdds" data-active-outcomes="12">
+
+                                    <div class="divOddsTable">
+
+                                                <div class="divOdd ">
+                                                    <div data-matchoddid="505709357" class="match-odd" data-isactive="False">
+                                                        <label class="outcome-label-multirow">0-6</label>
+                                                        <span class="quoteValue"
+                                                              data-oddvaluedecimal='65,00'
+                                                              data-oddvalueamerican="+6400">
+65,00                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="divOdd ">
+                                                    <div data-matchoddid="505709358" class="match-odd" data-isactive="True">
+                                                        <label class="outcome-label-multirow">1-6</label>
+                                                        <span class="quoteValue"
+                                                              data-oddvaluedecimal='32,00'
+                                                              data-oddvalueamerican="+3100">
+32,00                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="divOdd ">
+                                                    <div data-matchoddid="505709359" class="match-odd" data-isactive="True">
+                                                        <label class="outcome-label-multirow">2-6</label>
+                                                        <span class="quoteValue"
+                                                              data-oddvaluedecimal='15,50'
+                                                              data-oddvalueamerican="+1450">
+15,50                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="clearfix"></div>
+                                                <div class="divOdd ">
+                                                    <div data-matchoddid="505709360" class="match-odd" data-isactive="True">
+                                                        <label class="outcome-label-multirow">3-6</label>
+                                                        <span class="quoteValue"
+                                                              data-oddvaluedecimal='8,40'
+                                                              data-oddvalueamerican="+740">
+8,40                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="divOdd ">
+                                                    <div data-matchoddid="505709361" class="match-odd" data-isactive="True">
+                                                        <label class="outcome-label-multirow">4-6</label>
+                                                        <span class="quoteValue"
+                                                              data-oddvaluedecimal='9,00'
+                                                              data-oddvalueamerican="+800">
+9,00                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="divOdd ">
+                                                    <div data-matchoddid="505709362" class="match-odd" data-isactive="False">
+                                                        <label class="outcome-label-multirow">5-7</label>
+                                                        <span class="quoteValue"
+                                                              data-oddvaluedecimal='21,00'
+                                                              data-oddvalueamerican="+2000">
+21,00                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="clearfix"></div>
+                                                <div class="divOdd ">
+                                                    <div data-matchoddid="505709363" class="match-odd" data-isactive="True">
+                                                        <label class="outcome-label-multirow">6-0</label>
+                                                        <span class="quoteValue"
+                                                              data-oddvaluedecimal='48,00'
+                                                              data-oddvalueamerican="+4700">
+48,00                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="divOdd ">
+                                                    <div data-matchoddid="505709364" class="match-odd" data-isactive="True">
+                                                        <label class="outcome-label-multirow">6-1</label>
+                                                        <span class="quoteValue"
+                                                              data-oddvaluedecimal='12,00'
+                                                              data-oddvalueamerican="+1100">
+12,00                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="divOdd ">
+                                                    <div data-matchoddid="505709365" class="match-odd" data-isactive="True">
+                                                        <label class="outcome-label-multirow">6-2</label>
+                                                        <span class="quoteValue"
+                                                              data-oddvaluedecimal='6,55'
+                                                              data-oddvalueamerican="+555">
+6,55                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="clearfix"></div>
+                                                <div class="divOdd ">
+                                                    <div data-matchoddid="505709366" class="match-odd" data-isactive="True">
+                                                        <label class="outcome-label-multirow">6-3</label>
+                                                        <span class="quoteValue"
+                                                              data-oddvaluedecimal='4,95'
+                                                              data-oddvalueamerican="+395">
+4,95                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="divOdd ">
+                                                    <div data-matchoddid="505709367" class="match-odd" data-isactive="True">
+                                                        <label class="outcome-label-multirow">6-4</label>
+                                                        <span class="quoteValue"
+                                                              data-oddvaluedecimal='5,80'
+                                                              data-oddvalueamerican="+480">
+5,80                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="divOdd ">
+                                                    <div data-matchoddid="505709368" class="match-odd" data-isactive="True">
+                                                        <label class="outcome-label-multirow">6-7</label>
+                                                        <span class="quoteValue"
+                                                              data-oddvaluedecimal='9,70'
+                                                              data-oddvalueamerican="+870">
+9,70                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="clearfix"></div>
+                                                <div class="divOdd ">
+                                                    <div data-matchoddid="505709369" class="match-odd" data-isactive="True">
+                                                        <label class="outcome-label-multirow">7-5</label>
+                                                        <span class="quoteValue"
+                                                              data-oddvaluedecimal='14,20'
+                                                              data-oddvalueamerican="+1320">
+14,20                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="divOdd ">
+                                                    <div data-matchoddid="505709370" class="match-odd" data-isactive="True">
+                                                        <label class="outcome-label-multirow">7-6</label>
+                                                        <span class="quoteValue"
+                                                              data-oddvaluedecimal='7,30'
+                                                              data-oddvalueamerican="+630">
+7,30                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="clearfix"></div>
+                                    </div>
+                            </div>
+                        </div>
+                        <div class="divOddRow">
+                                <div class="oddName" style="padding: 0;">
+                                        <span style="border-right: none;">Under / Over - &#201;quipe &#224; domicile </span>
+                                </div>
+                            <div class="clearfix"></div>
+
+                            <div class="divOdds" data-active-outcomes="2">
+
+                                    <div class="divOddsTable">
+
+                                                <div class="divOdd has-specialBet-col">
+                                                    <div data-matchoddid="505727037" class="match-odd" data-isactive="True">
+                                                        <label class="outcome-label-multirow">Over</label>
+                                                        <span class="quoteValue"
+                                                              data-oddvaluedecimal='1,23'
+                                                              data-oddvalueamerican="-435">
+1,23                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="divOddSpecial">
+                                                    <label>12.0</label>
+                                                </div>
+                                                <div class="divOdd has-specialBet-col">
+                                                    <div data-matchoddid="505727040" class="match-odd" data-isactive="True">
+                                                        <label class="outcome-label-multirow">Under</label>
+                                                        <span class="quoteValue"
+                                                              data-oddvaluedecimal='3,64'
+                                                              data-oddvalueamerican="+264">
+3,64                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="clearfix"></div>
+                                    </div>
+                            </div>
+                        </div>
+                        <div class="divOddRow">
+                            <div class="clearfix"></div>
+
+                            <div class="divOdds" data-active-outcomes="2">
+
+                                    <div class="divOddsTable">
+
+                                                <div class="divOdd has-specialBet-col">
+                                                    <div data-matchoddid="505706894" class="match-odd" data-isactive="True">
+                                                        <label class="outcome-label-multirow">Over</label>
+                                                        <span class="quoteValue"
+                                                              data-oddvaluedecimal='1,73'
+                                                              data-oddvalueamerican="-137">
+1,73                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="divOddSpecial">
+                                                    <label>12.5</label>
+                                                </div>
+                                                <div class="divOdd has-specialBet-col">
+                                                    <div data-matchoddid="505706897" class="match-odd" data-isactive="True">
+                                                        <label class="outcome-label-multirow">Under</label>
+                                                        <span class="quoteValue"
+                                                              data-oddvaluedecimal='1,99'
+                                                              data-oddvalueamerican="-101">
+1,99                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="clearfix"></div>
+                                    </div>
+                            </div>
+                        </div>
+                        <div class="divOddRow">
+                            <div class="clearfix"></div>
+
+                            <div class="divOdds" data-active-outcomes="2">
+
+                                    <div class="divOddsTable">
+
+                                                <div class="divOdd has-specialBet-col">
+                                                    <div data-matchoddid="505727038" class="match-odd" data-isactive="True">
+                                                        <label class="outcome-label-multirow">Over</label>
+                                                        <span class="quoteValue"
+                                                              data-oddvaluedecimal='2,16'
+                                                              data-oddvalueamerican="+116">
+2,16                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="divOddSpecial">
+                                                    <label>13.0</label>
+                                                </div>
+                                                <div class="divOdd has-specialBet-col">
+                                                    <div data-matchoddid="505727039" class="match-odd" data-isactive="True">
+                                                        <label class="outcome-label-multirow">Under</label>
+                                                        <span class="quoteValue"
+                                                              data-oddvaluedecimal='1,60'
+                                                              data-oddvalueamerican="-167">
+1,60                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="clearfix"></div>
+                                    </div>
+                            </div>
+                        </div>
+                        <div class="divOddRow">
+                            <div class="clearfix"></div>
+
+                            <div class="divOdds" data-active-outcomes="2">
+
+                                    <div class="divOddsTable">
+
+                                                <div class="divOdd has-specialBet-col">
+                                                    <div data-matchoddid="505706895" class="match-odd" data-isactive="True">
+                                                        <label class="outcome-label-multirow">Over</label>
+                                                        <span class="quoteValue"
+                                                              data-oddvaluedecimal='2,64'
+                                                              data-oddvalueamerican="+164">
+2,64                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="divOddSpecial">
+                                                    <label>13.5</label>
+                                                </div>
+                                                <div class="divOdd has-specialBet-col">
+                                                    <div data-matchoddid="505706896" class="match-odd" data-isactive="True">
+                                                        <label class="outcome-label-multirow">Under</label>
+                                                        <span class="quoteValue"
+                                                              data-oddvaluedecimal='1,41'
+                                                              data-oddvalueamerican="-244">
+1,41                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="clearfix"></div>
+                                    </div>
+                            </div>
+                        </div>
+                        <div class="divOddRow">
+                                <div class="oddName" style="padding: 0;">
+                                        <span style="border-right: none;">Under/Over 2&#232;me p&#233;riode </span>
+                                </div>
+                            <div class="clearfix"></div>
+
+                            <div class="divOdds" data-active-outcomes="2">
+
+                                    <div class="divOddsTable">
+
+                                                <div class="divOdd has-specialBet-col">
+                                                    <div data-matchoddid="505727058" class="match-odd" data-isactive="True">
+                                                        <label class="outcome-label-multirow">Over</label>
+                                                        <span class="quoteValue"
+                                                              data-oddvaluedecimal='3,24'
+                                                              data-oddvalueamerican="+224">
+3,24                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="divOddSpecial">
+                                                    <label>10.5</label>
+                                                </div>
+                                                <div class="divOdd has-specialBet-col">
+                                                    <div data-matchoddid="505727059" class="match-odd" data-isactive="True">
+                                                        <label class="outcome-label-multirow">Under</label>
+                                                        <span class="quoteValue"
+                                                              data-oddvaluedecimal='1,28'
+                                                              data-oddvalueamerican="-357">
+1,28                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="clearfix"></div>
+                                    </div>
+                            </div>
+                        </div>
+                        <div class="divOddRow">
+                            <div class="clearfix"></div>
+
+                            <div class="divOdds" data-active-outcomes="2">
+
+                                    <div class="divOddsTable">
+
+                                                <div class="divOdd has-specialBet-col">
+                                                    <div data-matchoddid="505727056" class="match-odd" data-isactive="True">
+                                                        <label class="outcome-label-multirow">Over</label>
+                                                        <span class="quoteValue"
+                                                              data-oddvaluedecimal='1,26'
+                                                              data-oddvalueamerican="-385">
+1,26                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="divOddSpecial">
+                                                    <label>8.5</label>
+                                                </div>
+                                                <div class="divOdd has-specialBet-col">
+                                                    <div data-matchoddid="505727061" class="match-odd" data-isactive="True">
+                                                        <label class="outcome-label-multirow">Under</label>
+                                                        <span class="quoteValue"
+                                                              data-oddvaluedecimal='3,40'
+                                                              data-oddvalueamerican="+240">
+3,40                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="clearfix"></div>
+                                    </div>
+                            </div>
+                        </div>
+                        <div class="divOddRow">
+                            <div class="clearfix"></div>
+
+                            <div class="divOdds" data-active-outcomes="2">
+
+                                    <div class="divOddsTable">
+
+                                                <div class="divOdd has-specialBet-col">
+                                                    <div data-matchoddid="505727057" class="match-odd" data-isactive="True">
+                                                        <label class="outcome-label-multirow">Over</label>
+                                                        <span class="quoteValue"
+                                                              data-oddvaluedecimal='1,82'
+                                                              data-oddvalueamerican="-122">
+1,82                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="divOddSpecial">
+                                                    <label>9.5</label>
+                                                </div>
+                                                <div class="divOdd has-specialBet-col">
+                                                    <div data-matchoddid="505727060" class="match-odd" data-isactive="True">
+                                                        <label class="outcome-label-multirow">Under</label>
+                                                        <span class="quoteValue"
+                                                              data-oddvaluedecimal='1,88'
+                                                              data-oddvalueamerican="-114">
+1,88                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="clearfix"></div>
+                                    </div>
+                            </div>
+                        </div>
+                        <div class="divOddRow">
+                                <div class="oddName" style="padding: 0;">
+                                        <span style="border-right: none;">1&#232;re p&#233;riode impaire / paire </span>
+                                </div>
+                            <div class="clearfix"></div>
+
+                            <div class="divOdds" data-active-outcomes="2">
+
+                                    <div class="divOddsTable">
+
+                                                <div class="divOdd ">
+                                                    <div data-matchoddid="505727066" class="match-odd" data-isactive="True">
+                                                        <label class="outcome-label-multirow">Even</label>
+                                                        <span class="quoteValue"
+                                                              data-oddvaluedecimal='1,92'
+                                                              data-oddvalueamerican="-109">
+1,92                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="divOdd ">
+                                                    <div data-matchoddid="505727067" class="match-odd" data-isactive="True">
+                                                        <label class="outcome-label-multirow">Odd</label>
+                                                        <span class="quoteValue"
+                                                              data-oddvaluedecimal='1,79'
+                                                              data-oddvalueamerican="-127">
+1,79                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="clearfix"></div>
+                                    </div>
+                            </div>
+                        </div>
+                        <div class="divOddRow">
+                                <div class="oddName" style="padding: 0;">
+                                        <span style="border-right: none;">2&#232;me p&#233;riode impaire / paire </span>
+                                </div>
+                            <div class="clearfix"></div>
+
+                            <div class="divOdds" data-active-outcomes="2">
+
+                                    <div class="divOddsTable">
+
+                                                <div class="divOdd ">
+                                                    <div data-matchoddid="505727068" class="match-odd" data-isactive="True">
+                                                        <label class="outcome-label-multirow">Even</label>
+                                                        <span class="quoteValue"
+                                                              data-oddvaluedecimal='1,85'
+                                                              data-oddvalueamerican="-118">
+1,85                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="divOdd ">
+                                                    <div data-matchoddid="505727069" class="match-odd" data-isactive="True">
+                                                        <label class="outcome-label-multirow">Odd</label>
+                                                        <span class="quoteValue"
+                                                              data-oddvaluedecimal='1,85'
+                                                              data-oddvalueamerican="-118">
+1,85                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="clearfix"></div>
+                                    </div>
+                            </div>
+                        </div>
+                        <div class="divOddRow">
+                                <div class="oddName" style="padding: 0;">
+                                        <span style="border-right: none;">Score correct 2&#232;me p&#233;riode </span>
+                                </div>
+                            <div class="clearfix"></div>
+
+                            <div class="divOdds" data-active-outcomes="14">
+
+                                    <div class="divOddsTable">
+
+                                                <div class="divOdd ">
+                                                    <div data-matchoddid="505727070" class="match-odd" data-isactive="True">
+                                                        <label class="outcome-label-multirow">0-6</label>
+                                                        <span class="quoteValue"
+                                                              data-oddvaluedecimal='50,00'
+                                                              data-oddvalueamerican="+4900">
+50,00                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="divOdd ">
+                                                    <div data-matchoddid="505727071" class="match-odd" data-isactive="True">
+                                                        <label class="outcome-label-multirow">1-6</label>
+                                                        <span class="quoteValue"
+                                                              data-oddvaluedecimal='35,00'
+                                                              data-oddvalueamerican="+3400">
+35,00                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="divOdd ">
+                                                    <div data-matchoddid="505727072" class="match-odd" data-isactive="True">
+                                                        <label class="outcome-label-multirow">2-6</label>
+                                                        <span class="quoteValue"
+                                                              data-oddvaluedecimal='18,50'
+                                                              data-oddvalueamerican="+1750">
+18,50                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="clearfix"></div>
+                                                <div class="divOdd ">
+                                                    <div data-matchoddid="505727073" class="match-odd" data-isactive="True">
+                                                        <label class="outcome-label-multirow">3-6</label>
+                                                        <span class="quoteValue"
+                                                              data-oddvaluedecimal='9,20'
+                                                              data-oddvalueamerican="+820">
+9,20                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="divOdd ">
+                                                    <div data-matchoddid="505727074" class="match-odd" data-isactive="True">
+                                                        <label class="outcome-label-multirow">4-6</label>
+                                                        <span class="quoteValue"
+                                                              data-oddvaluedecimal='9,00'
+                                                              data-oddvalueamerican="+800">
+9,00                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="divOdd ">
+                                                    <div data-matchoddid="505727075" class="match-odd" data-isactive="True">
+                                                        <label class="outcome-label-multirow">5-7</label>
+                                                        <span class="quoteValue"
+                                                              data-oddvaluedecimal='23,00'
+                                                              data-oddvalueamerican="+2200">
+23,00                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="clearfix"></div>
+                                                <div class="divOdd ">
+                                                    <div data-matchoddid="505727076" class="match-odd" data-isactive="True">
+                                                        <label class="outcome-label-multirow">6-0</label>
+                                                        <span class="quoteValue"
+                                                              data-oddvaluedecimal='41,00'
+                                                              data-oddvalueamerican="+4000">
+41,00                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="divOdd ">
+                                                    <div data-matchoddid="505727077" class="match-odd" data-isactive="True">
+                                                        <label class="outcome-label-multirow">6-1</label>
+                                                        <span class="quoteValue"
+                                                              data-oddvaluedecimal='12,00'
+                                                              data-oddvalueamerican="+1100">
+12,00                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="divOdd ">
+                                                    <div data-matchoddid="505727078" class="match-odd" data-isactive="True">
+                                                        <label class="outcome-label-multirow">6-2</label>
+                                                        <span class="quoteValue"
+                                                              data-oddvaluedecimal='6,65'
+                                                              data-oddvalueamerican="+565">
+6,65                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="clearfix"></div>
+                                                <div class="divOdd ">
+                                                    <div data-matchoddid="505727079" class="match-odd" data-isactive="True">
+                                                        <label class="outcome-label-multirow">6-3</label>
+                                                        <span class="quoteValue"
+                                                              data-oddvaluedecimal='5,10'
+                                                              data-oddvalueamerican="+410">
+5,10                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="divOdd ">
+                                                    <div data-matchoddid="505727080" class="match-odd" data-isactive="True">
+                                                        <label class="outcome-label-multirow">6-4</label>
+                                                        <span class="quoteValue"
+                                                              data-oddvaluedecimal='5,10'
+                                                              data-oddvalueamerican="+410">
+5,10                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="divOdd ">
+                                                    <div data-matchoddid="505727081" class="match-odd" data-isactive="True">
+                                                        <label class="outcome-label-multirow">6-7</label>
+                                                        <span class="quoteValue"
+                                                              data-oddvaluedecimal='9,80'
+                                                              data-oddvalueamerican="+880">
+9,80                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="clearfix"></div>
+                                                <div class="divOdd ">
+                                                    <div data-matchoddid="505727082" class="match-odd" data-isactive="True">
+                                                        <label class="outcome-label-multirow">7-5</label>
+                                                        <span class="quoteValue"
+                                                              data-oddvaluedecimal='13,50'
+                                                              data-oddvalueamerican="+1250">
+13,50                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="divOdd ">
+                                                    <div data-matchoddid="505727083" class="match-odd" data-isactive="True">
+                                                        <label class="outcome-label-multirow">7-6</label>
+                                                        <span class="quoteValue"
+                                                              data-oddvaluedecimal='7,20'
+                                                              data-oddvalueamerican="+620">
+7,20                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="clearfix"></div>
+                                    </div>
+                            </div>
+                        </div>
+                        <div class="divOddRow">
+                                <div class="oddName" style="padding: 0;">
+                                        <span style="border-right: none;">Under / Over 1 1st P&#233;riode - &#201;quipe &#224; domicile </span>
+                                </div>
+                            <div class="clearfix"></div>
+
+                            <div class="divOdds" data-active-outcomes="2">
+
+                                    <div class="divOddsTable">
+
+                                                <div class="divOdd has-specialBet-col">
+                                                    <div data-matchoddid="505724140" class="match-odd" data-isactive="True">
+                                                        <label class="outcome-label-multirow">Over</label>
+                                                        <span class="quoteValue"
+                                                              data-oddvaluedecimal='1,25'
+                                                              data-oddvalueamerican="-400">
+1,25                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="divOddSpecial">
+                                                    <label>4.5</label>
+                                                </div>
+                                                <div class="divOdd has-specialBet-col">
+                                                    <div data-matchoddid="505724143" class="match-odd" data-isactive="True">
+                                                        <label class="outcome-label-multirow">Under</label>
+                                                        <span class="quoteValue"
+                                                              data-oddvaluedecimal='3,48'
+                                                              data-oddvalueamerican="+248">
+3,48                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="clearfix"></div>
+                                    </div>
+                            </div>
+                        </div>
+                        <div class="divOddRow">
+                            <div class="clearfix"></div>
+
+                            <div class="divOdds" data-active-outcomes="2">
+
+                                    <div class="divOddsTable">
+
+                                                <div class="divOdd has-specialBet-col">
+                                                    <div data-matchoddid="505706898" class="match-odd" data-isactive="True">
+                                                        <label class="outcome-label-multirow">Over</label>
+                                                        <span class="quoteValue"
+                                                              data-oddvaluedecimal='1,31'
+                                                              data-oddvalueamerican="-323">
+1,31                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="divOddSpecial">
+                                                    <label>5.5</label>
+                                                </div>
+                                                <div class="divOdd has-specialBet-col">
+                                                    <div data-matchoddid="505706899" class="match-odd" data-isactive="True">
+                                                        <label class="outcome-label-multirow">Under</label>
+                                                        <span class="quoteValue"
+                                                              data-oddvaluedecimal='3,14'
+                                                              data-oddvalueamerican="+214">
+3,14                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="clearfix"></div>
+                                    </div>
+                            </div>
+                        </div>
+                        <div class="divOddRow">
+                            <div class="clearfix"></div>
+
+                            <div class="divOdds" data-active-outcomes="2">
+
+                                    <div class="divOddsTable">
+
+                                                <div class="divOdd has-specialBet-col">
+                                                    <div data-matchoddid="505724141" class="match-odd" data-isactive="True">
+                                                        <label class="outcome-label-multirow">Over</label>
+                                                        <span class="quoteValue"
+                                                              data-oddvaluedecimal='5,30'
+                                                              data-oddvalueamerican="+430">
+5,30                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="divOddSpecial">
+                                                    <label>6.5</label>
+                                                </div>
+                                                <div class="divOdd has-specialBet-col">
+                                                    <div data-matchoddid="505724142" class="match-odd" data-isactive="True">
+                                                        <label class="outcome-label-multirow">Under</label>
+                                                        <span class="quoteValue"
+                                                              data-oddvaluedecimal='1,11'
+                                                              data-oddvalueamerican="-909">
+1,11                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="clearfix"></div>
+                                    </div>
+                            </div>
+                        </div>
+                        <div class="divOddRow">
+                                <div class="oddName" style="padding: 0;">
+                                        <span style="border-right: none;">Under / Over 2nd P&#233;riode - &#201;quipe &#224; domicile </span>
+                                </div>
+                            <div class="clearfix"></div>
+
+                            <div class="divOdds" data-active-outcomes="2">
+
+                                    <div class="divOddsTable">
+
+                                                <div class="divOdd has-specialBet-col">
+                                                    <div data-matchoddid="505727084" class="match-odd" data-isactive="True">
+                                                        <label class="outcome-label-multirow">Over</label>
+                                                        <span class="quoteValue"
+                                                              data-oddvaluedecimal='1,27'
+                                                              data-oddvalueamerican="-370">
+1,27                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="divOddSpecial">
+                                                    <label>5.5</label>
+                                                </div>
+                                                <div class="divOdd has-specialBet-col">
+                                                    <div data-matchoddid="505727085" class="match-odd" data-isactive="True">
+                                                        <label class="outcome-label-multirow">Under</label>
+                                                        <span class="quoteValue"
+                                                              data-oddvaluedecimal='3,40'
+                                                              data-oddvalueamerican="+240">
+3,40                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="clearfix"></div>
+                                    </div>
+                            </div>
+                        </div>
+                        <div class="divOddRow">
+                                <div class="oddName" style="padding: 0;">
+                                        <span style="border-right: none;">Under / Over 1st P&#233;riode - &#201;quipe &#224; l&#39;ext&#233;rieur </span>
+                                </div>
+                            <div class="clearfix"></div>
+
+                            <div class="divOdds" data-active-outcomes="2">
+
+                                    <div class="divOddsTable">
+
+                                                <div class="divOdd has-specialBet-col">
+                                                    <div data-matchoddid="505754879" class="match-odd" data-isactive="True">
+                                                        <label class="outcome-label-multirow">Over</label>
+                                                        <span class="quoteValue"
+                                                              data-oddvaluedecimal='1,44'
+                                                              data-oddvalueamerican="-227">
+1,44                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="divOddSpecial">
+                                                    <label>3.5</label>
+                                                </div>
+                                                <div class="divOdd has-specialBet-col">
+                                                    <div data-matchoddid="505754880" class="match-odd" data-isactive="True">
+                                                        <label class="outcome-label-multirow">Under</label>
+                                                        <span class="quoteValue"
+                                                              data-oddvaluedecimal='2,55'
+                                                              data-oddvalueamerican="+155">
+2,55                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="clearfix"></div>
+                                    </div>
+                            </div>
+                        </div>
+                        <div class="divOddRow">
+                            <div class="clearfix"></div>
+
+                            <div class="divOdds" data-active-outcomes="2">
+
+                                    <div class="divOddsTable">
+
+                                                <div class="divOdd has-specialBet-col">
+                                                    <div data-matchoddid="505706900" class="match-odd" data-isactive="True">
+                                                        <label class="outcome-label-multirow">Over</label>
+                                                        <span class="quoteValue"
+                                                              data-oddvaluedecimal='1,80'
+                                                              data-oddvalueamerican="-125">
+1,80                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="divOddSpecial">
+                                                    <label>4.5</label>
+                                                </div>
+                                                <div class="divOdd has-specialBet-col">
+                                                    <div data-matchoddid="505706901" class="match-odd" data-isactive="True">
+                                                        <label class="outcome-label-multirow">Under</label>
+                                                        <span class="quoteValue"
+                                                              data-oddvaluedecimal='1,90'
+                                                              data-oddvalueamerican="-111">
+1,90                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="clearfix"></div>
+                                    </div>
+                            </div>
+                        </div>
+                        <div class="divOddRow">
+                            <div class="clearfix"></div>
+
+                            <div class="divOdds" data-active-outcomes="2">
+
+                                    <div class="divOddsTable">
+
+                                                <div class="divOdd has-specialBet-col">
+                                                    <div data-matchoddid="505724145" class="match-odd" data-isactive="True">
+                                                        <label class="outcome-label-multirow">Over</label>
+                                                        <span class="quoteValue"
+                                                              data-oddvaluedecimal='1,98'
+                                                              data-oddvalueamerican="-102">
+1,98                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="divOddSpecial">
+                                                    <label>5.5</label>
+                                                </div>
+                                                <div class="divOdd has-specialBet-col">
+                                                    <div data-matchoddid="505724146" class="match-odd" data-isactive="True">
+                                                        <label class="outcome-label-multirow">Under</label>
+                                                        <span class="quoteValue"
+                                                              data-oddvaluedecimal='1,72'
+                                                              data-oddvalueamerican="-139">
+1,72                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="clearfix"></div>
+                                    </div>
+                            </div>
+                        </div>
+                        <div class="divOddRow">
+                                <div class="oddName" style="padding: 0;">
+                                        <span style="border-right: none;">Under / Over 2nd P&#233;riode - &#201;quipe &#224; l&#39;ext&#233;rieur </span>
+                                </div>
+                            <div class="clearfix"></div>
+
+                            <div class="divOdds" data-active-outcomes="2">
+
+                                    <div class="divOddsTable">
+
+                                                <div class="divOdd has-specialBet-col">
+                                                    <div data-matchoddid="505727088" class="match-odd" data-isactive="True">
+                                                        <label class="outcome-label-multirow">Over</label>
+                                                        <span class="quoteValue"
+                                                              data-oddvaluedecimal='1,85'
+                                                              data-oddvalueamerican="-118">
+1,85                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="divOddSpecial">
+                                                    <label>4.5</label>
+                                                </div>
+                                                <div class="divOdd has-specialBet-col">
+                                                    <div data-matchoddid="505727089" class="match-odd" data-isactive="True">
+                                                        <label class="outcome-label-multirow">Under</label>
+                                                        <span class="quoteValue"
+                                                              data-oddvaluedecimal='1,85'
+                                                              data-oddvalueamerican="-118">
+1,85                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="clearfix"></div>
+                                    </div>
+                            </div>
+                        </div>
+                        <div class="divOddRow">
+                                <div class="oddName" style="padding: 0;">
+                                        <span style="border-right: none;">Under/Over Sets </span>
+                                </div>
+                            <div class="clearfix"></div>
+
+                            <div class="divOdds" data-active-outcomes="2">
+
+                                    <div class="divOddsTable">
+
+                                                <div class="divOdd has-specialBet-col">
+                                                    <div data-matchoddid="505706902" class="match-odd" data-isactive="True">
+                                                        <label class="outcome-label-multirow">Over</label>
+                                                        <span class="quoteValue"
+                                                              data-oddvaluedecimal='2,41'
+                                                              data-oddvalueamerican="+141">
+2,41                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="divOddSpecial">
+                                                    <label>2.5</label>
+                                                </div>
+                                                <div class="divOdd has-specialBet-col">
+                                                    <div data-matchoddid="505706903" class="match-odd" data-isactive="True">
+                                                        <label class="outcome-label-multirow">Under</label>
+                                                        <span class="quoteValue"
+                                                              data-oddvaluedecimal='1,50'
+                                                              data-oddvalueamerican="-200">
+1,50                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="clearfix"></div>
+                                    </div>
+                            </div>
+                        </div>
+                        <div class="divOddRow">
+                                <div class="oddName" style="padding: 0;">
+                                        <span style="border-right: none;">Asian Handicap jeux </span>
+                                </div>
+                            <div class="clearfix"></div>
+
+                            <div class="divOdds" data-active-outcomes="2">
+
+                                    <div class="divOddsTable">
+
+                                                <div class="divOdd has-specialBet-col">
+                                                    <div data-matchoddid="505724148" class="match-odd" data-isactive="True">
+                                                        <label class="outcome-label-multirow">1</label>
+                                                        <span class="quoteValue"
+                                                              data-oddvaluedecimal='1,39'
+                                                              data-oddvalueamerican="-256">
+1,39                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="divOddSpecial">
+                                                    <label>-1.0</label>
+                                                </div>
+                                                <div class="divOdd has-specialBet-col">
+                                                    <div data-matchoddid="505724157" class="match-odd" data-isactive="True">
+                                                        <label class="outcome-label-multirow">2</label>
+                                                        <span class="quoteValue"
+                                                              data-oddvaluedecimal='2,86'
+                                                              data-oddvalueamerican="+186">
+2,86                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="clearfix"></div>
+                                    </div>
+                            </div>
+                        </div>
+                        <div class="divOddRow">
+                            <div class="clearfix"></div>
+
+                            <div class="divOdds" data-active-outcomes="2">
+
+                                    <div class="divOddsTable">
+
+                                                <div class="divOdd has-specialBet-col">
+                                                    <div data-matchoddid="505706904" class="match-odd" data-isactive="True">
+                                                        <label class="outcome-label-multirow">1</label>
+                                                        <span class="quoteValue"
+                                                              data-oddvaluedecimal='1,44'
+                                                              data-oddvalueamerican="-227">
+1,44                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="divOddSpecial">
+                                                    <label>-1.5</label>
+                                                </div>
+                                                <div class="divOdd has-specialBet-col">
+                                                    <div data-matchoddid="505706911" class="match-odd" data-isactive="True">
+                                                        <label class="outcome-label-multirow">2</label>
+                                                        <span class="quoteValue"
+                                                              data-oddvaluedecimal='2,66'
+                                                              data-oddvalueamerican="+166">
+2,66                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="clearfix"></div>
+                                    </div>
+                            </div>
+                        </div>
+                        <div class="divOddRow">
+                            <div class="clearfix"></div>
+
+                            <div class="divOdds" data-active-outcomes="2">
+
+                                    <div class="divOddsTable">
+
+                                                <div class="divOdd has-specialBet-col">
+                                                    <div data-matchoddid="505724149" class="match-odd" data-isactive="True">
+                                                        <label class="outcome-label-multirow">1</label>
+                                                        <span class="quoteValue"
+                                                              data-oddvaluedecimal='1,49'
+                                                              data-oddvalueamerican="-204">
+1,49                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="divOddSpecial">
+                                                    <label>-2.0</label>
+                                                </div>
+                                                <div class="divOdd has-specialBet-col">
+                                                    <div data-matchoddid="505724156" class="match-odd" data-isactive="True">
+                                                        <label class="outcome-label-multirow">2</label>
+                                                        <span class="quoteValue"
+                                                              data-oddvaluedecimal='2,52'
+                                                              data-oddvalueamerican="+152">
+2,52                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="clearfix"></div>
+                                    </div>
+                            </div>
+                        </div>
+                        <div class="divOddRow">
+                            <div class="clearfix"></div>
+
+                            <div class="divOdds" data-active-outcomes="2">
+
+                                    <div class="divOddsTable">
+
+                                                <div class="divOdd has-specialBet-col">
+                                                    <div data-matchoddid="505706905" class="match-odd" data-isactive="True">
+                                                        <label class="outcome-label-multirow">1</label>
+                                                        <span class="quoteValue"
+                                                              data-oddvaluedecimal='1,58'
+                                                              data-oddvalueamerican="-172">
+1,58                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="divOddSpecial">
+                                                    <label>-2.5</label>
+                                                </div>
+                                                <div class="divOdd has-specialBet-col">
+                                                    <div data-matchoddid="505706910" class="match-odd" data-isactive="True">
+                                                        <label class="outcome-label-multirow">2</label>
+                                                        <span class="quoteValue"
+                                                              data-oddvaluedecimal='2,30'
+                                                              data-oddvalueamerican="+130">
+2,30                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="clearfix"></div>
+                                    </div>
+                            </div>
+                        </div>
+                        <div class="divOddRow">
+                            <div class="clearfix"></div>
+
+                            <div class="divOdds" data-active-outcomes="2">
+
+                                    <div class="divOddsTable">
+
+                                                <div class="divOdd has-specialBet-col">
+                                                    <div data-matchoddid="505724150" class="match-odd" data-isactive="True">
+                                                        <label class="outcome-label-multirow">1</label>
+                                                        <span class="quoteValue"
+                                                              data-oddvaluedecimal='1,68'
+                                                              data-oddvalueamerican="-147">
+1,68                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="divOddSpecial">
+                                                    <label>-3.0</label>
+                                                </div>
+                                                <div class="divOdd has-specialBet-col">
+                                                    <div data-matchoddid="505724155" class="match-odd" data-isactive="True">
+                                                        <label class="outcome-label-multirow">2</label>
+                                                        <span class="quoteValue"
+                                                              data-oddvaluedecimal='2,11'
+                                                              data-oddvalueamerican="+111">
+2,11                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="clearfix"></div>
+                                    </div>
+                            </div>
+                        </div>
+                        <div class="divOddRow">
+                            <div class="clearfix"></div>
+
+                            <div class="divOdds" data-active-outcomes="2">
+
+                                    <div class="divOddsTable">
+
+                                                <div class="divOdd has-specialBet-col">
+                                                    <div data-matchoddid="505706906" class="match-odd" data-isactive="True">
+                                                        <label class="outcome-label-multirow">1</label>
+                                                        <span class="quoteValue"
+                                                              data-oddvaluedecimal='1,85'
+                                                              data-oddvalueamerican="-118">
+1,85                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="divOddSpecial">
+                                                    <label>-3.5</label>
+                                                </div>
+                                                <div class="divOdd has-specialBet-col">
+                                                    <div data-matchoddid="505706909" class="match-odd" data-isactive="True">
+                                                        <label class="outcome-label-multirow">2</label>
+                                                        <span class="quoteValue"
+                                                              data-oddvaluedecimal='1,90'
+                                                              data-oddvalueamerican="-111">
+1,90                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="clearfix"></div>
+                                    </div>
+                            </div>
+                        </div>
+                        <div class="divOddRow">
+                            <div class="clearfix"></div>
+
+                            <div class="divOdds" data-active-outcomes="2">
+
+                                    <div class="divOddsTable">
+
+                                                <div class="divOdd has-specialBet-col">
+                                                    <div data-matchoddid="505724151" class="match-odd" data-isactive="True">
+                                                        <label class="outcome-label-multirow">1</label>
+                                                        <span class="quoteValue"
+                                                              data-oddvaluedecimal='2,08'
+                                                              data-oddvalueamerican="+108">
+2,08                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="divOddSpecial">
+                                                    <label>-4.0</label>
+                                                </div>
+                                                <div class="divOdd has-specialBet-col">
+                                                    <div data-matchoddid="505724154" class="match-odd" data-isactive="True">
+                                                        <label class="outcome-label-multirow">2</label>
+                                                        <span class="quoteValue"
+                                                              data-oddvaluedecimal='1,70'
+                                                              data-oddvalueamerican="-143">
+1,70                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="clearfix"></div>
+                                    </div>
+                            </div>
+                        </div>
+                        <div class="divOddRow">
+                            <div class="clearfix"></div>
+
+                            <div class="divOdds" data-active-outcomes="2">
+
+                                    <div class="divOddsTable">
+
+                                                <div class="divOdd has-specialBet-col">
+                                                    <div data-matchoddid="505706907" class="match-odd" data-isactive="True">
+                                                        <label class="outcome-label-multirow">1</label>
+                                                        <span class="quoteValue"
+                                                              data-oddvaluedecimal='2,36'
+                                                              data-oddvalueamerican="+136">
+2,36                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="divOddSpecial">
+                                                    <label>-4.5</label>
+                                                </div>
+                                                <div class="divOdd has-specialBet-col">
+                                                    <div data-matchoddid="505706908" class="match-odd" data-isactive="True">
+                                                        <label class="outcome-label-multirow">2</label>
+                                                        <span class="quoteValue"
+                                                              data-oddvaluedecimal='1,55'
+                                                              data-oddvalueamerican="-182">
+1,55                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="clearfix"></div>
+                                    </div>
+                            </div>
+                        </div>
+                        <div class="divOddRow">
+                            <div class="clearfix"></div>
+
+                            <div class="divOdds" data-active-outcomes="2">
+
+                                    <div class="divOddsTable">
+
+                                                <div class="divOdd has-specialBet-col">
+                                                    <div data-matchoddid="505724152" class="match-odd" data-isactive="True">
+                                                        <label class="outcome-label-multirow">1</label>
+                                                        <span class="quoteValue"
+                                                              data-oddvaluedecimal='2,95'
+                                                              data-oddvalueamerican="+195">
+2,95                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="divOddSpecial">
+                                                    <label>-5.0</label>
+                                                </div>
+                                                <div class="divOdd has-specialBet-col">
+                                                    <div data-matchoddid="505724153" class="match-odd" data-isactive="True">
+                                                        <label class="outcome-label-multirow">2</label>
+                                                        <span class="quoteValue"
+                                                              data-oddvaluedecimal='1,37'
+                                                              data-oddvalueamerican="-270">
+1,37                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="clearfix"></div>
+                                    </div>
+                            </div>
+                        </div>
+                        <div class="divOddRow">
+                            <div class="clearfix"></div>
+
+                            <div class="divOdds" data-active-outcomes="2">
+
+                                    <div class="divOddsTable">
+
+                                                <div class="divOdd has-specialBet-col">
+                                                    <div data-matchoddid="505727090" class="match-odd" data-isactive="True">
+                                                        <label class="outcome-label-multirow">1</label>
+                                                        <span class="quoteValue"
+                                                              data-oddvaluedecimal='3,34'
+                                                              data-oddvalueamerican="+234">
+3,34                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="divOddSpecial">
+                                                    <label>-5.5</label>
+                                                </div>
+                                                <div class="divOdd has-specialBet-col">
+                                                    <div data-matchoddid="505727093" class="match-odd" data-isactive="True">
+                                                        <label class="outcome-label-multirow">2</label>
+                                                        <span class="quoteValue"
+                                                              data-oddvaluedecimal='1,30'
+                                                              data-oddvalueamerican="-333">
+1,30                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="clearfix"></div>
+                                    </div>
+                            </div>
+                        </div>
+                        <div class="divOddRow">
+                            <div class="clearfix"></div>
+
+                            <div class="divOdds" data-active-outcomes="2">
+
+                                    <div class="divOddsTable">
+
+                                                <div class="divOdd has-specialBet-col">
+                                                    <div data-matchoddid="505727091" class="match-odd" data-isactive="True">
+                                                        <label class="outcome-label-multirow">1</label>
+                                                        <span class="quoteValue"
+                                                              data-oddvaluedecimal='4,85'
+                                                              data-oddvalueamerican="+385">
+4,85                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="divOddSpecial">
+                                                    <label>-6.0</label>
+                                                </div>
+                                                <div class="divOdd has-specialBet-col">
+                                                    <div data-matchoddid="505727092" class="match-odd" data-isactive="True">
+                                                        <label class="outcome-label-multirow">2</label>
+                                                        <span class="quoteValue"
+                                                              data-oddvaluedecimal='1,16'
+                                                              data-oddvalueamerican="-625">
+1,16                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="clearfix"></div>
+                                    </div>
+                            </div>
+                        </div>
+                        <div class="divOddRow">
+                                <div class="oddName" style="padding: 0;">
+                                        <span style="border-right: none;">Gagnant 1&#232;re p&#233;riode Domicile / Ext&#233;rieur </span>
+                                </div>
+                            <div class="clearfix"></div>
+
+                            <div class="divOdds" data-active-outcomes="2">
+
+                                    <div class="divOddsTable">
+
+                                                <div class="divOdd ">
+                                                    <div data-matchoddid="505706912" class="match-odd" data-isactive="True">
+                                                        <label class="outcome-label-multirow">1</label>
+                                                        <span class="quoteValue"
+                                                              data-oddvaluedecimal='1,47'
+                                                              data-oddvalueamerican="-213">
+1,47                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="divOdd ">
+                                                    <div data-matchoddid="505706913" class="match-odd" data-isactive="True">
+                                                        <label class="outcome-label-multirow">2</label>
+                                                        <span class="quoteValue"
+                                                              data-oddvaluedecimal='2,53'
+                                                              data-oddvalueamerican="+153">
+2,53                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="clearfix"></div>
+                                    </div>
+                            </div>
+                        </div>
+                        <div class="divOddRow">
+                                <div class="oddName" style="padding: 0;">
+                                        <span style="border-right: none;">Gagnant 2&#232;me p&#233;riode Domicile / Ext&#233;rieur </span>
+                                </div>
+                            <div class="clearfix"></div>
+
+                            <div class="divOdds" data-active-outcomes="2">
+
+                                    <div class="divOddsTable">
+
+                                                <div class="divOdd ">
+                                                    <div data-matchoddid="505727094" class="match-odd" data-isactive="True">
+                                                        <label class="outcome-label-multirow">1</label>
+                                                        <span class="quoteValue"
+                                                              data-oddvaluedecimal='1,42'
+                                                              data-oddvalueamerican="-238">
+1,42                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="divOdd ">
+                                                    <div data-matchoddid="505727095" class="match-odd" data-isactive="True">
+                                                        <label class="outcome-label-multirow">2</label>
+                                                        <span class="quoteValue"
+                                                              data-oddvaluedecimal='2,69'
+                                                              data-oddvalueamerican="+169">
+2,69                                                        </span>
+                                                    </div>
+                                                </div>
+                                                <div class="clearfix"></div>
+                                    </div>
+                            </div>
+                        </div>
+                </div>
+            </div>
+</div>
+
+
+<script type="text/javascript">
+    $(document).ready(function () {
+
+        var matchId = '10918523';
+        var _expandedGroupId = -1;
+
+        //$(".odd-type-group-header-menu.slick-initialized").slick('unslick');          // rasiri se kompletan view, nisam uspeo da ga resim
+        //$(".match-detail-category-slider:not(.slick-initialized)").slick({
+        //    dots: false,
+        //    infinite: false,
+        //    speed: 300,
+        //    slidesToShow: 1,
+        //    slidesToScroll: 'auto',
+        //    centerMode: false,
+        //    variableWidth: false,
+        //    swipeToSlide: true,
+        //    autoplay: false,
+        //    arrows: true,
+        //});
+
+        GetMatchBetStatistics_process(matchId);
+
+        $(".match_odds_details[data-matchoddsdetails='{0}'] .match-odd".format(matchId)).off('click').on('click', function () {
+            var match_odd_id = $(this).attr("data-matchoddid");
+            var match_odd_active = $(this).attr("data-isactive");
+            var el = $(this);
+            if (match_odd_active == "True" || match_odd_active == "true") {
+                processMatchOdd(match_odd_id, 1, function () { colapseMatchMarket(el); });
+            }
+        });
+
+        $(".match_odds_details[data-matchoddsdetails='{0}'] div.odd_type_group_header".format(matchId)).off("click").on("click", function () {
+
+            var odd_type_group_body = $(this).next("div.odd_type_group_body");
+            var alreadyShown = odd_type_group_body.hasClass("shown");
+
+            if (!alreadyShown) {
+                $(this).addClass('shown-header');
+                odd_type_group_body.addClass("shown");
+            } else {
+                $(this).removeClass('shown-header');
+                odd_type_group_body.removeClass("shown");
+            }
+        });
+
+        $(".match_odds_details[data-matchoddsdetails='{0}'] .odd-type-group-header-menu span".format(matchId)).off("click").on("click", function () {
+
+            $(".match_odds_details[data-matchoddsdetails='{0}'] .odd-type-group-header-menu span".format(matchId)).removeClass("selected");
+            $(this).addClass('selected');
+
+            var selectedGroupId = $(this).attr("data-groupid");
+            if (selectedGroupId == -1) {
+                $(".match_odds_details[data-matchoddsdetails='{0}'] div.odd_type_group".format(matchId)).removeClass("not-visible");
+                $(".match_odds_details[data-matchoddsdetails='{0}'] div.odd_type_group_header".format(matchId)).addClass('shown-header');
+                $(".match_odds_details[data-matchoddsdetails='{0}'] div.odd_type_group_body".format(matchId)).addClass('shown');
+            } else {
+                $(".match_odds_details[data-matchoddsdetails='{0}'] div.odd_type_group".format(matchId)).addClass("not-visible");
+                $(".match_odds_details[data-matchoddsdetails='{0}'] div.odd_type_group[data-groupid='{1}']".format(matchId, selectedGroupId)).removeClass("not-visible");
+
+                $(".match_odds_details[data-matchoddsdetails='{0}'] div.odd_type_group .odd_type_group_header.shown-header".format(matchId)).removeClass('shown-header');
+                $(".match_odds_details[data-matchoddsdetails='{0}'] div.odd_type_group[data-groupid='{1}'] .odd_type_group_header".format(matchId, selectedGroupId)).addClass('shown-header');
+
+                $(".match_odds_details[data-matchoddsdetails='{0}'] div.odd_type_group .odd_type_group_body.shown".format(matchId)).removeClass('shown');
+                $(".match_odds_details[data-matchoddsdetails='{0}'] div.odd_type_group[data-groupid='{1}'] .odd_type_group_body".format(matchId, selectedGroupId)).addClass('shown');
+            }
+        });
+
+        $(".match_odds_details[data-matchoddsdetails='{0}'] div.odd_type_group".format(matchId)).removeClass("not-visible");
+
+        if (_expandedGroupId > 0) {
+            $(".match_odds_details[data-matchoddsdetails='{0}'] div.odd_type_group[data-groupid='{1}'] .odd_type_group_body".format(matchId, _expandedGroupId)).addClass('shown');
+            $(".match_odds_details[data-matchoddsdetails='{0}'] div.odd_type_group[data-groupid='{1}'] .odd_type_group_header".format(matchId, _expandedGroupId)).addClass('shown-header');
+        } else {
+            $(".match_odds_details[data-matchoddsdetails='{0}'] div.odd_type_group_body".format(matchId)).addClass('shown');
+            $(".match_odds_details[data-matchoddsdetails='{0}'] div.odd_type_group_header".format(matchId)).addClass('shown-header');
+        }
+
+        updateActiveBetItems();
+
+        $(".shouldBeHidden").parent().remove();     //remove empty rows
+    });
+
+
+</script>
+

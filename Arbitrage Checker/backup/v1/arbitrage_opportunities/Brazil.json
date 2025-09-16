@@ -1,0 +1,37 @@
+[
+  {
+    "match_info": {
+      "home_team": "Clube Atletico Paranaense",
+      "away_team": "Goias Esporte Clube",
+      "date": "13/07/2025",
+      "time": "00:30",
+      "sources": [
+        "1xbet",
+        "Asbet",
+        "Clubx2",
+        "Tounesbet"
+      ],
+      "country": "Brazil",
+      "tournament_1xbet": null,
+      "tournament_Asbet": null,
+      "tournament_Clubx2": null,
+      "tournament_Tounesbet": null
+    },
+    "complementary_set": "three_way",
+    "best_odds": {
+      "1_odd": {
+        "value": 1.991,
+        "source": "Tounesbet"
+      },
+      "draw_odd": {
+        "value": 3.652,
+        "source": "Tounesbet"
+      },
+      "2_odd": {
+        "value": 5.3334,
+        "source": "Clubx2"
+      }
+    },
+    "arbitrage_percentage": 0.9636
+  }
+]

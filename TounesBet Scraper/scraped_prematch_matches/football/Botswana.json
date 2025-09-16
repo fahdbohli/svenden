@@ -1,0 +1,43 @@
+[
+    {
+        "last_updated": "2025-09-16T20:53:52.043400+01:00"
+    },
+    {
+        "tournament_name": "Premier League",
+        "tournament_id": 23092,
+        "matches": [
+            {
+                "match_id": 11297572,
+                "tournament_id": 23092,
+                "date": "17/09/2025",
+                "time": "18:00",
+                "home_team": "Township Rollers SC (BOT)",
+                "away_team": "TAFIC",
+                "1_odd": 2.95,
+                "draw_odd": 3.54,
+                "2_odd": 3.068,
+                "both_score_odd": null,
+                "both_noscore_odd": null,
+                "1X_odd": 1.4,
+                "12_odd": 1.3,
+                "X2_odd": 1.44,
+                "first_half_under_0.5_odd": 2.643,
+                "first_half_over_0.5_odd": 1.864,
+                "first_half_under_1.0_odd": 1.45,
+                "first_half_over_1.0_odd": 2.926,
+                "first_half_under_1.5_odd": 1.21,
+                "first_half_over_1.5_odd": 4.248,
+                "second_half_under_0.5_odd": 3.256,
+                "second_half_over_0.5_odd": 1.37,
+                "second_half_under_1.0_odd": 2.194,
+                "second_half_over_1.0_odd": 2.194,
+                "second_half_under_1.5_odd": 1.37,
+                "second_half_over_1.5_odd": 3.256,
+                "home_handicap_0.0_odd": 2.124,
+                "away_handicap_0.0_odd": 2.36,
+                "home_first_half_handicap_0.0_odd": 2.147,
+                "away_first_half_handicap_0.0_odd": 2.324
+            }
+        ]
+    }
+]

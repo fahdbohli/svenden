@@ -1,0 +1,639 @@
+[
+  {
+    "group_id": "2578995896675086348-652990749-11206125-13846928-27973550",
+    "home_team": "FC Haka Valkeakoski",
+    "away_team": "AC Oulu",
+    "date": "19/09/2025",
+    "time": "16:00",
+    "country": "Finland",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "two_vs_1x_handicap",
+        "best_odds": {
+          "2_odd": {
+            "value": 2.52,
+            "source": "1xbet"
+          },
+          "home_handicap_0.5_odd": {
+            "value": 1.829,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9436,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "652990749-11206125",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Finland",
+        "tournament_1xbet": "Veikkausliiga",
+        "1xbet_match_id": 652990749,
+        "1xbet_tournament_id": 1554897,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/1554897/652990749",
+        "Tounesbet_country_name": "Finland",
+        "tournament_Tounesbet": "Veikkausliiga",
+        "Tounesbet_match_id": 11206125,
+        "Tounesbet_tournament_id": 25110,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578995896675086348-652990749-11206125-13846928-27973550",
+        "home_team": "FC Haka Valkeakoski",
+        "away_team": "AC Oulu",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "two_vs_1x_handicap",
+        "best_odds": {
+          "2_odd": {
+            "value": 2.48,
+            "source": "Jibibet"
+          },
+          "home_handicap_0.5_odd": {
+            "value": 1.829,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.95,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2578995896675086348-11206125",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "Finland",
+        "tournament_Jibibet": "Veikkausliiga",
+        "Jibibet_match_id": 2578995896675086348,
+        "Jibibet_tournament_id": 1669819220151635968,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "Finland",
+        "tournament_Tounesbet": "Veikkausliiga",
+        "Tounesbet_match_id": 11206125,
+        "Tounesbet_tournament_id": 25110,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578995896675086348-652990749-11206125-13846928-27973550",
+        "home_team": "FC Haka Valkeakoski",
+        "away_team": "AC Oulu",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "two_vs_1x_handicap",
+        "best_odds": {
+          "2_odd": {
+            "value": 2.4286,
+            "source": "Clubx2"
+          },
+          "home_handicap_0.5_odd": {
+            "value": 1.829,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9585,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13846928-11206125",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Finland",
+        "tournament_Clubx2": "Veikkausliiga",
+        "Clubx2_match_id": 13846928,
+        "Clubx2_tournament_id": 4593,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13846928#/overview",
+        "Tounesbet_country_name": "Finland",
+        "tournament_Tounesbet": "Veikkausliiga",
+        "Tounesbet_match_id": 11206125,
+        "Tounesbet_tournament_id": 25110,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578995896675086348-652990749-11206125-13846928-27973550",
+        "home_team": "FC Haka Valkeakoski",
+        "away_team": "AC Oulu",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_0.5_home_vs_away",
+        "best_odds": {
+          "home_handicap_0.5_odd": {
+            "value": 1.829,
+            "source": "Tounesbet"
+          },
+          "away_handicap_-0.5_odd": {
+            "value": 2.39,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9652,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27973550-11206125",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Finland",
+        "tournament_Tounesbet": "Veikkausliiga",
+        "Tounesbet_match_id": 11206125,
+        "Tounesbet_tournament_id": 25110,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "Finland",
+        "tournament_Asbet": "Veikkausliiga",
+        "Asbet_match_id": 27973550,
+        "Asbet_tournament_id": 1870,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Finland/1870/veikkausliiga/27973550/fc-haka-valkeakoski-ac-oulu",
+        "group_id": "2578995896675086348-652990749-11206125-13846928-27973550",
+        "home_team": "FC Haka Valkeakoski",
+        "away_team": "AC Oulu",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2578995896675086352-653000283-11206119-13846929",
+    "home_team": "FC KTP Kotka",
+    "away_team": "FF Jaro",
+    "date": "19/09/2025",
+    "time": "17:00",
+    "country": "Finland",
+    "all_sources": [
+      "1xbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "one_vs_x2",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.34,
+            "source": "1xbet"
+          },
+          "X2_odd": {
+            "value": 1.958,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9381,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653000283-11206119",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Finland",
+        "tournament_1xbet": "Veikkausliiga",
+        "1xbet_match_id": 653000283,
+        "1xbet_tournament_id": 1554897,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/1554897/653000283",
+        "Tounesbet_country_name": "Finland",
+        "tournament_Tounesbet": "Veikkausliiga",
+        "Tounesbet_match_id": 11206119,
+        "Tounesbet_tournament_id": 25110,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578995896675086352-653000283-11206119-13846929",
+        "home_team": "FC KTP Kotka",
+        "away_team": "FF Jaro",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.26,
+            "source": "Jibibet"
+          },
+          "X2_odd": {
+            "value": 1.958,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9532,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2578995896675086352-11206119",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "Finland",
+        "tournament_Jibibet": "Veikkausliiga",
+        "Jibibet_match_id": 2578995896675086352,
+        "Jibibet_tournament_id": 1669819220151635968,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "Finland",
+        "tournament_Tounesbet": "Veikkausliiga",
+        "Tounesbet_match_id": 11206119,
+        "Tounesbet_tournament_id": 25110,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578995896675086352-653000283-11206119-13846929",
+        "home_team": "FC KTP Kotka",
+        "away_team": "FF Jaro",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.25,
+            "source": "Clubx2"
+          },
+          "X2_odd": {
+            "value": 1.958,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9552,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13846929-11206119",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Finland",
+        "tournament_Clubx2": "Veikkausliiga",
+        "Clubx2_match_id": 13846929,
+        "Clubx2_tournament_id": 4593,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13846929#/overview",
+        "Tounesbet_country_name": "Finland",
+        "tournament_Tounesbet": "Veikkausliiga",
+        "Tounesbet_match_id": 11206119,
+        "Tounesbet_tournament_id": 25110,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578995896675086352-653000283-11206119-13846929",
+        "home_team": "FC KTP Kotka",
+        "away_team": "FF Jaro",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2579035582130954289-653604857-11206121-13846930-27989277",
+    "home_team": "IFK Mariehamn",
+    "away_team": "Vaasan Palloseura",
+    "date": "21/09/2025",
+    "time": "16:30",
+    "country": "Finland",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_0.0_home_vs_away",
+        "best_odds": {
+          "home_handicap_0.0_odd": {
+            "value": 2.49,
+            "source": "1xbet"
+          },
+          "away_handicap_0.0_odd": {
+            "value": 1.829,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9484,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653604857-11206121",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Finland",
+        "tournament_1xbet": "Veikkausliiga",
+        "1xbet_match_id": 653604857,
+        "1xbet_tournament_id": 1554897,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/1554897/653604857",
+        "Tounesbet_country_name": "Finland",
+        "tournament_Tounesbet": "Veikkausliiga",
+        "Tounesbet_match_id": 11206121,
+        "Tounesbet_tournament_id": 25110,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579035582130954289-653604857-11206121-13846930-27989277",
+        "home_team": "IFK Mariehamn",
+        "away_team": "Vaasan Palloseura",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_0.0_home_vs_away",
+        "best_odds": {
+          "home_handicap_0.0_odd": {
+            "value": 2.4,
+            "source": "Asbet"
+          },
+          "away_handicap_0.0_odd": {
+            "value": 1.829,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9634,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27989277-11206121",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Finland",
+        "tournament_Asbet": "Veikkausliiga",
+        "Asbet_match_id": 27989277,
+        "Asbet_tournament_id": 1870,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Finland/1870/veikkausliiga/27989277/ifk-mariehamn-vps",
+        "Tounesbet_country_name": "Finland",
+        "tournament_Tounesbet": "Veikkausliiga",
+        "Tounesbet_match_id": 11206121,
+        "Tounesbet_tournament_id": 25110,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579035582130954289-653604857-11206121-13846930-27989277",
+        "home_team": "IFK Mariehamn",
+        "away_team": "Vaasan Palloseura",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "home_under_1.5_vs_home_over_1.5",
+        "best_odds": {
+          "home_under_1.5_odd": {
+            "value": 1.805,
+            "source": "Tounesbet"
+          },
+          "home_over_1.5_odd": {
+            "value": 2.4,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9707,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13846930-11206121",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Finland",
+        "tournament_Tounesbet": "Veikkausliiga",
+        "Tounesbet_match_id": 11206121,
+        "Tounesbet_tournament_id": 25110,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "Finland",
+        "tournament_Clubx2": "Veikkausliiga",
+        "Clubx2_match_id": 13846930,
+        "Clubx2_tournament_id": 4593,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13846930#/overview",
+        "group_id": "2579035582130954289-653604857-11206121-13846930-27989277",
+        "home_team": "IFK Mariehamn",
+        "away_team": "Vaasan Palloseura",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "two_vs_1x",
+        "best_odds": {
+          "2_odd": {
+            "value": 2.0,
+            "source": "Jibibet"
+          },
+          "1X_odd": {
+            "value": 2.124,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9708,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2579035582130954289-11206121",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "Finland",
+        "tournament_Jibibet": "Veikkausliiga",
+        "Jibibet_match_id": 2579035582130954289,
+        "Jibibet_tournament_id": 1669819220151635968,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "Finland",
+        "tournament_Tounesbet": "Veikkausliiga",
+        "Tounesbet_match_id": 11206121,
+        "Tounesbet_tournament_id": 25110,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579035582130954289-653604857-11206121-13846930-27989277",
+        "home_team": "IFK Mariehamn",
+        "away_team": "Vaasan Palloseura",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "653592834-11288054-13529639-28010583",
+    "home_team": "KaPa Kapylan Pallo",
+    "away_team": "SJK Akatemia",
+    "date": "19/09/2025",
+    "time": "16:30",
+    "country": "Finland",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "first_half_under_1.5_vs_first_half_over_1.5",
+        "best_odds": {
+          "first_half_under_1.5_odd": {
+            "value": 1.95,
+            "source": "Clubx2"
+          },
+          "first_half_over_1.5_odd": {
+            "value": 2.159,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.976,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13529639-11288054",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Finland",
+        "tournament_Clubx2": "Ykkosliiga",
+        "Clubx2_match_id": 13529639,
+        "Clubx2_tournament_id": 5165,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13529639#/overview",
+        "Tounesbet_country_name": "Finland",
+        "tournament_Tounesbet": "Ykkosliiga",
+        "Tounesbet_match_id": 11288054,
+        "Tounesbet_tournament_id": 232281,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653592834-11288054-13529639-28010583",
+        "home_team": "KaPa Kapylan Pallo",
+        "away_team": "SJK Akatemia",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "first_half_under_1.5_vs_first_half_over_1.5",
+        "best_odds": {
+          "first_half_under_1.5_odd": {
+            "value": 1.9,
+            "source": "Asbet"
+          },
+          "first_half_over_1.5_odd": {
+            "value": 2.159,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9895,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "28010583-11288054",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Finland",
+        "tournament_Asbet": "Ykkosliiga",
+        "Asbet_match_id": 28010583,
+        "Asbet_tournament_id": 18289213,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Finland/18289213/ykkosliiga/28010583/kapa-sjk-akatemia",
+        "Tounesbet_country_name": "Finland",
+        "tournament_Tounesbet": "Ykkosliiga",
+        "Tounesbet_match_id": 11288054,
+        "Tounesbet_tournament_id": 232281,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653592834-11288054-13529639-28010583",
+        "home_team": "KaPa Kapylan Pallo",
+        "away_team": "SJK Akatemia",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "653787082-11288770-13529650",
+    "home_team": "PK-35 Helsinki",
+    "away_team": "Klubi-04",
+    "date": "20/09/2025",
+    "time": "12:00",
+    "country": "Finland",
+    "all_sources": [
+      "1xbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "first_half_under_1.5_vs_first_half_over_1.5",
+        "best_odds": {
+          "first_half_under_1.5_odd": {
+            "value": 1.958,
+            "source": "Tounesbet"
+          },
+          "first_half_over_1.5_odd": {
+            "value": 2.1,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9869,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13529650-11288770",
+        "Tounesbet_country_name": "Finland",
+        "tournament_Tounesbet": "Ykkosliiga",
+        "Tounesbet_match_id": 11288770,
+        "Tounesbet_tournament_id": 232281,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "Finland",
+        "tournament_Clubx2": "Ykkosliiga",
+        "Clubx2_match_id": 13529650,
+        "Clubx2_tournament_id": 5165,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13529650#/overview",
+        "group_id": "653787082-11288770-13529650",
+        "home_team": "PK-35 Helsinki",
+        "away_team": "Klubi-04",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "653602429-11268672-13933690",
+    "home_team": "KPV Kokkola",
+    "away_team": "Mikkelin Palloilijat",
+    "date": "19/09/2025",
+    "time": "15:30",
+    "country": "Finland",
+    "all_sources": [
+      "1xbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "first_half_under_1.5_vs_first_half_over_1.5",
+        "best_odds": {
+          "first_half_under_1.5_odd": {
+            "value": 1.6667,
+            "source": "Clubx2"
+          },
+          "first_half_over_1.5_odd": {
+            "value": 2.584,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.987,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13933690-11268672",
+        "Clubx2_country_name": "Finland",
+        "tournament_Clubx2": "Ykkonen",
+        "Clubx2_match_id": 13933690,
+        "Clubx2_tournament_id": 46452,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13933690#/overview",
+        "Tounesbet_country_name": "Finland",
+        "tournament_Tounesbet": "Ykkonen",
+        "Tounesbet_match_id": 11268672,
+        "Tounesbet_tournament_id": 25107,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653602429-11268672-13933690",
+        "home_team": "KPV Kokkola",
+        "away_team": "Mikkelin Palloilijat",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "653592837-11288281-13529642-28010393",
+    "home_team": "SalPa",
+    "away_team": "FC Lahti",
+    "date": "19/09/2025",
+    "time": "15:30",
+    "country": "Finland",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "first_half_under_1.0_vs_first_half_over_1.0",
+        "best_odds": {
+          "first_half_under_1.0_odd": {
+            "value": 2.17,
+            "source": "Asbet"
+          },
+          "first_half_over_1.0_odd": {
+            "value": 1.935,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9776,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "28010393-11288281",
+        "misvalue_source": "Asbet",
+        "Asbet_country_name": "Finland",
+        "tournament_Asbet": "Ykkosliiga",
+        "Asbet_match_id": 28010393,
+        "Asbet_tournament_id": 18289213,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Finland/18289213/ykkosliiga/28010393/salpa-fc-lahti",
+        "Tounesbet_country_name": "Finland",
+        "tournament_Tounesbet": "Ykkosliiga",
+        "Tounesbet_match_id": 11288281,
+        "Tounesbet_tournament_id": 232281,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653592837-11288281-13529642-28010393",
+        "home_team": "SalPa",
+        "away_team": "FC Lahti",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "first_half_under_1.5_vs_first_half_over_1.5",
+        "best_odds": {
+          "first_half_under_1.5_odd": {
+            "value": 1.5556,
+            "source": "Clubx2"
+          },
+          "first_half_over_1.5_odd": {
+            "value": 2.82,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9974,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13529642-11288281",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Finland",
+        "tournament_Clubx2": "Ykkosliiga",
+        "Clubx2_match_id": 13529642,
+        "Clubx2_tournament_id": 5165,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13529642#/overview",
+        "Tounesbet_country_name": "Finland",
+        "tournament_Tounesbet": "Ykkosliiga",
+        "Tounesbet_match_id": 11288281,
+        "Tounesbet_tournament_id": 232281,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653592837-11288281-13529642-28010393",
+        "home_team": "SalPa",
+        "away_team": "FC Lahti",
+        "activity_duration": "1 hour"
+      }
+    ]
+  }
+]

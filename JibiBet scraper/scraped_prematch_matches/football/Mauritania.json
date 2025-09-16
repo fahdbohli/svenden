@@ -1,0 +1,26 @@
+[
+    {
+        "last_updated": "2025-08-11T17:26:30.297695+01:00"
+    },
+    {
+        "tournament_id": 1825988500365910016,
+        "tournament_name": "Super D2",
+        "matches": [
+            {
+                "match_id": 2566572568081469489,
+                "date": "11/08/2025",
+                "time": "17:30",
+                "home_team": "Zouérate Kédia",
+                "away_team": "Ittihad Assaba",
+                "1_odd": "1.78",
+                "draw_odd": "4.2",
+                "2_odd": "3.35",
+                "1X_odd": "1.25",
+                "12_odd": "1.16",
+                "X2_odd": "1.85",
+                "over_3.5_odd": "1.85",
+                "under_3.5_odd": "1.85"
+            }
+        ]
+    }
+]

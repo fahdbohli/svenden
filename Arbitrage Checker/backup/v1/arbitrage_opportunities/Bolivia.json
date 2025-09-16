@@ -1,0 +1,64 @@
+[
+  {
+    "match_info": {
+      "home_team": "Jorge Wilstermann",
+      "away_team": "Blooming",
+      "date": "11/07/2025",
+      "time": "01:30",
+      "sources": [
+        "Clubx2",
+        "Tounesbet"
+      ],
+      "country": "Bolivia",
+      "tournament_Clubx2": null,
+      "tournament_Tounesbet": null
+    },
+    "complementary_set": "three_way",
+    "best_odds": {
+      "1_odd": {
+        "value": 3.564,
+        "source": "Tounesbet"
+      },
+      "draw_odd": {
+        "value": 3.4,
+        "source": "Clubx2"
+      },
+      "2_odd": {
+        "value": 2.387,
+        "source": "Tounesbet"
+      }
+    },
+    "arbitrage_percentage": 0.9936
+  },
+  {
+    "match_info": {
+      "home_team": "Club Bolivar",
+      "away_team": "CA Nacional Potosi",
+      "date": "10/07/2025",
+      "time": "23:00",
+      "sources": [
+        "1xbet",
+        "Asbet",
+        "Clubx2",
+        "Tounesbet"
+      ],
+      "country": "Bolivia",
+      "tournament_1xbet": null,
+      "tournament_Asbet": null,
+      "tournament_Clubx2": null,
+      "tournament_Tounesbet": null
+    },
+    "complementary_set": "ah_-2.0_home_vs_away",
+    "best_odds": {
+      "home_handicap_-2.0_odd": {
+        "value": 2.5455,
+        "source": "Clubx2"
+      },
+      "away_handicap_2.0_odd": {
+        "value": 1.705,
+        "source": "Tounesbet"
+      }
+    },
+    "arbitrage_percentage": 0.9794
+  }
+]

@@ -1,0 +1,313 @@
+this scraper scrape for each match these details : country, championship  , cjampioship and match id, date, time, home and away teams names, and for the odds it only scrapes the 1 x 2 odds. i want to make this code do this request for each found match in the main list it currently scrapes using the match id of each match : "POST /Live/Details?SportId=1181&LiveMatchId=15547738 HTTP/1.1
+Host: tounesbet.com
+Content-Length: 0
+X-Requested-With: XMLHttpRequest
+Accept-Language: fr-FR,fr;q=0.9
+Accept: */*
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+Origin: http://tounesbet.com
+Referer: http://tounesbet.com/paris-sportif-live
+Accept-Encoding: gzip, deflate, br
+Cookie: TimeZone=-60; _gid=GA1.2.2086541626.1751413083; DDoS_Protection=4f56b40de74c1d211520465f14578a6a; ASP.NET_SessionId=hkr4w3l50a4134qawikm3vwa; __RequestVerificationToken=njeWrOBAjgYM1O2bYE903Q_UZ_qbDQJo3xsEL65XRmR2fURxLmOZI2I8vA_psqVd4snVxL6TG14VSYzftBr46O_ddOl4Hc58HypfuLj5M301; _gat_gtag_UA_160317988_1=1; _ga_PGQGW1WPHH=GS2.1.s1751413081$o2$g1$t1751416586$j59$l0$h0; _ga=GA1.1.569672587.1751165027; _vid_t=xKN3ij1Eva3Y18AER1H6I7S5X9zvbQ8la2zfr0WmYId5pSNhP5gvTz0PtRfacvlFGHqE6petgbuxTw==
+Connection: keep-alive
+" 
+the LiveMatchId=15547738 is a variable that will take every match id value from the main list and will get that match detailed odds 
+DDoS_Protection=4f56b40de74c1d211520465f14578a6a will take one of the generated ddos codes at the beginning of the code execution during the sessions creation. the response of each match will be parsed by this code : "import re
+import requests
+from bs4 import BeautifulSoup
+
+def parse_live_match_odds(html: str) -> dict:
+    """
+    Parse a betting‑site live match page and extract:
+      - 1, X, 2
+      - 1X, 12, X2
+      - both teams score / no score
+      - full-game under/over (any line)
+      - home/away under/over (any line)
+      - both‑halves home/away score/no score
+      - first‑half under/over
+      - second‑half home/away score/no score
+      - total corners under/over (any line)
+    Returns a dict mapping keys like "1_odd", "over_2_5_odd", "home_under_1_5_odd", etc., to floats.
+    """
+    soup = BeautifulSoup(html, 'html.parser')
+    odds = {}
+
+    # 1) Basic markets mappings
+    basic_markets = {
+        'résultat du match': {'1': '1_odd', 'x': 'draw_odd', '2': '2_odd'},
+        'double chance':    {'1x': '1X_odd', '12': '12_odd', 'x2': 'X2_odd'},
+        'both teams score': {'yes': 'both_score_odd', 'no': 'both_noscore_odd',
+                             'oui': 'both_score_odd', 'non': 'both_noscore_odd'},
+    }
+
+    # Helper: normalize decimals from "7,00" → 7.0
+    def norm(v):
+        return float(v.replace(',', '.').strip())
+
+    # 2) Iterate each market row
+    for row in soup.select('.divOddRow'):
+        # market name (e.g. "Résultat du match", "Under/Over", etc.)
+        mname = row.select_one('.oddName span')
+        if not mname:
+            continue
+        mkey = mname.text.strip().lower()
+
+        # --- 2a: Basic 1/X/2, Double Chance, Both Score ---
+        if mkey in basic_markets:
+            mapping = basic_markets[mkey]
+            for mo in row.select('.match-odd'):
+                lbl = mo.select_one('.outcome-label-multirow').text.strip().lower()
+                val = mo.select_one('.quoteValue')['data-oddvaluedecimal']
+                if lbl in mapping:
+                    odds[mapping[lbl]] = norm(val)
+            continue
+
+        # --- 2b: Full‑game Over/Under (and Corners U/O too) ---
+        # detected by data-specialoddsvalue on the .odds_type_holder
+        for holder in row.select('.odds_type_holder[data-specialoddsvalue]'):
+            line = holder['data-specialoddsvalue']
+            # skip if no real line
+            if not re.match(r'^\d+(\.\d+)$', line):
+                continue
+            # each outcome: label either "Moins"/"Plus" or "Under"/"Over"
+            for div in holder.select('.has-specialBet-col'):
+                lbl = div.select_one('label').text.strip().lower()
+                val = div.select_one('.quoteValue')['data-oddvaluedecimal']
+                # map French/English to under/over
+                if lbl in ('moins', 'under'):
+                    prefix = 'under'
+                elif lbl in ('plus',  'over'):
+                    prefix = 'over'
+                else:
+                    continue
+                # build key like "under_2_5_odd"
+                key = f"{prefix}_{line.replace('.', '_')}_odd"
+                odds[key] = norm(val)
+
+        # --- 2c: Home/Away Over/Under (full‑game) ---
+        # these typically show in mkey like "home under/over" or contain "home_under"
+        # but on this site they appear as separate markets named e.g. "Home Over/Under"
+        if 'home under/over' in mkey or 'home barré' in mkey:
+            # same logic as 2b but prefix with "home"
+            for holder in row.select('.odds_type_holder[data-specialoddsvalue]'):
+                line = holder['data-specialoddsvalue']
+                for div in holder.select('.has-specialBet-col'):
+                    lbl = div.select_one('label').text.strip().lower()
+                    val = div.select_one('.quoteValue')['data-oddvaluedecimal']
+                    if lbl in ('moins', 'under'):
+                        out = 'under'
+                    elif lbl in ('plus', 'over'):
+                        out = 'over'
+                    else:
+                        continue
+                    key = f"home_{out}_{line.replace('.', '_')}_odd"
+                    odds[key] = norm(val)
+
+        if 'away under/over' in mkey or 'away barré' in mkey:
+            for holder in row.select('.odds_type_holder[data-specialoddsvalue]'):
+                line = holder['data-specialoddsvalue']
+                for div in holder.select('.has-specialBet-col'):
+                    lbl = div.select_one('label').text.strip().lower()
+                    val = div.select_one('.quoteValue')['data-oddvaluedecimal']
+                    if lbl in ('moins', 'under'):
+                        out = 'under'
+                    elif lbl in ('plus', 'over'):
+                        out = 'over'
+                    else:
+                        continue
+                    key = f"away_{out}_{line.replace('.', '_')}_odd"
+                    odds[key] = norm(val)
+
+        # --- 2d: Both‑halves home/away score/no score ---
+        # look for market names like "home_score_both_halves" etc.
+        if 'both halves' in mkey:
+            for mo in row.select('.match-odd'):
+                lbl = mo.select_one('.outcome-label-multirow').text.strip().lower()
+                val = mo.select_one('.quoteValue')['data-oddvaluedecimal']
+                # e.g. label "Home Score" → home_score_both_halves_odd
+                lbl_norm = lbl.replace(' ', '_')
+                key = f"{lbl_norm}_both_halves_odd"
+                odds[key] = norm(val)
+
+        # --- 2e: Second‑half home/away score/no score ---
+        if 'second half' in mkey:
+            for mo in row.select('.match-odd'):
+                lbl = mo.select_one('.outcome-label-multirow').text.strip().lower()
+                val = mo.select_one('.quoteValue')['data-oddvaluedecimal']
+                lbl_norm = lbl.replace(' ', '_')
+                key = f"{lbl_norm}_second_half_odd"
+                odds[key] = norm(val)
+
+        # --- 2f: First‑half Under/Over ---
+        if '1ère moitié' in str(row.parent) or 'first half' in mkey:
+            for holder in row.select('.odds_type_holder[data-specialoddsvalue]'):
+                line = holder['data-specialoddsvalue']
+                if not re.match(r'^\d+(\.\d+)$', line): continue
+                for div in holder.select('.has-specialBet-col'):
+                    lbl = div.select_one('label').text.strip().lower()
+                    val = div.select_one('.quoteValue')['data-oddvaluedecimal']
+                    if lbl in ('moins', 'under'):
+                        out = 'under'
+                    elif lbl in ('plus', 'over'):
+                        out = 'over'
+                    else:
+                        continue
+                    key = f"first_half_{out}_{line.replace('.', '_')}_odd"
+                    odds[key] = norm(val)
+
+        # --- 2g: Corners Under/Over (total corners) ---
+        if 'corners' in mkey and ('under/over' in row.select_one('.oddName span').text.lower() 
+                                  or row.select_one('.odds_type_holder[data-specialoddsvalue]')):
+            for holder in row.select('.odds_type_holder[data-specialoddsvalue]'):
+                line = holder['data-specialoddsvalue']
+                for div in holder.select('.has-specialBet-col'):
+                    lbl = div.select_one('label').text.strip().lower()
+                    val = div.select_one('.quoteValue')['data-oddvaluedecimal']
+                    if lbl in ('moins', 'under'):
+                        out = 'under'
+                    elif lbl in ('plus', 'over'):
+                        out = 'over'
+                    else:
+                        continue
+                    key = f"corners_{out}_{line.replace('.', '_')}_odd"
+                    odds[key] = norm(val)
+
+    return odds
+
+
+if __name__ == '__main__':
+    # Example usage:
+    url = 'https://example.com/live_match/15547738'
+    resp = requests.get(url)
+    data = parse_live_match_odds(resp.text)
+    for k, v in data.items():
+        print(f"{k}: {v}")
+"
+the output of the parser should be something like this : "{
+"1_odd": 7.00,
+"draw_odd": 4.75,
+"2_odd": 1.36,
+"1X_odd": 2.90,
+"12_odd": 1.04,
+"X2_odd": 1.00,
+"both_score_odd": 1.80,
+"both_noscore_odd": 1.91,
+"home_score_both_halves_odd": 7.00,
+"home_noscore_both_halves_odd": 1.10,
+"away_score_both_halves_odd": 1.91,
+"away_noscore_both_halves_odd": 1.80,
+"home_score_second_half_odd": 2.50,
+"home_noscore_second_half_odd": 1.50,
+"away_score_second_half_odd": 1.30,
+"away_noscore_second_half_odd": 3.40,
+"under_0.5_odd": 14.95,
+"over_0.5_odd": 1.00,
+"under_1.5_odd": 5.45,
+"over_1.5_odd": 1.08,
+"under_2.5_odd": 2.65,
+"over_2.5_odd": 1.35,
+"under_3.5_odd": 1.57,
+"over_3.5_odd": 2.00,
+"under_4.5_odd": 1.20,
+"over_4.5_odd": 3.25,
+"under_5.5_odd": 1.01,
+"over_5.5_odd": 5.85,
+"under_6.5_odd": 1.00,
+"over_6.5_odd": 8.85,
+"under_7.5_odd": 1.00,
+"over_7.5_odd": 12.85,
+"home_under_1.5_odd": 1.25,
+"home_over_1.5_odd": 3.75,
+"home_under_2.5_odd": 1.05,
+"home_over_2.5_odd": 8.50,
+"home_under_3.5_odd": 1.01,
+"home_over_3.5_odd": 15.00,
+"away_under_1.5_odd": 3.00,
+"away_under_2.5_odd": 1.67,
+"away_over_2.5_odd": 2.10,
+"away_under_3.5_odd": 1.25,
+"away_over_3.5_odd": 3.75,
+"away_under_4.5_odd": 1.10,
+"away_over_4.5_odd": 6.50,
+"away_under_5.5_odd": 1.03,
+"away_over_5.5_odd": 10.00,
+"first_half_under_0.5_odd": 4.00,
+"first_half_over_0.5_odd": 1.22,
+"first_half_under_1.5_odd": 1.67,
+"first_half_over_1.5_odd": 2.10,
+"first_half_under_2.5_odd": 1.22,
+"first_half_over_2.5_odd": 4.00,
+"first_half_under_3.5_odd": 1.06,
+"first_half_over_3.5_odd": 10.00,
+"corners_under_8.5_odd": 1.90,
+"corners_over_8.5_odd": 1.63
+}"
+these odds will gets applied to the already existent details of the match obtained through the main list request, finally the a match in the json will look like this : "{
+        "tournament_name": "USL League Two",
+        "tournament_id": null,
+        "matches": [
+            {
+                "match_id": 16073012,
+                "date": "02/07/2025",
+                "time": "00:00",
+                "home_team": "Boston Bolts",
+                "away_team": "New England Fc",
+                "1_odd": 7.00,
+                "draw_odd": 4.75,
+                "2_odd": 1.36,
+                "1X_odd": 2.90,
+                "12_odd": 1.04,
+                "X2_odd": 1.00,
+                "both_score_odd": 1.80,
+                "both_noscore_odd": 1.91,
+                "home_score_both_halves_odd": 7.00,
+                "home_noscore_both_halves_odd": 1.10,
+                "away_score_both_halves_odd": 1.91,
+                "away_noscore_both_halves_odd": 1.80,
+                "home_score_second_half_odd": 2.50,
+                "home_noscore_second_half_odd": 1.50,
+                "away_score_second_half_odd": 1.30,
+                "away_noscore_second_half_odd": 3.40,
+                "under_0.5_odd": 14.95,
+                "over_0.5_odd": 1.00,
+                "under_1.5_odd": 5.45,
+                "over_1.5_odd": 1.08,
+                "under_2.5_odd": 2.65,
+                "over_2.5_odd": 1.35,
+                "under_3.5_odd": 1.57,
+                "over_3.5_odd": 2.00,
+                "under_4.5_odd": 1.20,
+                "over_4.5_odd": 3.25,
+                "under_5.5_odd": 1.01,
+                "over_5.5_odd": 5.85,
+                "under_6.5_odd": 1.00,
+                "over_6.5_odd": 8.85,
+                "under_7.5_odd": 1.00,
+                "over_7.5_odd": 12.85,
+                "home_under_1.5_odd": 1.25,
+                "home_over_1.5_odd": 3.75,
+                "home_under_2.5_odd": 1.05,
+                "home_over_2.5_odd": 8.50,
+                "home_under_3.5_odd": 1.01,
+                "home_over_3.5_odd": 15.00,
+                "away_under_1.5_odd": 3.00,
+                "away_under_2.5_odd": 1.67,
+                "away_over_2.5_odd": 2.10,
+                "away_under_3.5_odd": 1.25,
+                "away_over_3.5_odd": 3.75,
+                "away_under_4.5_odd": 1.10,
+                "away_over_4.5_odd": 6.50,
+                "away_under_5.5_odd": 1.03,
+                "away_over_5.5_odd": 10.00,
+                "first_half_under_0.5_odd": 4.00,
+                "first_half_over_0.5_odd": 1.22,
+                "first_half_under_1.5_odd": 1.67,
+                "first_half_over_1.5_odd": 2.10,
+                "first_half_under_2.5_odd": 1.22,
+                "first_half_over_2.5_odd": 4.00,
+                "first_half_under_3.5_odd": 1.06,
+                "first_half_over_3.5_odd": 10.00,
+                "corners_under_8.5_odd": 1.90,
+                "corners_over_8.5_odd": 1.63
+            },............(other matches)"

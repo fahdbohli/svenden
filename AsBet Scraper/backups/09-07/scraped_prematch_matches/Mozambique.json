@@ -1,0 +1,42 @@
+[
+    {
+        "tournament_name": "Mocambola",
+        "tournament_id": 11682,
+        "matches": [
+            {
+                "match_id": 27552945,
+                "date": "09/07/2025",
+                "time": "13:45",
+                "home_team": "Clube Ferroviario de Nampula",
+                "away_team": "FC Ferroviario da Beira",
+                "match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Mozambique/11682/mocambola/27552945/clube-ferroviario-de-nampula-fc-ferroviario-da-beira",
+                "both_score_odd": 2.01,
+                "both_noscore_odd": 1.71,
+                "home_handicap_-0.75_odd": 2.85,
+                "away_handicap_0.75_odd": 1.37,
+                "home_handicap_-0.5_odd": 2.3,
+                "away_handicap_0.5_odd": 1.55,
+                "home_handicap_0.25_odd": 1.43,
+                "away_handicap_-0.25_odd": 2.62,
+                "home_handicap_0.5_odd": 1.33,
+                "away_handicap_-0.5_odd": 3.05,
+                "1X_odd": 1.33,
+                "12_odd": 1.38,
+                "X2_odd": 1.53,
+                "over_2.0_odd": 1.85,
+                "under_2.0_odd": 1.85,
+                "over_1.5_odd": 1.48,
+                "under_1.5_odd": 2.45,
+                "home_handicap_0.0_odd": 1.62,
+                "away_handicap_0.0_odd": 2.15,
+                "home_handicap_-0.25_odd": 1.96,
+                "away_handicap_0.25_odd": 1.74,
+                "over_2.5_odd": 2.45,
+                "under_2.5_odd": 1.48,
+                "1_odd": 2.33,
+                "draw_odd": 2.84,
+                "2_odd": 3.14
+            }
+        ]
+    }
+]

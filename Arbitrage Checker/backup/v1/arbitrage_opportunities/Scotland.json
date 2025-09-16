@@ -1,0 +1,124 @@
+[
+  {
+    "match_info": {
+      "home_team": "Brechin City",
+      "away_team": "Falkirk",
+      "date": "12/07/2025",
+      "time": "15:00",
+      "sources": [
+        "1xbet",
+        "Clubx2",
+        "Tounesbet"
+      ],
+      "country": "Scotland",
+      "tournament_1xbet": null,
+      "tournament_Clubx2": null,
+      "tournament_Tounesbet": null
+    },
+    "complementary_set": "one_vs_x2",
+    "best_odds": {
+      "1_odd": {
+        "value": 29.7,
+        "source": "Tounesbet"
+      },
+      "X2_odd": {
+        "value": 1.062,
+        "source": "1xbet"
+      }
+    },
+    "arbitrage_percentage": 0.9753
+  },
+  {
+    "match_info": {
+      "home_team": "Edinburgh City FC",
+      "away_team": "Partick Thistle FC",
+      "date": "11/07/2025",
+      "time": "19:45",
+      "sources": [
+        "1xbet",
+        "Asbet",
+        "Clubx2",
+        "Tounesbet"
+      ],
+      "country": "Scotland",
+      "tournament_1xbet": null,
+      "tournament_Asbet": null,
+      "tournament_Clubx2": null,
+      "tournament_Tounesbet": null
+    },
+    "complementary_set": "ah_0.5_home_vs_away",
+    "best_odds": {
+      "home_handicap_0.5_odd": {
+        "value": 2.4,
+        "source": "Asbet"
+      },
+      "away_handicap_-0.5_odd": {
+        "value": 1.87,
+        "source": "Tounesbet"
+      }
+    },
+    "arbitrage_percentage": 0.9514
+  },
+  {
+    "match_info": {
+      "home_team": "Brechin City FC",
+      "away_team": "Falkirk FC",
+      "date": "12/07/2025",
+      "time": "15:00",
+      "sources": [
+        "1xbet",
+        "Asbet",
+        "Clubx2",
+        "Tounesbet"
+      ],
+      "country": "Scotland",
+      "tournament_1xbet": null,
+      "tournament_Asbet": null,
+      "tournament_Clubx2": null,
+      "tournament_Tounesbet": null
+    },
+    "complementary_set": "one_vs_x2",
+    "best_odds": {
+      "1_odd": {
+        "value": 29.7,
+        "source": "Tounesbet"
+      },
+      "X2_odd": {
+        "value": 1.062,
+        "source": "1xbet"
+      }
+    },
+    "arbitrage_percentage": 0.9753
+  },
+  {
+    "match_info": {
+      "home_team": "Stranraer FC",
+      "away_team": "Ross County FC",
+      "date": "12/07/2025",
+      "time": "15:00",
+      "sources": [
+        "1xbet",
+        "Asbet",
+        "Clubx2",
+        "Tounesbet"
+      ],
+      "country": "Scotland",
+      "tournament_1xbet": null,
+      "tournament_Asbet": null,
+      "tournament_Clubx2": null,
+      "tournament_Tounesbet": null
+    },
+    "complementary_set": "ah_0.5_home_vs_away",
+    "best_odds": {
+      "home_handicap_0.5_odd": {
+        "value": 4.57,
+        "source": "Asbet"
+      },
+      "away_handicap_-0.5_odd": {
+        "value": 1.3,
+        "source": "Tounesbet"
+      }
+    },
+    "arbitrage_percentage": 0.988
+  }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "last_updated": "2025-09-16T20:53:56.279210+01:00"
+    },
+    {
+        "tournament_name": "Premier League",
+        "tournament_id": 65497,
+        "matches": [
+            {
+                "match_id": 11295756,
+                "tournament_id": 65497,
+                "date": "17/09/2025",
+                "time": "14:45",
+                "home_team": "Royal Vision 2026",
+                "away_team": "Musongati",
+                "1_odd": 5.605,
+                "draw_odd": 4.425,
+                "2_odd": 1.852,
+                "both_score_odd": null,
+                "both_noscore_odd": null,
+                "1X_odd": 2.537,
+                "12_odd": 1.2,
+                "X2_odd": 1.12,
+                "under_2.5_odd": 2.065,
+                "over_2.5_odd": 2.419,
+                "home_handicap_1.0_odd": 2.088,
+                "away_handicap_-1.0_odd": 2.383,
+                "home_first_half_handicap_0.25_odd": 2.419,
+                "away_first_half_handicap_-0.25_odd": 2.065
+            }
+        ]
+    }
+]

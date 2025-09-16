@@ -1,0 +1,35 @@
+[
+  {
+    "match_info": {
+      "home_team": "Queretaro (Women)",
+      "away_team": "Santos Laguna (Women)",
+      "date": "11/07/2025",
+      "time": "22:45",
+      "sources": [
+        "1xbet",
+        "Clubx2",
+        "Tounesbet"
+      ],
+      "country": "Mexico",
+      "tournament_1xbet": null,
+      "tournament_Clubx2": null,
+      "tournament_Tounesbet": null
+    },
+    "complementary_set": "three_way",
+    "best_odds": {
+      "1_odd": {
+        "value": 1.716,
+        "source": "Tounesbet"
+      },
+      "draw_odd": {
+        "value": 4.2,
+        "source": "Clubx2"
+      },
+      "2_odd": {
+        "value": 5.731,
+        "source": "Tounesbet"
+      }
+    },
+    "arbitrage_percentage": 0.9953
+  }
+]

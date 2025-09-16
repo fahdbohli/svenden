@@ -1,0 +1,3672 @@
+[
+  {
+    "group_id": "2578697421085347883-653689341-11145807-13059432-27946727",
+    "home_team": "Odra Opole",
+    "away_team": "ZKS Stal Rzeszow",
+    "date": "19/09/2025",
+    "time": "17:00",
+    "country": "Poland",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_-0.75_home_vs_away",
+        "best_odds": {
+          "home_handicap_-0.75_odd": {
+            "value": 2.37,
+            "source": "Asbet"
+          },
+          "away_handicap_0.75_odd": {
+            "value": 1.829,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9687,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27946727-11145807",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Poland",
+        "tournament_Asbet": "I Liga",
+        "Asbet_match_id": 27946727,
+        "Asbet_tournament_id": 1979,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Poland/1979/i-liga/27946727/odra-opole-stal-rzeszow",
+        "Tounesbet_country_name": "Poland",
+        "tournament_Tounesbet": "1 Liga",
+        "Tounesbet_match_id": 11145807,
+        "Tounesbet_tournament_id": 68469,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578697421085347883-653689341-11145807-13059432-27946727",
+        "home_team": "Odra Opole",
+        "away_team": "ZKS Stal Rzeszow",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.1,
+            "source": "1xbet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 2.029,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.969,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653689341-11145807",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Poland",
+        "tournament_1xbet": "Liga 1",
+        "1xbet_match_id": 653689341,
+        "1xbet_tournament_id": 30693,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/30693/653689341",
+        "Tounesbet_country_name": "Poland",
+        "tournament_Tounesbet": "1 Liga",
+        "Tounesbet_match_id": 11145807,
+        "Tounesbet_tournament_id": 68469,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578697421085347883-653689341-11145807-13059432-27946727",
+        "home_team": "Odra Opole",
+        "away_team": "ZKS Stal Rzeszow",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "second_half_under_1.5_vs_second_half_over_1.5",
+        "best_odds": {
+          "second_half_under_1.5_odd": {
+            "value": 2.053,
+            "source": "Tounesbet"
+          },
+          "second_half_over_1.5_odd": {
+            "value": 2.05,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9749,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13059432-11145807",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Poland",
+        "tournament_Tounesbet": "1 Liga",
+        "Tounesbet_match_id": 11145807,
+        "Tounesbet_tournament_id": 68469,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "Poland",
+        "tournament_Clubx2": "I Liga",
+        "Clubx2_match_id": 13059432,
+        "Clubx2_tournament_id": 4569,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13059432#/overview",
+        "group_id": "2578697421085347883-653689341-11145807-13059432-27946727",
+        "home_team": "Odra Opole",
+        "away_team": "ZKS Stal Rzeszow",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.06,
+            "source": "Jibibet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 2.029,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9783,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2578697421085347883-11145807",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "Poland",
+        "tournament_Jibibet": "I Liga",
+        "Jibibet_match_id": 2578697421085347883,
+        "Jibibet_tournament_id": 1669818915489976320,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "Poland",
+        "tournament_Tounesbet": "1 Liga",
+        "Tounesbet_match_id": 11145807,
+        "Tounesbet_tournament_id": 68469,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578697421085347883-653689341-11145807-13059432-27946727",
+        "home_team": "Odra Opole",
+        "away_team": "ZKS Stal Rzeszow",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2579147896674979885-653702572-11138120-13059441-27947249",
+    "home_team": "FKS Stal Mielec",
+    "away_team": "Pogon Grodzisk Mazowiecki",
+    "date": "19/09/2025",
+    "time": "19:30",
+    "country": "Poland",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.23,
+            "source": "1xbet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.911,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9717,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653702572-11138120",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Poland",
+        "tournament_1xbet": "Liga 1",
+        "1xbet_match_id": 653702572,
+        "1xbet_tournament_id": 30693,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/30693/653702572",
+        "Tounesbet_country_name": "Poland",
+        "tournament_Tounesbet": "1 Liga",
+        "Tounesbet_match_id": 11138120,
+        "Tounesbet_tournament_id": 68469,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579147896674979885-653702572-11138120-13059441-27947249",
+        "home_team": "FKS Stal Mielec",
+        "away_team": "Pogon Grodzisk Mazowiecki",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "under_3.5_vs_over_3.5",
+        "best_odds": {
+          "under_3.5_odd": {
+            "value": 1.805,
+            "source": "Tounesbet"
+          },
+          "over_3.5_odd": {
+            "value": 2.39,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9724,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27947249-11138120",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Poland",
+        "tournament_Tounesbet": "1 Liga",
+        "Tounesbet_match_id": 11138120,
+        "Tounesbet_tournament_id": 68469,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "Poland",
+        "tournament_Asbet": "I Liga",
+        "Asbet_match_id": 27947249,
+        "Asbet_tournament_id": 1979,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Poland/1979/i-liga/27947249/fks-stal-mielec-pogon-grodzisk-mazowiecki",
+        "group_id": "2579147896674979885-653702572-11138120-13059441-27947249",
+        "home_team": "FKS Stal Mielec",
+        "away_team": "Pogon Grodzisk Mazowiecki",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.2223,
+            "source": "Clubx2"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.911,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9733,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13059441-11138120",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Poland",
+        "tournament_Clubx2": "I Liga",
+        "Clubx2_match_id": 13059441,
+        "Clubx2_tournament_id": 4569,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13059441#/overview",
+        "Tounesbet_country_name": "Poland",
+        "tournament_Tounesbet": "1 Liga",
+        "Tounesbet_match_id": 11138120,
+        "Tounesbet_tournament_id": 68469,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579147896674979885-653702572-11138120-13059441-27947249",
+        "home_team": "FKS Stal Mielec",
+        "away_team": "Pogon Grodzisk Mazowiecki",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.22,
+            "source": "Jibibet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.911,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9737,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2579147896674979885-11138120",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "Poland",
+        "tournament_Jibibet": "I Liga",
+        "Jibibet_match_id": 2579147896674979885,
+        "Jibibet_tournament_id": 1669818915489976320,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "Poland",
+        "tournament_Tounesbet": "1 Liga",
+        "Tounesbet_match_id": 11138120,
+        "Tounesbet_tournament_id": 68469,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579147896674979885-653702572-11138120-13059441-27947249",
+        "home_team": "FKS Stal Mielec",
+        "away_team": "Pogon Grodzisk Mazowiecki",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2578952244242288646-653689337-11138110-13059435-27953291",
+    "home_team": "KSP Polonia Warszawa",
+    "away_team": "Puszcza Niepolomice",
+    "date": "20/09/2025",
+    "time": "18:30",
+    "country": "Poland",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "first_half_ah_-0.5_home_vs_away",
+        "best_odds": {
+          "home_first_half_handicap_-0.5_odd": {
+            "value": 2.44,
+            "source": "Asbet"
+          },
+          "away_first_half_handicap_0.5_odd": {
+            "value": 1.793,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9676,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27953291-11138110",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Poland",
+        "tournament_Asbet": "I Liga",
+        "Asbet_match_id": 27953291,
+        "Asbet_tournament_id": 1979,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Poland/1979/i-liga/27953291/ksp-polonia-warszawa-puszcza-niepolomice",
+        "Tounesbet_country_name": "Poland",
+        "tournament_Tounesbet": "1 Liga",
+        "Tounesbet_match_id": 11138110,
+        "Tounesbet_tournament_id": 68469,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578952244242288646-653689337-11138110-13059435-27953291",
+        "home_team": "KSP Polonia Warszawa",
+        "away_team": "Puszcza Niepolomice",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "both_score",
+        "best_odds": {
+          "both_score_odd": {
+            "value": 1.958,
+            "source": "Tounesbet"
+          },
+          "both_noscore_odd": {
+            "value": 2.176,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.9703,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653689337-11138110",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Poland",
+        "tournament_Tounesbet": "1 Liga",
+        "Tounesbet_match_id": 11138110,
+        "Tounesbet_tournament_id": 68469,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "1xbet_country_name": "Poland",
+        "tournament_1xbet": "Liga 1",
+        "1xbet_match_id": 653689337,
+        "1xbet_tournament_id": 30693,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/30693/653689337",
+        "group_id": "2578952244242288646-653689337-11138110-13059435-27953291",
+        "home_team": "KSP Polonia Warszawa",
+        "away_team": "Puszcza Niepolomice",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "first_half_ah_-0.5_home_vs_away",
+        "best_odds": {
+          "home_first_half_handicap_-0.5_odd": {
+            "value": 2.4,
+            "source": "Clubx2"
+          },
+          "away_first_half_handicap_0.5_odd": {
+            "value": 1.793,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9744,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13059435-11138110",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Poland",
+        "tournament_Clubx2": "I Liga",
+        "Clubx2_match_id": 13059435,
+        "Clubx2_tournament_id": 4569,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13059435#/overview",
+        "Tounesbet_country_name": "Poland",
+        "tournament_Tounesbet": "1 Liga",
+        "Tounesbet_match_id": 11138110,
+        "Tounesbet_tournament_id": 68469,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578952244242288646-653689337-11138110-13059435-27953291",
+        "home_team": "KSP Polonia Warszawa",
+        "away_team": "Puszcza Niepolomice",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 1.87,
+            "source": "Jibibet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 2.183,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9928,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2578952244242288646-11138110",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "Poland",
+        "tournament_Jibibet": "I Liga",
+        "Jibibet_match_id": 2578952244242288646,
+        "Jibibet_tournament_id": 1669818915489976320,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "Poland",
+        "tournament_Tounesbet": "1 Liga",
+        "Tounesbet_match_id": 11138110,
+        "Tounesbet_tournament_id": 68469,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578952244242288646-653689337-11138110-13059435-27953291",
+        "home_team": "KSP Polonia Warszawa",
+        "away_team": "Puszcza Niepolomice",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2578697421085347881-653689347-11125582-13059431-27953293",
+    "home_team": "Pogon Siedlce",
+    "away_team": "WKS Slask Wroclaw",
+    "date": "20/09/2025",
+    "time": "18:30",
+    "country": "Poland",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "two_vs_1x_handicap",
+        "best_odds": {
+          "2_odd": {
+            "value": 2.17,
+            "source": "1xbet"
+          },
+          "home_handicap_0.5_odd": {
+            "value": 1.97,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9684,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653689347-11125582",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Poland",
+        "tournament_1xbet": "Liga 1",
+        "1xbet_match_id": 653689347,
+        "1xbet_tournament_id": 30693,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/30693/653689347",
+        "Tounesbet_country_name": "Poland",
+        "tournament_Tounesbet": "1 Liga",
+        "Tounesbet_match_id": 11125582,
+        "Tounesbet_tournament_id": 68469,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578697421085347881-653689347-11125582-13059431-27953293",
+        "home_team": "Pogon Siedlce",
+        "away_team": "WKS Slask Wroclaw",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "second_half_under_1.5_vs_second_half_over_1.5",
+        "best_odds": {
+          "second_half_under_1.5_odd": {
+            "value": 2.029,
+            "source": "Tounesbet"
+          },
+          "second_half_over_1.5_odd": {
+            "value": 2.1,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.969,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13059431-11125582",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Poland",
+        "tournament_Tounesbet": "1 Liga",
+        "Tounesbet_match_id": 11125582,
+        "Tounesbet_tournament_id": 68469,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "Poland",
+        "tournament_Clubx2": "I Liga",
+        "Clubx2_match_id": 13059431,
+        "Clubx2_tournament_id": 4569,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13059431#/overview",
+        "group_id": "2578697421085347881-653689347-11125582-13059431-27953293",
+        "home_team": "Pogon Siedlce",
+        "away_team": "WKS Slask Wroclaw",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "first_half_ah_0.0_home_vs_away",
+        "best_odds": {
+          "home_first_half_handicap_0.0_odd": {
+            "value": 2.15,
+            "source": "Asbet"
+          },
+          "away_first_half_handicap_0.0_odd": {
+            "value": 1.97,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9727,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27953293-11125582",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Poland",
+        "tournament_Asbet": "I Liga",
+        "Asbet_match_id": 27953293,
+        "Asbet_tournament_id": 1979,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Poland/1979/i-liga/27953293/pogon-siedlce-slask-wroclaw",
+        "Tounesbet_country_name": "Poland",
+        "tournament_Tounesbet": "1 Liga",
+        "Tounesbet_match_id": 11125582,
+        "Tounesbet_tournament_id": 68469,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578697421085347881-653689347-11125582-13059431-27953293",
+        "home_team": "Pogon Siedlce",
+        "away_team": "WKS Slask Wroclaw",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "two_vs_1x_handicap",
+        "best_odds": {
+          "2_odd": {
+            "value": 2.12,
+            "source": "Jibibet"
+          },
+          "home_handicap_0.5_odd": {
+            "value": 1.97,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9793,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2578697421085347881-11125582",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "Poland",
+        "tournament_Jibibet": "I Liga",
+        "Jibibet_match_id": 2578697421085347881,
+        "Jibibet_tournament_id": 1669818915489976320,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "Poland",
+        "tournament_Tounesbet": "1 Liga",
+        "Tounesbet_match_id": 11125582,
+        "Tounesbet_tournament_id": 68469,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578697421085347881-653689347-11125582-13059431-27953293",
+        "home_team": "Pogon Siedlce",
+        "away_team": "WKS Slask Wroclaw",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2578952244242288648-653689344-11143061-13059439-27953292",
+    "home_team": "KS Polonia Bytom SA",
+    "away_team": "MKS Miedz Legnica",
+    "date": "20/09/2025",
+    "time": "18:30",
+    "country": "Poland",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "second_half_under_1.5_vs_second_half_over_1.5",
+        "best_odds": {
+          "second_half_under_1.5_odd": {
+            "value": 2.1,
+            "source": "Tounesbet"
+          },
+          "second_half_over_1.5_odd": {
+            "value": 2.05,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.964,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13059439-11143061",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Poland",
+        "tournament_Tounesbet": "1 Liga",
+        "Tounesbet_match_id": 11143061,
+        "Tounesbet_tournament_id": 68469,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "Poland",
+        "tournament_Clubx2": "I Liga",
+        "Clubx2_match_id": 13059439,
+        "Clubx2_tournament_id": 4569,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13059439#/overview",
+        "group_id": "2578952244242288648-653689344-11143061-13059439-27953292",
+        "home_team": "KS Polonia Bytom SA",
+        "away_team": "MKS Miedz Legnica",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.16,
+            "source": "1xbet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.97,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9706,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653689344-11143061",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Poland",
+        "tournament_1xbet": "Liga 1",
+        "1xbet_match_id": 653689344,
+        "1xbet_tournament_id": 30693,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/30693/653689344",
+        "Tounesbet_country_name": "Poland",
+        "tournament_Tounesbet": "1 Liga",
+        "Tounesbet_match_id": 11143061,
+        "Tounesbet_tournament_id": 68469,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578952244242288648-653689344-11143061-13059439-27953292",
+        "home_team": "KS Polonia Bytom SA",
+        "away_team": "MKS Miedz Legnica",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.14,
+            "source": "Jibibet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.97,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9749,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2578952244242288648-11143061",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "Poland",
+        "tournament_Jibibet": "I Liga",
+        "Jibibet_match_id": 2578952244242288648,
+        "Jibibet_tournament_id": 1669818915489976320,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "Poland",
+        "tournament_Tounesbet": "1 Liga",
+        "Tounesbet_match_id": 11143061,
+        "Tounesbet_tournament_id": 68469,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578952244242288648-653689344-11143061-13059439-27953292",
+        "home_team": "KS Polonia Bytom SA",
+        "away_team": "MKS Miedz Legnica",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2579031069244399630-653689334-11127701-13059437-27959349",
+    "home_team": "Gornik Leczna",
+    "away_team": "Wisla Krakow",
+    "date": "21/09/2025",
+    "time": "13:30",
+    "country": "Poland",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_1.0_home_vs_away",
+        "best_odds": {
+          "home_handicap_1.0_odd": {
+            "value": 2.35,
+            "source": "Asbet"
+          },
+          "away_handicap_-1.0_odd": {
+            "value": 1.911,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9488,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27959349-11127701",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Poland",
+        "tournament_Asbet": "I Liga",
+        "Asbet_match_id": 27959349,
+        "Asbet_tournament_id": 1979,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Poland/1979/i-liga/27959349/gornik-leczna-wisla-krakow",
+        "Tounesbet_country_name": "Poland",
+        "tournament_Tounesbet": "1 Liga",
+        "Tounesbet_match_id": 11127701,
+        "Tounesbet_tournament_id": 68469,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579031069244399630-653689334-11127701-13059437-27959349",
+        "home_team": "Gornik Leczna",
+        "away_team": "Wisla Krakow",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "away_under_2.5_vs_away_over_2.5",
+        "best_odds": {
+          "away_under_2.5_odd": {
+            "value": 1.852,
+            "source": "Tounesbet"
+          },
+          "away_over_2.5_odd": {
+            "value": 2.38,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.9601,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653689334-11127701",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Poland",
+        "tournament_Tounesbet": "1 Liga",
+        "Tounesbet_match_id": 11127701,
+        "Tounesbet_tournament_id": 68469,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "1xbet_country_name": "Poland",
+        "tournament_1xbet": "Liga 1",
+        "1xbet_match_id": 653689334,
+        "1xbet_tournament_id": 30693,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/30693/653689334",
+        "group_id": "2579031069244399630-653689334-11127701-13059437-27959349",
+        "home_team": "Gornik Leczna",
+        "away_team": "Wisla Krakow",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "second_half_under_1.5_vs_second_half_over_1.5",
+        "best_odds": {
+          "second_half_under_1.5_odd": {
+            "value": 2.05,
+            "source": "Clubx2"
+          },
+          "second_half_over_1.5_odd": {
+            "value": 2.076,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9695,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13059437-11127701",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Poland",
+        "tournament_Clubx2": "I Liga",
+        "Clubx2_match_id": 13059437,
+        "Clubx2_tournament_id": 4569,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13059437#/overview",
+        "Tounesbet_country_name": "Poland",
+        "tournament_Tounesbet": "1 Liga",
+        "Tounesbet_match_id": 11127701,
+        "Tounesbet_tournament_id": 68469,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579031069244399630-653689334-11127701-13059437-27959349",
+        "home_team": "Gornik Leczna",
+        "away_team": "Wisla Krakow",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2579188298912247828-653722155-11145806-13059436-27959916",
+    "home_team": "MKS Znicz Pruszkow",
+    "away_team": "GKS Tychy",
+    "date": "21/09/2025",
+    "time": "16:30",
+    "country": "Poland",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "two_vs_1x_handicap",
+        "best_odds": {
+          "2_odd": {
+            "value": 2.29,
+            "source": "1xbet"
+          },
+          "home_handicap_0.5_odd": {
+            "value": 2.006,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9352,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653722155-11145806",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Poland",
+        "tournament_1xbet": "Liga 1",
+        "1xbet_match_id": 653722155,
+        "1xbet_tournament_id": 30693,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/30693/653722155",
+        "Tounesbet_country_name": "Poland",
+        "tournament_Tounesbet": "1 Liga",
+        "Tounesbet_match_id": 11145806,
+        "Tounesbet_tournament_id": 68469,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579188298912247828-653722155-11145806-13059436-27959916",
+        "home_team": "MKS Znicz Pruszkow",
+        "away_team": "GKS Tychy",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_0.0_home_vs_away",
+        "best_odds": {
+          "home_handicap_0.0_odd": {
+            "value": 2.33,
+            "source": "Asbet"
+          },
+          "away_handicap_0.0_odd": {
+            "value": 1.888,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9588,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27959916-11145806",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Poland",
+        "tournament_Asbet": "I Liga",
+        "Asbet_match_id": 27959916,
+        "Asbet_tournament_id": 1979,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Poland/1979/i-liga/27959916/mks-znicz-pruszkow-gks-tychy",
+        "Tounesbet_country_name": "Poland",
+        "tournament_Tounesbet": "1 Liga",
+        "Tounesbet_match_id": 11145806,
+        "Tounesbet_tournament_id": 68469,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579188298912247828-653722155-11145806-13059436-27959916",
+        "home_team": "MKS Znicz Pruszkow",
+        "away_team": "GKS Tychy",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "two_vs_1x_handicap",
+        "best_odds": {
+          "2_odd": {
+            "value": 2.125,
+            "source": "Clubx2"
+          },
+          "home_handicap_0.5_odd": {
+            "value": 2.006,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9691,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13059436-11145806",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Poland",
+        "tournament_Clubx2": "I Liga",
+        "Clubx2_match_id": 13059436,
+        "Clubx2_tournament_id": 4569,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13059436#/overview",
+        "Tounesbet_country_name": "Poland",
+        "tournament_Tounesbet": "1 Liga",
+        "Tounesbet_match_id": 11145806,
+        "Tounesbet_tournament_id": 68469,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579188298912247828-653722155-11145806-13059436-27959916",
+        "home_team": "MKS Znicz Pruszkow",
+        "away_team": "GKS Tychy",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2579419157460295716-653876147-11138116-13059438-27960321",
+    "home_team": "LKS Lodz",
+    "away_team": "KS Wieczysta Krakow",
+    "date": "21/09/2025",
+    "time": "19:15",
+    "country": "Poland",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "one_vs_x2",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.4546,
+            "source": "Clubx2"
+          },
+          "X2_odd": {
+            "value": 1.805,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9614,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13059438-11138116",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Poland",
+        "tournament_Clubx2": "I Liga",
+        "Clubx2_match_id": 13059438,
+        "Clubx2_tournament_id": 4569,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13059438#/overview",
+        "Tounesbet_country_name": "Poland",
+        "tournament_Tounesbet": "1 Liga",
+        "Tounesbet_match_id": 11138116,
+        "Tounesbet_tournament_id": 68469,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579419157460295716-653876147-11138116-13059438-27960321",
+        "home_team": "LKS Lodz",
+        "away_team": "KS Wieczysta Krakow",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.44,
+            "source": "1xbet"
+          },
+          "X2_odd": {
+            "value": 1.805,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9639,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653876147-11138116",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Poland",
+        "tournament_1xbet": "Liga 1",
+        "1xbet_match_id": 653876147,
+        "1xbet_tournament_id": 30693,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/30693/653876147",
+        "Tounesbet_country_name": "Poland",
+        "tournament_Tounesbet": "1 Liga",
+        "Tounesbet_match_id": 11138116,
+        "Tounesbet_tournament_id": 68469,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579419157460295716-653876147-11138116-13059438-27960321",
+        "home_team": "LKS Lodz",
+        "away_team": "KS Wieczysta Krakow",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.44,
+            "source": "Jibibet"
+          },
+          "X2_odd": {
+            "value": 1.805,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9639,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2579419157460295716-11138116",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "Poland",
+        "tournament_Jibibet": "I Liga",
+        "Jibibet_match_id": 2579419157460295716,
+        "Jibibet_tournament_id": 1669818915489976320,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "Poland",
+        "tournament_Tounesbet": "1 Liga",
+        "Tounesbet_match_id": 11138116,
+        "Tounesbet_tournament_id": 68469,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579419157460295716-653876147-11138116-13059438-27960321",
+        "home_team": "LKS Lodz",
+        "away_team": "KS Wieczysta Krakow",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "first_half_ah_0.25_home_vs_away",
+        "best_odds": {
+          "home_first_half_handicap_0.25_odd": {
+            "value": 1.793,
+            "source": "Tounesbet"
+          },
+          "away_first_half_handicap_-0.25_odd": {
+            "value": 2.44,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9676,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27960321-11138116",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Poland",
+        "tournament_Tounesbet": "1 Liga",
+        "Tounesbet_match_id": 11138116,
+        "Tounesbet_tournament_id": 68469,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "Poland",
+        "tournament_Asbet": "I Liga",
+        "Asbet_match_id": 27960321,
+        "Asbet_tournament_id": 1979,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Poland/1979/i-liga/27960321/lks-lodz-ks-wieczysta-krakow",
+        "group_id": "2579419157460295716-653876147-11138116-13059438-27960321",
+        "home_team": "LKS Lodz",
+        "away_team": "KS Wieczysta Krakow",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2579400701423783970-653863212-11143054-13059433-27966510",
+    "home_team": "Ruch Chorzow",
+    "away_team": "Chrobry Glogow",
+    "date": "22/09/2025",
+    "time": "16:45",
+    "country": "Poland",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "first_half_ah_-0.5_home_vs_away",
+        "best_odds": {
+          "home_first_half_handicap_-0.5_odd": {
+            "value": 2.35,
+            "source": "Asbet"
+          },
+          "away_first_half_handicap_0.5_odd": {
+            "value": 1.829,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9723,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27966510-11143054",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Poland",
+        "tournament_Asbet": "I Liga",
+        "Asbet_match_id": 27966510,
+        "Asbet_tournament_id": 1979,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Poland/1979/i-liga/27966510/ruch-chorzow-chrobry-glogow",
+        "Tounesbet_country_name": "Poland",
+        "tournament_Tounesbet": "1 Liga",
+        "Tounesbet_match_id": 11143054,
+        "Tounesbet_tournament_id": 68469,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579400701423783970-653863212-11143054-13059433-27966510",
+        "home_team": "Ruch Chorzow",
+        "away_team": "Chrobry Glogow",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_-1.0_home_vs_away",
+        "best_odds": {
+          "home_handicap_-1.0_odd": {
+            "value": 2.41,
+            "source": "1xbet"
+          },
+          "away_handicap_1.0_odd": {
+            "value": 1.793,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9727,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653863212-11143054",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Poland",
+        "tournament_1xbet": "Liga 1",
+        "1xbet_match_id": 653863212,
+        "1xbet_tournament_id": 30693,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/30693/653863212",
+        "Tounesbet_country_name": "Poland",
+        "tournament_Tounesbet": "1 Liga",
+        "Tounesbet_match_id": 11143054,
+        "Tounesbet_tournament_id": 68469,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579400701423783970-653863212-11143054-13059433-27966510",
+        "home_team": "Ruch Chorzow",
+        "away_team": "Chrobry Glogow",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 1.79,
+            "source": "Jibibet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 2.324,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.989,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2579400701423783970-11143054",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "Poland",
+        "tournament_Jibibet": "I Liga",
+        "Jibibet_match_id": 2579400701423783970,
+        "Jibibet_tournament_id": 1669818915489976320,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "Poland",
+        "tournament_Tounesbet": "1 Liga",
+        "Tounesbet_match_id": 11143054,
+        "Tounesbet_tournament_id": 68469,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579400701423783970-653863212-11143054-13059433-27966510",
+        "home_team": "Ruch Chorzow",
+        "away_team": "Chrobry Glogow",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2579667331496153134-653584717-10717307-13706723-27966089",
+    "home_team": "KS Hutnik Krakow SSA",
+    "away_team": "GKS Jastrzebie",
+    "date": "17/09/2025",
+    "time": "15:00",
+    "country": "Poland",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_-1.25_home_vs_away",
+        "best_odds": {
+          "home_handicap_-1.25_odd": {
+            "value": 2.42,
+            "source": "1xbet"
+          },
+          "away_handicap_1.25_odd": {
+            "value": 1.829,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.96,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653584717-10717307",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Poland",
+        "tournament_1xbet": "Liga 2",
+        "1xbet_match_id": 653584717,
+        "1xbet_tournament_id": 40311,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/40311/653584717",
+        "Tounesbet_country_name": "Poland",
+        "tournament_Tounesbet": "League 2",
+        "Tounesbet_match_id": 10717307,
+        "Tounesbet_tournament_id": 68965,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579667331496153134-653584717-10717307-13706723-27966089",
+        "home_team": "KS Hutnik Krakow SSA",
+        "away_team": "GKS Jastrzebie",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_-1.25_home_vs_away",
+        "best_odds": {
+          "home_handicap_-1.25_odd": {
+            "value": 2.39,
+            "source": "Asbet"
+          },
+          "away_handicap_1.25_odd": {
+            "value": 1.829,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9652,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27966089-10717307",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Poland",
+        "tournament_Asbet": "II Liga",
+        "Asbet_match_id": 27966089,
+        "Asbet_tournament_id": 9259,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Poland/9259/ii-liga/27966089/hutnik-krakow-gks-jastrzebie",
+        "Tounesbet_country_name": "Poland",
+        "tournament_Tounesbet": "League 2",
+        "Tounesbet_match_id": 10717307,
+        "Tounesbet_tournament_id": 68965,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579667331496153134-653584717-10717307-13706723-27966089",
+        "home_team": "KS Hutnik Krakow SSA",
+        "away_team": "GKS Jastrzebie",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "second_half_under_1.5_vs_second_half_over_1.5",
+        "best_odds": {
+          "second_half_under_1.5_odd": {
+            "value": 1.994,
+            "source": "Tounesbet"
+          },
+          "second_half_over_1.5_odd": {
+            "value": 2.1,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9777,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13706723-10717307",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Poland",
+        "tournament_Tounesbet": "League 2",
+        "Tounesbet_match_id": 10717307,
+        "Tounesbet_tournament_id": 68965,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "Poland",
+        "tournament_Clubx2": "II Liga",
+        "Clubx2_match_id": 13706723,
+        "Clubx2_tournament_id": 4707,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13706723#/overview",
+        "group_id": "2579667331496153134-653584717-10717307-13706723-27966089",
+        "home_team": "KS Hutnik Krakow SSA",
+        "away_team": "GKS Jastrzebie",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "homewin_handicap_vs_x2",
+        "best_odds": {
+          "home_handicap_-0.5_odd": {
+            "value": 1.911,
+            "source": "Tounesbet"
+          },
+          "X2_odd": {
+            "value": 2.15,
+            "source": "Jibibet"
+          }
+        },
+        "arbitrage_percentage": 0.9884,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2579667331496153134-10717307",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Poland",
+        "tournament_Tounesbet": "League 2",
+        "Tounesbet_match_id": 10717307,
+        "Tounesbet_tournament_id": 68965,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Jibibet_country_name": "Poland",
+        "tournament_Jibibet": "II Liga",
+        "Jibibet_match_id": 2579667331496153134,
+        "Jibibet_tournament_id": 1670112313136517120,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "group_id": "2579667331496153134-653584717-10717307-13706723-27966089",
+        "home_team": "KS Hutnik Krakow SSA",
+        "away_team": "GKS Jastrzebie",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2579691233643470875-653795315-10717308-27966574",
+    "home_team": "MKS Chojniczanka Chojnice",
+    "away_team": "K.S. Sokol Kleczew",
+    "date": "17/09/2025",
+    "time": "17:00",
+    "country": "Poland",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "both_score",
+        "best_odds": {
+          "both_score_odd": {
+            "value": 2.05,
+            "source": "Asbet"
+          },
+          "both_noscore_odd": {
+            "value": 2.124,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9586,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27966574-10717308",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Poland",
+        "tournament_Asbet": "II Liga",
+        "Asbet_match_id": 27966574,
+        "Asbet_tournament_id": 9259,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Poland/9259/ii-liga/27966574/mks-chojniczanka-chojnice-ks-sokol-kleczew",
+        "Tounesbet_country_name": "Poland",
+        "tournament_Tounesbet": "League 2",
+        "Tounesbet_match_id": 10717308,
+        "Tounesbet_tournament_id": 68965,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579691233643470875-653795315-10717308-27966574",
+        "home_team": "MKS Chojniczanka Chojnice",
+        "away_team": "K.S. Sokol Kleczew",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "away_under_0.5_vs_away_over_0.5",
+        "best_odds": {
+          "away_under_0.5_odd": {
+            "value": 2.2,
+            "source": "1xbet"
+          },
+          "away_over_0.5_odd": {
+            "value": 1.958,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9653,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653795315-10717308",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Poland",
+        "tournament_1xbet": "Liga 2",
+        "1xbet_match_id": 653795315,
+        "1xbet_tournament_id": 40311,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/40311/653795315",
+        "Tounesbet_country_name": "Poland",
+        "tournament_Tounesbet": "League 2",
+        "Tounesbet_match_id": 10717308,
+        "Tounesbet_tournament_id": 68965,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579691233643470875-653795315-10717308-27966574",
+        "home_team": "MKS Chojniczanka Chojnice",
+        "away_team": "K.S. Sokol Kleczew",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "homewin_handicap_vs_x2",
+        "best_odds": {
+          "home_handicap_-0.5_odd": {
+            "value": 1.829,
+            "source": "Tounesbet"
+          },
+          "X2_odd": {
+            "value": 2.35,
+            "source": "Jibibet"
+          }
+        },
+        "arbitrage_percentage": 0.9723,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2579691233643470875-10717308",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Poland",
+        "tournament_Tounesbet": "League 2",
+        "Tounesbet_match_id": 10717308,
+        "Tounesbet_tournament_id": 68965,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Jibibet_country_name": "Poland",
+        "tournament_Jibibet": "II Liga",
+        "Jibibet_match_id": 2579691233643470875,
+        "Jibibet_tournament_id": 1670112313136517120,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "group_id": "2579691233643470875-653795315-10717308-27966574",
+        "home_team": "MKS Chojniczanka Chojnice",
+        "away_team": "K.S. Sokol Kleczew",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2579696849871048715-653835253-10717316-13605781-27966789",
+    "home_team": "GKS Olimpia Grudziadz",
+    "away_team": "TS Podbeskidzie Bielsko-Biala",
+    "date": "17/09/2025",
+    "time": "18:30",
+    "country": "Poland",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_0.0_home_vs_away",
+        "best_odds": {
+          "home_handicap_0.0_odd": {
+            "value": 2.242,
+            "source": "Tounesbet"
+          },
+          "away_handicap_0.0_odd": {
+            "value": 2.02,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.9411,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653835253-10717316",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Poland",
+        "tournament_Tounesbet": "League 2",
+        "Tounesbet_match_id": 10717316,
+        "Tounesbet_tournament_id": 68965,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "1xbet_country_name": "Poland",
+        "tournament_1xbet": "Liga 2",
+        "1xbet_match_id": 653835253,
+        "1xbet_tournament_id": 40311,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/40311/653835253",
+        "group_id": "2579696849871048715-653835253-10717316-13605781-27966789",
+        "home_team": "GKS Olimpia Grudziadz",
+        "away_team": "TS Podbeskidzie Bielsko-Biala",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "second_half_under_1.5_vs_second_half_over_1.5",
+        "best_odds": {
+          "second_half_under_1.5_odd": {
+            "value": 1.958,
+            "source": "Tounesbet"
+          },
+          "second_half_over_1.5_odd": {
+            "value": 2.2,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9653,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13605781-10717316",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Poland",
+        "tournament_Tounesbet": "League 2",
+        "Tounesbet_match_id": 10717316,
+        "Tounesbet_tournament_id": 68965,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "Poland",
+        "tournament_Clubx2": "II Liga",
+        "Clubx2_match_id": 13605781,
+        "Clubx2_tournament_id": 4707,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13605781#/overview",
+        "group_id": "2579696849871048715-653835253-10717316-13605781-27966789",
+        "home_team": "GKS Olimpia Grudziadz",
+        "away_team": "TS Podbeskidzie Bielsko-Biala",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "home_under_1.5_vs_home_over_1.5",
+        "best_odds": {
+          "home_under_1.5_odd": {
+            "value": 1.805,
+            "source": "Tounesbet"
+          },
+          "home_over_1.5_odd": {
+            "value": 2.4,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9707,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27966789-10717316",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Poland",
+        "tournament_Tounesbet": "League 2",
+        "Tounesbet_match_id": 10717316,
+        "Tounesbet_tournament_id": 68965,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "Poland",
+        "tournament_Asbet": "II Liga",
+        "Asbet_match_id": 27966789,
+        "Asbet_tournament_id": 9259,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Poland/9259/ii-liga/27966789/gks-olimpia-grudziadz-ts-podbeskidzie-bielsko-biala",
+        "group_id": "2579696849871048715-653835253-10717316-13605781-27966789",
+        "home_team": "GKS Olimpia Grudziadz",
+        "away_team": "TS Podbeskidzie Bielsko-Biala",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "653612312-10717330-13853123-27981358",
+    "home_team": "Zaglebie Sosnowiec",
+    "away_team": "Swit Skolwin Szczecin",
+    "date": "19/09/2025",
+    "time": "17:00",
+    "country": "Poland",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "second_half_under_1.5_vs_second_half_over_1.5",
+        "best_odds": {
+          "second_half_under_1.5_odd": {
+            "value": 2.112,
+            "source": "Tounesbet"
+          },
+          "second_half_over_1.5_odd": {
+            "value": 1.95,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9863,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13853123-10717330",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Poland",
+        "tournament_Tounesbet": "League 2",
+        "Tounesbet_match_id": 10717330,
+        "Tounesbet_tournament_id": 68965,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "Poland",
+        "tournament_Clubx2": "II Liga",
+        "Clubx2_match_id": 13853123,
+        "Clubx2_tournament_id": 4707,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13853123#/overview",
+        "group_id": "653612312-10717330-13853123-27981358",
+        "home_team": "Zaglebie Sosnowiec",
+        "away_team": "Swit Skolwin Szczecin",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "first_half_under_1.0_vs_first_half_over_1.0",
+        "best_odds": {
+          "first_half_under_1.0_odd": {
+            "value": 2.1,
+            "source": "Asbet"
+          },
+          "first_half_over_1.0_odd": {
+            "value": 1.958,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9869,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27981358-10717330",
+        "misvalue_source": "1xbet",
+        "Asbet_country_name": "Poland",
+        "tournament_Asbet": "II Liga",
+        "Asbet_match_id": 27981358,
+        "Asbet_tournament_id": 9259,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Poland/9259/ii-liga/27981358/zaglebie-sosnowiec-swit-szczecin",
+        "Tounesbet_country_name": "Poland",
+        "tournament_Tounesbet": "League 2",
+        "Tounesbet_match_id": 10717330,
+        "Tounesbet_tournament_id": 68965,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653612312-10717330-13853123-27981358",
+        "home_team": "Zaglebie Sosnowiec",
+        "away_team": "Swit Skolwin Szczecin",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "653785872-10717331-13853117-28022305",
+    "home_team": "ZKS Stal Stalowa Wola",
+    "away_team": "LKS Lodz II",
+    "date": "19/09/2025",
+    "time": "18:38",
+    "country": "Poland",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "first_half_under_1.0_vs_first_half_over_1.0",
+        "best_odds": {
+          "first_half_under_1.0_odd": {
+            "value": 2.23,
+            "source": "Asbet"
+          },
+          "first_half_over_1.0_odd": {
+            "value": 1.947,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.962,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "28022305-10717331",
+        "misvalue_source": "Clubx2",
+        "Asbet_country_name": "Poland",
+        "tournament_Asbet": "II Liga",
+        "Asbet_match_id": 28022305,
+        "Asbet_tournament_id": 9259,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Poland/9259/ii-liga/28022305/stal-stalowa-wola-lks-ii-lodz",
+        "Tounesbet_country_name": "Poland",
+        "tournament_Tounesbet": "League 2",
+        "Tounesbet_match_id": 10717331,
+        "Tounesbet_tournament_id": 68965,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653785872-10717331-13853117-28022305",
+        "home_team": "ZKS Stal Stalowa Wola",
+        "away_team": "LKS Lodz II",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "second_half_under_1.5_vs_second_half_over_1.5",
+        "best_odds": {
+          "second_half_under_1.5_odd": {
+            "value": 2.206,
+            "source": "Tounesbet"
+          },
+          "second_half_over_1.5_odd": {
+            "value": 1.9,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9796,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13853117-10717331",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Poland",
+        "tournament_Tounesbet": "League 2",
+        "Tounesbet_match_id": 10717331,
+        "Tounesbet_tournament_id": 68965,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "Poland",
+        "tournament_Clubx2": "II Liga",
+        "Clubx2_match_id": 13853117,
+        "Clubx2_tournament_id": 4707,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13853117#/overview",
+        "group_id": "653785872-10717331-13853117-28022305",
+        "home_team": "ZKS Stal Stalowa Wola",
+        "away_team": "LKS Lodz II",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "653825496-11293506-13853122-27988420",
+    "home_team": "Hutnik Nowa Huta",
+    "away_team": "BTS Rekord Bielsko-Biala",
+    "date": "20/09/2025",
+    "time": "14:00",
+    "country": "Poland",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "first_half_under_1.5_vs_first_half_over_1.5",
+        "best_odds": {
+          "first_half_under_1.5_odd": {
+            "value": 1.829,
+            "source": "Tounesbet"
+          },
+          "first_half_over_1.5_odd": {
+            "value": 2.33,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9759,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27988420-11293506",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Poland",
+        "tournament_Tounesbet": "League 2",
+        "Tounesbet_match_id": 11293506,
+        "Tounesbet_tournament_id": 68965,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "Poland",
+        "tournament_Asbet": "II Liga",
+        "Asbet_match_id": 27988420,
+        "Asbet_tournament_id": 9259,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Poland/9259/ii-liga/27988420/hutnik-krakow-bts-rekord-bielsko-biala",
+        "group_id": "653825496-11293506-13853122-27988420",
+        "home_team": "Hutnik Nowa Huta",
+        "away_team": "BTS Rekord Bielsko-Biala",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "first_half_under_1.5_vs_first_half_over_1.5",
+        "best_odds": {
+          "first_half_under_1.5_odd": {
+            "value": 1.6,
+            "source": "Clubx2"
+          },
+          "first_half_over_1.5_odd": {
+            "value": 2.714,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9935,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13853122-11293506",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Poland",
+        "tournament_Clubx2": "II Liga",
+        "Clubx2_match_id": 13853122,
+        "Clubx2_tournament_id": 4707,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13853122#/overview",
+        "Tounesbet_country_name": "Poland",
+        "tournament_Tounesbet": "League 2",
+        "Tounesbet_match_id": 11293506,
+        "Tounesbet_tournament_id": 68965,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653825496-11293506-13853122-27988420",
+        "home_team": "Hutnik Nowa Huta",
+        "away_team": "BTS Rekord Bielsko-Biala",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "653801569-10717329-13853120-27989161",
+    "home_team": "MKS Chojniczanka Chojnice",
+    "away_team": "Slask Wroclaw II",
+    "date": "20/09/2025",
+    "time": "17:00",
+    "country": "Poland",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "first_half_under_1.0_vs_first_half_over_1.0",
+        "best_odds": {
+          "first_half_under_1.0_odd": {
+            "value": 2.35,
+            "source": "Asbet"
+          },
+          "first_half_over_1.0_odd": {
+            "value": 1.84,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.969,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27989161-10717329",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Poland",
+        "tournament_Asbet": "II Liga",
+        "Asbet_match_id": 27989161,
+        "Asbet_tournament_id": 9259,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Poland/9259/ii-liga/27989161/mks-chojniczanka-chojnice-slask-ii-wroclaw",
+        "Tounesbet_country_name": "Poland",
+        "tournament_Tounesbet": "League 2",
+        "Tounesbet_match_id": 10717329,
+        "Tounesbet_tournament_id": 68965,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653801569-10717329-13853120-27989161",
+        "home_team": "MKS Chojniczanka Chojnice",
+        "away_team": "Slask Wroclaw II",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "first_half_under_1.5_vs_first_half_over_1.5",
+        "best_odds": {
+          "first_half_under_1.5_odd": {
+            "value": 1.781,
+            "source": "Tounesbet"
+          },
+          "first_half_over_1.5_odd": {
+            "value": 2.2858,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.999,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13853120-10717329",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Poland",
+        "tournament_Tounesbet": "League 2",
+        "Tounesbet_match_id": 10717329,
+        "Tounesbet_tournament_id": 68965,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "Poland",
+        "tournament_Clubx2": "II Liga",
+        "Clubx2_match_id": 13853120,
+        "Clubx2_tournament_id": 4707,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13853120#/overview",
+        "group_id": "653801569-10717329-13853120-27989161",
+        "home_team": "MKS Chojniczanka Chojnice",
+        "away_team": "Slask Wroclaw II",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "653868218-10717333-13853119-27989419",
+    "home_team": "TS Podbeskidzie Bielsko-Biala",
+    "away_team": "Unia Skierniewice",
+    "date": "20/09/2025",
+    "time": "17:15",
+    "country": "Poland",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "first_half_under_1.0_vs_first_half_over_1.0",
+        "best_odds": {
+          "first_half_under_1.0_odd": {
+            "value": 2.2,
+            "source": "Asbet"
+          },
+          "first_half_over_1.0_odd": {
+            "value": 1.923,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9746,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27989419-10717333",
+        "misvalue_source": "Asbet",
+        "Asbet_country_name": "Poland",
+        "tournament_Asbet": "II Liga",
+        "Asbet_match_id": 27989419,
+        "Asbet_tournament_id": 9259,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Poland/9259/ii-liga/27989419/ts-podbeskidzie-bielsko-biala-unia-skierniewice",
+        "Tounesbet_country_name": "Poland",
+        "tournament_Tounesbet": "League 2",
+        "Tounesbet_match_id": 10717333,
+        "Tounesbet_tournament_id": 68965,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653868218-10717333-13853119-27989419",
+        "home_team": "TS Podbeskidzie Bielsko-Biala",
+        "away_team": "Unia Skierniewice",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "first_half_under_1.5_vs_first_half_over_1.5",
+        "best_odds": {
+          "first_half_under_1.5_odd": {
+            "value": 1.5556,
+            "source": "Clubx2"
+          },
+          "first_half_over_1.5_odd": {
+            "value": 2.867,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9916,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13853119-10717333",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Poland",
+        "tournament_Clubx2": "II Liga",
+        "Clubx2_match_id": 13853119,
+        "Clubx2_tournament_id": 4707,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13853119#/overview",
+        "Tounesbet_country_name": "Poland",
+        "tournament_Tounesbet": "League 2",
+        "Tounesbet_match_id": 10717333,
+        "Tounesbet_tournament_id": 68965,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653868218-10717333-13853119-27989419",
+        "home_team": "TS Podbeskidzie Bielsko-Biala",
+        "away_team": "Unia Skierniewice",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2578321065675730963-653005361-10589852-12897548-27942307",
+    "home_team": "GKS Katowice",
+    "away_team": "MKS Cracovia Krakow",
+    "date": "19/09/2025",
+    "time": "17:00",
+    "country": "Poland",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.49,
+            "source": "1xbet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.793,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9593,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653005361-10589852",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Poland",
+        "tournament_1xbet": "Ekstraklasa",
+        "1xbet_match_id": 653005361,
+        "1xbet_tournament_id": 27731,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/27731/653005361",
+        "Tounesbet_country_name": "Poland",
+        "tournament_Tounesbet": "Poland Ekstraklasa",
+        "Tounesbet_match_id": 10589852,
+        "Tounesbet_tournament_id": 25899,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578321065675730963-653005361-10589852-12897548-27942307",
+        "home_team": "GKS Katowice",
+        "away_team": "MKS Cracovia Krakow",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.48,
+            "source": "Jibibet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.793,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.961,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2578321065675730963-10589852",
+        "misvalue_source": "1xbet",
+        "Jibibet_country_name": "Poland",
+        "tournament_Jibibet": "Ekstraklasa",
+        "Jibibet_match_id": 2578321065675730963,
+        "Jibibet_tournament_id": 1669818868635406336,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "Poland",
+        "tournament_Tounesbet": "Poland Ekstraklasa",
+        "Tounesbet_match_id": 10589852,
+        "Tounesbet_tournament_id": 25899,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578321065675730963-653005361-10589852-12897548-27942307",
+        "home_team": "GKS Katowice",
+        "away_team": "MKS Cracovia Krakow",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.4546,
+            "source": "Clubx2"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.793,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9651,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "12897548-10589852",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Poland",
+        "tournament_Clubx2": "Ekstraklasa",
+        "Clubx2_match_id": 12897548,
+        "Clubx2_tournament_id": 3054,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=12897548#/overview",
+        "Tounesbet_country_name": "Poland",
+        "tournament_Tounesbet": "Poland Ekstraklasa",
+        "Tounesbet_match_id": 10589852,
+        "Tounesbet_tournament_id": 25899,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578321065675730963-653005361-10589852-12897548-27942307",
+        "home_team": "GKS Katowice",
+        "away_team": "MKS Cracovia Krakow",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "first_half_under_1.0_vs_first_half_over_1.0",
+        "best_odds": {
+          "first_half_under_1.0_odd": {
+            "value": 2.15,
+            "source": "Asbet"
+          },
+          "first_half_over_1.0_odd": {
+            "value": 1.982,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9697,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27942307-10589852",
+        "misvalue_source": "1xbet",
+        "Asbet_country_name": "Poland",
+        "tournament_Asbet": "Ekstraklasa",
+        "Asbet_match_id": 27942307,
+        "Asbet_tournament_id": 1978,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Poland/1978/ekstraklasa/27942307/gks-katowice-ks-cracovia",
+        "Tounesbet_country_name": "Poland",
+        "tournament_Tounesbet": "Poland Ekstraklasa",
+        "Tounesbet_match_id": 10589852,
+        "Tounesbet_tournament_id": 25899,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578321065675730963-653005361-10589852-12897548-27942307",
+        "home_team": "GKS Katowice",
+        "away_team": "MKS Cracovia Krakow",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2578718194856505381-653357118-11287813-13691676-27942294",
+    "home_team": "Wisla PLock",
+    "away_team": "Jagiellonia Bialystok",
+    "date": "19/09/2025",
+    "time": "19:30",
+    "country": "Poland",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "first_half_under_1.0_vs_first_half_over_1.0",
+        "best_odds": {
+          "first_half_under_1.0_odd": {
+            "value": 2.05,
+            "source": "Clubx2"
+          },
+          "first_half_over_1.0_odd": {
+            "value": 2.1,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.964,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13691676-11287813",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Poland",
+        "tournament_Clubx2": "Ekstraklasa",
+        "Clubx2_match_id": 13691676,
+        "Clubx2_tournament_id": 3054,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13691676#/overview",
+        "Tounesbet_country_name": "Poland",
+        "tournament_Tounesbet": "Poland Ekstraklasa",
+        "Tounesbet_match_id": 11287813,
+        "Tounesbet_tournament_id": 25899,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578718194856505381-653357118-11287813-13691676-27942294",
+        "home_team": "Wisla PLock",
+        "away_team": "Jagiellonia Bialystok",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "both_score",
+        "best_odds": {
+          "both_score_odd": {
+            "value": 1.958,
+            "source": "Tounesbet"
+          },
+          "both_noscore_odd": {
+            "value": 2.189,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.9676,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653357118-11287813",
+        "misvalue_source": "Clubx2",
+        "Tounesbet_country_name": "Poland",
+        "tournament_Tounesbet": "Poland Ekstraklasa",
+        "Tounesbet_match_id": 11287813,
+        "Tounesbet_tournament_id": 25899,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "1xbet_country_name": "Poland",
+        "tournament_1xbet": "Ekstraklasa",
+        "1xbet_match_id": 653357118,
+        "1xbet_tournament_id": 27731,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/27731/653357118",
+        "group_id": "2578718194856505381-653357118-11287813-13691676-27942294",
+        "home_team": "Wisla PLock",
+        "away_team": "Jagiellonia Bialystok",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_0.25_home_vs_away",
+        "best_odds": {
+          "home_handicap_0.25_odd": {
+            "value": 1.947,
+            "source": "Tounesbet"
+          },
+          "away_handicap_-0.25_odd": {
+            "value": 2.2,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9682,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27942294-11287813",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Poland",
+        "tournament_Tounesbet": "Poland Ekstraklasa",
+        "Tounesbet_match_id": 11287813,
+        "Tounesbet_tournament_id": 25899,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "Poland",
+        "tournament_Asbet": "Ekstraklasa",
+        "Asbet_match_id": 27942294,
+        "Asbet_tournament_id": 1978,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Poland/1978/ekstraklasa/27942294/wisla-plock-jagiellonia-bialystok",
+        "group_id": "2578718194856505381-653357118-11287813-13691676-27942294",
+        "home_team": "Wisla PLock",
+        "away_team": "Jagiellonia Bialystok",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2578631476295905318-653253878-10589850-12897549-27949885",
+    "home_team": "RKS Radomiak Radom",
+    "away_team": "GKS Piast Gliwice",
+    "date": "20/09/2025",
+    "time": "11:15",
+    "country": "Poland",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "second_half_under_1.5_vs_second_half_over_1.5",
+        "best_odds": {
+          "second_half_under_1.5_odd": {
+            "value": 1.805,
+            "source": "Tounesbet"
+          },
+          "second_half_over_1.5_odd": {
+            "value": 2.4,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9707,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "12897549-10589850",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Poland",
+        "tournament_Tounesbet": "Poland Ekstraklasa",
+        "Tounesbet_match_id": 10589850,
+        "Tounesbet_tournament_id": 25899,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "Poland",
+        "tournament_Clubx2": "Ekstraklasa",
+        "Clubx2_match_id": 12897549,
+        "Clubx2_tournament_id": 3054,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=12897549#/overview",
+        "group_id": "2578631476295905318-653253878-10589850-12897549-27949885",
+        "home_team": "RKS Radomiak Radom",
+        "away_team": "GKS Piast Gliwice",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "both_score",
+        "best_odds": {
+          "both_score_odd": {
+            "value": 2.301,
+            "source": "Tounesbet"
+          },
+          "both_noscore_odd": {
+            "value": 1.861,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.9719,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653253878-10589850",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Poland",
+        "tournament_Tounesbet": "Poland Ekstraklasa",
+        "Tounesbet_match_id": 10589850,
+        "Tounesbet_tournament_id": 25899,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "1xbet_country_name": "Poland",
+        "tournament_1xbet": "Ekstraklasa",
+        "1xbet_match_id": 653253878,
+        "1xbet_tournament_id": 27731,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/27731/653253878",
+        "group_id": "2578631476295905318-653253878-10589850-12897549-27949885",
+        "home_team": "RKS Radomiak Radom",
+        "away_team": "GKS Piast Gliwice",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_0.25_home_vs_away",
+        "best_odds": {
+          "home_handicap_0.25_odd": {
+            "value": 1.947,
+            "source": "Tounesbet"
+          },
+          "away_handicap_-0.25_odd": {
+            "value": 2.17,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9744,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27949885-10589850",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Poland",
+        "tournament_Tounesbet": "Poland Ekstraklasa",
+        "Tounesbet_match_id": 10589850,
+        "Tounesbet_tournament_id": 25899,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "Poland",
+        "tournament_Asbet": "Ekstraklasa",
+        "Asbet_match_id": 27949885,
+        "Asbet_tournament_id": 1978,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Poland/1978/ekstraklasa/27949885/rks-radomiak-radom-piast-gliwice",
+        "group_id": "2578631476295905318-653253878-10589850-12897549-27949885",
+        "home_team": "RKS Radomiak Radom",
+        "away_team": "GKS Piast Gliwice",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2",
+        "best_odds": {
+          "1_odd": {
+            "value": 3.186,
+            "source": "Tounesbet"
+          },
+          "X2_odd": {
+            "value": 1.46,
+            "source": "Jibibet"
+          }
+        },
+        "arbitrage_percentage": 0.9988,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2578631476295905318-10589850",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Poland",
+        "tournament_Tounesbet": "Poland Ekstraklasa",
+        "Tounesbet_match_id": 10589850,
+        "Tounesbet_tournament_id": 25899,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Jibibet_country_name": "Poland",
+        "tournament_Jibibet": "Ekstraklasa",
+        "Jibibet_match_id": 2578631476295905318,
+        "Jibibet_tournament_id": 1669818868635406336,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "group_id": "2578631476295905318-653253878-10589850-12897549-27949885",
+        "home_team": "RKS Radomiak Radom",
+        "away_team": "GKS Piast Gliwice",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2578717062193098787-653353942-10589854-12897547-27949886",
+    "home_team": "MKS Arka Gdynia",
+    "away_team": "Korona Kielce",
+    "date": "20/09/2025",
+    "time": "13:45",
+    "country": "Poland",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "second_half_under_1.5_vs_second_half_over_1.5",
+        "best_odds": {
+          "second_half_under_1.5_odd": {
+            "value": 1.947,
+            "source": "Tounesbet"
+          },
+          "second_half_over_1.5_odd": {
+            "value": 2.2,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9682,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "12897547-10589854",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Poland",
+        "tournament_Tounesbet": "Poland Ekstraklasa",
+        "Tounesbet_match_id": 10589854,
+        "Tounesbet_tournament_id": 25899,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "Poland",
+        "tournament_Clubx2": "Ekstraklasa",
+        "Clubx2_match_id": 12897547,
+        "Clubx2_tournament_id": 3054,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=12897547#/overview",
+        "group_id": "2578717062193098787-653353942-10589854-12897547-27949886",
+        "home_team": "MKS Arka Gdynia",
+        "away_team": "Korona Kielce",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_-0.25_home_vs_away",
+        "best_odds": {
+          "home_handicap_-0.25_odd": {
+            "value": 2.25,
+            "source": "Asbet"
+          },
+          "away_handicap_0.25_odd": {
+            "value": 1.888,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9741,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27949886-10589854",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Poland",
+        "tournament_Asbet": "Ekstraklasa",
+        "Asbet_match_id": 27949886,
+        "Asbet_tournament_id": 1978,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Poland/1978/ekstraklasa/27949886/arka-gdynia-korona-kielce",
+        "Tounesbet_country_name": "Poland",
+        "tournament_Tounesbet": "Poland Ekstraklasa",
+        "Tounesbet_match_id": 10589854,
+        "Tounesbet_tournament_id": 25899,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578717062193098787-653353942-10589854-12897547-27949886",
+        "home_team": "MKS Arka Gdynia",
+        "away_team": "Korona Kielce",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_0.0_home_vs_away",
+        "best_odds": {
+          "home_handicap_0.0_odd": {
+            "value": 2.324,
+            "source": "Tounesbet"
+          },
+          "away_handicap_0.0_odd": {
+            "value": 1.83,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.9767,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653353942-10589854",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Poland",
+        "tournament_Tounesbet": "Poland Ekstraklasa",
+        "Tounesbet_match_id": 10589854,
+        "Tounesbet_tournament_id": 25899,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "1xbet_country_name": "Poland",
+        "tournament_1xbet": "Ekstraklasa",
+        "1xbet_match_id": 653353942,
+        "1xbet_tournament_id": 27731,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/27731/653353942",
+        "group_id": "2578717062193098787-653353942-10589854-12897547-27949886",
+        "home_team": "MKS Arka Gdynia",
+        "away_team": "Korona Kielce",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "two_vs_1x",
+        "best_odds": {
+          "2_odd": {
+            "value": 3.009,
+            "source": "Tounesbet"
+          },
+          "1X_odd": {
+            "value": 1.5,
+            "source": "Jibibet"
+          }
+        },
+        "arbitrage_percentage": 0.999,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2578717062193098787-10589854",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Poland",
+        "tournament_Tounesbet": "Poland Ekstraklasa",
+        "Tounesbet_match_id": 10589854,
+        "Tounesbet_tournament_id": 25899,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Jibibet_country_name": "Poland",
+        "tournament_Jibibet": "Ekstraklasa",
+        "Jibibet_match_id": 2578717062193098787,
+        "Jibibet_tournament_id": 1669818868635406336,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "group_id": "2578717062193098787-653353942-10589854-12897547-27949886",
+        "home_team": "MKS Arka Gdynia",
+        "away_team": "Korona Kielce",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2578699915911897096-653338875-10589849-12897544-27949883",
+    "home_team": "Bruk-Bet Termalica Nieciecza",
+    "away_team": "KKS Lech Poznan",
+    "date": "20/09/2025",
+    "time": "16:30",
+    "country": "Poland",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "two_vs_1x_handicap",
+        "best_odds": {
+          "2_odd": {
+            "value": 2.02,
+            "source": "1xbet"
+          },
+          "home_handicap_0.5_odd": {
+            "value": 2.183,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9531,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653338875-10589849",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Poland",
+        "tournament_1xbet": "Ekstraklasa",
+        "1xbet_match_id": 653338875,
+        "1xbet_tournament_id": 27731,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/27731/653338875",
+        "Tounesbet_country_name": "Poland",
+        "tournament_Tounesbet": "Poland Ekstraklasa",
+        "Tounesbet_match_id": 10589849,
+        "Tounesbet_tournament_id": 25899,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578699915911897096-653338875-10589849-12897544-27949883",
+        "home_team": "Bruk-Bet Termalica Nieciecza",
+        "away_team": "KKS Lech Poznan",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "first_half_under_1.0_vs_first_half_over_1.0",
+        "best_odds": {
+          "first_half_under_1.0_odd": {
+            "value": 2.2858,
+            "source": "Clubx2"
+          },
+          "first_half_over_1.0_odd": {
+            "value": 1.923,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9575,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "12897544-10589849",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Poland",
+        "tournament_Clubx2": "Ekstraklasa",
+        "Clubx2_match_id": 12897544,
+        "Clubx2_tournament_id": 3054,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=12897544#/overview",
+        "Tounesbet_country_name": "Poland",
+        "tournament_Tounesbet": "Poland Ekstraklasa",
+        "Tounesbet_match_id": 10589849,
+        "Tounesbet_tournament_id": 25899,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578699915911897096-653338875-10589849-12897544-27949883",
+        "home_team": "Bruk-Bet Termalica Nieciecza",
+        "away_team": "KKS Lech Poznan",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "two_vs_1x_handicap",
+        "best_odds": {
+          "2_odd": {
+            "value": 1.99,
+            "source": "Jibibet"
+          },
+          "home_handicap_0.5_odd": {
+            "value": 2.183,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9606,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2578699915911897096-10589849",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "Poland",
+        "tournament_Jibibet": "Ekstraklasa",
+        "Jibibet_match_id": 2578699915911897096,
+        "Jibibet_tournament_id": 1669818868635406336,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "Poland",
+        "tournament_Tounesbet": "Poland Ekstraklasa",
+        "Tounesbet_match_id": 10589849,
+        "Tounesbet_tournament_id": 25899,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578699915911897096-653338875-10589849-12897544-27949883",
+        "home_team": "Bruk-Bet Termalica Nieciecza",
+        "away_team": "KKS Lech Poznan",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "first_half_ah_0.0_home_vs_away",
+        "best_odds": {
+          "home_first_half_handicap_0.0_odd": {
+            "value": 2.35,
+            "source": "Asbet"
+          },
+          "away_first_half_handicap_0.0_odd": {
+            "value": 1.852,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9655,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27949883-10589849",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Poland",
+        "tournament_Asbet": "Ekstraklasa",
+        "Asbet_match_id": 27949883,
+        "Asbet_tournament_id": 1978,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Poland/1978/ekstraklasa/27949883/bruk-bet-termalica-nieciecza-kks-lech-poznan",
+        "Tounesbet_country_name": "Poland",
+        "tournament_Tounesbet": "Poland Ekstraklasa",
+        "Tounesbet_match_id": 10589849,
+        "Tounesbet_tournament_id": 25899,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578699915911897096-653338875-10589849-12897544-27949883",
+        "home_team": "Bruk-Bet Termalica Nieciecza",
+        "away_team": "KKS Lech Poznan",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2578718194856505387-653356315-10589851-12897551-27949884",
+    "home_team": "RKS Rakow Czestochowa",
+    "away_team": "Legia Warszawa",
+    "date": "20/09/2025",
+    "time": "19:15",
+    "country": "Poland",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_0.0_home_vs_away",
+        "best_odds": {
+          "home_handicap_0.0_odd": {
+            "value": 2.088,
+            "source": "Tounesbet"
+          },
+          "away_handicap_0.0_odd": {
+            "value": 2.11,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.9529,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653356315-10589851",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Poland",
+        "tournament_Tounesbet": "Poland Ekstraklasa",
+        "Tounesbet_match_id": 10589851,
+        "Tounesbet_tournament_id": 25899,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "1xbet_country_name": "Poland",
+        "tournament_1xbet": "Ekstraklasa",
+        "1xbet_match_id": 653356315,
+        "1xbet_tournament_id": 27731,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/27731/653356315",
+        "group_id": "2578718194856505387-653356315-10589851-12897551-27949884",
+        "home_team": "RKS Rakow Czestochowa",
+        "away_team": "Legia Warszawa",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.34,
+            "source": "Jibibet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.888,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.957,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2578718194856505387-10589851",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "Poland",
+        "tournament_Jibibet": "Ekstraklasa",
+        "Jibibet_match_id": 2578718194856505387,
+        "Jibibet_tournament_id": 1669818868635406336,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "Poland",
+        "tournament_Tounesbet": "Poland Ekstraklasa",
+        "Tounesbet_match_id": 10589851,
+        "Tounesbet_tournament_id": 25899,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578718194856505387-653356315-10589851-12897551-27949884",
+        "home_team": "RKS Rakow Czestochowa",
+        "away_team": "Legia Warszawa",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.3,
+            "source": "Clubx2"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.888,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9644,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "12897551-10589851",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Poland",
+        "tournament_Clubx2": "Ekstraklasa",
+        "Clubx2_match_id": 12897551,
+        "Clubx2_tournament_id": 3054,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=12897551#/overview",
+        "Tounesbet_country_name": "Poland",
+        "tournament_Tounesbet": "Poland Ekstraklasa",
+        "Tounesbet_match_id": 10589851,
+        "Tounesbet_tournament_id": 25899,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578718194856505387-653356315-10589851-12897551-27949884",
+        "home_team": "RKS Rakow Czestochowa",
+        "away_team": "Legia Warszawa",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "first_half_ah_-0.25_home_vs_away",
+        "best_odds": {
+          "home_first_half_handicap_-0.25_odd": {
+            "value": 2.35,
+            "source": "Asbet"
+          },
+          "away_first_half_handicap_0.25_odd": {
+            "value": 1.852,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9655,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27949884-10589851",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Poland",
+        "tournament_Asbet": "Ekstraklasa",
+        "Asbet_match_id": 27949884,
+        "Asbet_tournament_id": 1978,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Poland/1978/ekstraklasa/27949884/ks-rakow-czestochowa-legia-warsaw",
+        "Tounesbet_country_name": "Poland",
+        "tournament_Tounesbet": "Poland Ekstraklasa",
+        "Tounesbet_match_id": 10589851,
+        "Tounesbet_tournament_id": 25899,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578718194856505387-653356315-10589851-12897551-27949884",
+        "home_team": "RKS Rakow Czestochowa",
+        "away_team": "Legia Warszawa",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2578955338011258889-653525789-11286817-12897550-27956432",
+    "home_team": "Zaglebie Lubin",
+    "away_team": "LKP Motor Lublin",
+    "date": "21/09/2025",
+    "time": "11:15",
+    "country": "Poland",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.1,
+            "source": "1xbet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 2.065,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9605,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653525789-11286817",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Poland",
+        "tournament_1xbet": "Ekstraklasa",
+        "1xbet_match_id": 653525789,
+        "1xbet_tournament_id": 27731,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/27731/653525789",
+        "Tounesbet_country_name": "Poland",
+        "tournament_Tounesbet": "Poland Ekstraklasa",
+        "Tounesbet_match_id": 11286817,
+        "Tounesbet_tournament_id": 25899,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578955338011258889-653525789-11286817-12897550-27956432",
+        "home_team": "Zaglebie Lubin",
+        "away_team": "LKP Motor Lublin",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "first_half_ah_-0.25_home_vs_away",
+        "best_odds": {
+          "home_first_half_handicap_-0.25_odd": {
+            "value": 2.15,
+            "source": "Asbet"
+          },
+          "away_first_half_handicap_0.25_odd": {
+            "value": 2.006,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9636,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27956432-11286817",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Poland",
+        "tournament_Asbet": "Ekstraklasa",
+        "Asbet_match_id": 27956432,
+        "Asbet_tournament_id": 1978,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Poland/1978/ekstraklasa/27956432/zaglebie-lubin-lkp-motor-lublin",
+        "Tounesbet_country_name": "Poland",
+        "tournament_Tounesbet": "Poland Ekstraklasa",
+        "Tounesbet_match_id": 11286817,
+        "Tounesbet_tournament_id": 25899,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578955338011258889-653525789-11286817-12897550-27956432",
+        "home_team": "Zaglebie Lubin",
+        "away_team": "LKP Motor Lublin",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.08,
+            "source": "Jibibet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 2.065,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.965,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2578955338011258889-11286817",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "Poland",
+        "tournament_Jibibet": "Ekstraklasa",
+        "Jibibet_match_id": 2578955338011258889,
+        "Jibibet_tournament_id": 1669818868635406336,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "Poland",
+        "tournament_Tounesbet": "Poland Ekstraklasa",
+        "Tounesbet_match_id": 11286817,
+        "Tounesbet_tournament_id": 25899,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578955338011258889-653525789-11286817-12897550-27956432",
+        "home_team": "Zaglebie Lubin",
+        "away_team": "LKP Motor Lublin",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2578989808231780369-653578616-10589848-12897563-27956433",
+    "home_team": "Pogon Szczecin",
+    "away_team": "KS Lechia Gdansk",
+    "date": "21/09/2025",
+    "time": "13:45",
+    "country": "Poland",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "both_score",
+        "best_odds": {
+          "both_score_odd": {
+            "value": 1.852,
+            "source": "Tounesbet"
+          },
+          "both_noscore_odd": {
+            "value": 2.35,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9655,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "12897563-10589848",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Poland",
+        "tournament_Tounesbet": "Poland Ekstraklasa",
+        "Tounesbet_match_id": 10589848,
+        "Tounesbet_tournament_id": 25899,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "Poland",
+        "tournament_Clubx2": "Ekstraklasa",
+        "Clubx2_match_id": 12897563,
+        "Clubx2_tournament_id": 3054,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=12897563#/overview",
+        "group_id": "2578989808231780369-653578616-10589848-12897563-27956433",
+        "home_team": "Pogon Szczecin",
+        "away_team": "KS Lechia Gdansk",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "both_score",
+        "best_odds": {
+          "both_score_odd": {
+            "value": 1.852,
+            "source": "Tounesbet"
+          },
+          "both_noscore_odd": {
+            "value": 2.349,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.9657,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653578616-10589848",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Poland",
+        "tournament_Tounesbet": "Poland Ekstraklasa",
+        "Tounesbet_match_id": 10589848,
+        "Tounesbet_tournament_id": 25899,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "1xbet_country_name": "Poland",
+        "tournament_1xbet": "Ekstraklasa",
+        "1xbet_match_id": 653578616,
+        "1xbet_tournament_id": 27731,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/27731/653578616",
+        "group_id": "2578989808231780369-653578616-10589848-12897563-27956433",
+        "home_team": "Pogon Szczecin",
+        "away_team": "KS Lechia Gdansk",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "both_score",
+        "best_odds": {
+          "both_score_odd": {
+            "value": 1.852,
+            "source": "Tounesbet"
+          },
+          "both_noscore_odd": {
+            "value": 2.33,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9691,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27956433-10589848",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Poland",
+        "tournament_Tounesbet": "Poland Ekstraklasa",
+        "Tounesbet_match_id": 10589848,
+        "Tounesbet_tournament_id": 25899,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "Poland",
+        "tournament_Asbet": "Ekstraklasa",
+        "Asbet_match_id": 27956433,
+        "Asbet_tournament_id": 1978,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Poland/1978/ekstraklasa/27956433/pogon-szczecin-lechia-gdansk",
+        "group_id": "2578989808231780369-653578616-10589848-12897563-27956433",
+        "home_team": "Pogon Szczecin",
+        "away_team": "KS Lechia Gdansk",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "under_3.5_vs_over_3.5",
+        "best_odds": {
+          "under_3.5_odd": {
+            "value": 1.805,
+            "source": "Tounesbet"
+          },
+          "over_3.5_odd": {
+            "value": 2.4,
+            "source": "Jibibet"
+          }
+        },
+        "arbitrage_percentage": 0.9707,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2578989808231780369-10589848",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Poland",
+        "tournament_Tounesbet": "Poland Ekstraklasa",
+        "Tounesbet_match_id": 10589848,
+        "Tounesbet_tournament_id": 25899,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Jibibet_country_name": "Poland",
+        "tournament_Jibibet": "Ekstraklasa",
+        "Jibibet_match_id": 2578989808231780369,
+        "Jibibet_tournament_id": 1669818868635406336,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "group_id": "2578989808231780369-653578616-10589848-12897563-27956433",
+        "home_team": "Pogon Szczecin",
+        "away_team": "KS Lechia Gdansk",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2579070694113546280-653646381-10589846-12897552-27956434",
+    "home_team": "Gornik Zabrze",
+    "away_team": "Widzew Lodz",
+    "date": "21/09/2025",
+    "time": "16:30",
+    "country": "Poland",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "second_half_under_1.5_vs_second_half_over_1.5",
+        "best_odds": {
+          "second_half_under_1.5_odd": {
+            "value": 2.017,
+            "source": "Tounesbet"
+          },
+          "second_half_over_1.5_odd": {
+            "value": 2.1,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.972,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "12897552-10589846",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Poland",
+        "tournament_Tounesbet": "Poland Ekstraklasa",
+        "Tounesbet_match_id": 10589846,
+        "Tounesbet_tournament_id": 25899,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "Poland",
+        "tournament_Clubx2": "Ekstraklasa",
+        "Clubx2_match_id": 12897552,
+        "Clubx2_tournament_id": 3054,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=12897552#/overview",
+        "group_id": "2579070694113546280-653646381-10589846-12897552-27956434",
+        "home_team": "Gornik Zabrze",
+        "away_team": "Widzew Lodz",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "second_half_under_1.5_vs_second_half_over_1.5",
+        "best_odds": {
+          "second_half_under_1.5_odd": {
+            "value": 2.017,
+            "source": "Tounesbet"
+          },
+          "second_half_over_1.5_odd": {
+            "value": 2.07,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9789,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27956434-10589846",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Poland",
+        "tournament_Tounesbet": "Poland Ekstraklasa",
+        "Tounesbet_match_id": 10589846,
+        "Tounesbet_tournament_id": 25899,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "Poland",
+        "tournament_Asbet": "Ekstraklasa",
+        "Asbet_match_id": 27956434,
+        "Asbet_tournament_id": 1978,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Poland/1978/ekstraklasa/27956434/gornik-zabrze-widzew-lodz",
+        "group_id": "2579070694113546280-653646381-10589846-12897552-27956434",
+        "home_team": "Gornik Zabrze",
+        "away_team": "Widzew Lodz",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "653535377-10799922-13853037-27958950",
+    "home_team": "Wisla PLock II",
+    "away_team": "Legia II Warszawa",
+    "date": "17/09/2025",
+    "time": "12:00",
+    "country": "Poland",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_0.25_home_vs_away",
+        "best_odds": {
+          "home_handicap_0.25_odd": {
+            "value": 2.183,
+            "source": "Tounesbet"
+          },
+          "away_handicap_-0.25_odd": {
+            "value": 1.92,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.9789,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653535377-10799922",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Poland",
+        "tournament_Tounesbet": "Poland III Liga",
+        "Tounesbet_match_id": 10799922,
+        "Tounesbet_tournament_id": 135486,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "1xbet_country_name": "Poland",
+        "tournament_1xbet": "Liga 3",
+        "1xbet_match_id": 653535377,
+        "1xbet_tournament_id": 52245,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/52245/653535377",
+        "group_id": "653535377-10799922-13853037-27958950",
+        "home_team": "Wisla PLock II",
+        "away_team": "Legia II Warszawa",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_0.25_home_vs_away",
+        "best_odds": {
+          "home_handicap_0.25_odd": {
+            "value": 2.183,
+            "source": "Tounesbet"
+          },
+          "away_handicap_-0.25_odd": {
+            "value": 1.91,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9816,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27958950-10799922",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Poland",
+        "tournament_Tounesbet": "Poland III Liga",
+        "Tounesbet_match_id": 10799922,
+        "Tounesbet_tournament_id": 135486,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "Poland",
+        "tournament_Asbet": "III Liga - Group I",
+        "Asbet_match_id": 27958950,
+        "Asbet_tournament_id": 10897,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Poland/10897/iii-liga---group-i/27958950/wisla-ii-plock-legia-ii-warsaw",
+        "group_id": "653535377-10799922-13853037-27958950",
+        "home_team": "Wisla PLock II",
+        "away_team": "Legia II Warszawa",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "653841964-10799921-13853038-27996438",
+    "home_team": "KKS Lech Poznan II",
+    "away_team": "MKS Notec Czarnkow",
+    "date": "17/09/2025",
+    "time": "15:00",
+    "country": "Poland",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_-1.0_home_vs_away",
+        "best_odds": {
+          "home_handicap_-1.0_odd": {
+            "value": 2.124,
+            "source": "Tounesbet"
+          },
+          "away_handicap_1.0_odd": {
+            "value": 2.02,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9659,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27996438-10799921",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Poland",
+        "tournament_Tounesbet": "Poland III Liga",
+        "Tounesbet_match_id": 10799921,
+        "Tounesbet_tournament_id": 135486,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "Poland",
+        "tournament_Asbet": "III Liga - Group II",
+        "Asbet_match_id": 27996438,
+        "Asbet_tournament_id": 22220,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Poland/22220/iii-liga---group-ii/27996438/kks-lech-poznan-ii-mks-notec-czarnkow",
+        "group_id": "653841964-10799921-13853038-27996438",
+        "home_team": "KKS Lech Poznan II",
+        "away_team": "MKS Notec Czarnkow",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "first_half_under_1.5_vs_first_half_over_1.5",
+        "best_odds": {
+          "first_half_under_1.5_odd": {
+            "value": 1.6667,
+            "source": "Clubx2"
+          },
+          "first_half_over_1.5_odd": {
+            "value": 2.548,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9925,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13853038-10799921",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Poland",
+        "tournament_Clubx2": "5040",
+        "Clubx2_match_id": 13853038,
+        "Clubx2_tournament_id": 5040,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13853038#/overview",
+        "Tounesbet_country_name": "Poland",
+        "tournament_Tounesbet": "Poland III Liga",
+        "Tounesbet_match_id": 10799921,
+        "Tounesbet_tournament_id": 135486,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653841964-10799921-13853038-27996438",
+        "home_team": "KKS Lech Poznan II",
+        "away_team": "MKS Notec Czarnkow",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "653662761-11254564-13886230-28016052",
+    "home_team": "LKS Wybrzeze Rewalskie Rewal",
+    "away_team": "GKS Cartusia Kartuzy",
+    "date": "17/09/2025",
+    "time": "15:00",
+    "country": "Poland",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "first_half_under_1.5_vs_first_half_over_1.5",
+        "best_odds": {
+          "first_half_under_1.5_odd": {
+            "value": 1.793,
+            "source": "Tounesbet"
+          },
+          "first_half_over_1.5_odd": {
+            "value": 2.37,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9797,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "28016052-11254564",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Poland",
+        "tournament_Tounesbet": "Poland III Liga",
+        "Tounesbet_match_id": 11254564,
+        "Tounesbet_tournament_id": 135486,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "Poland",
+        "tournament_Asbet": "III Liga - Group II",
+        "Asbet_match_id": 28016052,
+        "Asbet_tournament_id": 22220,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Poland/22220/iii-liga---group-ii/28016052/lks-wybrzeze-rewalskie-rewal-cartusia-kartuzy",
+        "group_id": "653662761-11254564-13886230-28016052",
+        "home_team": "LKS Wybrzeze Rewalskie Rewal",
+        "away_team": "GKS Cartusia Kartuzy",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "first_half_under_1.5_vs_first_half_over_1.5",
+        "best_odds": {
+          "first_half_under_1.5_odd": {
+            "value": 1.793,
+            "source": "Tounesbet"
+          },
+          "first_half_over_1.5_odd": {
+            "value": 2.2858,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9952,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13886230-11254564",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Poland",
+        "tournament_Tounesbet": "Poland III Liga",
+        "Tounesbet_match_id": 11254564,
+        "Tounesbet_tournament_id": 135486,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "Poland",
+        "tournament_Clubx2": "5040",
+        "Clubx2_match_id": 13886230,
+        "Clubx2_tournament_id": 5040,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13886230#/overview",
+        "group_id": "653662761-11254564-13886230-28016052",
+        "home_team": "LKS Wybrzeze Rewalskie Rewal",
+        "away_team": "GKS Cartusia Kartuzy",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "653610079-10799977-28010323",
+    "home_team": "MKS Miedz Legnica II",
+    "away_team": "LKS Goczalkowice-Zdroj",
+    "date": "19/09/2025",
+    "time": "15:00",
+    "country": "Poland",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "first_half_under_1.5_vs_first_half_over_1.5",
+        "best_odds": {
+          "first_half_under_1.5_odd": {
+            "value": 1.888,
+            "source": "Tounesbet"
+          },
+          "first_half_over_1.5_odd": {
+            "value": 2.17,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9905,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "28010323-10799977",
+        "Tounesbet_country_name": "Poland",
+        "tournament_Tounesbet": "Poland III Liga",
+        "Tounesbet_match_id": 10799977,
+        "Tounesbet_tournament_id": 135486,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "Poland",
+        "tournament_Asbet": "III Liga - Group III",
+        "Asbet_match_id": 28010323,
+        "Asbet_tournament_id": 22221,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Poland/22221/iii-liga---group-iii/28010323/mks-miedz-legnica-ii-lks-goczalkowice-zdroj",
+        "group_id": "653610079-10799977-28010323",
+        "home_team": "MKS Miedz Legnica II",
+        "away_team": "LKS Goczalkowice-Zdroj",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "653854075-10799716-28017155",
+    "home_team": "Korona Kielce II",
+    "away_team": "KSZO Ostrowiec Swietokrzyski",
+    "date": "19/09/2025",
+    "time": "15:30",
+    "country": "Poland",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "two_vs_1x_handicap",
+        "best_odds": {
+          "2_odd": {
+            "value": 2.1,
+            "source": "1xbet"
+          },
+          "home_handicap_0.5_odd": {
+            "value": 1.95,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.989,
+        "arbitrage_sources": "1xbet, Asbet",
+        "unique_id": "653854075-28017155",
+        "1xbet_country_name": "Poland",
+        "tournament_1xbet": "Liga 3",
+        "1xbet_match_id": 653854075,
+        "1xbet_tournament_id": 52245,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/52245/653854075",
+        "Asbet_country_name": "Poland",
+        "tournament_Asbet": "III Liga - Group IV",
+        "Asbet_match_id": 28017155,
+        "Asbet_tournament_id": 22222,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Poland/22222/iii-liga---group-iv/28017155/korona-ii-kielce-kszo-ostrowiec-swietokrzyski",
+        "group_id": "653854075-10799716-28017155",
+        "home_team": "Korona Kielce II",
+        "away_team": "KSZO Ostrowiec Swietokrzyski",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "653764074-10799975-13933695-27981357",
+    "home_team": "RKP 1926 Bron Radom",
+    "away_team": "MLKS Znicz Biala Piska",
+    "date": "19/09/2025",
+    "time": "17:30",
+    "country": "Poland",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "first_half_under_1.5_vs_first_half_over_1.5",
+        "best_odds": {
+          "first_half_under_1.5_odd": {
+            "value": 2.041,
+            "source": "Tounesbet"
+          },
+          "first_half_over_1.5_odd": {
+            "value": 2.27,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9305,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27981357-10799975",
+        "misvalue_source": "Clubx2",
+        "Tounesbet_country_name": "Poland",
+        "tournament_Tounesbet": "Poland III Liga",
+        "Tounesbet_match_id": 10799975,
+        "Tounesbet_tournament_id": 135486,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "Poland",
+        "tournament_Asbet": "III Liga - Group I",
+        "Asbet_match_id": 27981357,
+        "Asbet_tournament_id": 10897,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Poland/10897/iii-liga---group-i/27981357/rkp-bron-radom-znicz-biala-piska",
+        "group_id": "653764074-10799975-13933695-27981357",
+        "home_team": "RKP 1926 Bron Radom",
+        "away_team": "MLKS Znicz Biala Piska",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "both_score",
+        "best_odds": {
+          "both_score_odd": {
+            "value": 1.72,
+            "source": "Asbet"
+          },
+          "both_noscore_odd": {
+            "value": 2.561,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.9719,
+        "arbitrage_sources": "1xbet, Asbet",
+        "unique_id": "653764074-27981357",
+        "misvalue_source": "Asbet",
+        "Asbet_country_name": "Poland",
+        "tournament_Asbet": "III Liga - Group I",
+        "Asbet_match_id": 27981357,
+        "Asbet_tournament_id": 10897,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Poland/10897/iii-liga---group-i/27981357/rkp-bron-radom-znicz-biala-piska",
+        "1xbet_country_name": "Poland",
+        "tournament_1xbet": "Liga 3",
+        "1xbet_match_id": 653764074,
+        "1xbet_tournament_id": 52245,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/52245/653764074",
+        "group_id": "653764074-10799975-13933695-27981357",
+        "home_team": "RKP 1926 Bron Radom",
+        "away_team": "MLKS Znicz Biala Piska",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "first_half_under_1.5_vs_first_half_over_1.5",
+        "best_odds": {
+          "first_half_under_1.5_odd": {
+            "value": 1.75,
+            "source": "Clubx2"
+          },
+          "first_half_over_1.5_odd": {
+            "value": 2.348,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9973,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13933695-10799975",
+        "misvalue_source": "Clubx2",
+        "Clubx2_country_name": "Poland",
+        "tournament_Clubx2": "5040",
+        "Clubx2_match_id": 13933695,
+        "Clubx2_tournament_id": 5040,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13933695#/overview",
+        "Tounesbet_country_name": "Poland",
+        "tournament_Tounesbet": "Poland III Liga",
+        "Tounesbet_match_id": 10799975,
+        "Tounesbet_tournament_id": 135486,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653764074-10799975-13933695-27981357",
+        "home_team": "RKP 1926 Bron Radom",
+        "away_team": "MLKS Znicz Biala Piska",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "both_score",
+        "best_odds": {
+          "both_score_odd": {
+            "value": 1.72,
+            "source": "Asbet"
+          },
+          "both_noscore_odd": {
+            "value": 2.4,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9981,
+        "arbitrage_sources": "Asbet, Clubx2",
+        "unique_id": "27981357-13933695",
+        "misvalue_source": "Asbet",
+        "Asbet_country_name": "Poland",
+        "tournament_Asbet": "III Liga - Group I",
+        "Asbet_match_id": 27981357,
+        "Asbet_tournament_id": 10897,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Poland/10897/iii-liga---group-i/27981357/rkp-bron-radom-znicz-biala-piska",
+        "Clubx2_country_name": "Poland",
+        "tournament_Clubx2": "5040",
+        "Clubx2_match_id": 13933695,
+        "Clubx2_tournament_id": 5040,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13933695#/overview",
+        "group_id": "653764074-10799975-13933695-27981357",
+        "home_team": "RKP 1926 Bron Radom",
+        "away_team": "MLKS Znicz Biala Piska",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "11178953-13786060-28016437",
+    "home_team": "Legia Warszawa U19",
+    "away_team": "Escola Varsovia Warszawa U19",
+    "date": "17/09/2025",
+    "time": "13:00",
+    "country": "Poland",
+    "all_sources": [
+      "Asbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "first_half_under_1.5_vs_first_half_over_1.5",
+        "best_odds": {
+          "first_half_under_1.5_odd": {
+            "value": 1.9,
+            "source": "Clubx2"
+          },
+          "first_half_over_1.5_odd": {
+            "value": 2.194,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9821,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13786060-11178953",
+        "Clubx2_country_name": "Poland",
+        "tournament_Clubx2": "CLJ",
+        "Clubx2_match_id": 13786060,
+        "Clubx2_tournament_id": 9948,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13786060#/overview",
+        "Tounesbet_country_name": "Poland",
+        "tournament_Tounesbet": "Centralna Liga U19",
+        "Tounesbet_match_id": 11178953,
+        "Tounesbet_tournament_id": 21098,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "11178953-13786060-28016437",
+        "home_team": "Legia Warszawa U19",
+        "away_team": "Escola Varsovia Warszawa U19",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_-1.0_home_vs_away",
+        "best_odds": {
+          "home_handicap_-1.0_odd": {
+            "value": 1.9,
+            "source": "Asbet"
+          },
+          "away_handicap_1.0_odd": {
+            "value": 2.183,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9844,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "28016437-11178953",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Poland",
+        "tournament_Asbet": "Central Junior League",
+        "Asbet_match_id": 28016437,
+        "Asbet_tournament_id": 9284,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Poland/9284/central-junior-league/28016437/legia-warsaw-u-escola-varsovia-warszawa-u",
+        "Tounesbet_country_name": "Poland",
+        "tournament_Tounesbet": "Centralna Liga U19",
+        "Tounesbet_match_id": 11178953,
+        "Tounesbet_tournament_id": 21098,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "11178953-13786060-28016437",
+        "home_team": "Legia Warszawa U19",
+        "away_team": "Escola Varsovia Warszawa U19",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "11301088-13965709-28023664",
+    "home_team": "KS Pelikan Lowicz",
+    "away_team": "RKS Mazovia Rawa Mazowiecka",
+    "date": "17/09/2025",
+    "time": "16:30",
+    "country": "Poland",
+    "all_sources": [
+      "Asbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "first_half_ah_-1.0_home_vs_away",
+        "best_odds": {
+          "home_first_half_handicap_-1.0_odd": {
+            "value": 2.0,
+            "source": "Asbet"
+          },
+          "away_first_half_handicap_1.0_odd": {
+            "value": 2.065,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9843,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "28023664-11301088",
+        "Asbet_country_name": "Poland",
+        "tournament_Asbet": "IV Liga",
+        "Asbet_match_id": 28023664,
+        "Asbet_tournament_id": 11846,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Poland/11846/iv-liga/28023664/ks-pelikan-lowicz-mazovia-rawa-mazowiecka",
+        "Tounesbet_country_name": "Poland",
+        "tournament_Tounesbet": "4 Liga",
+        "Tounesbet_match_id": 11301088,
+        "Tounesbet_tournament_id": 122330,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "11301088-13965709-28023664",
+        "home_team": "KS Pelikan Lowicz",
+        "away_team": "RKS Mazovia Rawa Mazowiecka",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "11301084-13933681-28023845",
+    "home_team": "Hutnik II Krakow",
+    "away_team": "AKS Beskid Andrychow",
+    "date": "17/09/2025",
+    "time": "18:00",
+    "country": "Poland",
+    "all_sources": [
+      "Asbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "first_half_under_1.5_vs_first_half_over_1.5",
+        "best_odds": {
+          "first_half_under_1.5_odd": {
+            "value": 1.9,
+            "source": "Asbet"
+          },
+          "first_half_over_1.5_odd": {
+            "value": 2.194,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9821,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "28023845-11301084",
+        "Asbet_country_name": "Poland",
+        "tournament_Asbet": "IV Liga",
+        "Asbet_match_id": 28023845,
+        "Asbet_tournament_id": 11846,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Poland/11846/iv-liga/28023845/hutnik-ii-krakow-aks-beskid-andrychow",
+        "Tounesbet_country_name": "Poland",
+        "tournament_Tounesbet": "4 Liga",
+        "Tounesbet_match_id": 11301084,
+        "Tounesbet_tournament_id": 122330,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "11301084-13933681-28023845",
+        "home_team": "Hutnik II Krakow",
+        "away_team": "AKS Beskid Andrychow",
+        "activity_duration": "1 hour"
+      }
+    ]
+  }
+]

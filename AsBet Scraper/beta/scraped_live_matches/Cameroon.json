@@ -1,0 +1,40 @@
+[
+    {
+        "tournament_name": "MTN Elite Two",
+        "tournament_id": 15490,
+        "matches": [
+            {
+                "match_id": 27504171,
+                "date": "01/07/2025",
+                "time": "15:50",
+                "home_team": "Isohsa of Limbe",
+                "away_team": "RC Bafoussam",
+                "match_url": "https://www.asbet.org/en/sports/live/event-view/Soccer/Cameroon/15490/mtn-elite-two/27504171/isohsa-of-limbe-rc-bafoussam",
+                "1X_odd": 1.28,
+                "12_odd": 1.47,
+                "X2_odd": 1.53,
+                "over_2.0_odd": 3.25,
+                "under_2.0_odd": 1.29,
+                "home_handicap_0.0_odd": 1.54,
+                "away_handicap_0.0_odd": 2.33,
+                "home_handicap_0.25_odd": 1.36,
+                "away_handicap_-0.25_odd": 2.87,
+                "home_handicap_-0.5_odd": 2.35,
+                "away_handicap_0.5_odd": 1.53,
+                "home_handicap_-0.25_odd": 1.93,
+                "away_handicap_0.25_odd": 1.77,
+                "1_odd": 2.35,
+                "draw_odd": 2.55,
+                "2_odd": 3.6,
+                "home_handicap_-0.75_odd": 2.87,
+                "away_handicap_0.75_odd": 1.36,
+                "over_1.5_odd": 2.04,
+                "under_1.5_odd": 1.69,
+                "over_1.0_odd": 1.41,
+                "under_1.0_odd": 2.68,
+                "over_0.5_odd": 1.22,
+                "under_0.5_odd": 3.83
+            }
+        ]
+    }
+]

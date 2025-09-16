@@ -1,0 +1,26 @@
+[
+    {
+        "last_updated": "2025-09-16T20:52:57.798782+01:00"
+    },
+    {
+        "tournament_id": 4056,
+        "tournament_name": "Kategoria Superiore",
+        "matches": [
+            {
+                "match_id": 13533286,
+                "date": "17/09/2025",
+                "time": "14:00",
+                "home_team": "Teuta Durrës",
+                "away_team": "Dinamo Tirana",
+                "1_odd": 2.4546,
+                "draw_odd": 2.75,
+                "2_odd": 2.8,
+                "1X_odd": 1.35,
+                "12_odd": 1.3334,
+                "X2_odd": 1.4167,
+                "over_2.5_odd": 2.4,
+                "under_2.5_odd": 1.4546
+            }
+        ]
+    }
+]

@@ -1,0 +1,593 @@
+[
+  {
+    "group_id": "654042675-9839827",
+    "home_team": "Sacu Sporting (Women)",
+    "away_team": "Flora Tallinn (Women)",
+    "date": "17/09/2025",
+    "time": "16:00",
+    "country": "Estonia",
+    "all_sources": [
+      "1xbet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_1.25_home_vs_away",
+        "best_odds": {
+          "home_handicap_1.25_odd": {
+            "value": 1.909,
+            "source": "1xbet"
+          },
+          "away_handicap_-1.25_odd": {
+            "value": 2.242,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9699,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "654042675-9839827",
+        "1xbet_country_name": "Estonia",
+        "tournament_1xbet": "Meistriliiga. Women",
+        "1xbet_match_id": 654042675,
+        "1xbet_tournament_id": 1239843,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/1239843/654042675",
+        "Tounesbet_country_name": "Estonia",
+        "tournament_Tounesbet": "Meistriliiga Women",
+        "Tounesbet_match_id": 9839827,
+        "Tounesbet_tournament_id": 22235,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "654042675-9839827",
+        "home_team": "Sacu Sporting (Women)",
+        "away_team": "Flora Tallinn (Women)",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2579130784136957952-653763546-10715229-12737644",
+    "home_team": "JK Narva Trans",
+    "away_team": "Nomme Kalju FC",
+    "date": "17/09/2025",
+    "time": "15:15",
+    "country": "Estonia",
+    "all_sources": [
+      "1xbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "both_score",
+        "best_odds": {
+          "both_score_odd": {
+            "value": 2.029,
+            "source": "Tounesbet"
+          },
+          "both_noscore_odd": {
+            "value": 2.342,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.9198,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653763546-10715229",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Estonia",
+        "tournament_Tounesbet": "Meistriliiga",
+        "Tounesbet_match_id": 10715229,
+        "Tounesbet_tournament_id": 25098,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "1xbet_country_name": "Estonia",
+        "tournament_1xbet": "Meistriliiga",
+        "1xbet_match_id": 653763546,
+        "1xbet_tournament_id": 33033,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/33033/653763546",
+        "group_id": "2579130784136957952-653763546-10715229-12737644",
+        "home_team": "JK Narva Trans",
+        "away_team": "Nomme Kalju FC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "two_vs_1x",
+        "best_odds": {
+          "2_odd": {
+            "value": 2.2858,
+            "source": "Clubx2"
+          },
+          "1X_odd": {
+            "value": 1.829,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9842,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "12737644-10715229",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Estonia",
+        "tournament_Clubx2": "Premium Liiga",
+        "Clubx2_match_id": 12737644,
+        "Clubx2_tournament_id": 4153,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=12737644#/overview",
+        "Tounesbet_country_name": "Estonia",
+        "tournament_Tounesbet": "Meistriliiga",
+        "Tounesbet_match_id": 10715229,
+        "Tounesbet_tournament_id": 25098,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579130784136957952-653763546-10715229-12737644",
+        "home_team": "JK Narva Trans",
+        "away_team": "Nomme Kalju FC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "two_vs_1x",
+        "best_odds": {
+          "2_odd": {
+            "value": 2.24,
+            "source": "Jibibet"
+          },
+          "1X_odd": {
+            "value": 1.829,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9932,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2579130784136957952-10715229",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "Estonia",
+        "tournament_Jibibet": "Premium Liiga",
+        "Jibibet_match_id": 2579130784136957952,
+        "Jibibet_tournament_id": 1669818828751769600,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "Estonia",
+        "tournament_Tounesbet": "Meistriliiga",
+        "Tounesbet_match_id": 10715229,
+        "Tounesbet_tournament_id": 25098,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579130784136957952-653763546-10715229-12737644",
+        "home_team": "JK Narva Trans",
+        "away_team": "Nomme Kalju FC",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2579013090926530585-653590987-12736497-27926884-9669448",
+    "home_team": "Harju Jalgpallikooli",
+    "away_team": "FC Kuressaare",
+    "date": "17/09/2025",
+    "time": "15:30",
+    "country": "Estonia",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "both_score",
+        "best_odds": {
+          "both_score_odd": {
+            "value": 1.899,
+            "source": "Tounesbet"
+          },
+          "both_noscore_odd": {
+            "value": 2.468,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.9318,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653590987-9669448",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Estonia",
+        "tournament_Tounesbet": "Meistriliiga",
+        "Tounesbet_match_id": 9669448,
+        "Tounesbet_tournament_id": 25098,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "1xbet_country_name": "Estonia",
+        "tournament_1xbet": "Meistriliiga",
+        "1xbet_match_id": 653590987,
+        "1xbet_tournament_id": 33033,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/33033/653590987",
+        "group_id": "2579013090926530585-653590987-12736497-27926884-9669448",
+        "home_team": "Harju Jalgpallikooli",
+        "away_team": "FC Kuressaare",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "both_score",
+        "best_odds": {
+          "both_score_odd": {
+            "value": 1.899,
+            "source": "Tounesbet"
+          },
+          "both_noscore_odd": {
+            "value": 2.37,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9485,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27926884-9669448",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Estonia",
+        "tournament_Tounesbet": "Meistriliiga",
+        "Tounesbet_match_id": 9669448,
+        "Tounesbet_tournament_id": 25098,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "Estonia",
+        "tournament_Asbet": "Premium Liiga",
+        "Asbet_match_id": 27926884,
+        "Asbet_tournament_id": 1852,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Estonia/1852/premium-liiga/27926884/harju-jk-laagri-fc-kuressaare",
+        "group_id": "2579013090926530585-653590987-12736497-27926884-9669448",
+        "home_team": "Harju Jalgpallikooli",
+        "away_team": "FC Kuressaare",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 1.82,
+            "source": "Jibibet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 2.324,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9797,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2579013090926530585-9669448",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "Estonia",
+        "tournament_Jibibet": "Premium Liiga",
+        "Jibibet_match_id": 2579013090926530585,
+        "Jibibet_tournament_id": 1669818828751769600,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "Estonia",
+        "tournament_Tounesbet": "Meistriliiga",
+        "Tounesbet_match_id": 9669448,
+        "Tounesbet_tournament_id": 25098,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579013090926530585-653590987-12736497-27926884-9669448",
+        "home_team": "Harju Jalgpallikooli",
+        "away_team": "FC Kuressaare",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "under_3.5_vs_over_3.5",
+        "best_odds": {
+          "under_3.5_odd": {
+            "value": 1.805,
+            "source": "Tounesbet"
+          },
+          "over_3.5_odd": {
+            "value": 2.3,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9888,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "12736497-9669448",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Estonia",
+        "tournament_Tounesbet": "Meistriliiga",
+        "Tounesbet_match_id": 9669448,
+        "Tounesbet_tournament_id": 25098,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "Estonia",
+        "tournament_Clubx2": "Premium Liiga",
+        "Clubx2_match_id": 12736497,
+        "Clubx2_tournament_id": 4153,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=12736497#/overview",
+        "group_id": "2579013090926530585-653590987-12736497-27926884-9669448",
+        "home_team": "Harju Jalgpallikooli",
+        "away_team": "FC Kuressaare",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "653763552-12737643-27926883-9669452",
+    "home_team": "FCI Levadia Tallinn",
+    "away_team": "FC Flora Tallinn",
+    "date": "17/09/2025",
+    "time": "17:00",
+    "country": "Estonia",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "both_score",
+        "best_odds": {
+          "both_score_odd": {
+            "value": 2.159,
+            "source": "Tounesbet"
+          },
+          "both_noscore_odd": {
+            "value": 2.073,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.9456,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653763552-9669452",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Estonia",
+        "tournament_Tounesbet": "Meistriliiga",
+        "Tounesbet_match_id": 9669452,
+        "Tounesbet_tournament_id": 25098,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "1xbet_country_name": "Estonia",
+        "tournament_1xbet": "Meistriliiga",
+        "1xbet_match_id": 653763552,
+        "1xbet_tournament_id": 33033,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/33033/653763552",
+        "group_id": "653763552-12737643-27926883-9669452",
+        "home_team": "FCI Levadia Tallinn",
+        "away_team": "FC Flora Tallinn",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "both_score",
+        "best_odds": {
+          "both_score_odd": {
+            "value": 2.159,
+            "source": "Tounesbet"
+          },
+          "both_noscore_odd": {
+            "value": 2.01,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9607,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27926883-9669452",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Estonia",
+        "tournament_Tounesbet": "Meistriliiga",
+        "Tounesbet_match_id": 9669452,
+        "Tounesbet_tournament_id": 25098,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "Estonia",
+        "tournament_Asbet": "Premium Liiga",
+        "Asbet_match_id": 27926883,
+        "Asbet_tournament_id": 1852,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Estonia/1852/premium-liiga/27926883/fci-levadia-tallinn-fc-flora-tallinn",
+        "group_id": "653763552-12737643-27926883-9669452",
+        "home_team": "FCI Levadia Tallinn",
+        "away_team": "FC Flora Tallinn",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 1.9,
+            "source": "Clubx2"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 2.242,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9723,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "12737643-9669452",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Estonia",
+        "tournament_Clubx2": "Premium Liiga",
+        "Clubx2_match_id": 12737643,
+        "Clubx2_tournament_id": 4153,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=12737643#/overview",
+        "Tounesbet_country_name": "Estonia",
+        "tournament_Tounesbet": "Meistriliiga",
+        "Tounesbet_match_id": 9669452,
+        "Tounesbet_tournament_id": 25098,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653763552-12737643-27926883-9669452",
+        "home_team": "FCI Levadia Tallinn",
+        "away_team": "FC Flora Tallinn",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2579285668748472367-653763549-12737642-27926881-9669450",
+    "home_team": "JK Tallinna Kalev",
+    "away_team": "Paide Linnameeskond",
+    "date": "17/09/2025",
+    "time": "17:30",
+    "country": "Estonia",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "first_half_ah_0.75_home_vs_away",
+        "best_odds": {
+          "home_first_half_handicap_0.75_odd": {
+            "value": 2.0,
+            "source": "Asbet"
+          },
+          "away_first_half_handicap_-0.75_odd": {
+            "value": 2.147,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9658,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27926881-9669450",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Estonia",
+        "tournament_Asbet": "Premium Liiga",
+        "Asbet_match_id": 27926881,
+        "Asbet_tournament_id": 1852,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Estonia/1852/premium-liiga/27926881/jk-tallinna-kalev-paide-linnameeskond",
+        "Tounesbet_country_name": "Estonia",
+        "tournament_Tounesbet": "Meistriliiga",
+        "Tounesbet_match_id": 9669450,
+        "Tounesbet_tournament_id": 25098,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579285668748472367-653763549-12737642-27926881-9669450",
+        "home_team": "JK Tallinna Kalev",
+        "away_team": "Paide Linnameeskond",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "under_3.5_vs_over_3.5",
+        "best_odds": {
+          "under_3.5_odd": {
+            "value": 2.124,
+            "source": "Tounesbet"
+          },
+          "over_3.5_odd": {
+            "value": 2.02,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.9659,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653763549-9669450",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Estonia",
+        "tournament_Tounesbet": "Meistriliiga",
+        "Tounesbet_match_id": 9669450,
+        "Tounesbet_tournament_id": 25098,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "1xbet_country_name": "Estonia",
+        "tournament_1xbet": "Meistriliiga",
+        "1xbet_match_id": 653763549,
+        "1xbet_tournament_id": 33033,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/33033/653763549",
+        "group_id": "2579285668748472367-653763549-12737642-27926881-9669450",
+        "home_team": "JK Tallinna Kalev",
+        "away_team": "Paide Linnameeskond",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "under_3.5_vs_over_3.5",
+        "best_odds": {
+          "under_3.5_odd": {
+            "value": 2.124,
+            "source": "Tounesbet"
+          },
+          "over_3.5_odd": {
+            "value": 1.95,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9836,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "12737642-9669450",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Estonia",
+        "tournament_Tounesbet": "Meistriliiga",
+        "Tounesbet_match_id": 9669450,
+        "Tounesbet_tournament_id": 25098,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "Estonia",
+        "tournament_Clubx2": "Premium Liiga",
+        "Clubx2_match_id": 12737642,
+        "Clubx2_tournament_id": 4153,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=12737642#/overview",
+        "group_id": "2579285668748472367-653763549-12737642-27926881-9669450",
+        "home_team": "JK Tallinna Kalev",
+        "away_team": "Paide Linnameeskond",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "under_3.5_vs_over_3.5",
+        "best_odds": {
+          "under_3.5_odd": {
+            "value": 2.124,
+            "source": "Tounesbet"
+          },
+          "over_3.5_odd": {
+            "value": 1.94,
+            "source": "Jibibet"
+          }
+        },
+        "arbitrage_percentage": 0.9863,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2579285668748472367-9669450",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Estonia",
+        "tournament_Tounesbet": "Meistriliiga",
+        "Tounesbet_match_id": 9669450,
+        "Tounesbet_tournament_id": 25098,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Jibibet_country_name": "Estonia",
+        "tournament_Jibibet": "Premium Liiga",
+        "Jibibet_match_id": 2579285668748472367,
+        "Jibibet_tournament_id": 1669818828751769600,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "group_id": "2579285668748472367-653763549-12737642-27926881-9669450",
+        "home_team": "JK Tallinna Kalev",
+        "away_team": "Paide Linnameeskond",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2579726315863289905-653844585-12764305-9669454",
+    "home_team": "Tallinna FC Flora",
+    "away_team": "Tartu JK Tammeka",
+    "date": "20/09/2025",
+    "time": "15:00",
+    "country": "Estonia",
+    "all_sources": [
+      "1xbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "first_half_under_1.5_vs_first_half_over_1.5",
+        "best_odds": {
+          "first_half_under_1.5_odd": {
+            "value": 2.1,
+            "source": "Clubx2"
+          },
+          "first_half_over_1.5_odd": {
+            "value": 2.088,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9551,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "12764305-9669454",
+        "misvalue_source": "Clubx2",
+        "Clubx2_country_name": "Estonia",
+        "tournament_Clubx2": "Premium Liiga",
+        "Clubx2_match_id": 12764305,
+        "Clubx2_tournament_id": 4153,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=12764305#/overview",
+        "Tounesbet_country_name": "Estonia",
+        "tournament_Tounesbet": "Meistriliiga",
+        "Tounesbet_match_id": 9669454,
+        "Tounesbet_tournament_id": 25098,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579726315863289905-653844585-12764305-9669454",
+        "home_team": "Tallinna FC Flora",
+        "away_team": "Tartu JK Tammeka",
+        "activity_duration": "1 hour"
+      }
+    ]
+  }
+]

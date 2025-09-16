@@ -1,0 +1,6 @@
+# manipulate the tournament per page  number 
+- 532 : 1x2
+- without the onlyoddtype : 1x2 / double chance) / gg ng / over under 2.5
+- 610 : over under totals (home team only)
+- 534 : handicap lines
+- 533 : total under over

@@ -1,0 +1,54 @@
+{
+  "important_terms": [
+    ["Women", "Wom", "(W)", "(F)", "Femme", "(Women)", "F", "W"],
+    ["(Reserves)", "(Reserve)", "(Res.)", "(Res)", "II", "Reserve", "2", "Am.", "Am", "Reserves", "B"],
+    ["U24", "Youth"],
+    ["U23", "Youth"],
+    ["U22", "Youth"],
+    ["U21", "Youth"],
+    ["U20", "Youth"],
+    ["U19", "Youth"],
+    ["U18", "Youth"],
+    ["U17", "Youth"]
+  ],
+
+  "common_team_words": [
+    "united","fc", "sc", "afc", "sfc", "ec", "aguia", "uniao", "sd", "ac", "fg", "palloseura",
+    "clube", "club", "de", "sporting", "racing", "fotbol", "fk", "gif", "olympic",  "binh",
+    "team", "association", "sport", "academy", "society", "school", "atletico", "athletico", "athletic",
+    "town", "city", "al", "reykjavik"
+  ],
+
+  "location_identifiers_disabled": [
+    "riyadh", "sa", "saudi", "arabia", "jeddah",
+    "london", "madrid", "milan", "rome", "paris",
+    "moscow", "berlin", "munich", "manchester",
+    "liverpool", "barcelona", "lisbon", "porto"
+  ],
+
+
+  "location_identifiers": [
+  ],
+
+
+  "team_synonyms": [
+
+    ["psg", "paris saint germain", "paris-saint-germain", "paris saint-germain"],
+    ["al hilal", "alhilal", "al-hilal"],
+    ["al shabab", "alshabab", "al-shabab"],
+    ["neratovice", "n. byskovice", "neratovice-byskovice"],
+    ["al ahli", "alahli", "al-ahli"],
+    ["al nassr", "alnassr", "al-nassr"],
+    ["al ittihad", "alittihad", "al-ittihad"],
+    ["olympique", "olympic"],
+    ["inter", "internazionale"],
+    ["atletico", "athletic", "atlético", "athletico"],
+    ["manchester utd", "manchester united", "man utd", "man united"],
+    ["manchester city", "man city"],
+    ["dalian kun", "dalian kun city", "dalian k'un", "dalian k'un city"],
+    ["mount", "mt"],
+    ["rips", "riihimaen palloseura"],
+    ["nups", "nummelan palloseura"],
+    ["aab", "aalborg"]
+  ]
+}

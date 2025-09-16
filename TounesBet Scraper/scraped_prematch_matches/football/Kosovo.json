@@ -1,0 +1,69 @@
+[
+    {
+        "last_updated": "2025-09-16T20:54:41.776719+01:00"
+    },
+    {
+        "tournament_name": "Super League U21",
+        "tournament_id": 240050,
+        "matches": [
+            {
+                "match_id": 11302349,
+                "tournament_id": 240050,
+                "date": "17/09/2025",
+                "time": "10:00",
+                "home_team": "FC Prishtina U21",
+                "away_team": "Kf Drita U21",
+                "1_odd": 5.605,
+                "draw_odd": 5.605,
+                "2_odd": 1.44,
+                "both_score_odd": null,
+                "both_noscore_odd": null,
+                "1X_odd": 2.832,
+                "12_odd": 1.12,
+                "X2_odd": 1.12,
+                "under_2.5_odd": 3.835,
+                "over_2.5_odd": 1.33,
+                "home_handicap_1.25_odd": 2.265,
+                "away_handicap_-1.25_odd": 2.206,
+                "home_first_half_handicap_0.5_odd": 2.242,
+                "away_first_half_handicap_-0.5_odd": 2.242
+            }
+        ]
+    },
+    {
+        "tournament_name": "Superliga",
+        "tournament_id": 24942,
+        "matches": [
+            {
+                "match_id": 11301942,
+                "tournament_id": 24942,
+                "date": "17/09/2025",
+                "time": "14:00",
+                "home_team": "Drita",
+                "away_team": "KF Drenica Skenderaj",
+                "1_odd": 1.44,
+                "draw_odd": 4.602,
+                "2_odd": 7.08,
+                "both_score_odd": null,
+                "both_noscore_odd": null,
+                "1X_odd": 1.03,
+                "12_odd": 1.18,
+                "X2_odd": 2.832,
+                "first_half_under_0.5_odd": 3.079,
+                "first_half_over_0.5_odd": 1.41,
+                "first_half_under_1.0_odd": 2.065,
+                "first_half_over_1.0_odd": 2.324,
+                "first_half_under_1.5_odd": 1.33,
+                "first_half_over_1.5_odd": 3.469,
+                "second_half_under_1.0_odd": 2.773,
+                "second_half_over_1.0_odd": 1.5,
+                "second_half_under_1.5_odd": 1.864,
+                "second_half_over_1.5_odd": 2.643,
+                "second_half_under_2.0_odd": 1.21,
+                "second_half_over_2.0_odd": 4.436,
+                "home_handicap_-1.25_odd": 2.383,
+                "away_handicap_1.25_odd": 2.088
+            }
+        ]
+    }
+]

@@ -1,0 +1,3 @@
+don t scrape the matches that have "TG" proprety in them
+"TG" is only present to describe these type of markets that are considered as match
+example "TG":"Shots On Target"

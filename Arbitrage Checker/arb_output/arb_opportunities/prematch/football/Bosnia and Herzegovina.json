@@ -1,0 +1,79 @@
+[
+  {
+    "group_id": "653349515-11259295-28016853",
+    "home_team": "HSK Zrinjski Mostar",
+    "away_team": "FK Sloga Doboj",
+    "date": "17/09/2025",
+    "time": "15:00",
+    "country": "Bosnia and Herzegovina",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "first_half_under_1.0_vs_first_half_over_1.0",
+        "best_odds": {
+          "first_half_under_1.0_odd": {
+            "value": 2.2,
+            "source": "Asbet"
+          },
+          "first_half_over_1.0_odd": {
+            "value": 2.076,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9362,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "28016853-11259295",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Bosnia and Herzegovina",
+        "tournament_Asbet": "Premier League",
+        "Asbet_match_id": 28016853,
+        "Asbet_tournament_id": 1791,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/BosniaHerzegovina/1791/premier-league/28016853/hsk-zrinjski-mostar-fk-sloga-doboj",
+        "Tounesbet_country_name": "Bosnia and Herzegovina",
+        "tournament_Tounesbet": "Premijer Liga BiH",
+        "Tounesbet_match_id": 11259295,
+        "Tounesbet_tournament_id": 45601,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653349515-11259295-28016853",
+        "home_team": "HSK Zrinjski Mostar",
+        "away_team": "FK Sloga Doboj",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "home_under_2.5_vs_home_over_2.5",
+        "best_odds": {
+          "home_under_2.5_odd": {
+            "value": 1.958,
+            "source": "Tounesbet"
+          },
+          "home_over_2.5_odd": {
+            "value": 2.3,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.9455,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653349515-11259295",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Bosnia and Herzegovina",
+        "tournament_Tounesbet": "Premijer Liga BiH",
+        "Tounesbet_match_id": 11259295,
+        "Tounesbet_tournament_id": 45601,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "1xbet_country_name": "Bosnia and Herzegovina",
+        "tournament_1xbet": "Premier League",
+        "1xbet_match_id": 653349515,
+        "1xbet_tournament_id": 108683,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/108683/653349515",
+        "group_id": "653349515-11259295-28016853",
+        "home_team": "HSK Zrinjski Mostar",
+        "away_team": "FK Sloga Doboj",
+        "activity_duration": "1 hour"
+      }
+    ]
+  }
+]

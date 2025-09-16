@@ -1,0 +1,17 @@
+GET /api/widget/GetSportMenu?culture=fr-FR&timezoneOffset=-60&integration=webetx2&deviceType=1&numFormat=en-GB&countryCode=TN&period=0 HTTP/2
+Host: sb2frontend-1-altenar2.biahosted.com
+Sec-Ch-Ua-Platform: "Windows"
+Authorization: V2xoc1MyRkhTa2haTW14UVlWVndTbFpZY0VwTlZUVndVMWhPU21Kc1NURlpNRTVLVG10c2NtTkdhRmRSTUc4MVRHMVdOVk51UW1wUk1Hc3lVMWR3Ums1Vk5YQk9TR3hPWVd4V01WUldVbkpOTUhoeFVsUldUbVZWYkhwVFZ6RlRaRzFLV0ZKdVFtbGhWV3N5VTFjeGIwMUhVa2xSYm5CUVlWUm9NbHBFVG10Tk1IaDBWRzVPYTFZd2J6QlVWMnN4WVcxSmVVMUhiRTFSTUhCM1dXMDFVMkpHYjNwVGJXaHJVako0TWxsdGJFcE9hMngxV2tkNFdtSldXWGRhVlZKS1lWVjRSRk5xUm1wTmJGbzFWVlprYTJKSFNuVlZWMnhRWVZWd1QxbHFUbmRqUjBwSVpVZG9UV1ZzVmpGVVZVNUNZakZaZVdKSVZtRlNlbXQ2V1ROc1ExUXhXa1JSV0doT1VYcFNNMVF6YkVOWFIwWllUa1JLVDFKSVRtNWFWVkphVFVWMFZGRnJTbXBUUlVwNlYyeGFhMkpHYkhKa1NFSnJVWHBuZUZSWWNHcGtWVEUyVjFka1RGSllVa3BXYTFWNFZGVjRSRkZ1VG1oV00xSnpVMVZXYTJKR2EzbGtTRnBNVlRCS1JWbFZhRXRrYlVwWVZsaGFUbFpGTUhsVVIzQkNaRlV4UkU1SVpFcFNhelZ2VjIweFIyVlhSbFJQUkVaT1pXMU9NVlJZY0ZwaFZYaEVVMjVhYW1WVmF6SlRWM2d6WVZaWmVXSklWbUZTZW10NldYcEdNMkZWYkhCa01teGhWMGRvTTFOWGNIWmxSVFUyVlZSV1RsSkhaRFJVVlZKcVpXMWFVa3hzV21aalZHaHZWMFYwVTFZeU1WbGtWVFZRWTJzNWEwMUlUa2xTYkhCQ1ltMUtSV0l5WXpKV1JtUlZUV3BHV0ZreFFrNU5Na1p6WkhwUlBRPT0=
+Accept-Language: en-US,en;q=0.9
+Sec-Ch-Ua: "Not.A/Brand";v="99", "Chromium";v="136"
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+Sec-Ch-Ua-Mobile: ?0
+Accept: */*
+Origin: https://www.clubx2.com
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.clubx2.com/
+Accept-Encoding: gzip, deflate, br
+Priority: u=1, i
+

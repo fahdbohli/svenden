@@ -1,0 +1,2019 @@
+HTTP/2 200 OK
+Date: Fri, 13 Jun 2025 14:23:00 GMT
+Content-Type: text/html; charset=utf-8
+Server: cloudflare
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=lNxciUWp3fYNkkdtnw9IEC9qQgnfhiM7HnqOdqNNNPynTgzkGJG9v2TkkwmjXeAM%2FttoOieO6VJf2LADgHJ50RWl6WcnWUd7jCaPzto%3D"}]}
+Cache-Control: private
+X-Aspnetmvc-Version: 5.2
+X-Aspnet-Version: 4.0.30319
+Vary: accept-encoding
+X-Powered-By: ASP.NET
+Cf-Cache-Status: DYNAMIC
+Set-Cookie: _culture=en-us; SameSite=None; Secure; Path=/; Expires=Sat, 13 Jun 2026 14:23:00 GMT
+Cf-Ray: 94f23e4aea5ce1a0-MRS
+Alt-Svc: h3=":443"; ma=86400
+
+
+
+
+<section class="matchlist_for_tournament" style="float:left; width:100%;"
+         data-sportid="1181"
+         data-sportcategoryid="0"
+         data-tournamentid="0">
+
+        <div class="match-list table-responsive" id="divTables" style="display: block; overflow: hidden">
+
+            <table class="table" cellpadding="0" cellspacing="0" style="width: 100%;table-layout: auto;">
+                <thead class="tableFloatingHeaderOriginal">
+
+                </thead>
+                <tbody id="matchesTableBody" class="matchesTableBody">
+
+                            <tr class="header_tournament_row first-header" data-tournamentid="158847">
+                                <td class="tournament_name_section">
+                                    <img src="/Content/images/flags/World.png" width="26" height="26" />
+                                    <div class="category-tournament-title">International / Toulon Tournament Youth</div>
+                                </td>
+                                <td class="auto-width-column">
+                                </td>
+                                    <td class="header_width_columns_3 main-market-no_1"></td>
+                                <td onclick="OpenCloseChevron(this);" style="width: 50px; text-align: center; cursor: pointer">
+                                    <i class="fa fa-chevron-up"></i>
+                                </td>
+                            </tr>
+                <tr class="header_row prematch-header-row">
+                    <th>
+                        <input type="hidden" class="receivedTournamentCount" value="2" />
+                        <span style="padding-left: 15px !important; font-weight: normal">13/06/2025</span>
+                    </th>
+                    <th class="auto-width-column">
+                    </th>
+
+                        <th class="div-bet-column-header main-market-no_1">
+                            
+                            <div class="dibBetColumnHeader">
+                                <div class='betColumnHeader'><label>&nbsp</label><label>Under</label><label>Over</label></div>
+                            </div>
+                        </th>
+                    <th class="plus-sign-column" style="text-align:center;">
+                    </th>
+                </tr>
+                            <tr data-matchid="10627805" data-tournamentid="158847" data-betradarid="15903847" class="trMatch">
+                                <td class="tdMatch tdCompetitors hidden-sm hidden-xs match_odds_visibility" style="border-right: none; cursor: pointer; text-align:left">
+                                    <div style="display: inline-block; padding: 5px 0 0 0; line-height: 30px; width: 60px; text-align: center; float: left;">
+                                        16:30
+                                    </div>
+
+                                    <div class="competitor-wrapper">
+                                            <div class="competitor1-section">
+                                                
+                                                <div class="competitor1-name">France Youth (Toulon)</div>
+                                                
+                                            </div>
+                                            <div class="competitors-result-separator"> - </div>
+                                            <div class="competitor2-section">
+                                                
+                                                <div class="competitor2-name">Mexico Youth </div>
+                                                
+                                            </div>
+                                    </div>
+
+                                </td>
+                                
+                                <td class="auto-width-column">
+                                    <div class="btn-group pull-right" style="padding-top: 5px; padding-right: 5px">
+                                            <label class="dropdown-toggle match_statistic" title="Details" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" style="cursor:pointer">
+                                                <img src="/Content/images/marmaraTheme/graph.svg" width="12" height="14" />
+                                            </label>
+                                    </div>
+                                </td>
+
+
+                                    <td class="betColumn main-market-no_1">
+
+                                                    <span data-spreadcount="9" data-spreadno="0"
+                                                          data-matchid="10627805" data-oddtypeid="533"
+                                                          class="special-bet-prematch " style="display: inline; ">
+                                                        
+0.5                                                    </span>
+                                                            <span class="betcolumn-market-1 match_odd match-odd quoteValue  "
+                                                                  data-spreadno="0"
+                                                                  data-matchid="10627805"
+                                                                  data-oddtypeid="533"
+                                                                  data-outcomeid="Under"
+                                                                  data-isactive="True"
+                                                                  data-matchoddspecialbetvalue="0.5"
+                                                                  data-matchoddid="499051605"
+                                                                  data-BaseValue="15.00"
+                                                                  data-RatioCorrection="0.00"
+                                                                  data-oddvaluedecimal='15.00'
+                                                                  data-oddvalueamerican="+1400"
+                                                                  style=" ">
+15.00                                                            </span>
+                                                            <span class="betcolumn-market-1 match_odd match-odd quoteValue  "
+                                                                  data-spreadno="0"
+                                                                  data-matchid="10627805"
+                                                                  data-oddtypeid="533"
+                                                                  data-outcomeid="Over"
+                                                                  data-isactive="True"
+                                                                  data-matchoddspecialbetvalue="0.5"
+                                                                  data-matchoddid="499051590"
+                                                                  data-BaseValue="1.01"
+                                                                  data-RatioCorrection="-0.05"
+                                                                  data-oddvaluedecimal='0.96'
+                                                                  data-oddvalueamerican=""
+                                                                  style=" ">
+1.00                                                            </span>
+                                                    <span data-spreadcount="9" data-spreadno="1"
+                                                          data-matchid="10627805" data-oddtypeid="533"
+                                                          class="special-bet-prematch hidden" style="display: inline; ">
+                                                        
+1.5                                                    </span>
+                                                            <span class="betcolumn-market-1 match_odd match-odd quoteValue hidden "
+                                                                  data-spreadno="1"
+                                                                  data-matchid="10627805"
+                                                                  data-oddtypeid="533"
+                                                                  data-outcomeid="Under"
+                                                                  data-isactive="True"
+                                                                  data-matchoddspecialbetvalue="1.5"
+                                                                  data-matchoddid="499051604"
+                                                                  data-BaseValue="4.50"
+                                                                  data-RatioCorrection="0.00"
+                                                                  data-oddvaluedecimal='4.50'
+                                                                  data-oddvalueamerican="+350"
+                                                                  style=" ">
+4.50                                                            </span>
+                                                            <span class="betcolumn-market-1 match_odd match-odd quoteValue hidden "
+                                                                  data-spreadno="1"
+                                                                  data-matchid="10627805"
+                                                                  data-oddtypeid="533"
+                                                                  data-outcomeid="Over"
+                                                                  data-isactive="True"
+                                                                  data-matchoddspecialbetvalue="1.5"
+                                                                  data-matchoddid="499051591"
+                                                                  data-BaseValue="1.16"
+                                                                  data-RatioCorrection="0.00"
+                                                                  data-oddvaluedecimal='1.16'
+                                                                  data-oddvalueamerican="-625"
+                                                                  style=" ">
+1.16                                                            </span>
+                                                    <span data-spreadcount="9" data-spreadno="2"
+                                                          data-matchid="10627805" data-oddtypeid="533"
+                                                          class="special-bet-prematch hidden" style="display: inline; ">
+                                                        
+2.5                                                    </span>
+                                                            <span class="betcolumn-market-1 match_odd match-odd quoteValue hidden "
+                                                                  data-spreadno="2"
+                                                                  data-matchid="10627805"
+                                                                  data-oddtypeid="533"
+                                                                  data-outcomeid="Under"
+                                                                  data-isactive="True"
+                                                                  data-matchoddspecialbetvalue="2.5"
+                                                                  data-matchoddid="499051603"
+                                                                  data-BaseValue="2.35"
+                                                                  data-RatioCorrection="0.00"
+                                                                  data-oddvaluedecimal='2.35'
+                                                                  data-oddvalueamerican="+135"
+                                                                  style=" ">
+2.35                                                            </span>
+                                                            <span class="betcolumn-market-1 match_odd match-odd quoteValue hidden "
+                                                                  data-spreadno="2"
+                                                                  data-matchid="10627805"
+                                                                  data-oddtypeid="533"
+                                                                  data-outcomeid="Over"
+                                                                  data-isactive="True"
+                                                                  data-matchoddspecialbetvalue="2.5"
+                                                                  data-matchoddid="499051592"
+                                                                  data-BaseValue="1.57"
+                                                                  data-RatioCorrection="0.00"
+                                                                  data-oddvaluedecimal='1.57'
+                                                                  data-oddvalueamerican="-175"
+                                                                  style=" ">
+1.57                                                            </span>
+                                                    <span data-spreadcount="9" data-spreadno="3"
+                                                          data-matchid="10627805" data-oddtypeid="533"
+                                                          class="special-bet-prematch hidden" style="display: inline; ">
+                                                        
+3.5                                                    </span>
+                                                            <span class="betcolumn-market-1 match_odd match-odd quoteValue hidden "
+                                                                  data-spreadno="3"
+                                                                  data-matchid="10627805"
+                                                                  data-oddtypeid="533"
+                                                                  data-outcomeid="Under"
+                                                                  data-isactive="True"
+                                                                  data-matchoddspecialbetvalue="3.5"
+                                                                  data-matchoddid="499051602"
+                                                                  data-BaseValue="1.53"
+                                                                  data-RatioCorrection="0.00"
+                                                                  data-oddvaluedecimal='1.53'
+                                                                  data-oddvalueamerican="-189"
+                                                                  style=" ">
+1.53                                                            </span>
+                                                            <span class="betcolumn-market-1 match_odd match-odd quoteValue hidden "
+                                                                  data-spreadno="3"
+                                                                  data-matchid="10627805"
+                                                                  data-oddtypeid="533"
+                                                                  data-outcomeid="Over"
+                                                                  data-isactive="True"
+                                                                  data-matchoddspecialbetvalue="3.5"
+                                                                  data-matchoddid="499051593"
+                                                                  data-BaseValue="2.37"
+                                                                  data-RatioCorrection="0.00"
+                                                                  data-oddvaluedecimal='2.37'
+                                                                  data-oddvalueamerican="+137"
+                                                                  style=" ">
+2.37                                                            </span>
+                                                    <span data-spreadcount="9" data-spreadno="4"
+                                                          data-matchid="10627805" data-oddtypeid="533"
+                                                          class="special-bet-prematch hidden" style="display: inline; ">
+                                                        
+4.5                                                    </span>
+                                                            <span class="betcolumn-market-1 match_odd match-odd quoteValue hidden "
+                                                                  data-spreadno="4"
+                                                                  data-matchid="10627805"
+                                                                  data-oddtypeid="533"
+                                                                  data-outcomeid="Under"
+                                                                  data-isactive="True"
+                                                                  data-matchoddspecialbetvalue="4.5"
+                                                                  data-matchoddid="499051601"
+                                                                  data-BaseValue="1.22"
+                                                                  data-RatioCorrection="0.00"
+                                                                  data-oddvaluedecimal='1.22'
+                                                                  data-oddvalueamerican="-455"
+                                                                  style=" ">
+1.22                                                            </span>
+                                                            <span class="betcolumn-market-1 match_odd match-odd quoteValue hidden "
+                                                                  data-spreadno="4"
+                                                                  data-matchid="10627805"
+                                                                  data-oddtypeid="533"
+                                                                  data-outcomeid="Over"
+                                                                  data-isactive="True"
+                                                                  data-matchoddspecialbetvalue="4.5"
+                                                                  data-matchoddid="499051594"
+                                                                  data-BaseValue="4.00"
+                                                                  data-RatioCorrection="0.00"
+                                                                  data-oddvaluedecimal='4.00'
+                                                                  data-oddvalueamerican="+300"
+                                                                  style=" ">
+4.00                                                            </span>
+                                                    <span data-spreadcount="9" data-spreadno="5"
+                                                          data-matchid="10627805" data-oddtypeid="533"
+                                                          class="special-bet-prematch hidden" style="display: inline; ">
+                                                        
+5.5                                                    </span>
+                                                            <span class="betcolumn-market-1 match_odd match-odd quoteValue hidden "
+                                                                  data-spreadno="5"
+                                                                  data-matchid="10627805"
+                                                                  data-oddtypeid="533"
+                                                                  data-outcomeid="Under"
+                                                                  data-isactive="True"
+                                                                  data-matchoddspecialbetvalue="5.5"
+                                                                  data-matchoddid="499051600"
+                                                                  data-BaseValue="1.08"
+                                                                  data-RatioCorrection="-0.05"
+                                                                  data-oddvaluedecimal='1.03'
+                                                                  data-oddvalueamerican="-3333"
+                                                                  style=" ">
+1.03                                                            </span>
+                                                            <span class="betcolumn-market-1 match_odd match-odd quoteValue hidden "
+                                                                  data-spreadno="5"
+                                                                  data-matchid="10627805"
+                                                                  data-oddtypeid="533"
+                                                                  data-outcomeid="Over"
+                                                                  data-isactive="True"
+                                                                  data-matchoddspecialbetvalue="5.5"
+                                                                  data-matchoddid="499051595"
+                                                                  data-BaseValue="7.00"
+                                                                  data-RatioCorrection="0.00"
+                                                                  data-oddvaluedecimal='7.00'
+                                                                  data-oddvalueamerican="+600"
+                                                                  style=" ">
+7.00                                                            </span>
+                                                    <span data-spreadcount="9" data-spreadno="6"
+                                                          data-matchid="10627805" data-oddtypeid="533"
+                                                          class="special-bet-prematch hidden" style="display: inline; ">
+                                                        
+6.5                                                    </span>
+                                                            <span class="betcolumn-market-1 match_odd match-odd quoteValue hidden "
+                                                                  data-spreadno="6"
+                                                                  data-matchid="10627805"
+                                                                  data-oddtypeid="533"
+                                                                  data-outcomeid="Under"
+                                                                  data-isactive="True"
+                                                                  data-matchoddspecialbetvalue="6.5"
+                                                                  data-matchoddid="499051599"
+                                                                  data-BaseValue="1.02"
+                                                                  data-RatioCorrection="-0.05"
+                                                                  data-oddvaluedecimal='0.97'
+                                                                  data-oddvalueamerican=""
+                                                                  style=" ">
+1.00                                                            </span>
+                                                            <span class="betcolumn-market-1 match_odd match-odd quoteValue hidden "
+                                                                  data-spreadno="6"
+                                                                  data-matchid="10627805"
+                                                                  data-oddtypeid="533"
+                                                                  data-outcomeid="Over"
+                                                                  data-isactive="True"
+                                                                  data-matchoddspecialbetvalue="6.5"
+                                                                  data-matchoddid="499051596"
+                                                                  data-BaseValue="10.50"
+                                                                  data-RatioCorrection="0.00"
+                                                                  data-oddvaluedecimal='10.50'
+                                                                  data-oddvalueamerican="+950"
+                                                                  style=" ">
+10.50                                                            </span>
+                                                    <span data-spreadcount="9" data-spreadno="7"
+                                                          data-matchid="10627805" data-oddtypeid="533"
+                                                          class="special-bet-prematch hidden" style="display: inline; ">
+                                                        
+7.5                                                    </span>
+                                                            <span class="betcolumn-market-1 match_odd match-odd quoteValue hidden "
+                                                                  data-spreadno="7"
+                                                                  data-matchid="10627805"
+                                                                  data-oddtypeid="533"
+                                                                  data-outcomeid="Under"
+                                                                  data-isactive="True"
+                                                                  data-matchoddspecialbetvalue="7.5"
+                                                                  data-matchoddid="499051598"
+                                                                  data-BaseValue="1.00"
+                                                                  data-RatioCorrection="0.00"
+                                                                  data-oddvaluedecimal='1.00'
+                                                                  data-oddvalueamerican=""
+                                                                  style=" ">
+1.00                                                            </span>
+                                                            <span class="betcolumn-market-1 match_odd match-odd quoteValue hidden "
+                                                                  data-spreadno="7"
+                                                                  data-matchid="10627805"
+                                                                  data-oddtypeid="533"
+                                                                  data-outcomeid="Over"
+                                                                  data-isactive="True"
+                                                                  data-matchoddspecialbetvalue="7.5"
+                                                                  data-matchoddid="499051597"
+                                                                  data-BaseValue="17.00"
+                                                                  data-RatioCorrection="0.00"
+                                                                  data-oddvaluedecimal='17.00'
+                                                                  data-oddvalueamerican="+1600"
+                                                                  style=" ">
+17.00                                                            </span>
+                                                    <span data-spreadcount="9" data-spreadno="8"
+                                                          data-matchid="10627805" data-oddtypeid="533"
+                                                          class="special-bet-prematch hidden" style="display: inline; ">
+                                                        
+8.5                                                    </span>
+                                                            <span class="betcolumn-market-1 match_odd match-odd quoteValue hidden "
+                                                                  data-spreadno="8"
+                                                                  data-matchid="10627805"
+                                                                  data-oddtypeid="533"
+                                                                  data-outcomeid="Under"
+                                                                  data-isactive="True"
+                                                                  data-matchoddspecialbetvalue="8.5"
+                                                                  data-matchoddid="499232827"
+                                                                  data-BaseValue="1.00"
+                                                                  data-RatioCorrection="0.00"
+                                                                  data-oddvaluedecimal='1.00'
+                                                                  data-oddvalueamerican=""
+                                                                  style=" ">
+1.00                                                            </span>
+                                                            <span class="betcolumn-market-1 match_odd match-odd quoteValue hidden "
+                                                                  data-spreadno="8"
+                                                                  data-matchid="10627805"
+                                                                  data-oddtypeid="533"
+                                                                  data-outcomeid="Over"
+                                                                  data-isactive="True"
+                                                                  data-matchoddspecialbetvalue="8.5"
+                                                                  data-matchoddid="499232826"
+                                                                  data-BaseValue="21.00"
+                                                                  data-RatioCorrection="0.00"
+                                                                  data-oddvaluedecimal='21.00'
+                                                                  data-oddvalueamerican="+2000"
+                                                                  style=" ">
+21.00                                                            </span>
+                                                    <span data-spreadcount="9" data-spreadno="9"
+                                                          data-matchid="10627805" data-oddtypeid="533"
+                                                          class="special-bet-prematch hidden" style="display: inline; ">
+                                                        
+9.5                                                    </span>
+                                    <span class="betcolumn-market-1 match_odd match-odd quoteValue hidden  "
+                                          data-spreadno="9" data-matchid="10627805" data-oddtypeid="533" data-isactive="False" style=""></span>
+                                    <span class="betcolumn-market-1 match_odd match-odd quoteValue hidden  "
+                                          data-spreadno="9" data-matchid="10627805" data-oddtypeid="533" data-isactive="False" style=""></span>
+                                    </td>
+                                <td class="betColumn" style="text-align: center">
+                                    <label class="match_odds_visibility" style="cursor:pointer; display: block"><span class="vis-no">+ 265</span><span class="vis-text">Close</span></label>
+                                </td>
+
+                            </tr>
+                            <tr data-matchoddsdetails="10627805" class="match_odds_details" style="display:none;">
+                                <td colspan="4"></td>
+                            </tr>
+                <tr class="header_row prematch-header-row">
+                    <th>
+                        <input type="hidden" class="receivedTournamentCount" value="2" />
+                        <span style="padding-left: 15px !important; font-weight: normal">14/06/2025</span>
+                    </th>
+                    <th class="auto-width-column">
+                    </th>
+
+                        <th class="div-bet-column-header main-market-no_1">
+                            
+                            <div class="dibBetColumnHeader">
+                                <div class='betColumnHeader'><label>&nbsp</label><label>Under</label><label>Over</label></div>
+                            </div>
+                        </th>
+                    <th class="plus-sign-column" style="text-align:center;">
+                    </th>
+                </tr>
+                            <tr data-matchid="10630449" data-tournamentid="158847" data-betradarid="15907021" class="trMatch">
+                                <td class="tdMatch tdCompetitors hidden-sm hidden-xs match_odds_visibility" style="border-right: none; cursor: pointer; text-align:left">
+                                    <div style="display: inline-block; padding: 5px 0 0 0; line-height: 30px; width: 60px; text-align: center; float: left;">
+                                        16:00
+                                    </div>
+
+                                    <div class="competitor-wrapper">
+                                            <div class="competitor1-section">
+                                                
+                                                <div class="competitor1-name">Mali Youth</div>
+                                                
+                                            </div>
+                                            <div class="competitors-result-separator"> - </div>
+                                            <div class="competitor2-section">
+                                                
+                                                <div class="competitor2-name">Japan Youth (Toulon) </div>
+                                                
+                                            </div>
+                                    </div>
+
+                                </td>
+                                
+                                <td class="auto-width-column">
+                                    <div class="btn-group pull-right" style="padding-top: 5px; padding-right: 5px">
+                                            <label class="dropdown-toggle match_statistic" title="Details" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" style="cursor:pointer">
+                                                <img src="/Content/images/marmaraTheme/graph.svg" width="12" height="14" />
+                                            </label>
+                                    </div>
+                                </td>
+
+
+                                    <td class="betColumn main-market-no_1">
+
+                                                    <span data-spreadcount="8" data-spreadno="0"
+                                                          data-matchid="10630449" data-oddtypeid="533"
+                                                          class="special-bet-prematch " style="display: inline; ">
+                                                        
+0.5                                                    </span>
+                                                            <span class="betcolumn-market-1 match_odd match-odd quoteValue  "
+                                                                  data-spreadno="0"
+                                                                  data-matchid="10630449"
+                                                                  data-oddtypeid="533"
+                                                                  data-outcomeid="Under"
+                                                                  data-isactive="True"
+                                                                  data-matchoddspecialbetvalue="0.5"
+                                                                  data-matchoddid="499142026"
+                                                                  data-BaseValue="13.00"
+                                                                  data-RatioCorrection="0.00"
+                                                                  data-oddvaluedecimal='13.00'
+                                                                  data-oddvalueamerican="+1200"
+                                                                  style=" ">
+13.00                                                            </span>
+                                                            <span class="betcolumn-market-1 match_odd match-odd quoteValue  "
+                                                                  data-spreadno="0"
+                                                                  data-matchid="10630449"
+                                                                  data-oddtypeid="533"
+                                                                  data-outcomeid="Over"
+                                                                  data-isactive="True"
+                                                                  data-matchoddspecialbetvalue="0.5"
+                                                                  data-matchoddid="499142013"
+                                                                  data-BaseValue="1.01"
+                                                                  data-RatioCorrection="-0.05"
+                                                                  data-oddvaluedecimal='0.96'
+                                                                  data-oddvalueamerican=""
+                                                                  style=" ">
+1.00                                                            </span>
+                                                    <span data-spreadcount="8" data-spreadno="1"
+                                                          data-matchid="10630449" data-oddtypeid="533"
+                                                          class="special-bet-prematch hidden" style="display: inline; ">
+                                                        
+1.5                                                    </span>
+                                                            <span class="betcolumn-market-1 match_odd match-odd quoteValue hidden "
+                                                                  data-spreadno="1"
+                                                                  data-matchid="10630449"
+                                                                  data-oddtypeid="533"
+                                                                  data-outcomeid="Under"
+                                                                  data-isactive="True"
+                                                                  data-matchoddspecialbetvalue="1.5"
+                                                                  data-matchoddid="499142025"
+                                                                  data-BaseValue="4.00"
+                                                                  data-RatioCorrection="0.00"
+                                                                  data-oddvaluedecimal='4.00'
+                                                                  data-oddvalueamerican="+300"
+                                                                  style=" ">
+4.00                                                            </span>
+                                                            <span class="betcolumn-market-1 match_odd match-odd quoteValue hidden "
+                                                                  data-spreadno="1"
+                                                                  data-matchid="10630449"
+                                                                  data-oddtypeid="533"
+                                                                  data-outcomeid="Over"
+                                                                  data-isactive="True"
+                                                                  data-matchoddspecialbetvalue="1.5"
+                                                                  data-matchoddid="499142014"
+                                                                  data-BaseValue="1.22"
+                                                                  data-RatioCorrection="0.00"
+                                                                  data-oddvaluedecimal='1.22'
+                                                                  data-oddvalueamerican="-455"
+                                                                  style=" ">
+1.22                                                            </span>
+                                                    <span data-spreadcount="8" data-spreadno="2"
+                                                          data-matchid="10630449" data-oddtypeid="533"
+                                                          class="special-bet-prematch hidden" style="display: inline; ">
+                                                        
+2.5                                                    </span>
+                                                            <span class="betcolumn-market-1 match_odd match-odd quoteValue hidden "
+                                                                  data-spreadno="2"
+                                                                  data-matchid="10630449"
+                                                                  data-oddtypeid="533"
+                                                                  data-outcomeid="Under"
+                                                                  data-isactive="True"
+                                                                  data-matchoddspecialbetvalue="2.5"
+                                                                  data-matchoddid="499141583"
+                                                                  data-BaseValue="2.05"
+                                                                  data-RatioCorrection="0.00"
+                                                                  data-oddvaluedecimal='2.05'
+                                                                  data-oddvalueamerican="+105"
+                                                                  style=" ">
+2.05                                                            </span>
+                                                            <span class="betcolumn-market-1 match_odd match-odd quoteValue hidden "
+                                                                  data-spreadno="2"
+                                                                  data-matchid="10630449"
+                                                                  data-oddtypeid="533"
+                                                                  data-outcomeid="Over"
+                                                                  data-isactive="True"
+                                                                  data-matchoddspecialbetvalue="2.5"
+                                                                  data-matchoddid="499141582"
+                                                                  data-BaseValue="1.75"
+                                                                  data-RatioCorrection="0.00"
+                                                                  data-oddvaluedecimal='1.75'
+                                                                  data-oddvalueamerican="-133"
+                                                                  style=" ">
+1.75                                                            </span>
+                                                    <span data-spreadcount="8" data-spreadno="3"
+                                                          data-matchid="10630449" data-oddtypeid="533"
+                                                          class="special-bet-prematch hidden" style="display: inline; ">
+                                                        
+3.5                                                    </span>
+                                                            <span class="betcolumn-market-1 match_odd match-odd quoteValue hidden "
+                                                                  data-spreadno="3"
+                                                                  data-matchid="10630449"
+                                                                  data-oddtypeid="533"
+                                                                  data-outcomeid="Under"
+                                                                  data-isactive="True"
+                                                                  data-matchoddspecialbetvalue="3.5"
+                                                                  data-matchoddid="499142024"
+                                                                  data-BaseValue="1.40"
+                                                                  data-RatioCorrection="0.00"
+                                                                  data-oddvaluedecimal='1.40'
+                                                                  data-oddvalueamerican="-250"
+                                                                  style=" ">
+1.40                                                            </span>
+                                                            <span class="betcolumn-market-1 match_odd match-odd quoteValue hidden "
+                                                                  data-spreadno="3"
+                                                                  data-matchid="10630449"
+                                                                  data-oddtypeid="533"
+                                                                  data-outcomeid="Over"
+                                                                  data-isactive="True"
+                                                                  data-matchoddspecialbetvalue="3.5"
+                                                                  data-matchoddid="499142015"
+                                                                  data-BaseValue="2.75"
+                                                                  data-RatioCorrection="0.00"
+                                                                  data-oddvaluedecimal='2.75'
+                                                                  data-oddvalueamerican="+175"
+                                                                  style=" ">
+2.75                                                            </span>
+                                                    <span data-spreadcount="8" data-spreadno="4"
+                                                          data-matchid="10630449" data-oddtypeid="533"
+                                                          class="special-bet-prematch hidden" style="display: inline; ">
+                                                        
+4.5                                                    </span>
+                                                            <span class="betcolumn-market-1 match_odd match-odd quoteValue hidden "
+                                                                  data-spreadno="4"
+                                                                  data-matchid="10630449"
+                                                                  data-oddtypeid="533"
+                                                                  data-outcomeid="Under"
+                                                                  data-isactive="True"
+                                                                  data-matchoddspecialbetvalue="4.5"
+                                                                  data-matchoddid="499142023"
+                                                                  data-BaseValue="1.14"
+                                                                  data-RatioCorrection="0.00"
+                                                                  data-oddvaluedecimal='1.14'
+                                                                  data-oddvalueamerican="-714"
+                                                                  style=" ">
+1.14                                                            </span>
+                                                            <span class="betcolumn-market-1 match_odd match-odd quoteValue hidden "
+                                                                  data-spreadno="4"
+                                                                  data-matchid="10630449"
+                                                                  data-oddtypeid="533"
+                                                                  data-outcomeid="Over"
+                                                                  data-isactive="True"
+                                                                  data-matchoddspecialbetvalue="4.5"
+                                                                  data-matchoddid="499142016"
+                                                                  data-BaseValue="5.00"
+                                                                  data-RatioCorrection="0.00"
+                                                                  data-oddvaluedecimal='5.00'
+                                                                  data-oddvalueamerican="+400"
+                                                                  style=" ">
+5.00                                                            </span>
+                                                    <span data-spreadcount="8" data-spreadno="5"
+                                                          data-matchid="10630449" data-oddtypeid="533"
+                                                          class="special-bet-prematch hidden" style="display: inline; ">
+                                                        
+5.5                                                    </span>
+                                                            <span class="betcolumn-market-1 match_odd match-odd quoteValue hidden "
+                                                                  data-spreadno="5"
+                                                                  data-matchid="10630449"
+                                                                  data-oddtypeid="533"
+                                                                  data-outcomeid="Under"
+                                                                  data-isactive="True"
+                                                                  data-matchoddspecialbetvalue="5.5"
+                                                                  data-matchoddid="499142022"
+                                                                  data-BaseValue="1.05"
+                                                                  data-RatioCorrection="-0.05"
+                                                                  data-oddvaluedecimal='1.00'
+                                                                  data-oddvalueamerican=""
+                                                                  style=" ">
+1.00                                                            </span>
+                                                            <span class="betcolumn-market-1 match_odd match-odd quoteValue hidden "
+                                                                  data-spreadno="5"
+                                                                  data-matchid="10630449"
+                                                                  data-oddtypeid="533"
+                                                                  data-outcomeid="Over"
+                                                                  data-isactive="True"
+                                                                  data-matchoddspecialbetvalue="5.5"
+                                                                  data-matchoddid="499142017"
+                                                                  data-BaseValue="8.50"
+                                                                  data-RatioCorrection="0.00"
+                                                                  data-oddvaluedecimal='8.50'
+                                                                  data-oddvalueamerican="+750"
+                                                                  style=" ">
+8.50                                                            </span>
+                                                    <span data-spreadcount="8" data-spreadno="6"
+                                                          data-matchid="10630449" data-oddtypeid="533"
+                                                          class="special-bet-prematch hidden" style="display: inline; ">
+                                                        
+6.5                                                    </span>
+                                                            <span class="betcolumn-market-1 match_odd match-odd quoteValue hidden "
+                                                                  data-spreadno="6"
+                                                                  data-matchid="10630449"
+                                                                  data-oddtypeid="533"
+                                                                  data-outcomeid="Under"
+                                                                  data-isactive="True"
+                                                                  data-matchoddspecialbetvalue="6.5"
+                                                                  data-matchoddid="499142021"
+                                                                  data-BaseValue="1.01"
+                                                                  data-RatioCorrection="-0.05"
+                                                                  data-oddvaluedecimal='0.96'
+                                                                  data-oddvalueamerican=""
+                                                                  style=" ">
+1.00                                                            </span>
+                                                            <span class="betcolumn-market-1 match_odd match-odd quoteValue hidden "
+                                                                  data-spreadno="6"
+                                                                  data-matchid="10630449"
+                                                                  data-oddtypeid="533"
+                                                                  data-outcomeid="Over"
+                                                                  data-isactive="True"
+                                                                  data-matchoddspecialbetvalue="6.5"
+                                                                  data-matchoddid="499142018"
+                                                                  data-BaseValue="13.00"
+                                                                  data-RatioCorrection="0.00"
+                                                                  data-oddvaluedecimal='13.00'
+                                                                  data-oddvalueamerican="+1200"
+                                                                  style=" ">
+13.00                                                            </span>
+                                                    <span data-spreadcount="8" data-spreadno="7"
+                                                          data-matchid="10630449" data-oddtypeid="533"
+                                                          class="special-bet-prematch hidden" style="display: inline; ">
+                                                        
+7.5                                                    </span>
+                                                            <span class="betcolumn-market-1 match_odd match-odd quoteValue hidden "
+                                                                  data-spreadno="7"
+                                                                  data-matchid="10630449"
+                                                                  data-oddtypeid="533"
+                                                                  data-outcomeid="Under"
+                                                                  data-isactive="True"
+                                                                  data-matchoddspecialbetvalue="7.5"
+                                                                  data-matchoddid="499142020"
+                                                                  data-BaseValue="1.00"
+                                                                  data-RatioCorrection="0.00"
+                                                                  data-oddvaluedecimal='1.00'
+                                                                  data-oddvalueamerican=""
+                                                                  style=" ">
+1.00                                                            </span>
+                                                            <span class="betcolumn-market-1 match_odd match-odd quoteValue hidden "
+                                                                  data-spreadno="7"
+                                                                  data-matchid="10630449"
+                                                                  data-oddtypeid="533"
+                                                                  data-outcomeid="Over"
+                                                                  data-isactive="True"
+                                                                  data-matchoddspecialbetvalue="7.5"
+                                                                  data-matchoddid="499142019"
+                                                                  data-BaseValue="21.00"
+                                                                  data-RatioCorrection="0.00"
+                                                                  data-oddvaluedecimal='21.00'
+                                                                  data-oddvalueamerican="+2000"
+                                                                  style=" ">
+21.00                                                            </span>
+                                                    <span data-spreadcount="8" data-spreadno="8"
+                                                          data-matchid="10630449" data-oddtypeid="533"
+                                                          class="special-bet-prematch hidden" style="display: inline; ">
+                                                        
+8.5                                                    </span>
+                                    <span class="betcolumn-market-1 match_odd match-odd quoteValue hidden  "
+                                          data-spreadno="8" data-matchid="10630449" data-oddtypeid="533" data-isactive="False" style=""></span>
+                                    <span class="betcolumn-market-1 match_odd match-odd quoteValue hidden  "
+                                          data-spreadno="8" data-matchid="10630449" data-oddtypeid="533" data-isactive="False" style=""></span>
+                                                    <span data-spreadcount="8" data-spreadno="9"
+                                                          data-matchid="10630449" data-oddtypeid="533"
+                                                          class="special-bet-prematch hidden" style="display: inline; ">
+                                                        
+9.5                                                    </span>
+                                    <span class="betcolumn-market-1 match_odd match-odd quoteValue hidden  "
+                                          data-spreadno="9" data-matchid="10630449" data-oddtypeid="533" data-isactive="False" style=""></span>
+                                    <span class="betcolumn-market-1 match_odd match-odd quoteValue hidden  "
+                                          data-spreadno="9" data-matchid="10630449" data-oddtypeid="533" data-isactive="False" style=""></span>
+                                    </td>
+                                <td class="betColumn" style="text-align: center">
+                                    <label class="match_odds_visibility" style="cursor:pointer; display: block"><span class="vis-no">+ 238</span><span class="vis-text">Close</span></label>
+                                </td>
+
+                            </tr>
+                            <tr data-matchoddsdetails="10630449" class="match_odds_details" style="display:none;">
+                                <td colspan="4"></td>
+                            </tr>
+                            <tr class="header_tournament_row first-header" data-tournamentid="22669">
+                                <td class="tournament_name_section">
+                                    <img src="/Content/images/flags/Australia.png" width="26" height="26" />
+                                    <div class="category-tournament-title">Australia / Victoria League</div>
+                                </td>
+                                <td class="auto-width-column">
+                                </td>
+                                    <td class="header_width_columns_3 main-market-no_1"></td>
+                                <td onclick="OpenCloseChevron(this);" style="width: 50px; text-align: center; cursor: pointer">
+                                    <i class="fa fa-chevron-up"></i>
+                                </td>
+                            </tr>
+                <tr class="header_row prematch-header-row">
+                    <th>
+                        <input type="hidden" class="receivedTournamentCount" value="2" />
+                        <span style="padding-left: 15px !important; font-weight: normal">14/06/2025</span>
+                    </th>
+                    <th class="auto-width-column">
+                    </th>
+
+                        <th class="div-bet-column-header main-market-no_1">
+                            
+                            <div class="dibBetColumnHeader">
+                                <div class='betColumnHeader'><label>&nbsp</label><label>Under</label><label>Over</label></div>
+                            </div>
+                        </th>
+                    <th class="plus-sign-column" style="text-align:center;">
+                    </th>
+                </tr>
+                            <tr data-matchid="10092219" data-tournamentid="22669" data-betradarid="15261374" class="trMatch">
+                                <td class="tdMatch tdCompetitors hidden-sm hidden-xs match_odds_visibility" style="border-right: none; cursor: pointer; text-align:left">
+                                    <div style="display: inline-block; padding: 5px 0 0 0; line-height: 30px; width: 60px; text-align: center; float: left;">
+                                        06:00
+                                    </div>
+
+                                    <div class="competitor-wrapper">
+                                            <div class="competitor1-section">
+                                                
+                                                <div class="competitor1-name">Avondale</div>
+                                                
+                                            </div>
+                                            <div class="competitors-result-separator"> - </div>
+                                            <div class="competitor2-section">
+                                                
+                                                <div class="competitor2-name">St. Albans Saints </div>
+                                                
+                                            </div>
+                                    </div>
+
+                                </td>
+                                
+                                <td class="auto-width-column">
+                                    <div class="btn-group pull-right" style="padding-top: 5px; padding-right: 5px">
+                                            <label class="dropdown-toggle match_statistic" title="Details" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" style="cursor:pointer">
+                                                <img src="/Content/images/marmaraTheme/graph.svg" width="12" height="14" />
+                                            </label>
+                                    </div>
+                                </td>
+
+
+                                    <td class="betColumn main-market-no_1">
+
+                                                    <span data-spreadcount="10" data-spreadno="0"
+                                                          data-matchid="10092219" data-oddtypeid="533"
+                                                          class="special-bet-prematch " style="display: inline; ">
+                                                        
+0.5                                                    </span>
+                                                            <span class="betcolumn-market-1 match_odd match-odd quoteValue  "
+                                                                  data-spreadno="0"
+                                                                  data-matchid="10092219"
+                                                                  data-oddtypeid="533"
+                                                                  data-outcomeid="Under"
+                                                                  data-isactive="True"
+                                                                  data-matchoddspecialbetvalue="0.5"
+                                                                  data-matchoddid="498726154"
+                                                                  data-BaseValue="15.00"
+                                                                  data-RatioCorrection="0.00"
+                                                                  data-oddvaluedecimal='15.00'
+                                                                  data-oddvalueamerican="+1400"
+                                                                  style=" ">
+15.00                                                            </span>
+                                                            <span class="betcolumn-market-1 match_odd match-odd quoteValue  "
+                                                                  data-spreadno="0"
+                                                                  data-matchid="10092219"
+                                                                  data-oddtypeid="533"
+                                                                  data-outcomeid="Over"
+                                                                  data-isactive="True"
+                                                                  data-matchoddspecialbetvalue="0.5"
+                                                                  data-matchoddid="498726139"
+                                                                  data-BaseValue="1.01"
+                                                                  data-RatioCorrection="-0.05"
+                                                                  data-oddvaluedecimal='0.96'
+                                                                  data-oddvalueamerican=""
+                                                                  style=" ">
+1.00                                                            </span>
+                                                    <span data-spreadcount="10" data-spreadno="1"
+                                                          data-matchid="10092219" data-oddtypeid="533"
+                                                          class="special-bet-prematch hidden" style="display: inline; ">
+                                                        
+1.5                                                    </span>
+                                                            <span class="betcolumn-market-1 match_odd match-odd quoteValue hidden "
+                                                                  data-spreadno="1"
+                                                                  data-matchid="10092219"
+                                                                  data-oddtypeid="533"
+                                                                  data-outcomeid="Under"
+                                                                  data-isactive="True"
+                                                                  data-matchoddspecialbetvalue="1.5"
+                                                                  data-matchoddid="498726153"
+                                                                  data-BaseValue="7.00"
+                                                                  data-RatioCorrection="0.00"
+                                                                  data-oddvaluedecimal='7.00'
+                                                                  data-oddvalueamerican="+600"
+                                                                  style=" ">
+7.00                                                            </span>
+                                                            <span class="betcolumn-market-1 match_odd match-odd quoteValue hidden "
+                                                                  data-spreadno="1"
+                                                                  data-matchid="10092219"
+                                                                  data-oddtypeid="533"
+                                                                  data-outcomeid="Over"
+                                                                  data-isactive="True"
+                                                                  data-matchoddspecialbetvalue="1.5"
+                                                                  data-matchoddid="498726140"
+                                                                  data-BaseValue="1.08"
+                                                                  data-RatioCorrection="-0.05"
+                                                                  data-oddvaluedecimal='1.03'
+                                                                  data-oddvalueamerican="-3333"
+                                                                  style=" ">
+1.03                                                            </span>
+                                                    <span data-spreadcount="10" data-spreadno="2"
+                                                          data-matchid="10092219" data-oddtypeid="533"
+                                                          class="special-bet-prematch hidden" style="display: inline; ">
+                                                        
+2.5                                                    </span>
+                                                            <span class="betcolumn-market-1 match_odd match-odd quoteValue hidden "
+                                                                  data-spreadno="2"
+                                                                  data-matchid="10092219"
+                                                                  data-oddtypeid="533"
+                                                                  data-outcomeid="Under"
+                                                                  data-isactive="True"
+                                                                  data-matchoddspecialbetvalue="2.5"
+                                                                  data-matchoddid="498725292"
+                                                                  data-BaseValue="3.40"
+                                                                  data-RatioCorrection="0.00"
+                                                                  data-oddvaluedecimal='3.40'
+                                                                  data-oddvalueamerican="+240"
+                                                                  style=" ">
+3.40                                                            </span>
+                                                            <span class="betcolumn-market-1 match_odd match-odd quoteValue hidden "
+                                                                  data-spreadno="2"
+                                                                  data-matchid="10092219"
+                                                                  data-oddtypeid="533"
+                                                                  data-outcomeid="Over"
+                                                                  data-isactive="True"
+                                                                  data-matchoddspecialbetvalue="2.5"
+                                                                  data-matchoddid="498725291"
+                                                                  data-BaseValue="1.30"
+                                                                  data-RatioCorrection="0.00"
+                                                                  data-oddvaluedecimal='1.30'
+                                                                  data-oddvalueamerican="-333"
+                                                                  style=" ">
+1.30                                                            </span>
+                                                    <span data-spreadcount="10" data-spreadno="3"
+                                                          data-matchid="10092219" data-oddtypeid="533"
+                                                          class="special-bet-prematch hidden" style="display: inline; ">
+                                                        
+3.5                                                    </span>
+                                                            <span class="betcolumn-market-1 match_odd match-odd quoteValue hidden "
+                                                                  data-spreadno="3"
+                                                                  data-matchid="10092219"
+                                                                  data-oddtypeid="533"
+                                                                  data-outcomeid="Under"
+                                                                  data-isactive="True"
+                                                                  data-matchoddspecialbetvalue="3.5"
+                                                                  data-matchoddid="498726152"
+                                                                  data-BaseValue="2.00"
+                                                                  data-RatioCorrection="0.00"
+                                                                  data-oddvaluedecimal='2.00'
+                                                                  data-oddvalueamerican="+100"
+                                                                  style=" ">
+2.00                                                            </span>
+                                                            <span class="betcolumn-market-1 match_odd match-odd quoteValue hidden "
+                                                                  data-spreadno="3"
+                                                                  data-matchid="10092219"
+                                                                  data-oddtypeid="533"
+                                                                  data-outcomeid="Over"
+                                                                  data-isactive="True"
+                                                                  data-matchoddspecialbetvalue="3.5"
+                                                                  data-matchoddid="498726141"
+                                                                  data-BaseValue="1.72"
+                                                                  data-RatioCorrection="0.00"
+                                                                  data-oddvaluedecimal='1.72'
+                                                                  data-oddvalueamerican="-139"
+                                                                  style=" ">
+1.72                                                            </span>
+                                                    <span data-spreadcount="10" data-spreadno="4"
+                                                          data-matchid="10092219" data-oddtypeid="533"
+                                                          class="special-bet-prematch hidden" style="display: inline; ">
+                                                        
+4.5                                                    </span>
+                                                            <span class="betcolumn-market-1 match_odd match-odd quoteValue hidden "
+                                                                  data-spreadno="4"
+                                                                  data-matchid="10092219"
+                                                                  data-oddtypeid="533"
+                                                                  data-outcomeid="Under"
+                                                                  data-isactive="True"
+                                                                  data-matchoddspecialbetvalue="4.5"
+                                                                  data-matchoddid="498726151"
+                                                                  data-BaseValue="1.44"
+                                                                  data-RatioCorrection="0.00"
+                                                                  data-oddvaluedecimal='1.44'
+                                                                  data-oddvalueamerican="-227"
+                                                                  style=" ">
+1.44                                                            </span>
+                                                            <span class="betcolumn-market-1 match_odd match-odd quoteValue hidden "
+                                                                  data-spreadno="4"
+                                                                  data-matchid="10092219"
+                                                                  data-oddtypeid="533"
+                                                                  data-outcomeid="Over"
+                                                                  data-isactive="True"
+                                                                  data-matchoddspecialbetvalue="4.5"
+                                                                  data-matchoddid="498726142"
+                                                                  data-BaseValue="2.62"
+                                                                  data-RatioCorrection="0.00"
+                                                                  data-oddvaluedecimal='2.62'
+                                                                  data-oddvalueamerican="+162"
+                                                                  style=" ">
+2.62                                                            </span>
+                                                    <span data-spreadcount="10" data-spreadno="5"
+                                                          data-matchid="10092219" data-oddtypeid="533"
+                                                          class="special-bet-prematch hidden" style="display: inline; ">
+                                                        
+5.5                                                    </span>
+                                                            <span class="betcolumn-market-1 match_odd match-odd quoteValue hidden "
+                                                                  data-spreadno="5"
+                                                                  data-matchid="10092219"
+                                                                  data-oddtypeid="533"
+                                                                  data-outcomeid="Under"
+                                                                  data-isactive="True"
+                                                                  data-matchoddspecialbetvalue="5.5"
+                                                                  data-matchoddid="498726150"
+                                                                  data-BaseValue="1.20"
+                                                                  data-RatioCorrection="0.00"
+                                                                  data-oddvaluedecimal='1.20'
+                                                                  data-oddvalueamerican="-500"
+                                                                  style=" ">
+1.20                                                            </span>
+                                                            <span class="betcolumn-market-1 match_odd match-odd quoteValue hidden "
+                                                                  data-spreadno="5"
+                                                                  data-matchid="10092219"
+                                                                  data-oddtypeid="533"
+                                                                  data-outcomeid="Over"
+                                                                  data-isactive="True"
+                                                                  data-matchoddspecialbetvalue="5.5"
+                                                                  data-matchoddid="498726143"
+                                                                  data-BaseValue="4.33"
+                                                                  data-RatioCorrection="0.00"
+                                                                  data-oddvaluedecimal='4.33'
+                                                                  data-oddvalueamerican="+333"
+                                                                  style=" ">
+4.33                                                            </span>
+                                                    <span data-spreadcount="10" data-spreadno="6"
+                                                          data-matchid="10092219" data-oddtypeid="533"
+                                                          class="special-bet-prematch hidden" style="display: inline; ">
+                                                        
+6.5                                                    </span>
+                                                            <span class="betcolumn-market-1 match_odd match-odd quoteValue hidden "
+                                                                  data-spreadno="6"
+                                                                  data-matchid="10092219"
+                                                                  data-oddtypeid="533"
+                                                                  data-outcomeid="Under"
+                                                                  data-isactive="True"
+                                                                  data-matchoddspecialbetvalue="6.5"
+                                                                  data-matchoddid="498726149"
+                                                                  data-BaseValue="1.07"
+                                                                  data-RatioCorrection="-0.05"
+                                                                  data-oddvaluedecimal='1.02'
+                                                                  data-oddvalueamerican="-5000"
+                                                                  style=" ">
+1.02                                                            </span>
+                                                            <span class="betcolumn-market-1 match_odd match-odd quoteValue hidden "
+                                                                  data-spreadno="6"
+                                                                  data-matchid="10092219"
+                                                                  data-oddtypeid="533"
+                                                                  data-outcomeid="Over"
+                                                                  data-isactive="True"
+                                                                  data-matchoddspecialbetvalue="6.5"
+                                                                  data-matchoddid="498726144"
+                                                                  data-BaseValue="7.50"
+                                                                  data-RatioCorrection="0.00"
+                                                                  data-oddvaluedecimal='7.50'
+                                                                  data-oddvalueamerican="+650"
+                                                                  style=" ">
+7.50                                                            </span>
+                                                    <span data-spreadcount="10" data-spreadno="7"
+                                                          data-matchid="10092219" data-oddtypeid="533"
+                                                          class="special-bet-prematch hidden" style="display: inline; ">
+                                                        
+7.5                                                    </span>
+                                                            <span class="betcolumn-market-1 match_odd match-odd quoteValue hidden "
+                                                                  data-spreadno="7"
+                                                                  data-matchid="10092219"
+                                                                  data-oddtypeid="533"
+                                                                  data-outcomeid="Under"
+                                                                  data-isactive="True"
+                                                                  data-matchoddspecialbetvalue="7.5"
+                                                                  data-matchoddid="498726148"
+                                                                  data-BaseValue="1.02"
+                                                                  data-RatioCorrection="-0.05"
+                                                                  data-oddvaluedecimal='0.97'
+                                                                  data-oddvalueamerican=""
+                                                                  style=" ">
+1.00                                                            </span>
+                                                            <span class="betcolumn-market-1 match_odd match-odd quoteValue hidden "
+                                                                  data-spreadno="7"
+                                                                  data-matchid="10092219"
+                                                                  data-oddtypeid="533"
+                                                                  data-outcomeid="Over"
+                                                                  data-isactive="True"
+                                                                  data-matchoddspecialbetvalue="7.5"
+                                                                  data-matchoddid="498726145"
+                                                                  data-BaseValue="10.50"
+                                                                  data-RatioCorrection="0.00"
+                                                                  data-oddvaluedecimal='10.50'
+                                                                  data-oddvalueamerican="+950"
+                                                                  style=" ">
+10.50                                                            </span>
+                                                    <span data-spreadcount="10" data-spreadno="8"
+                                                          data-matchid="10092219" data-oddtypeid="533"
+                                                          class="special-bet-prematch hidden" style="display: inline; ">
+                                                        
+8.5                                                    </span>
+                                                            <span class="betcolumn-market-1 match_odd match-odd quoteValue hidden "
+                                                                  data-spreadno="8"
+                                                                  data-matchid="10092219"
+                                                                  data-oddtypeid="533"
+                                                                  data-outcomeid="Under"
+                                                                  data-isactive="True"
+                                                                  data-matchoddspecialbetvalue="8.5"
+                                                                  data-matchoddid="498726147"
+                                                                  data-BaseValue="1.00"
+                                                                  data-RatioCorrection="0.00"
+                                                                  data-oddvaluedecimal='1.00'
+                                                                  data-oddvalueamerican=""
+                                                                  style=" ">
+1.00                                                            </span>
+                                                            <span class="betcolumn-market-1 match_odd match-odd quoteValue hidden "
+                                                                  data-spreadno="8"
+                                                                  data-matchid="10092219"
+                                                                  data-oddtypeid="533"
+                                                                  data-outcomeid="Over"
+                                                                  data-isactive="True"
+                                                                  data-matchoddspecialbetvalue="8.5"
+                                                                  data-matchoddid="498726146"
+                                                                  data-BaseValue="17.00"
+                                                                  data-RatioCorrection="0.00"
+                                                                  data-oddvaluedecimal='17.00'
+                                                                  data-oddvalueamerican="+1600"
+                                                                  style=" ">
+17.00                                                            </span>
+                                                    <span data-spreadcount="10" data-spreadno="9"
+                                                          data-matchid="10092219" data-oddtypeid="533"
+                                                          class="special-bet-prematch hidden" style="display: inline; ">
+                                                        
+9.5                                                    </span>
+                                                            <span class="betcolumn-market-1 match_odd match-odd quoteValue hidden "
+                                                                  data-spreadno="9"
+                                                                  data-matchid="10092219"
+                                                                  data-oddtypeid="533"
+                                                                  data-outcomeid="Under"
+                                                                  data-isactive="True"
+                                                                  data-matchoddspecialbetvalue="9.5"
+                                                                  data-matchoddid="499085143"
+                                                                  data-BaseValue="1.00"
+                                                                  data-RatioCorrection="0.00"
+                                                                  data-oddvaluedecimal='1.00'
+                                                                  data-oddvalueamerican=""
+                                                                  style=" ">
+1.00                                                            </span>
+                                                            <span class="betcolumn-market-1 match_odd match-odd quoteValue hidden "
+                                                                  data-spreadno="9"
+                                                                  data-matchid="10092219"
+                                                                  data-oddtypeid="533"
+                                                                  data-outcomeid="Over"
+                                                                  data-isactive="True"
+                                                                  data-matchoddspecialbetvalue="9.5"
+                                                                  data-matchoddid="499085142"
+                                                                  data-BaseValue="21.00"
+                                                                  data-RatioCorrection="0.00"
+                                                                  data-oddvaluedecimal='21.00'
+                                                                  data-oddvalueamerican="+2000"
+                                                                  style=" ">
+21.00                                                            </span>
+                                    </td>
+                                <td class="betColumn" style="text-align: center">
+                                    <label class="match_odds_visibility" style="cursor:pointer; display: block"><span class="vis-no">+ 392</span><span class="vis-text">Close</span></label>
+                                </td>
+
+                            </tr>
+                            <tr data-matchoddsdetails="10092219" class="match_odds_details" style="display:none;">
+                                <td colspan="4"></td>
+                            </tr>
+                            <tr data-matchid="10092220" data-tournamentid="22669" data-betradarid="15261375" class="trMatch">
+                                <td class="tdMatch tdCompetitors hidden-sm hidden-xs match_odds_visibility" style="border-right: none; cursor: pointer; text-align:left">
+                                    <div style="display: inline-block; padding: 5px 0 0 0; line-height: 30px; width: 60px; text-align: center; float: left;">
+                                        06:15
+                                    </div>
+
+                                    <div class="competitor-wrapper">
+                                            <div class="competitor1-section">
+                                                
+                                                <div class="competitor1-name">Altona Magic</div>
+                                                
+                                            </div>
+                                            <div class="competitors-result-separator"> - </div>
+                                            <div class="competitor2-section">
+                                                
+                                                <div class="competitor2-name">Hume City </div>
+                                                
+                                            </div>
+                                    </div>
+
+                                </td>
+                                
+                                <td class="auto-width-column">
+                                    <div class="btn-group pull-right" style="padding-top: 5px; padding-right: 5px">
+                                            <label class="dropdown-toggle match_statistic" title="Details" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" style="cursor:pointer">
+                                                <img src="/Content/images/marmaraTheme/graph.svg" width="12" height="14" />
+                                            </label>
+                                    </div>
+                                </td>
+
+
+                                    <td class="betColumn main-market-no_1">
+
+                                                    <span data-spreadcount="8" data-spreadno="0"
+                                                          data-matchid="10092220" data-oddtypeid="533"
+                                                          class="special-bet-prematch " style="display: inline; ">
+                                                        
+0.5                                                    </span>
+                                                            <span class="betcolumn-market-1 match_odd match-odd quoteValue  "
+                                                                  data-spreadno="0"
+                                                                  data-matchid="10092220"
+                                                                  data-oddtypeid="533"
+                                                                  data-outcomeid="Under"
+                                                                  data-isactive="True"
+                                                                  data-matchoddspecialbetvalue="0.5"
+                                                                  data-matchoddid="498726115"
+                                                                  data-BaseValue="10.00"
+                                                                  data-RatioCorrection="0.00"
+                                                                  data-oddvaluedecimal='10.00'
+                                                                  data-oddvalueamerican="+900"
+                                                                  style=" ">
+10.00                                                            </span>
+                                                            <span class="betcolumn-market-1 match_odd match-odd quoteValue  "
+                                                                  data-spreadno="0"
+                                                                  data-matchid="10092220"
+                                                                  data-oddtypeid="533"
+                                                                  data-outcomeid="Over"
+                                                                  data-isactive="True"
+                                                                  data-matchoddspecialbetvalue="0.5"
+                                                                  data-matchoddid="498726102"
+                                                                  data-BaseValue="1.03"
+                                                                  data-RatioCorrection="-0.05"
+                                                                  data-oddvaluedecimal='0.98'
+                                                                  data-oddvalueamerican=""
+                                                                  style=" ">
+1.00                                                            </span>
+                                                    <span data-spreadcount="8" data-spreadno="1"
+                                                          data-matchid="10092220" data-oddtypeid="533"
+                                                          class="special-bet-prematch hidden" style="display: inline; ">
+                                                        
+1.5                                                    </span>
+                                                            <span class="betcolumn-market-1 match_odd match-odd quoteValue hidden "
+                                                                  data-spreadno="1"
+                                                                  data-matchid="10092220"
+                                                                  data-oddtypeid="533"
+                                                                  data-outcomeid="Under"
+                                                                  data-isactive="True"
+                                                                  data-matchoddspecialbetvalue="1.5"
+                                                                  data-matchoddid="498726114"
+                                                                  data-BaseValue="4.33"
+                                                                  data-RatioCorrection="0.00"
+                                                                  data-oddvaluedecimal='4.33'
+                                                                  data-oddvalueamerican="+333"
+                                                                  style=" ">
+4.33                                                            </span>
+                                                            <span class="betcolumn-market-1 match_odd match-odd quoteValue hidden "
+                                                                  data-spreadno="1"
+                                                                  data-matchid="10092220"
+                                                                  data-oddtypeid="533"
+                                                                  data-outcomeid="Over"
+                                                                  data-isactive="True"
+                                                                  data-matchoddspecialbetvalue="1.5"
+                                                                  data-matchoddid="498726103"
+                                                                  data-BaseValue="1.20"
+                                                                  data-RatioCorrection="0.00"
+                                                                  data-oddvaluedecimal='1.20'
+                                                                  data-oddvalueamerican="-500"
+                                                                  style=" ">
+1.20                                                            </span>
+                                                    <span data-spreadcount="8" data-spreadno="2"
+                                                          data-matchid="10092220" data-oddtypeid="533"
+                                                          class="special-bet-prematch hidden" style="display: inline; ">
+                                                        
+2.5                                                    </span>
+                                                            <span class="betcolumn-market-1 match_odd match-odd quoteValue hidden "
+                                                                  data-spreadno="2"
+                                                                  data-matchid="10092220"
+                                                                  data-oddtypeid="533"
+                                                                  data-outcomeid="Under"
+                                                                  data-isactive="True"
+                                                                  data-matchoddspecialbetvalue="2.5"
+                                                                  data-matchoddid="498725157"
+                                                                  data-BaseValue="2.20"
+                                                                  data-RatioCorrection="0.00"
+                                                                  data-oddvaluedecimal='2.20'
+                                                                  data-oddvalueamerican="+120"
+                                                                  style=" ">
+2.20                                                            </span>
+                                                            <span class="betcolumn-market-1 match_odd match-odd quoteValue hidden "
+                                                                  data-spreadno="2"
+                                                                  data-matchid="10092220"
+                                                                  data-oddtypeid="533"
+                                                                  data-outcomeid="Over"
+                                                                  data-isactive="True"
+                                                                  data-matchoddspecialbetvalue="2.5"
+                                                                  data-matchoddid="498725156"
+                                                                  data-BaseValue="1.65"
+                                                                  data-RatioCorrection="0.00"
+                                                                  data-oddvaluedecimal='1.65'
+                                                                  data-oddvalueamerican="-154"
+                                                                  style=" ">
+1.65                                                            </span>
+                                                    <span data-spreadcount="8" data-spreadno="3"
+                                                          data-matchid="10092220" data-oddtypeid="533"
+                                                          class="special-bet-prematch hidden" style="display: inline; ">
+                                                        
+3.5                                                    </span>
+                                                            <span class="betcolumn-market-1 match_odd match-odd quoteValue hidden "
+                                                                  data-spreadno="3"
+                                                                  data-matchid="10092220"
+                                                                  data-oddtypeid="533"
+                                                                  data-outcomeid="Under"
+                                                                  data-isactive="True"
+                                                                  data-matchoddspecialbetvalue="3.5"
+                                                                  data-matchoddid="498726113"
+                                                                  data-BaseValue="1.44"
+                                                                  data-RatioCorrection="0.00"
+                                                                  data-oddvaluedecimal='1.44'
+                                                                  data-oddvalueamerican="-227"
+                                                                  style=" ">
+1.44                                                            </span>
+                                                            <span class="betcolumn-market-1 match_odd match-odd quoteValue hidden "
+                                                                  data-spreadno="3"
+                                                                  data-matchid="10092220"
+                                                                  data-oddtypeid="533"
+                                                                  data-outcomeid="Over"
+                                                                  data-isactive="True"
+                                                                  data-matchoddspecialbetvalue="3.5"
+                                                                  data-matchoddid="498726104"
+                                                                  data-BaseValue="2.62"
+                                                                  data-RatioCorrection="0.00"
+                                                                  data-oddvaluedecimal='2.62'
+                                                                  data-oddvalueamerican="+162"
+                                                                  style=" ">
+2.62                                                            </span>
+                                                    <span data-spreadcount="8" data-spreadno="4"
+                                                          data-matchid="10092220" data-oddtypeid="533"
+                                                          class="special-bet-prematch hidden" style="display: inline; ">
+                                                        
+4.5                                                    </span>
+                                                            <span class="betcolumn-market-1 match_odd match-odd quoteValue hidden "
+                                                                  data-spreadno="4"
+                                                                  data-matchid="10092220"
+                                                                  data-oddtypeid="533"
+                                                                  data-outcomeid="Under"
+                                                                  data-isactive="True"
+                                                                  data-matchoddspecialbetvalue="4.5"
+                                                                  data-matchoddid="498726112"
+                                                                  data-BaseValue="1.16"
+                                                                  data-RatioCorrection="0.00"
+                                                                  data-oddvaluedecimal='1.16'
+                                                                  data-oddvalueamerican="-625"
+                                                                  style=" ">
+1.16                                                            </span>
+                                                            <span class="betcolumn-market-1 match_odd match-odd quoteValue hidden "
+                                                                  data-spreadno="4"
+                                                                  data-matchid="10092220"
+                                                                  data-oddtypeid="533"
+                                                                  data-outcomeid="Over"
+                                                                  data-isactive="True"
+                                                                  data-matchoddspecialbetvalue="4.5"
+                                                                  data-matchoddid="498726105"
+                                                                  data-BaseValue="4.50"
+                                                                  data-RatioCorrection="0.00"
+                                                                  data-oddvaluedecimal='4.50'
+                                                                  data-oddvalueamerican="+350"
+                                                                  style=" ">
+4.50                                                            </span>
+                                                    <span data-spreadcount="8" data-spreadno="5"
+                                                          data-matchid="10092220" data-oddtypeid="533"
+                                                          class="special-bet-prematch hidden" style="display: inline; ">
+                                                        
+5.5                                                    </span>
+                                                            <span class="betcolumn-market-1 match_odd match-odd quoteValue hidden "
+                                                                  data-spreadno="5"
+                                                                  data-matchid="10092220"
+                                                                  data-oddtypeid="533"
+                                                                  data-outcomeid="Under"
+                                                                  data-isactive="True"
+                                                                  data-matchoddspecialbetvalue="5.5"
+                                                                  data-matchoddid="498726111"
+                                                                  data-BaseValue="1.06"
+                                                                  data-RatioCorrection="-0.05"
+                                                                  data-oddvaluedecimal='1.01'
+                                                                  data-oddvalueamerican="-10000"
+                                                                  style=" ">
+1.01                                                            </span>
+                                                            <span class="betcolumn-market-1 match_odd match-odd quoteValue hidden "
+                                                                  data-spreadno="5"
+                                                                  data-matchid="10092220"
+                                                                  data-oddtypeid="533"
+                                                                  data-outcomeid="Over"
+                                                                  data-isactive="True"
+                                                                  data-matchoddspecialbetvalue="5.5"
+                                                                  data-matchoddid="498726106"
+                                                                  data-BaseValue="8.00"
+                                                                  data-RatioCorrection="0.00"
+                                                                  data-oddvaluedecimal='8.00'
+                                                                  data-oddvalueamerican="+700"
+                                                                  style=" ">
+8.00                                                            </span>
+                                                    <span data-spreadcount="8" data-spreadno="6"
+                                                          data-matchid="10092220" data-oddtypeid="533"
+                                                          class="special-bet-prematch hidden" style="display: inline; ">
+                                                        
+6.5                                                    </span>
+                                                            <span class="betcolumn-market-1 match_odd match-odd quoteValue hidden "
+                                                                  data-spreadno="6"
+                                                                  data-matchid="10092220"
+                                                                  data-oddtypeid="533"
+                                                                  data-outcomeid="Under"
+                                                                  data-isactive="True"
+                                                                  data-matchoddspecialbetvalue="6.5"
+                                                                  data-matchoddid="498726110"
+                                                                  data-BaseValue="1.02"
+                                                                  data-RatioCorrection="-0.05"
+                                                                  data-oddvaluedecimal='0.97'
+                                                                  data-oddvalueamerican=""
+                                                                  style=" ">
+1.00                                                            </span>
+                                                            <span class="betcolumn-market-1 match_odd match-odd quoteValue hidden "
+                                                                  data-spreadno="6"
+                                                                  data-matchid="10092220"
+                                                                  data-oddtypeid="533"
+                                                                  data-outcomeid="Over"
+                                                                  data-isactive="True"
+                                                                  data-matchoddspecialbetvalue="6.5"
+                                                                  data-matchoddid="498726107"
+                                                                  data-BaseValue="11.00"
+                                                                  data-RatioCorrection="0.00"
+                                                                  data-oddvaluedecimal='11.00'
+                                                                  data-oddvalueamerican="+1000"
+                                                                  style=" ">
+11.00                                                            </span>
+                                                    <span data-spreadcount="8" data-spreadno="7"
+                                                          data-matchid="10092220" data-oddtypeid="533"
+                                                          class="special-bet-prematch hidden" style="display: inline; ">
+                                                        
+7.5                                                    </span>
+                                                            <span class="betcolumn-market-1 match_odd match-odd quoteValue hidden "
+                                                                  data-spreadno="7"
+                                                                  data-matchid="10092220"
+                                                                  data-oddtypeid="533"
+                                                                  data-outcomeid="Under"
+                                                                  data-isactive="True"
+                                                                  data-matchoddspecialbetvalue="7.5"
+                                                                  data-matchoddid="498726109"
+                                                                  data-BaseValue="1.00"
+                                                                  data-RatioCorrection="0.00"
+                                                                  data-oddvaluedecimal='1.00'
+                                                                  data-oddvalueamerican=""
+                                                                  style=" ">
+1.00                                                            </span>
+                                                            <span class="betcolumn-market-1 match_odd match-odd quoteValue hidden "
+                                                                  data-spreadno="7"
+                                                                  data-matchid="10092220"
+                                                                  data-oddtypeid="533"
+                                                                  data-outcomeid="Over"
+                                                                  data-isactive="True"
+                                                                  data-matchoddspecialbetvalue="7.5"
+                                                                  data-matchoddid="498726108"
+                                                                  data-BaseValue="17.00"
+                                                                  data-RatioCorrection="0.00"
+                                                                  data-oddvaluedecimal='17.00'
+                                                                  data-oddvalueamerican="+1600"
+                                                                  style=" ">
+17.00                                                            </span>
+                                                    <span data-spreadcount="8" data-spreadno="8"
+                                                          data-matchid="10092220" data-oddtypeid="533"
+                                                          class="special-bet-prematch hidden" style="display: inline; ">
+                                                        
+8.5                                                    </span>
+                                    <span class="betcolumn-market-1 match_odd match-odd quoteValue hidden  "
+                                          data-spreadno="8" data-matchid="10092220" data-oddtypeid="533" data-isactive="False" style=""></span>
+                                    <span class="betcolumn-market-1 match_odd match-odd quoteValue hidden  "
+                                          data-spreadno="8" data-matchid="10092220" data-oddtypeid="533" data-isactive="False" style=""></span>
+                                                    <span data-spreadcount="8" data-spreadno="9"
+                                                          data-matchid="10092220" data-oddtypeid="533"
+                                                          class="special-bet-prematch hidden" style="display: inline; ">
+                                                        
+9.5                                                    </span>
+                                    <span class="betcolumn-market-1 match_odd match-odd quoteValue hidden  "
+                                          data-spreadno="9" data-matchid="10092220" data-oddtypeid="533" data-isactive="False" style=""></span>
+                                    <span class="betcolumn-market-1 match_odd match-odd quoteValue hidden  "
+                                          data-spreadno="9" data-matchid="10092220" data-oddtypeid="533" data-isactive="False" style=""></span>
+                                    </td>
+                                <td class="betColumn" style="text-align: center">
+                                    <label class="match_odds_visibility" style="cursor:pointer; display: block"><span class="vis-no">+ 392</span><span class="vis-text">Close</span></label>
+                                </td>
+
+                            </tr>
+                            <tr data-matchoddsdetails="10092220" class="match_odds_details" style="display:none;">
+                                <td colspan="4"></td>
+                            </tr>
+                <tr class="header_row prematch-header-row">
+                    <th>
+                        <input type="hidden" class="receivedTournamentCount" value="2" />
+                        <span style="padding-left: 15px !important; font-weight: normal">15/06/2025</span>
+                    </th>
+                    <th class="auto-width-column">
+                    </th>
+
+                        <th class="div-bet-column-header main-market-no_1">
+                            
+                            <div class="dibBetColumnHeader">
+                                <div class='betColumnHeader'><label>&nbsp</label><label>Under</label><label>Over</label></div>
+                            </div>
+                        </th>
+                    <th class="plus-sign-column" style="text-align:center;">
+                    </th>
+                </tr>
+                            <tr data-matchid="10092221" data-tournamentid="22669" data-betradarid="15261377" class="trMatch">
+                                <td class="tdMatch tdCompetitors hidden-sm hidden-xs match_odds_visibility" style="border-right: none; cursor: pointer; text-align:left">
+                                    <div style="display: inline-block; padding: 5px 0 0 0; line-height: 30px; width: 60px; text-align: center; float: left;">
+                                        08:00
+                                    </div>
+
+                                    <div class="competitor-wrapper">
+                                            <div class="competitor1-section">
+                                                
+                                                <div class="competitor1-name">South Melbourne</div>
+                                                
+                                            </div>
+                                            <div class="competitors-result-separator"> - </div>
+                                            <div class="competitor2-section">
+                                                
+                                                <div class="competitor2-name">Preston Lions </div>
+                                                
+                                            </div>
+                                    </div>
+
+                                </td>
+                                
+                                <td class="auto-width-column">
+                                    <div class="btn-group pull-right" style="padding-top: 5px; padding-right: 5px">
+                                            <label class="dropdown-toggle match_statistic" title="Details" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" style="cursor:pointer">
+                                                <img src="/Content/images/marmaraTheme/graph.svg" width="12" height="14" />
+                                            </label>
+                                    </div>
+                                </td>
+
+
+                                    <td class="betColumn main-market-no_1">
+
+                                                    <span data-spreadcount="8" data-spreadno="0"
+                                                          data-matchid="10092221" data-oddtypeid="533"
+                                                          class="special-bet-prematch " style="display: inline; ">
+                                                        
+0.5                                                    </span>
+                                                            <span class="betcolumn-market-1 match_odd match-odd quoteValue  "
+                                                                  data-spreadno="0"
+                                                                  data-matchid="10092221"
+                                                                  data-oddtypeid="533"
+                                                                  data-outcomeid="Under"
+                                                                  data-isactive="True"
+                                                                  data-matchoddspecialbetvalue="0.5"
+                                                                  data-matchoddid="498726231"
+                                                                  data-BaseValue="9.00"
+                                                                  data-RatioCorrection="0.00"
+                                                                  data-oddvaluedecimal='9.00'
+                                                                  data-oddvalueamerican="+800"
+                                                                  style=" ">
+9.00                                                            </span>
+                                                            <span class="betcolumn-market-1 match_odd match-odd quoteValue  "
+                                                                  data-spreadno="0"
+                                                                  data-matchid="10092221"
+                                                                  data-oddtypeid="533"
+                                                                  data-outcomeid="Over"
+                                                                  data-isactive="True"
+                                                                  data-matchoddspecialbetvalue="0.5"
+                                                                  data-matchoddid="498726218"
+                                                                  data-BaseValue="1.04"
+                                                                  data-RatioCorrection="-0.05"
+                                                                  data-oddvaluedecimal='0.99'
+                                                                  data-oddvalueamerican=""
+                                                                  style=" ">
+1.00                                                            </span>
+                                                    <span data-spreadcount="8" data-spreadno="1"
+                                                          data-matchid="10092221" data-oddtypeid="533"
+                                                          class="special-bet-prematch hidden" style="display: inline; ">
+                                                        
+1.5                                                    </span>
+                                                            <span class="betcolumn-market-1 match_odd match-odd quoteValue hidden "
+                                                                  data-spreadno="1"
+                                                                  data-matchid="10092221"
+                                                                  data-oddtypeid="533"
+                                                                  data-outcomeid="Under"
+                                                                  data-isactive="True"
+                                                                  data-matchoddspecialbetvalue="1.5"
+                                                                  data-matchoddid="498726230"
+                                                                  data-BaseValue="4.00"
+                                                                  data-RatioCorrection="0.00"
+                                                                  data-oddvaluedecimal='4.00'
+                                                                  data-oddvalueamerican="+300"
+                                                                  style=" ">
+4.00                                                            </span>
+                                                            <span class="betcolumn-market-1 match_odd match-odd quoteValue hidden "
+                                                                  data-spreadno="1"
+                                                                  data-matchid="10092221"
+                                                                  data-oddtypeid="533"
+                                                                  data-outcomeid="Over"
+                                                                  data-isactive="True"
+                                                                  data-matchoddspecialbetvalue="1.5"
+                                                                  data-matchoddid="498726219"
+                                                                  data-BaseValue="1.22"
+                                                                  data-RatioCorrection="0.00"
+                                                                  data-oddvaluedecimal='1.22'
+                                                                  data-oddvalueamerican="-455"
+                                                                  style=" ">
+1.22                                                            </span>
+                                                    <span data-spreadcount="8" data-spreadno="2"
+                                                          data-matchid="10092221" data-oddtypeid="533"
+                                                          class="special-bet-prematch hidden" style="display: inline; ">
+                                                        
+2.5                                                    </span>
+                                                            <span class="betcolumn-market-1 match_odd match-odd quoteValue hidden "
+                                                                  data-spreadno="2"
+                                                                  data-matchid="10092221"
+                                                                  data-oddtypeid="533"
+                                                                  data-outcomeid="Under"
+                                                                  data-isactive="True"
+                                                                  data-matchoddspecialbetvalue="2.5"
+                                                                  data-matchoddid="498725686"
+                                                                  data-BaseValue="2.05"
+                                                                  data-RatioCorrection="0.00"
+                                                                  data-oddvaluedecimal='2.05'
+                                                                  data-oddvalueamerican="+105"
+                                                                  style=" ">
+2.05                                                            </span>
+                                                            <span class="betcolumn-market-1 match_odd match-odd quoteValue hidden "
+                                                                  data-spreadno="2"
+                                                                  data-matchid="10092221"
+                                                                  data-oddtypeid="533"
+                                                                  data-outcomeid="Over"
+                                                                  data-isactive="True"
+                                                                  data-matchoddspecialbetvalue="2.5"
+                                                                  data-matchoddid="498725685"
+                                                                  data-BaseValue="1.75"
+                                                                  data-RatioCorrection="0.00"
+                                                                  data-oddvaluedecimal='1.75'
+                                                                  data-oddvalueamerican="-133"
+                                                                  style=" ">
+1.75                                                            </span>
+                                                    <span data-spreadcount="8" data-spreadno="3"
+                                                          data-matchid="10092221" data-oddtypeid="533"
+                                                          class="special-bet-prematch hidden" style="display: inline; ">
+                                                        
+3.5                                                    </span>
+                                                            <span class="betcolumn-market-1 match_odd match-odd quoteValue hidden "
+                                                                  data-spreadno="3"
+                                                                  data-matchid="10092221"
+                                                                  data-oddtypeid="533"
+                                                                  data-outcomeid="Under"
+                                                                  data-isactive="True"
+                                                                  data-matchoddspecialbetvalue="3.5"
+                                                                  data-matchoddid="498726229"
+                                                                  data-BaseValue="1.40"
+                                                                  data-RatioCorrection="0.00"
+                                                                  data-oddvaluedecimal='1.40'
+                                                                  data-oddvalueamerican="-250"
+                                                                  style=" ">
+1.40                                                            </span>
+                                                            <span class="betcolumn-market-1 match_odd match-odd quoteValue hidden "
+                                                                  data-spreadno="3"
+                                                                  data-matchid="10092221"
+                                                                  data-oddtypeid="533"
+                                                                  data-outcomeid="Over"
+                                                                  data-isactive="True"
+                                                                  data-matchoddspecialbetvalue="3.5"
+                                                                  data-matchoddid="498726220"
+                                                                  data-BaseValue="2.75"
+                                                                  data-RatioCorrection="0.00"
+                                                                  data-oddvaluedecimal='2.75'
+                                                                  data-oddvalueamerican="+175"
+                                                                  style=" ">
+2.75                                                            </span>
+                                                    <span data-spreadcount="8" data-spreadno="4"
+                                                          data-matchid="10092221" data-oddtypeid="533"
+                                                          class="special-bet-prematch hidden" style="display: inline; ">
+                                                        
+4.5                                                    </span>
+                                                            <span class="betcolumn-market-1 match_odd match-odd quoteValue hidden "
+                                                                  data-spreadno="4"
+                                                                  data-matchid="10092221"
+                                                                  data-oddtypeid="533"
+                                                                  data-outcomeid="Under"
+                                                                  data-isactive="True"
+                                                                  data-matchoddspecialbetvalue="4.5"
+                                                                  data-matchoddid="498726228"
+                                                                  data-BaseValue="1.14"
+                                                                  data-RatioCorrection="0.00"
+                                                                  data-oddvaluedecimal='1.14'
+                                                                  data-oddvalueamerican="-714"
+                                                                  style=" ">
+1.14                                                            </span>
+                                                            <span class="betcolumn-market-1 match_odd match-odd quoteValue hidden "
+                                                                  data-spreadno="4"
+                                                                  data-matchid="10092221"
+                                                                  data-oddtypeid="533"
+                                                                  data-outcomeid="Over"
+                                                                  data-isactive="True"
+                                                                  data-matchoddspecialbetvalue="4.5"
+                                                                  data-matchoddid="498726221"
+                                                                  data-BaseValue="5.00"
+                                                                  data-RatioCorrection="0.00"
+                                                                  data-oddvaluedecimal='5.00'
+                                                                  data-oddvalueamerican="+400"
+                                                                  style=" ">
+5.00                                                            </span>
+                                                    <span data-spreadcount="8" data-spreadno="5"
+                                                          data-matchid="10092221" data-oddtypeid="533"
+                                                          class="special-bet-prematch hidden" style="display: inline; ">
+                                                        
+5.5                                                    </span>
+                                                            <span class="betcolumn-market-1 match_odd match-odd quoteValue hidden "
+                                                                  data-spreadno="5"
+                                                                  data-matchid="10092221"
+                                                                  data-oddtypeid="533"
+                                                                  data-outcomeid="Under"
+                                                                  data-isactive="True"
+                                                                  data-matchoddspecialbetvalue="5.5"
+                                                                  data-matchoddid="498726227"
+                                                                  data-BaseValue="1.05"
+                                                                  data-RatioCorrection="-0.05"
+                                                                  data-oddvaluedecimal='1.00'
+                                                                  data-oddvalueamerican=""
+                                                                  style=" ">
+1.00                                                            </span>
+                                                            <span class="betcolumn-market-1 match_odd match-odd quoteValue hidden "
+                                                                  data-spreadno="5"
+                                                                  data-matchid="10092221"
+                                                                  data-oddtypeid="533"
+                                                                  data-outcomeid="Over"
+                                                                  data-isactive="True"
+                                                                  data-matchoddspecialbetvalue="5.5"
+                                                                  data-matchoddid="498726222"
+                                                                  data-BaseValue="8.50"
+                                                                  data-RatioCorrection="0.00"
+                                                                  data-oddvaluedecimal='8.50'
+                                                                  data-oddvalueamerican="+750"
+                                                                  style=" ">
+8.50                                                            </span>
+                                                    <span data-spreadcount="8" data-spreadno="6"
+                                                          data-matchid="10092221" data-oddtypeid="533"
+                                                          class="special-bet-prematch hidden" style="display: inline; ">
+                                                        
+6.5                                                    </span>
+                                                            <span class="betcolumn-market-1 match_odd match-odd quoteValue hidden "
+                                                                  data-spreadno="6"
+                                                                  data-matchid="10092221"
+                                                                  data-oddtypeid="533"
+                                                                  data-outcomeid="Under"
+                                                                  data-isactive="True"
+                                                                  data-matchoddspecialbetvalue="6.5"
+                                                                  data-matchoddid="498726226"
+                                                                  data-BaseValue="1.01"
+                                                                  data-RatioCorrection="-0.05"
+                                                                  data-oddvaluedecimal='0.96'
+                                                                  data-oddvalueamerican=""
+                                                                  style=" ">
+1.00                                                            </span>
+                                                            <span class="betcolumn-market-1 match_odd match-odd quoteValue hidden "
+                                                                  data-spreadno="6"
+                                                                  data-matchid="10092221"
+                                                                  data-oddtypeid="533"
+                                                                  data-outcomeid="Over"
+                                                                  data-isactive="True"
+                                                                  data-matchoddspecialbetvalue="6.5"
+                                                                  data-matchoddid="498726223"
+                                                                  data-BaseValue="13.00"
+                                                                  data-RatioCorrection="0.00"
+                                                                  data-oddvaluedecimal='13.00'
+                                                                  data-oddvalueamerican="+1200"
+                                                                  style=" ">
+13.00                                                            </span>
+                                                    <span data-spreadcount="8" data-spreadno="7"
+                                                          data-matchid="10092221" data-oddtypeid="533"
+                                                          class="special-bet-prematch hidden" style="display: inline; ">
+                                                        
+7.5                                                    </span>
+                                                            <span class="betcolumn-market-1 match_odd match-odd quoteValue hidden "
+                                                                  data-spreadno="7"
+                                                                  data-matchid="10092221"
+                                                                  data-oddtypeid="533"
+                                                                  data-outcomeid="Under"
+                                                                  data-isactive="True"
+                                                                  data-matchoddspecialbetvalue="7.5"
+                                                                  data-matchoddid="498726225"
+                                                                  data-BaseValue="1.00"
+                                                                  data-RatioCorrection="0.00"
+                                                                  data-oddvaluedecimal='1.00'
+                                                                  data-oddvalueamerican=""
+                                                                  style=" ">
+1.00                                                            </span>
+                                                            <span class="betcolumn-market-1 match_odd match-odd quoteValue hidden "
+                                                                  data-spreadno="7"
+                                                                  data-matchid="10092221"
+                                                                  data-oddtypeid="533"
+                                                                  data-outcomeid="Over"
+                                                                  data-isactive="True"
+                                                                  data-matchoddspecialbetvalue="7.5"
+                                                                  data-matchoddid="498726224"
+                                                                  data-BaseValue="21.00"
+                                                                  data-RatioCorrection="0.00"
+                                                                  data-oddvaluedecimal='21.00'
+                                                                  data-oddvalueamerican="+2000"
+                                                                  style=" ">
+21.00                                                            </span>
+                                                    <span data-spreadcount="8" data-spreadno="8"
+                                                          data-matchid="10092221" data-oddtypeid="533"
+                                                          class="special-bet-prematch hidden" style="display: inline; ">
+                                                        
+8.5                                                    </span>
+                                    <span class="betcolumn-market-1 match_odd match-odd quoteValue hidden  "
+                                          data-spreadno="8" data-matchid="10092221" data-oddtypeid="533" data-isactive="False" style=""></span>
+                                    <span class="betcolumn-market-1 match_odd match-odd quoteValue hidden  "
+                                          data-spreadno="8" data-matchid="10092221" data-oddtypeid="533" data-isactive="False" style=""></span>
+                                                    <span data-spreadcount="8" data-spreadno="9"
+                                                          data-matchid="10092221" data-oddtypeid="533"
+                                                          class="special-bet-prematch hidden" style="display: inline; ">
+                                                        
+9.5                                                    </span>
+                                    <span class="betcolumn-market-1 match_odd match-odd quoteValue hidden  "
+                                          data-spreadno="9" data-matchid="10092221" data-oddtypeid="533" data-isactive="False" style=""></span>
+                                    <span class="betcolumn-market-1 match_odd match-odd quoteValue hidden  "
+                                          data-spreadno="9" data-matchid="10092221" data-oddtypeid="533" data-isactive="False" style=""></span>
+                                    </td>
+                                <td class="betColumn" style="text-align: center">
+                                    <label class="match_odds_visibility" style="cursor:pointer; display: block"><span class="vis-no">+ 345</span><span class="vis-text">Close</span></label>
+                                </td>
+
+                            </tr>
+                            <tr data-matchoddsdetails="10092221" class="match_odds_details" style="display:none;">
+                                <td colspan="4"></td>
+                            </tr>
+                </tbody>
+            </table>
+            <div class="load-more-section" style="text-align:center; ">
+                <div class="btn cTicketButton match_load_more_btn" style="margin: 20px auto;padding: 12px 40px;" onclick="matchList(true);">Load more</div>
+            </div>
+        </div>
+
+</section>
+
+
+
+<script type="text/javascript">
+    var _sportId = '1181';
+    var _sportCategoryId = '';
+    var _tournamentId = '';
+    var receivedTournamentsCount = convertToNumeric1('2');
+    var chosenOddType = '533';
+
+    $(document).ready(function () {
+
+        initMatchesList(4);
+
+        //if (isEmpty(_tournamentId) && receivedTournamentsCount >= parseInt($("#SelectedTournamentPerPage").val())) {
+        //    var waypoint = new Waypoint({
+        //        element: $('#CentralDataHolder')[0],
+        //        handler: function (direction) {
+        //            if ((direction === 'down') && !$(".main").hasClass("TicketMobileShow")) {
+        //                Waypoint.disableAll();
+        //                matchList(true);
+        //            }
+        //        },
+        //        offset: 'bottom-in-view'
+        //    });
+        //}
+
+        //if (isEmpty(_tournamentId) || forceMarketGroups == 1) {
+        //    ReinitializeSlickForMainFilters()
+        //}
+
+        $(".sport_list .sport_item.selected").removeClass("selected");
+        $(".sport_list .category_list .sportcategory_item.selected").removeClass("selected");
+        //$(".sport_list .category_list .sport_category_tournaments .tournament_item.selected").removeClass("selected");
+
+        //selektovanje sporta
+        if (!isEmpty(_sportId)) {
+            var elementManu = $(".sport_list").find("a.sport_item[data-sportid='{0}']".format(_sportId));
+            if (!elementManu.hasClass('selected'))
+                elementManu.addClass('selected');
+        }
+
+        //selektovanje sport kategorije
+        if (!isEmpty(_sportCategoryId)) {
+            var elementManu = $(".sport_list .sport_categories[data-sportid='{0}'] .sportcategory_item[data-sportcategoryid='{1}']".format(_sportId, _sportCategoryId));
+            if (!elementManu.hasClass('selected'))
+                elementManu.addClass('selected');
+        }
+
+        //selektovanje tournamenta
+        //if (!isEmpty(_tournamentId)) {
+        //    var elementManu = $(".sport_list .sport_categories[data-sportid='{0}'] .sport_category_tournaments[data-sportcategoryid='{1}'] .tournament_item[data-tournamentid='{2}']".format(_sportId, _sportCategoryId, _tournamentId));
+        //    if (!elementManu.hasClass('selected'))
+        //        elementManu.addClass('selected');
+        //}
+
+        
+
+
+        //if (isEmpty(chosenOddType))
+        generateHtmlGroup([{"MatchId":0,"MatchOddTypeList":[{"MatchOddValues":[],"MatchId":0,"OddTypeId":532,"OddTypeGroupId":null,"OddTypeName":"1X2","SpecialBetValue":null,"DisplayIndex":9990,"GroupBySpecialBetValue":null,"IsActive":true},{"MatchOddValues":[],"MatchId":0,"OddTypeId":544,"OddTypeGroupId":null,"OddTypeName":"Both Teams To Score","SpecialBetValue":null,"DisplayIndex":9985,"GroupBySpecialBetValue":null,"IsActive":true},{"MatchOddValues":[],"MatchId":0,"OddTypeId":533,"OddTypeGroupId":null,"OddTypeName":"Under/Over","SpecialBetValue":null,"DisplayIndex":9983,"GroupBySpecialBetValue":null,"IsActive":true},{"MatchOddValues":[],"MatchId":0,"OddTypeId":535,"OddTypeGroupId":null,"OddTypeName":"HT/FT","SpecialBetValue":null,"DisplayIndex":9940,"GroupBySpecialBetValue":null,"IsActive":true},{"MatchOddValues":[],"MatchId":0,"OddTypeId":619,"OddTypeGroupId":null,"OddTypeName":"Home Team To Win At Least One Half","SpecialBetValue":null,"DisplayIndex":9900,"GroupBySpecialBetValue":null,"IsActive":true},{"MatchOddValues":[],"MatchId":0,"OddTypeId":618,"OddTypeGroupId":null,"OddTypeName":"Away Team To Win At Least One Half","SpecialBetValue":null,"DisplayIndex":9890,"GroupBySpecialBetValue":null,"IsActive":true},{"MatchOddValues":[],"MatchId":0,"OddTypeId":613,"OddTypeGroupId":null,"OddTypeName":"Home Team To Win Both Halves","SpecialBetValue":null,"DisplayIndex":9880,"GroupBySpecialBetValue":null,"IsActive":true},{"MatchOddValues":[],"MatchId":0,"OddTypeId":612,"OddTypeGroupId":null,"OddTypeName":"Away Team To Win Both Halves","SpecialBetValue":null,"DisplayIndex":9870,"GroupBySpecialBetValue":null,"IsActive":true},{"MatchOddValues":[],"MatchId":0,"OddTypeId":596,"OddTypeGroupId":null,"OddTypeName":"To Win Both Halves","SpecialBetValue":null,"DisplayIndex":null,"GroupBySpecialBetValue":null,"IsActive":true}],"OddTypeGroupId":74,"Name":"POPULAR","DisplayIndex":100,"IsActive":true,"SportId":1181,"Expanded":true,"SportName":null},{"MatchId":0,"MatchOddTypeList":[{"MatchOddValues":[],"MatchId":0,"OddTypeId":610,"OddTypeGroupId":null,"OddTypeName":"Under/Over - Home Team","SpecialBetValue":null,"DisplayIndex":8960,"GroupBySpecialBetValue":null,"IsActive":true},{"MatchOddValues":[],"MatchId":0,"OddTypeId":611,"OddTypeGroupId":null,"OddTypeName":"Under/Over - Away Team","SpecialBetValue":null,"DisplayIndex":8950,"GroupBySpecialBetValue":null,"IsActive":true},{"MatchOddValues":[],"MatchId":0,"OddTypeId":543,"OddTypeGroupId":null,"OddTypeName":"First Team To Score","SpecialBetValue":null,"DisplayIndex":8940,"GroupBySpecialBetValue":null,"IsActive":true},{"MatchOddValues":[],"MatchId":0,"OddTypeId":570,"OddTypeGroupId":null,"OddTypeName":"Last Team To Score","SpecialBetValue":null,"DisplayIndex":8930,"GroupBySpecialBetValue":null,"IsActive":true},{"MatchOddValues":[],"MatchId":0,"OddTypeId":548,"OddTypeGroupId":null,"OddTypeName":"Home Team to Score","SpecialBetValue":null,"DisplayIndex":8920,"GroupBySpecialBetValue":null,"IsActive":true},{"MatchOddValues":[],"MatchId":0,"OddTypeId":547,"OddTypeGroupId":null,"OddTypeName":"Away Team to Score","SpecialBetValue":null,"DisplayIndex":8910,"GroupBySpecialBetValue":null,"IsActive":true},{"MatchOddValues":[],"MatchId":0,"OddTypeId":627,"OddTypeGroupId":null,"OddTypeName":"Number of Goals","SpecialBetValue":null,"DisplayIndex":8830,"GroupBySpecialBetValue":null,"IsActive":true}],"OddTypeGroupId":75,"Name":"GOALS","DisplayIndex":90,"IsActive":true,"SportId":1181,"Expanded":false,"SportName":null},{"MatchId":0,"MatchOddTypeList":[{"MatchOddValues":[],"MatchId":0,"OddTypeId":534,"OddTypeGroupId":null,"OddTypeName":"Asian Handicap","SpecialBetValue":null,"DisplayIndex":2980,"GroupBySpecialBetValue":null,"IsActive":true},{"MatchOddValues":[],"MatchId":0,"OddTypeId":576,"OddTypeGroupId":null,"OddTypeName":"Asian Handicap - 1st Half","SpecialBetValue":null,"DisplayIndex":2970,"GroupBySpecialBetValue":null,"IsActive":true},{"MatchOddValues":[],"MatchId":0,"OddTypeId":577,"OddTypeGroupId":null,"OddTypeName":"Asian Handicap - 2nd Half","SpecialBetValue":null,"DisplayIndex":2960,"GroupBySpecialBetValue":null,"IsActive":true}],"OddTypeGroupId":81,"Name":"HANDICAP","DisplayIndex":80,"IsActive":true,"SportId":1181,"Expanded":false,"SportName":null},{"MatchId":0,"MatchOddTypeList":[{"MatchOddValues":[],"MatchId":0,"OddTypeId":556,"OddTypeGroupId":null,"OddTypeName":"1X2 - 1st Half","SpecialBetValue":null,"DisplayIndex":7990,"GroupBySpecialBetValue":null,"IsActive":true},{"MatchOddValues":[],"MatchId":0,"OddTypeId":546,"OddTypeGroupId":null,"OddTypeName":"Under/Over - 1st Half","SpecialBetValue":null,"DisplayIndex":7960,"GroupBySpecialBetValue":null,"IsActive":true},{"MatchOddValues":[],"MatchId":0,"OddTypeId":569,"OddTypeGroupId":null,"OddTypeName":"First Team To Score 1st Half","SpecialBetValue":null,"DisplayIndex":7890,"GroupBySpecialBetValue":null,"IsActive":true},{"MatchOddValues":[],"MatchId":0,"OddTypeId":584,"OddTypeGroupId":null,"OddTypeName":"1st Half - Odd/Even","SpecialBetValue":null,"DisplayIndex":null,"GroupBySpecialBetValue":null,"IsActive":true}],"OddTypeGroupId":76,"Name":"1ST HALF","DisplayIndex":70,"IsActive":true,"SportId":1181,"Expanded":false,"SportName":null},{"MatchId":0,"MatchOddTypeList":[{"MatchOddValues":[],"MatchId":0,"OddTypeId":557,"OddTypeGroupId":null,"OddTypeName":"1X2 - 2nd Half","SpecialBetValue":null,"DisplayIndex":6990,"GroupBySpecialBetValue":null,"IsActive":true},{"MatchOddValues":[],"MatchId":0,"OddTypeId":927,"OddTypeGroupId":null,"OddTypeName":"Double Chance - 2nd Half","SpecialBetValue":null,"DisplayIndex":6980,"GroupBySpecialBetValue":null,"IsActive":true},{"MatchOddValues":[],"MatchId":0,"OddTypeId":560,"OddTypeGroupId":null,"OddTypeName":"Under/Over - 2nd Half","SpecialBetValue":null,"DisplayIndex":6960,"GroupBySpecialBetValue":null,"IsActive":true},{"MatchOddValues":[],"MatchId":0,"OddTypeId":603,"OddTypeGroupId":null,"OddTypeName":"First Team To Score 2nd Half","SpecialBetValue":null,"DisplayIndex":6900,"GroupBySpecialBetValue":null,"IsActive":true},{"MatchOddValues":[],"MatchId":0,"OddTypeId":585,"OddTypeGroupId":null,"OddTypeName":"2nd Half - Odd/Even","SpecialBetValue":null,"DisplayIndex":null,"GroupBySpecialBetValue":null,"IsActive":true}],"OddTypeGroupId":77,"Name":"2ND HALF","DisplayIndex":60,"IsActive":true,"SportId":1181,"Expanded":false,"SportName":null},{"MatchId":0,"MatchOddTypeList":[{"MatchOddValues":[],"MatchId":0,"OddTypeId":652,"OddTypeGroupId":null,"OddTypeName":"Under/Over Yellow Cards","SpecialBetValue":null,"DisplayIndex":5980,"GroupBySpecialBetValue":null,"IsActive":true},{"MatchOddValues":[],"MatchId":0,"OddTypeId":671,"OddTypeGroupId":null,"OddTypeName":"Under/Over Yellow Cards - Home Team","SpecialBetValue":null,"DisplayIndex":5970,"GroupBySpecialBetValue":null,"IsActive":true},{"MatchOddValues":[],"MatchId":0,"OddTypeId":674,"OddTypeGroupId":null,"OddTypeName":"Under/Over Yellow Cards - Away Team","SpecialBetValue":null,"DisplayIndex":5960,"GroupBySpecialBetValue":null,"IsActive":true},{"MatchOddValues":[],"MatchId":0,"OddTypeId":651,"OddTypeGroupId":null,"OddTypeName":"Under/Over Yellow Cards - 1st Half","SpecialBetValue":null,"DisplayIndex":5950,"GroupBySpecialBetValue":null,"IsActive":true}],"OddTypeGroupId":78,"Name":"CARDS","DisplayIndex":50,"IsActive":true,"SportId":1181,"Expanded":false,"SportName":null},{"MatchId":0,"MatchOddTypeList":[{"MatchOddValues":[],"MatchId":0,"OddTypeId":881,"OddTypeGroupId":null,"OddTypeName":"1X2 Corners","SpecialBetValue":null,"DisplayIndex":4995,"GroupBySpecialBetValue":null,"IsActive":true},{"MatchOddValues":[],"MatchId":0,"OddTypeId":540,"OddTypeGroupId":null,"OddTypeName":"Under/Over Corners","SpecialBetValue":null,"DisplayIndex":4990,"GroupBySpecialBetValue":null,"IsActive":true},{"MatchOddValues":[],"MatchId":0,"OddTypeId":552,"OddTypeGroupId":null,"OddTypeName":"Under/Over Corners - Home Team","SpecialBetValue":null,"DisplayIndex":4980,"GroupBySpecialBetValue":null,"IsActive":true},{"MatchOddValues":[],"MatchId":0,"OddTypeId":553,"OddTypeGroupId":null,"OddTypeName":"Under/Over Corners - Away Team","SpecialBetValue":null,"DisplayIndex":4970,"GroupBySpecialBetValue":null,"IsActive":true},{"MatchOddValues":[],"MatchId":0,"OddTypeId":628,"OddTypeGroupId":null,"OddTypeName":"Under/Over Corners - 1st Half","SpecialBetValue":null,"DisplayIndex":4960,"GroupBySpecialBetValue":null,"IsActive":true},{"MatchOddValues":[],"MatchId":0,"OddTypeId":604,"OddTypeGroupId":null,"OddTypeName":"Corners Handicap","SpecialBetValue":null,"DisplayIndex":null,"GroupBySpecialBetValue":null,"IsActive":true},{"MatchOddValues":[],"MatchId":0,"OddTypeId":663,"OddTypeGroupId":null,"OddTypeName":"Odd/Even Corners","SpecialBetValue":null,"DisplayIndex":null,"GroupBySpecialBetValue":null,"IsActive":true},{"MatchOddValues":[],"MatchId":0,"OddTypeId":737,"OddTypeGroupId":null,"OddTypeName":"Corners Handicap - 1st Half","SpecialBetValue":null,"DisplayIndex":null,"GroupBySpecialBetValue":null,"IsActive":true},{"MatchOddValues":[],"MatchId":0,"OddTypeId":742,"OddTypeGroupId":null,"OddTypeName":"Corners Range","SpecialBetValue":null,"DisplayIndex":null,"GroupBySpecialBetValue":null,"IsActive":true},{"MatchOddValues":[],"MatchId":0,"OddTypeId":785,"OddTypeGroupId":null,"OddTypeName":"Corners - Under/Exactly/Over","SpecialBetValue":null,"DisplayIndex":null,"GroupBySpecialBetValue":null,"IsActive":true},{"MatchOddValues":[],"MatchId":0,"OddTypeId":3395,"OddTypeGroupId":null,"OddTypeName":" First Match Corner - 12","SpecialBetValue":null,"DisplayIndex":null,"GroupBySpecialBetValue":null,"IsActive":true},{"MatchOddValues":[],"MatchId":0,"OddTypeId":3396,"OddTypeGroupId":null,"OddTypeName":"Last Match Corner - 12","SpecialBetValue":null,"DisplayIndex":null,"GroupBySpecialBetValue":null,"IsActive":true},{"MatchOddValues":[],"MatchId":0,"OddTypeId":3397,"OddTypeGroupId":null,"OddTypeName":"Multiple Corners ","SpecialBetValue":null,"DisplayIndex":null,"GroupBySpecialBetValue":null,"IsActive":true}],"OddTypeGroupId":79,"Name":"CORNERS","DisplayIndex":40,"IsActive":true,"SportId":1181,"Expanded":false,"SportName":null},{"MatchId":0,"MatchOddTypeList":[{"MatchOddValues":[],"MatchId":0,"OddTypeId":990,"OddTypeGroupId":null,"OddTypeName":"Under/Over And Both Teams To Score","SpecialBetValue":null,"DisplayIndex":3995,"GroupBySpecialBetValue":null,"IsActive":true},{"MatchOddValues":[],"MatchId":0,"OddTypeId":898,"OddTypeGroupId":null,"OddTypeName":"1X2 And Under/Over","SpecialBetValue":null,"DisplayIndex":3990,"GroupBySpecialBetValue":null,"IsActive":true}],"OddTypeGroupId":80,"Name":"COMBO MARKETS","DisplayIndex":30,"IsActive":true,"SportId":1181,"Expanded":false,"SportName":null},{"MatchId":0,"MatchOddTypeList":[],"OddTypeGroupId":82,"Name":"PLAYER MARKETS","DisplayIndex":20,"IsActive":true,"SportId":1181,"Expanded":false,"SportName":null},{"MatchId":0,"MatchOddTypeList":[{"MatchOddValues":[],"MatchId":0,"OddTypeId":655,"OddTypeGroupId":null,"OddTypeName":"10 Minute Result","SpecialBetValue":null,"DisplayIndex":null,"GroupBySpecialBetValue":null,"IsActive":true},{"MatchOddValues":[],"MatchId":0,"OddTypeId":656,"OddTypeGroupId":null,"OddTypeName":"10 Minute Under/Over","SpecialBetValue":null,"DisplayIndex":null,"GroupBySpecialBetValue":null,"IsActive":true},{"MatchOddValues":[],"MatchId":0,"OddTypeId":697,"OddTypeGroupId":null,"OddTypeName":"15 Minute Result","SpecialBetValue":null,"DisplayIndex":null,"GroupBySpecialBetValue":null,"IsActive":true},{"MatchOddValues":[],"MatchId":0,"OddTypeId":3394,"OddTypeGroupId":null,"OddTypeName":"Time Of First Corner","SpecialBetValue":null,"DisplayIndex":null,"GroupBySpecialBetValue":null,"IsActive":true}],"OddTypeGroupId":83,"Name":"MINUTE","DisplayIndex":10,"IsActive":true,"SportId":1181,"Expanded":false,"SportName":null}], '1181', '0', '0', ["0#0.5","1#1.5","2#2.5","3#3.5","4#4.5","5#5.5","6#6.5","7#7.5","8#8.5","9#9.5"], chosenOddType);
+
+    });
+
+    var page = 1;
+    var maxPages = 0;
+    function paginateOddsPrevious() {
+        if (page > 1) {
+            page--;
+            $('[class^="betcolumn-label-"]').css('display', 'none')
+            $(`.betcolumn-label-${page}`).css('display', 'inline-block')
+
+            $('[class^="betcolumn-market-"]').css('display', 'none')
+            $(`.betcolumn-market-${page}`).css('display', 'inline-block')
+        }
+
+        $('.paginate-right').css('opacity', '1')
+        if (page == 1) {
+            $('.paginate-left').css('opacity', '0.5')
+        } else {
+            $('.paginate-left').css('opacity', '1')
+        }
+    }
+    function paginateOddsNext() {
+        if (page < maxPages) {
+            page++;
+            $('[class^="betcolumn-label-"]').css('display', 'none')
+            $(`.betcolumn-label-${page}`).css('display', 'inline-block')
+
+            $('[class^="betcolumn-market-"]').css('display', 'none')
+            $(`.betcolumn-market-${page}`).css('display', 'inline-block')
+        }
+
+        $('.paginate-left').css('opacity', '1')
+        if (page == maxPages) {
+            $('.paginate-right').css('opacity', '0.5')
+        } else {
+            $('.paginate-right').css('opacity', '1')
+        }
+    }
+
+    function initMatchesList(numOfReceivedTournaments) {
+
+        $("#searchTerm").val($("#SelectedSearchTerm").val());
+
+        if (isEmpty($("#SelectedDateDay").val())) {
+            //$("#FilterDateDay").prop('selectedIndex', 0);
+            $("#FilterDateDay").val('all_days');
+            $("#SelectedDateDay").val("all_days");
+        } else
+            $("#FilterDateDay").val($("#SelectedDateDay").val());
+
+        if (isEmpty($("#BetRangeFilter").val()))
+            $("#FilterBetRange").val("0");
+        else
+            $("#FilterBetRange").val($("#BetRangeFilter").val());
+
+        if (isEmpty($("#SelectedCodeType").val())) {
+            $("#FilterCodeType").prop('selectedIndex', 0);
+            $("#SelectedCodeType").val($("#FilterCodeType").val());
+            $("#fast_code_type").val($("#FilterCodeType").val());
+        } else
+            $("#FilterCodeType").val($("#SelectedCodeType").val());
+
+        var sportId = $(".sport_list .selected").attr("data-sportid");
+        //$("#search_SelectedCategoryId").attr('data-sportid', sportId);
+        //$("#search_SelectedTournamentId").attr('data-sportid', sportId);
+
+        //$(".match_odds_details").hide();
+
+        $(".match_odd").off("click").on("click", function () {
+            var match_odd_id = $(this).attr("data-matchoddid");
+            processMatchOdd(match_odd_id);
+        });
+
+        $(".match_odds_visibility").off("click").on("click", function () {
+            var currentRow = $(this).closest("tr");
+            var match_odds_details_tr = currentRow.next();
+            var match_odds_details_td = match_odds_details_tr.find("td");
+
+            if (!match_odds_details_tr.hasClass("shown")) {
+                var matchId = currentRow.attr("data-matchid");
+                loadMatchOddsGrouped(matchId, match_odds_details_td, function () {
+                    match_odds_details_tr.addClass("shown");
+                    match_odds_details_tr.slideDown(400, function () { Waypoint.refreshAll(); });
+                    currentRow.addClass('details-open');
+                });
+            } else {
+                match_odds_details_tr.removeClass("shown");
+                match_odds_details_tr.slideUp(400, function () { Waypoint.refreshAll(); currentRow.removeClass('details-open');});
+            }
+        });
+
+        $(".match_tv_channels").popover({
+            html: true,
+            content: function () {
+                var currentRow = $(this).closest("tr");
+                var matchId = currentRow.attr("data-matchid");
+                var contentHolder = $(".match_tv_channels").next(".match_tv_channels_content");
+                return loadMatchTVChannels(matchId, contentHolder);
+            }
+        }).mouseleave(function (e) {
+            var ref = $(this);
+            timeoutObj = setTimeout(function () {
+                ref.popover('hide');
+            }, 0);
+        });
+
+        $(".league_table").off("click").on("click", function () {
+            var currentRow = $(this).closest("tr");
+            var matchId = currentRow.attr("data-betradarid");
+            LeagueTableDialog(matchId, 'League table');
+        });
+
+        $(".head_to_head_details").off("click").on("click", function () {
+            var currentRow = $(this).closest("tr");
+            var matchId = currentRow.attr("data-betradarid");
+            HeadToHead(matchId, 'Head to head');
+        });
+
+        $(".match_statistic").off("click").on("click", function () {
+            var currentRow = $(this).closest("tr");
+            var matchId = currentRow.attr("data-betradarid");
+            //FlashScoreStatistic(matchId)
+
+            var url = location.protocol + '//' + location.host + '/Home/StatScoreStatistics?matchId=' + matchId;       // + '&iframeUrl=' + match_statistic_url;
+            window.open(url, "_blank", "toolbar=no,scrollbars=yes,menubar=no,location=no,resizable=yes,fullscreen=no,width=700,height=630");
+        });
+
+        updateActiveBetItems();
+    }
+
+
+</script>
+

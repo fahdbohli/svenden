@@ -1,0 +1,42 @@
+[
+    {
+        "last_updated": "2025-09-16T20:49:45.776151+01:00"
+    },
+    {
+        "tournament_id": 1962858140299038720,
+        "tournament_name": "Bangalore Super Division",
+        "matches": [
+            {
+                "match_id": 2579588112430805024,
+                "date": "17/09/2025",
+                "time": "06:30",
+                "home_team": "Meg & Centre FC",
+                "away_team": "Real Bengaluru",
+                "1_odd": "1.68",
+                "draw_odd": "3.6",
+                "2_odd": "4.4",
+                "1X_odd": "1.18",
+                "12_odd": "1.25",
+                "X2_odd": "2.0",
+                "over_4.5_odd": "4.7",
+                "under_4.5_odd": "1.13",
+                "over_2.5_odd": "1.71",
+                "under_2.5_odd": "1.95",
+                "over_3.0_odd": "2.2",
+                "under_3.0_odd": "1.55",
+                "over_3.5_odd": "2.74",
+                "under_3.5_odd": "1.36",
+                "over_5.0_odd": "7.4",
+                "under_5.0_odd": "1.04",
+                "over_1.5_odd": "1.22",
+                "under_1.5_odd": "3.55",
+                "over_4.0_odd": "4.2",
+                "under_4.0_odd": "1.16",
+                "over_2.0_odd": "1.33",
+                "under_2.0_odd": "2.86",
+                "over_1.0_odd": "1.04",
+                "under_1.0_odd": "7.0"
+            }
+        ]
+    }
+]

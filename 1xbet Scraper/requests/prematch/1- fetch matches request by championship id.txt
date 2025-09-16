@@ -1,0 +1,17 @@
+GET /LineFeed/Get1x2_VZip?sports=1&champs=33021&count=50&lng=en&tf=2200000&tz=1&mode=4&country=187&getEmpty=true&gr=70 HTTP/2
+Host: 1xbet.com
+Cookie: platform_type=desktop; fast_coupon=true; v3fr=1; lng=fr; flaglng=fr; typeBetNames=full; _ym_uid=1751470399296257976; _ym_d=1751470399; _gcl_au=1.1.1238410605.1751470399; sh.session.id=45b0f9e4-8c35-4870-abdb-4faf7bbee187; SESSION=d91589954ac20750fcc5dca11261e566; auid=Hyjau2hoX4Cz8/fMD629Ag==; visit=1-f55d570fcda07cb8b305cd5d432b5893; tzo=1; completed_user_settings=true; _ym_isad=2; _gid=GA1.2.859878520.1751670673; right_side=right; coefview=0; ggru=216; _ym_visorc=b; _ga=GA1.2.1835909548.1751470399; _glhf=1751704144; _ga_7V60YW2S5H=GS2.1.s1751686154$o5$g1$t1751686368$j60$l0$h1247784888
+Sec-Ch-Ua-Platform: "Windows"
+X-Requested-With: XMLHttpRequest
+Accept-Language: fr-FR,fr;q=0.9
+Accept: */*
+Sec-Ch-Ua: "Not)A;Brand";v="8", "Chromium";v="138"
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+Sec-Ch-Ua-Mobile: ?0
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://1xbet.com/fr/line/football/33021-kazakhstan-premier-league
+Accept-Encoding: gzip, deflate, br
+Priority: u=1, i
+

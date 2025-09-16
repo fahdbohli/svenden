@@ -1,0 +1,424 @@
+[
+  {
+    "group_id": "2578916170870698030-653485543-11264725-13916699",
+    "home_team": "ES Zarzis",
+    "away_team": "US Monastirienne",
+    "date": "17/09/2025",
+    "time": "15:00",
+    "country": "Tunisia",
+    "all_sources": [
+      "1xbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "away_under_0.5_vs_away_over_0.5",
+        "best_odds": {
+          "away_under_0.5_odd": {
+            "value": 2.09,
+            "source": "1xbet"
+          },
+          "away_over_0.5_odd": {
+            "value": 1.958,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9892,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653485543-11264725",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Tunisia",
+        "tournament_1xbet": "Ligue 1",
+        "1xbet_match_id": 653485543,
+        "1xbet_tournament_id": 28207,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/28207/653485543",
+        "Tounesbet_country_name": "Tunisia",
+        "tournament_Tounesbet": "Ligue 1",
+        "Tounesbet_match_id": 11264725,
+        "Tounesbet_tournament_id": 21851,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578916170870698030-653485543-11264725-13916699",
+        "home_team": "ES Zarzis",
+        "away_team": "US Monastirienne",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "under_1.5_vs_over_1.5",
+        "best_odds": {
+          "under_1.5_odd": {
+            "value": 2.0,
+            "source": "Clubx2"
+          },
+          "over_1.5_odd": {
+            "value": 2.041,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.99,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13916699-11264725",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Tunisia",
+        "tournament_Clubx2": "Ligue 1",
+        "Clubx2_match_id": 13916699,
+        "Clubx2_tournament_id": 2952,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13916699#/overview",
+        "Tounesbet_country_name": "Tunisia",
+        "tournament_Tounesbet": "Ligue 1",
+        "Tounesbet_match_id": 11264725,
+        "Tounesbet_tournament_id": 21851,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578916170870698030-653485543-11264725-13916699",
+        "home_team": "ES Zarzis",
+        "away_team": "US Monastirienne",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "under_1.5_vs_over_1.5",
+        "best_odds": {
+          "under_1.5_odd": {
+            "value": 1.98,
+            "source": "Jibibet"
+          },
+          "over_1.5_odd": {
+            "value": 2.041,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.995,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2578916170870698030-11264725",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "Tunisia",
+        "tournament_Jibibet": "Ligue 1",
+        "Jibibet_match_id": 2578916170870698030,
+        "Jibibet_tournament_id": 1669868197026861056,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "Tunisia",
+        "tournament_Tounesbet": "Ligue 1",
+        "Tounesbet_match_id": 11264725,
+        "Tounesbet_tournament_id": 21851,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578916170870698030-653485543-11264725-13916699",
+        "home_team": "ES Zarzis",
+        "away_team": "US Monastirienne",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2578916170870698031-653485546-11264724-13916701",
+    "home_team": "CA Bizertin",
+    "away_team": "Avenir Sportif de Gabes",
+    "date": "17/09/2025",
+    "time": "15:30",
+    "country": "Tunisia",
+    "all_sources": [
+      "1xbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "first_half_under_0.5_vs_first_half_over_0.5",
+        "best_odds": {
+          "first_half_under_0.5_odd": {
+            "value": 2.3,
+            "source": "Clubx2"
+          },
+          "first_half_over_0.5_odd": {
+            "value": 1.84,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9783,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13916701-11264724",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Tunisia",
+        "tournament_Clubx2": "Ligue 1",
+        "Clubx2_match_id": 13916701,
+        "Clubx2_tournament_id": 2952,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13916701#/overview",
+        "Tounesbet_country_name": "Tunisia",
+        "tournament_Tounesbet": "Ligue 1",
+        "Tounesbet_match_id": 11264724,
+        "Tounesbet_tournament_id": 21851,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578916170870698031-653485546-11264724-13916701",
+        "home_team": "CA Bizertin",
+        "away_team": "Avenir Sportif de Gabes",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2578916170870698026-653485540-11264723-13916694-28010394",
+    "home_team": "Jeunesse Sportive Omrane",
+    "away_team": "Club Africain",
+    "date": "17/09/2025",
+    "time": "15:30",
+    "country": "Tunisia",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "both_score",
+        "best_odds": {
+          "both_score_odd": {
+            "value": 2.08,
+            "source": "Asbet"
+          },
+          "both_noscore_odd": {
+            "value": 2.006,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9793,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "28010394-11264723",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Tunisia",
+        "tournament_Asbet": "Ligue 1",
+        "Asbet_match_id": 28010394,
+        "Asbet_tournament_id": 3012,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Tunisia/3012/ligue/28010394/js-omrane-club-africain",
+        "Tounesbet_country_name": "Tunisia",
+        "tournament_Tounesbet": "Ligue 1",
+        "Tounesbet_match_id": 11264723,
+        "Tounesbet_tournament_id": 21851,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578916170870698026-653485540-11264723-13916694-28010394",
+        "home_team": "Jeunesse Sportive Omrane",
+        "away_team": "Club Africain",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "home_under_0.5_vs_home_over_0.5",
+        "best_odds": {
+          "home_under_0.5_odd": {
+            "value": 2.17,
+            "source": "1xbet"
+          },
+          "home_over_0.5_odd": {
+            "value": 1.911,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9841,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653485540-11264723",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Tunisia",
+        "tournament_1xbet": "Ligue 1",
+        "1xbet_match_id": 653485540,
+        "1xbet_tournament_id": 28207,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/28207/653485540",
+        "Tounesbet_country_name": "Tunisia",
+        "tournament_Tounesbet": "Ligue 1",
+        "Tounesbet_match_id": 11264723,
+        "Tounesbet_tournament_id": 21851,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578916170870698026-653485540-11264723-13916694-28010394",
+        "home_team": "Jeunesse Sportive Omrane",
+        "away_team": "Club Africain",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2579290006426357798-653832277-11261015-13916700-28017069",
+    "home_team": "Avenir S Marsa",
+    "away_team": "AS Solimane",
+    "date": "18/09/2025",
+    "time": "15:30",
+    "country": "Tunisia",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "both_score",
+        "best_odds": {
+          "both_score_odd": {
+            "value": 2.44,
+            "source": "Asbet"
+          },
+          "both_noscore_odd": {
+            "value": 1.84,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9533,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "28017069-11261015",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Tunisia",
+        "tournament_Asbet": "Ligue 1",
+        "Asbet_match_id": 28017069,
+        "Asbet_tournament_id": 3012,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Tunisia/3012/ligue/28017069/as-marsa-as-solimane",
+        "Tounesbet_country_name": "Tunisia",
+        "tournament_Tounesbet": "Ligue 1",
+        "Tounesbet_match_id": 11261015,
+        "Tounesbet_tournament_id": 21851,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579290006426357798-653832277-11261015-13916700-28017069",
+        "home_team": "Avenir S Marsa",
+        "away_team": "AS Solimane",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_-0.25_home_vs_away",
+        "best_odds": {
+          "home_handicap_-0.25_odd": {
+            "value": 1.911,
+            "source": "Tounesbet"
+          },
+          "away_handicap_0.25_odd": {
+            "value": 2.287,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.9605,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653832277-11261015",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Tunisia",
+        "tournament_Tounesbet": "Ligue 1",
+        "Tounesbet_match_id": 11261015,
+        "Tounesbet_tournament_id": 21851,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "1xbet_country_name": "Tunisia",
+        "tournament_1xbet": "Ligue 1",
+        "1xbet_match_id": 653832277,
+        "1xbet_tournament_id": 28207,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/28207/653832277",
+        "group_id": "2579290006426357798-653832277-11261015-13916700-28017069",
+        "home_team": "Avenir S Marsa",
+        "away_team": "AS Solimane",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "first_half_under_0.5_vs_first_half_over_0.5",
+        "best_odds": {
+          "first_half_under_0.5_odd": {
+            "value": 2.3,
+            "source": "Clubx2"
+          },
+          "first_half_over_0.5_odd": {
+            "value": 1.829,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9815,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13916700-11261015",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Tunisia",
+        "tournament_Clubx2": "Ligue 1",
+        "Clubx2_match_id": 13916700,
+        "Clubx2_tournament_id": 2952,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13916700#/overview",
+        "Tounesbet_country_name": "Tunisia",
+        "tournament_Tounesbet": "Ligue 1",
+        "Tounesbet_match_id": 11261015,
+        "Tounesbet_tournament_id": 21851,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579290006426357798-653832277-11261015-13916700-28017069",
+        "home_team": "Avenir S Marsa",
+        "away_team": "AS Solimane",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2579813794092032021-11264722-13916697",
+    "home_team": "CS Sfaxien",
+    "away_team": "US Ben Guerdane",
+    "date": "17/09/2025",
+    "time": "15:30",
+    "country": "Tunisia",
+    "all_sources": [
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "under_2.5_vs_over_2.5",
+        "best_odds": {
+          "under_2.5_odd": {
+            "value": 1.805,
+            "source": "Tounesbet"
+          },
+          "over_2.5_odd": {
+            "value": 2.3,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9888,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13916697-11264722",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Tunisia",
+        "tournament_Tounesbet": "Ligue 1",
+        "Tounesbet_match_id": 11264722,
+        "Tounesbet_tournament_id": 21851,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "Tunisia",
+        "tournament_Clubx2": "Ligue 1",
+        "Clubx2_match_id": 13916697,
+        "Clubx2_tournament_id": 2952,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13916697#/overview",
+        "group_id": "2579813794092032021-11264722-13916697",
+        "home_team": "CS Sfaxien",
+        "away_team": "US Ben Guerdane",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "under_2.5_vs_over_2.5",
+        "best_odds": {
+          "under_2.5_odd": {
+            "value": 1.805,
+            "source": "Tounesbet"
+          },
+          "over_2.5_odd": {
+            "value": 2.26,
+            "source": "Jibibet"
+          }
+        },
+        "arbitrage_percentage": 0.9965,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2579813794092032021-11264722",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Tunisia",
+        "tournament_Tounesbet": "Ligue 1",
+        "Tounesbet_match_id": 11264722,
+        "Tounesbet_tournament_id": 21851,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Jibibet_country_name": "Tunisia",
+        "tournament_Jibibet": "Ligue 1",
+        "Jibibet_match_id": 2579813794092032021,
+        "Jibibet_tournament_id": 1669868197026861056,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "group_id": "2579813794092032021-11264722-13916697",
+        "home_team": "CS Sfaxien",
+        "away_team": "US Ben Guerdane",
+        "activity_duration": "1 hour"
+      }
+    ]
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "description": "1X2 and Double Chance",
+    "conditions": {
+      "T": [1, 2, 3, 4, 5, 6]
+    },
+    "key_map": {
+      "marker": "T",
+      "map": {
+        "1": "1_odd",
+        "2": "draw_odd",
+        "3": "2_odd",
+        "4": "1X_odd",
+        "5": "12_odd",
+        "6": "X2_odd"
+      }
+    }
+  },
+  {
+    "description": "Both to Score",
+    "conditions": {
+      "G": 19,
+      "T": [180, 181]
+    },
+    "key_map": {
+      "marker": "T",
+      "map": {
+        "180": "both_score_odd",
+        "181": "both_noscore_odd"
+      }
+    }
+  },
+  {
+    "description": "Total Under",
+    "conditions": {
+      "T": 10
+    },
+    "key_format": "under_{p:.1f}_odd"
+  },
+  {
+    "description": "Total Over",
+    "conditions": {
+      "T": 9
+    },
+    "key_format": "over_{p:.1f}_odd"
+  },
+  {
+    "description": "Asian Handicap",
+    "full_mapping_only": true,
+    "conditions": {
+      "T": [7, 8]
+    },
+    "key_format_map": {
+      "marker": "T",
+      "map": {
+        "7": "home_handicap_{p:.1f}_odd",
+        "8": "away_handicap_{p:.1f}_odd"
+      }
+    }
+  }
+]

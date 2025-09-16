@@ -1,0 +1,1 @@
+{"command":"bet_history","params":{"where":{"outcome":0,"only_counts":true}},"rid":"6aa03d7c83d0ad295617724d905c92ac14e9b6dc"}

@@ -1,0 +1,50 @@
+{
+    "market_types": [
+        "P1XP2",
+        "1X12X2",
+        "BothTeamsToScore",
+        "OverUnder",
+        "AsianHandicap"
+    ],
+    "odds_mapping": {
+        "P1XP2": {
+            "description": "Mainline (1X2)",
+            "events": {
+                "W1": "1_odd",
+                "X": "draw_odd",
+                "W2": "2_odd"
+            }
+        },
+        "1X12X2": {
+            "description": "Double chance",
+            "events": {
+                "1X": "1X_odd",
+                "12": "12_odd",
+                "X2": "X2_odd"
+            }
+        },
+        "BothTeamsToScore": {
+            "description": "Both to score",
+            "events": {
+                "Yes": "both_score_odd",
+                "No": "both_noscore_odd"
+            }
+        },
+        "OverUnder": {
+            "description": "Over/Under",
+            "events": {
+                "Under": "under_{base}_odd",
+                "Over": "over_{base}_odd"
+            },
+            "use_base": true
+        },
+        "AsianHandicap": {
+            "description": "Total handicap / Asian Handicap",
+            "events": {
+                "Home": "home_handicap_{base}_odd",
+                "Away": "away_handicap_{base}_odd"
+            },
+            "use_event_base": true
+        }
+    }
+}

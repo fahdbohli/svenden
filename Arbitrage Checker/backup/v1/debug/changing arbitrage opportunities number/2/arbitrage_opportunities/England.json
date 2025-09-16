@@ -1,0 +1,64 @@
+[
+  {
+    "match_info": {
+      "home_team": "Chelsea",
+      "away_team": "Manchester United",
+      "date": "16/05/2025",
+      "time": "20:15",
+      "sources": [
+        "1xbet",
+        "Asbet"
+      ],
+      "country": "England",
+      "tournament_1xbet": null,
+      "tournament_Asbet": null
+    },
+    "complementary_set": "three_way",
+    "best_odds": {
+      "1_odd": {
+        "value": 1.498,
+        "source": "1xbet"
+      },
+      "draw_odd": {
+        "value": 5.3,
+        "source": "Asbet"
+      },
+      "2_odd": {
+        "value": 7.4,
+        "source": "Asbet"
+      }
+    },
+    "arbitrage_percentage": 0.9914
+  },
+  {
+    "match_info": {
+      "home_team": "Chelsea",
+      "away_team": "Manchester United",
+      "date": "16/05/2025",
+      "time": "20:15",
+      "sources": [
+        "1xbet",
+        "Asbet"
+      ],
+      "country": "England",
+      "tournament_1xbet": null,
+      "tournament_Asbet": null
+    },
+    "complementary_set": "three_way",
+    "best_odds": {
+      "1_odd": {
+        "value": 1.498,
+        "source": "1xbet"
+      },
+      "draw_odd": {
+        "value": 5.3,
+        "source": "Asbet"
+      },
+      "2_odd": {
+        "value": 7.4,
+        "source": "Asbet"
+      }
+    },
+    "arbitrage_percentage": 0.9914
+  }
+]

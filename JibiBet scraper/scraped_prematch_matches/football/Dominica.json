@@ -1,0 +1,47 @@
+[
+    {
+        "last_updated": "2025-08-26T12:49:08.045272+01:00"
+    },
+    {
+        "tournament_id": 1916690858422444032,
+        "tournament_name": "Premier League",
+        "matches": [
+            {
+                "match_id": 2571600220517441546,
+                "date": "26/08/2025",
+                "time": "23:30",
+                "home_team": "Middleham United FC",
+                "away_team": "Harlem United FC",
+                "1_odd": "2.16",
+                "draw_odd": "4.9",
+                "2_odd": "2.34",
+                "1X_odd": "1.49",
+                "12_odd": "1.11",
+                "X2_odd": "1.57",
+                "over_4.5_odd": "2.0",
+                "under_4.5_odd": "1.72",
+                "over_2.5_odd": "1.18",
+                "under_2.5_odd": "4.2"
+            },
+            {
+                "match_id": 2570823396489302054,
+                "date": "26/08/2025",
+                "time": "23:30",
+                "home_team": "Portsmouth Bombers FC",
+                "away_team": "Point Michel",
+                "1_odd": "1.15",
+                "draw_odd": "6.8",
+                "2_odd": "12.0",
+                "1X_odd": "1.0",
+                "12_odd": "1.04",
+                "X2_odd": "4.3",
+                "over_4.5_odd": "2.12",
+                "under_4.5_odd": "1.64",
+                "over_2.5_odd": "1.2",
+                "under_2.5_odd": "4.0",
+                "over_3.5_odd": "1.57",
+                "under_3.5_odd": "2.24"
+            }
+        ]
+    }
+]

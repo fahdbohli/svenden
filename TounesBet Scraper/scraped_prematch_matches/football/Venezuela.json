@@ -1,0 +1,49 @@
+[
+    {
+        "last_updated": "2025-09-16T20:55:15.288432+01:00"
+    },
+    {
+        "tournament_name": "Copa Venezuela",
+        "tournament_id": 23652,
+        "matches": [
+            {
+                "match_id": 11254623,
+                "tournament_id": 23652,
+                "date": "17/09/2025",
+                "time": "20:30",
+                "home_team": "Monagas SC",
+                "away_team": "Carabobo FC",
+                "1_odd": 3.091,
+                "draw_odd": 3.186,
+                "2_odd": 3.386,
+                "both_score_odd": null,
+                "both_noscore_odd": null,
+                "1X_odd": 1.33,
+                "12_odd": 1.36,
+                "X2_odd": 1.4,
+                "first_half_under_0.5_odd": 2.631,
+                "first_half_over_0.5_odd": 1.899,
+                "first_half_under_1.0_odd": 1.46,
+                "first_half_over_1.0_odd": 2.973,
+                "first_half_under_1.5_odd": 1.21,
+                "first_half_over_1.5_odd": 4.413,
+                "first_half_under_2.0_odd": 1.0,
+                "first_half_over_2.0_odd": 11.328,
+                "second_half_under_0.5_odd": 3.457,
+                "second_half_over_0.5_odd": 1.35,
+                "second_half_under_1.0_odd": 2.301,
+                "second_half_over_1.0_odd": 2.124,
+                "second_half_under_1.5_odd": 1.41,
+                "second_half_over_1.5_odd": 3.174,
+                "second_half_under_2.0_odd": 1.09,
+                "second_half_over_2.0_odd": 6.549,
+                "second_half_under_2.5_odd": 1.04,
+                "second_half_over_2.5_odd": 7.965,
+                "home_handicap_0.0_odd": 2.124,
+                "away_handicap_0.0_odd": 2.36,
+                "home_first_half_handicap_0.0_odd": 2.242,
+                "away_first_half_handicap_0.0_odd": 2.242
+            }
+        ]
+    }
+]

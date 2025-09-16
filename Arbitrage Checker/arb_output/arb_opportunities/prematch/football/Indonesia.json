@@ -1,0 +1,668 @@
+[
+  {
+    "group_id": "653250524-11268619-13882338-28008618",
+    "home_team": "Bhayangkara Presisi Indonesia FC",
+    "away_team": "Persik Kediri",
+    "date": "19/09/2025",
+    "time": "09:30",
+    "country": "Indonesia",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 1.98,
+            "source": "1xbet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 2.088,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.984,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653250524-11268619",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Indonesia",
+        "tournament_1xbet": "Super League",
+        "1xbet_match_id": 653250524,
+        "1xbet_tournament_id": 11249,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/11249/653250524",
+        "Tounesbet_country_name": "Indonesia",
+        "tournament_Tounesbet": "Liga 1",
+        "Tounesbet_match_id": 11268619,
+        "Tounesbet_tournament_id": 21355,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653250524-11268619-13882338-28008618",
+        "home_team": "Bhayangkara Presisi Indonesia FC",
+        "away_team": "Persik Kediri",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 1.97,
+            "source": "Asbet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 2.088,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9865,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "28008618-11268619",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Indonesia",
+        "tournament_Asbet": "Liga 1",
+        "Asbet_match_id": 28008618,
+        "Asbet_tournament_id": 16982,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Indonesia/16982/liga/28008618/bhayangkara-fc-persik-kediri",
+        "Tounesbet_country_name": "Indonesia",
+        "tournament_Tounesbet": "Liga 1",
+        "Tounesbet_match_id": 11268619,
+        "Tounesbet_tournament_id": 21355,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653250524-11268619-13882338-28008618",
+        "home_team": "Bhayangkara Presisi Indonesia FC",
+        "away_team": "Persik Kediri",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 1.96,
+            "source": "Clubx2"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 2.088,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9891,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13882338-11268619",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Indonesia",
+        "tournament_Clubx2": "Liga 1",
+        "Clubx2_match_id": 13882338,
+        "Clubx2_tournament_id": 4927,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13882338#/overview",
+        "Tounesbet_country_name": "Indonesia",
+        "tournament_Tounesbet": "Liga 1",
+        "Tounesbet_match_id": 11268619,
+        "Tounesbet_tournament_id": 21355,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653250524-11268619-13882338-28008618",
+        "home_team": "Bhayangkara Presisi Indonesia FC",
+        "away_team": "Persik Kediri",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "652971564-11223683-13598072-28009609",
+    "home_team": "Persebaya Surabaya",
+    "away_team": "Semen Padang FC",
+    "date": "19/09/2025",
+    "time": "13:00",
+    "country": "Indonesia",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_-1.0_home_vs_away",
+        "best_odds": {
+          "home_handicap_-1.0_odd": {
+            "value": 2.1,
+            "source": "Asbet"
+          },
+          "away_handicap_1.0_odd": {
+            "value": 2.088,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9551,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "28009609-11223683",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Indonesia",
+        "tournament_Asbet": "Liga 1",
+        "Asbet_match_id": 28009609,
+        "Asbet_tournament_id": 16982,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Indonesia/16982/liga/28009609/persebaya-surabaya-semen-padang-fc",
+        "Tounesbet_country_name": "Indonesia",
+        "tournament_Tounesbet": "Liga 1",
+        "Tounesbet_match_id": 11223683,
+        "Tounesbet_tournament_id": 21355,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "652971564-11223683-13598072-28009609",
+        "home_team": "Persebaya Surabaya",
+        "away_team": "Semen Padang FC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_-1.0_home_vs_away",
+        "best_odds": {
+          "home_handicap_-1.0_odd": {
+            "value": 2.08,
+            "source": "1xbet"
+          },
+          "away_handicap_1.0_odd": {
+            "value": 2.088,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9597,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "652971564-11223683",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Indonesia",
+        "tournament_1xbet": "Super League",
+        "1xbet_match_id": 652971564,
+        "1xbet_tournament_id": 11249,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/11249/652971564",
+        "Tounesbet_country_name": "Indonesia",
+        "tournament_Tounesbet": "Liga 1",
+        "Tounesbet_match_id": 11223683,
+        "Tounesbet_tournament_id": 21355,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "652971564-11223683-13598072-28009609",
+        "home_team": "Persebaya Surabaya",
+        "away_team": "Semen Padang FC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 1.852,
+            "source": "Tounesbet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 2.2,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9945,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13598072-11223683",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Indonesia",
+        "tournament_Tounesbet": "Liga 1",
+        "Tounesbet_match_id": 11223683,
+        "Tounesbet_tournament_id": 21355,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "Indonesia",
+        "tournament_Clubx2": "Liga 1",
+        "Clubx2_match_id": 13598072,
+        "Clubx2_tournament_id": 4927,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13598072#/overview",
+        "group_id": "652971564-11223683-13598072-28009609",
+        "home_team": "Persebaya Surabaya",
+        "away_team": "Semen Padang FC",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "653250521-11275905-28015022",
+    "home_team": "Dewa United FC",
+    "away_team": "PSBS Biak Numfor",
+    "date": "20/09/2025",
+    "time": "09:30",
+    "country": "Indonesia",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_-1.25_home_vs_away",
+        "best_odds": {
+          "home_handicap_-1.25_odd": {
+            "value": 1.81,
+            "source": "Asbet"
+          },
+          "away_handicap_1.25_odd": {
+            "value": 2.324,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9828,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "28015022-11275905",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Indonesia",
+        "tournament_Asbet": "Liga 1",
+        "Asbet_match_id": 28015022,
+        "Asbet_tournament_id": 16982,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Indonesia/16982/liga/28015022/dewa-united-fc-psbs-biak",
+        "Tounesbet_country_name": "Indonesia",
+        "tournament_Tounesbet": "Liga 1",
+        "Tounesbet_match_id": 11275905,
+        "Tounesbet_tournament_id": 21355,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653250521-11275905-28015022",
+        "home_team": "Dewa United FC",
+        "away_team": "PSBS Biak Numfor",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_-1.25_home_vs_away",
+        "best_odds": {
+          "home_handicap_-1.25_odd": {
+            "value": 1.8,
+            "source": "1xbet"
+          },
+          "away_handicap_1.25_odd": {
+            "value": 2.324,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9858,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653250521-11275905",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Indonesia",
+        "tournament_1xbet": "Super League",
+        "1xbet_match_id": 653250521,
+        "1xbet_tournament_id": 11249,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/11249/653250521",
+        "Tounesbet_country_name": "Indonesia",
+        "tournament_Tounesbet": "Liga 1",
+        "Tounesbet_match_id": 11275905,
+        "Tounesbet_tournament_id": 21355,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653250521-11275905-28015022",
+        "home_team": "Dewa United FC",
+        "away_team": "PSBS Biak Numfor",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "653820440-11275968-13878375-28016443",
+    "home_team": "Bali United Pusam FC",
+    "away_team": "PSIM Yogyakarta",
+    "date": "20/09/2025",
+    "time": "13:00",
+    "country": "Indonesia",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_-0.75_home_vs_away",
+        "best_odds": {
+          "home_handicap_-0.75_odd": {
+            "value": 1.95,
+            "source": "Asbet"
+          },
+          "away_handicap_0.75_odd": {
+            "value": 2.147,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9786,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "28016443-11275968",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Indonesia",
+        "tournament_Asbet": "Liga 1",
+        "Asbet_match_id": 28016443,
+        "Asbet_tournament_id": 16982,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Indonesia/16982/liga/28016443/bali-united-pusam-fc-psim-yogyakarta",
+        "Tounesbet_country_name": "Indonesia",
+        "tournament_Tounesbet": "Liga 1",
+        "Tounesbet_match_id": 11275968,
+        "Tounesbet_tournament_id": 21355,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653820440-11275968-13878375-28016443",
+        "home_team": "Bali United Pusam FC",
+        "away_team": "PSIM Yogyakarta",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_-0.75_home_vs_away",
+        "best_odds": {
+          "home_handicap_-0.75_odd": {
+            "value": 2.324,
+            "source": "Tounesbet"
+          },
+          "away_handicap_0.75_odd": {
+            "value": 1.81,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.9828,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653820440-11275968",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Indonesia",
+        "tournament_Tounesbet": "Liga 1",
+        "Tounesbet_match_id": 11275968,
+        "Tounesbet_tournament_id": 21355,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "1xbet_country_name": "Indonesia",
+        "tournament_1xbet": "Super League",
+        "1xbet_match_id": 653820440,
+        "1xbet_tournament_id": 11249,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/11249/653820440",
+        "group_id": "653820440-11275968-13878375-28016443",
+        "home_team": "Bali United Pusam FC",
+        "away_team": "PSIM Yogyakarta",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "homewin_handicap_vs_x2",
+        "best_odds": {
+          "home_handicap_-0.5_odd": {
+            "value": 1.75,
+            "source": "Clubx2"
+          },
+          "X2_odd": {
+            "value": 2.36,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9952,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13878375-11275968",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Indonesia",
+        "tournament_Clubx2": "Liga 1",
+        "Clubx2_match_id": 13878375,
+        "Clubx2_tournament_id": 4927,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13878375#/overview",
+        "Tounesbet_country_name": "Indonesia",
+        "tournament_Tounesbet": "Liga 1",
+        "Tounesbet_match_id": 11275968,
+        "Tounesbet_tournament_id": 21355,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653820440-11275968-13878375-28016443",
+        "home_team": "Bali United Pusam FC",
+        "away_team": "PSIM Yogyakarta",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "653539758-11283308-13882344-28022522",
+    "home_team": "Persijap Jepara",
+    "away_team": "Persita Tangerang",
+    "date": "21/09/2025",
+    "time": "09:30",
+    "country": "Indonesia",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 1.88,
+            "source": "1xbet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 2.242,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9779,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653539758-11283308",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Indonesia",
+        "tournament_1xbet": "Super League",
+        "1xbet_match_id": 653539758,
+        "1xbet_tournament_id": 11249,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/11249/653539758",
+        "Tounesbet_country_name": "Indonesia",
+        "tournament_Tounesbet": "Liga 1",
+        "Tounesbet_match_id": 11283308,
+        "Tounesbet_tournament_id": 21355,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653539758-11283308-13882344-28022522",
+        "home_team": "Persijap Jepara",
+        "away_team": "Persita Tangerang",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_-0.5_home_vs_away",
+        "best_odds": {
+          "home_handicap_-0.5_odd": {
+            "value": 2.242,
+            "source": "Tounesbet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.87,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9808,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "28022522-11283308",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Indonesia",
+        "tournament_Tounesbet": "Liga 1",
+        "Tounesbet_match_id": 11283308,
+        "Tounesbet_tournament_id": 21355,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "Indonesia",
+        "tournament_Asbet": "Liga 1",
+        "Asbet_match_id": 28022522,
+        "Asbet_tournament_id": 16982,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Indonesia/16982/liga/28022522/persijap-jepara-persita-tangerang",
+        "group_id": "653539758-11283308-13882344-28022522",
+        "home_team": "Persijap Jepara",
+        "away_team": "Persita Tangerang",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 1.8334,
+            "source": "Clubx2"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 2.242,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9915,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13882344-11283308",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Indonesia",
+        "tournament_Clubx2": "Liga 1",
+        "Clubx2_match_id": 13882344,
+        "Clubx2_tournament_id": 4927,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13882344#/overview",
+        "Tounesbet_country_name": "Indonesia",
+        "tournament_Tounesbet": "Liga 1",
+        "Tounesbet_match_id": 11283308,
+        "Tounesbet_tournament_id": 21355,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653539758-11283308-13882344-28022522",
+        "home_team": "Persijap Jepara",
+        "away_team": "Persita Tangerang",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "653787079-11242902-13598073",
+    "home_team": "Arema Indonesia",
+    "away_team": "Persib Bandung",
+    "date": "22/09/2025",
+    "time": "09:30",
+    "country": "Indonesia",
+    "all_sources": [
+      "1xbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_0.25_home_vs_away",
+        "best_odds": {
+          "home_handicap_0.25_odd": {
+            "value": 1.78,
+            "source": "1xbet"
+          },
+          "away_handicap_-0.25_odd": {
+            "value": 2.36,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9855,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653787079-11242902",
+        "1xbet_country_name": "Indonesia",
+        "tournament_1xbet": "Super League",
+        "1xbet_match_id": 653787079,
+        "1xbet_tournament_id": 11249,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/11249/653787079",
+        "Tounesbet_country_name": "Indonesia",
+        "tournament_Tounesbet": "Liga 1",
+        "Tounesbet_match_id": 11242902,
+        "Tounesbet_tournament_id": 21355,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653787079-11242902-13598073",
+        "home_team": "Arema Indonesia",
+        "away_team": "Persib Bandung",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "awaywin_handicap_vs_1x",
+        "best_odds": {
+          "away_handicap_-0.5_odd": {
+            "value": 2.2858,
+            "source": "Clubx2"
+          },
+          "1X_odd": {
+            "value": 1.805,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9915,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13598073-11242902",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Indonesia",
+        "tournament_Clubx2": "Liga 1",
+        "Clubx2_match_id": 13598073,
+        "Clubx2_tournament_id": 4927,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13598073#/overview",
+        "Tounesbet_country_name": "Indonesia",
+        "tournament_Tounesbet": "Liga 1",
+        "Tounesbet_match_id": 11242902,
+        "Tounesbet_tournament_id": 21355,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653787079-11242902-13598073",
+        "home_team": "Arema Indonesia",
+        "away_team": "Persib Bandung",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "653844579-11244379-13743233",
+    "home_team": "Pusamania Borneo FC",
+    "away_team": "Persis Solo",
+    "date": "22/09/2025",
+    "time": "13:00",
+    "country": "Indonesia",
+    "all_sources": [
+      "1xbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 1.852,
+            "source": "Tounesbet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 2.2858,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9774,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13743233-11244379",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Indonesia",
+        "tournament_Tounesbet": "Liga 1",
+        "Tounesbet_match_id": 11244379,
+        "Tounesbet_tournament_id": 21355,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "Indonesia",
+        "tournament_Clubx2": "Liga 1",
+        "Clubx2_match_id": 13743233,
+        "Clubx2_tournament_id": 4927,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13743233#/overview",
+        "group_id": "653844579-11244379-13743233",
+        "home_team": "Pusamania Borneo FC",
+        "away_team": "Persis Solo",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_-1.0_home_vs_away",
+        "best_odds": {
+          "home_handicap_-1.0_odd": {
+            "value": 2.383,
+            "source": "Tounesbet"
+          },
+          "away_handicap_1.0_odd": {
+            "value": 1.78,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.9814,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653844579-11244379",
+        "misvalue_source": "Clubx2",
+        "Tounesbet_country_name": "Indonesia",
+        "tournament_Tounesbet": "Liga 1",
+        "Tounesbet_match_id": 11244379,
+        "Tounesbet_tournament_id": 21355,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "1xbet_country_name": "Indonesia",
+        "tournament_1xbet": "Super League",
+        "1xbet_match_id": 653844579,
+        "1xbet_tournament_id": 11249,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/11249/653844579",
+        "group_id": "653844579-11244379-13743233",
+        "home_team": "Pusamania Borneo FC",
+        "away_team": "Persis Solo",
+        "activity_duration": "1 hour"
+      }
+    ]
+  }
+]

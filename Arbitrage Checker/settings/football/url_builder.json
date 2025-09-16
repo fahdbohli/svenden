@@ -1,0 +1,29 @@
+{
+  "url_templates": {
+    "1xbet": {
+      "template": "https://1xbet.com/fr/{mode}/{sport}/{tournament_id}/{match_id}",
+      "mappings": {
+        "mode": {
+          "prematch": "line",
+          "live": "live"
+        },
+        "sport": {
+          "football": "football",
+          "basketball": "basketball"
+        }
+      }
+    },
+    "clubx2": {
+      "template": "https://www.clubx2.com/sportsbook/live?page=event&eventId={match_id}#/overview",
+      "mappings": {}
+    },
+    "tounesbet": {
+      "template": "https://tounesbet.com/Prematch",
+      "mappings": {}
+    },
+    "jibibet": {
+      "template": "https://jibibet.com/",
+      "mappings": {}
+    }
+  }
+}

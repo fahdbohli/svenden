@@ -1,0 +1,199 @@
+[
+  {
+    "group_id": "653946336-11296538-13954826",
+    "home_team": "Green Shield",
+    "away_team": "Laugu United Honiara",
+    "date": "17/09/2025",
+    "time": "01:00",
+    "country": "Solomon Islands",
+    "all_sources": [
+      "1xbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_-2.75_home_vs_away",
+        "best_odds": {
+          "home_handicap_-2.75_odd": {
+            "value": 1.94,
+            "source": "1xbet"
+          },
+          "away_handicap_2.75_odd": {
+            "value": 2.147,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9812,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653946336-11296538",
+        "1xbet_country_name": "Solomon Islands",
+        "tournament_1xbet": "Telekom S-League",
+        "1xbet_match_id": 653946336,
+        "1xbet_tournament_id": 2121593,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/2121593/653946336",
+        "Tounesbet_country_name": "Solomon Islands",
+        "tournament_Tounesbet": "S League",
+        "Tounesbet_match_id": 11296538,
+        "Tounesbet_tournament_id": 110305,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653946336-11296538-13954826",
+        "home_team": "Green Shield",
+        "away_team": "Laugu United Honiara",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "first_half_under_1.5_vs_first_half_over_1.5",
+        "best_odds": {
+          "first_half_under_1.5_odd": {
+            "value": 1.7,
+            "source": "Clubx2"
+          },
+          "first_half_over_1.5_odd": {
+            "value": 2.513,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9862,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13954826-11296538",
+        "Clubx2_country_name": "Solomon Islands",
+        "tournament_Clubx2": "Premier League",
+        "Clubx2_match_id": 13954826,
+        "Clubx2_tournament_id": 9270,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13954826#/overview",
+        "Tounesbet_country_name": "Solomon Islands",
+        "tournament_Tounesbet": "S League",
+        "Tounesbet_match_id": 11296538,
+        "Tounesbet_tournament_id": 110305,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653946336-11296538-13954826",
+        "home_team": "Green Shield",
+        "away_team": "Laugu United Honiara",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "653912374-11296388-13954827",
+    "home_team": "Honiara City FC",
+    "away_team": "Selwyn OSA",
+    "date": "17/09/2025",
+    "time": "03:00",
+    "country": "Solomon Islands",
+    "all_sources": [
+      "1xbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 1.8462,
+            "source": "Clubx2"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 2.265,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9832,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13954827-11296388",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Solomon Islands",
+        "tournament_Clubx2": "Premier League",
+        "Clubx2_match_id": 13954827,
+        "Clubx2_tournament_id": 9270,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13954827#/overview",
+        "Tounesbet_country_name": "Solomon Islands",
+        "tournament_Tounesbet": "S League",
+        "Tounesbet_match_id": 11296388,
+        "Tounesbet_tournament_id": 110305,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653912374-11296388-13954827",
+        "home_team": "Honiara City FC",
+        "away_team": "Selwyn OSA",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 1.8,
+            "source": "1xbet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 2.265,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9971,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653912374-11296388",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Solomon Islands",
+        "tournament_1xbet": "Telekom S-League",
+        "1xbet_match_id": 653912374,
+        "1xbet_tournament_id": 2121593,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/2121593/653912374",
+        "Tounesbet_country_name": "Solomon Islands",
+        "tournament_Tounesbet": "S League",
+        "Tounesbet_match_id": 11296388,
+        "Tounesbet_tournament_id": 110305,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653912374-11296388-13954827",
+        "home_team": "Honiara City FC",
+        "away_team": "Selwyn OSA",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "653946339-11296914-13954828",
+    "home_team": "Central Coast Honiara",
+    "away_team": "Juniper FC",
+    "date": "17/09/2025",
+    "time": "05:00",
+    "country": "Solomon Islands",
+    "all_sources": [
+      "1xbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_-4.5_home_vs_away",
+        "best_odds": {
+          "home_handicap_-4.5_odd": {
+            "value": 1.909,
+            "source": "1xbet"
+          },
+          "away_handicap_4.5_odd": {
+            "value": 2.301,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9584,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653946339-11296914",
+        "1xbet_country_name": "Solomon Islands",
+        "tournament_1xbet": "Telekom S-League",
+        "1xbet_match_id": 653946339,
+        "1xbet_tournament_id": 2121593,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/2121593/653946339",
+        "Tounesbet_country_name": "Solomon Islands",
+        "tournament_Tounesbet": "S League",
+        "Tounesbet_match_id": 11296914,
+        "Tounesbet_tournament_id": 110305,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653946339-11296914-13954828",
+        "home_team": "Central Coast Honiara",
+        "away_team": "Juniper FC",
+        "activity_duration": "1 hour"
+      }
+    ]
+  }
+]

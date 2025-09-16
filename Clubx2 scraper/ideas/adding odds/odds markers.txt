@@ -1,0 +1,29 @@
+1x2
+total
+double chance
+gg/ng
+handicap
+------------ new --------------
+home total
+away total
+(these are in the main market type : name: "main")
+----------------------market group 2------------------------------------
+1st half - 1x2
+1st half - double chance
+1st half - total	68
+1st half - handicap	66	
+1st half - home total	69 
+1st half - away total	70
+------------------------- market group 3--------------------------------
+2nd half - 1x2
+2nd half - double chance
+2nd half - total	90
+2nd half - handicap	88
+2nd half - home total	91
+2nd half - away total	92
+-----------------------------------------------------------
+home odd/even
+away odd/even
+-----------------------------------------------------------
+home to score in both halves
+away to score in both halves

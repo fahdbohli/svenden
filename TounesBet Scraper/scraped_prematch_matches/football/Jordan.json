@@ -1,0 +1,43 @@
+[
+    {
+        "last_updated": "2025-09-16T20:54:42.871342+01:00"
+    },
+    {
+        "tournament_name": "1st Division",
+        "tournament_id": 21471,
+        "matches": [
+            {
+                "match_id": 11297691,
+                "tournament_id": 21471,
+                "date": "17/09/2025",
+                "time": "15:00",
+                "home_team": "Al-Arabi Fc",
+                "away_team": "Samma",
+                "1_odd": 2.95,
+                "draw_odd": 3.304,
+                "2_odd": 3.304,
+                "both_score_odd": null,
+                "both_noscore_odd": null,
+                "1X_odd": 1.33,
+                "12_odd": 1.33,
+                "X2_odd": 1.44,
+                "first_half_under_0.5_odd": 2.773,
+                "first_half_over_0.5_odd": 1.5,
+                "first_half_under_1.0_odd": 1.899,
+                "first_half_over_1.0_odd": 2.572,
+                "first_half_under_1.5_odd": 1.28,
+                "first_half_over_1.5_odd": 3.752,
+                "second_half_under_0.5_odd": 3.799,
+                "second_half_over_0.5_odd": 1.28,
+                "second_half_under_1.0_odd": 2.619,
+                "second_half_over_1.0_odd": 1.876,
+                "second_half_under_1.5_odd": 1.781,
+                "second_half_over_1.5_odd": 2.749,
+                "home_handicap_0.0_odd": 2.124,
+                "away_handicap_0.0_odd": 2.36,
+                "home_first_half_handicap_0.0_odd": 2.147,
+                "away_first_half_handicap_0.0_odd": 2.324
+            }
+        ]
+    }
+]

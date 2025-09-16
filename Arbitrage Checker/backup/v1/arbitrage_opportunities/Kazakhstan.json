@@ -1,0 +1,35 @@
+[
+  {
+    "match_info": {
+      "home_team": "FC Ordabasy",
+      "away_team": "Fc astana",
+      "date": "13/07/2025",
+      "time": "16:00",
+      "sources": [
+        "1xbet",
+        "Clubx2",
+        "Tounesbet"
+      ],
+      "country": "Kazakhstan",
+      "tournament_1xbet": null,
+      "tournament_Clubx2": null,
+      "tournament_Tounesbet": null
+    },
+    "complementary_set": "three_way",
+    "best_odds": {
+      "1_odd": {
+        "value": 4.158,
+        "source": "Tounesbet"
+      },
+      "draw_odd": {
+        "value": 3.641,
+        "source": "Tounesbet"
+      },
+      "2_odd": {
+        "value": 2.3334,
+        "source": "Clubx2"
+      }
+    },
+    "arbitrage_percentage": 0.9437
+  }
+]

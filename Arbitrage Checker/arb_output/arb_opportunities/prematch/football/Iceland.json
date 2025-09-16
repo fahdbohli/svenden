@@ -1,0 +1,422 @@
+[
+  {
+    "group_id": "2579795494838607878-653978876-11297613-13981611-28024241",
+    "home_team": "FC IF Vestri",
+    "away_team": "IA Akranes",
+    "date": "21/09/2025",
+    "time": "15:00",
+    "country": "Iceland",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "second_half_under_1.5_vs_second_half_over_1.5",
+        "best_odds": {
+          "second_half_under_1.5_odd": {
+            "value": 1.95,
+            "source": "Clubx2"
+          },
+          "second_half_over_1.5_odd": {
+            "value": 2.135,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9812,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13981611-11297613",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Iceland",
+        "tournament_Clubx2": "Urvalsdeild",
+        "Clubx2_match_id": 13981611,
+        "Clubx2_tournament_id": 5276,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13981611#/overview",
+        "Tounesbet_country_name": "Iceland",
+        "tournament_Tounesbet": "Urvalsdeild",
+        "Tounesbet_match_id": 11297613,
+        "Tounesbet_tournament_id": 69814,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579795494838607878-653978876-11297613-13981611-28024241",
+        "home_team": "FC IF Vestri",
+        "away_team": "IA Akranes",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "first_half_under_1.5_vs_first_half_over_1.5",
+        "best_odds": {
+          "first_half_under_1.5_odd": {
+            "value": 1.876,
+            "source": "Tounesbet"
+          },
+          "first_half_over_1.5_odd": {
+            "value": 2.23,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9815,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "28024241-11297613",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Iceland",
+        "tournament_Tounesbet": "Urvalsdeild",
+        "Tounesbet_match_id": 11297613,
+        "Tounesbet_tournament_id": 69814,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "Iceland",
+        "tournament_Asbet": "Urvalsdeild",
+        "Asbet_match_id": 28024241,
+        "Asbet_tournament_id": 1895,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Iceland/1895/urvalsdeild/28024241/fc-if-vestri-ia-akranes",
+        "group_id": "2579795494838607878-653978876-11297613-13981611-28024241",
+        "home_team": "FC IF Vestri",
+        "away_team": "IA Akranes",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2579810729632870441-653982544-11297612-13981638",
+    "home_team": "Vikingur Reykjavik",
+    "away_team": "Knattspyrnufelagid Fram",
+    "date": "21/09/2025",
+    "time": "20:15",
+    "country": "Iceland",
+    "all_sources": [
+      "1xbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "second_half_under_1.5_vs_second_half_over_1.5",
+        "best_odds": {
+          "second_half_under_1.5_odd": {
+            "value": 2.407,
+            "source": "Tounesbet"
+          },
+          "second_half_over_1.5_odd": {
+            "value": 1.75,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9869,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13981638-11297612",
+        "misvalue_source": "1xbet",
+        "Tounesbet_country_name": "Iceland",
+        "tournament_Tounesbet": "Urvalsdeild",
+        "Tounesbet_match_id": 11297612,
+        "Tounesbet_tournament_id": 69814,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "Iceland",
+        "tournament_Clubx2": "Urvalsdeild",
+        "Clubx2_match_id": 13981638,
+        "Clubx2_tournament_id": 5276,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13981638#/overview",
+        "group_id": "2579810729632870441-653982544-11297612-13981638",
+        "home_team": "Vikingur Reykjavik",
+        "away_team": "Knattspyrnufelagid Fram",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2579795494838607876-653978879-11297608-13981624",
+    "home_team": "Stjarnan Gardabae",
+    "away_team": "FH Hafnarfjordur",
+    "date": "22/09/2025",
+    "time": "20:15",
+    "country": "Iceland",
+    "all_sources": [
+      "1xbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "first_half_under_1.5_vs_first_half_over_1.5",
+        "best_odds": {
+          "first_half_under_1.5_odd": {
+            "value": 2.017,
+            "source": "Tounesbet"
+          },
+          "first_half_over_1.5_odd": {
+            "value": 2.05,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9836,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13981624-11297608",
+        "misvalue_source": "1xbet",
+        "Tounesbet_country_name": "Iceland",
+        "tournament_Tounesbet": "Urvalsdeild",
+        "Tounesbet_match_id": 11297608,
+        "Tounesbet_tournament_id": 69814,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "Iceland",
+        "tournament_Clubx2": "Urvalsdeild",
+        "Clubx2_match_id": 13981624,
+        "Clubx2_tournament_id": 5276,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13981624#/overview",
+        "group_id": "2579795494838607876-653978879-11297608-13981624",
+        "home_team": "Stjarnan Gardabae",
+        "away_team": "FH Hafnarfjordur",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2579532646719827987-653789518-11288488-13954789-28014006",
+    "home_team": "Keflavik IF",
+    "away_team": "Ungmennafelag Njarðvíkur",
+    "date": "17/09/2025",
+    "time": "17:45",
+    "country": "Iceland",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "first_half_under_1.5_vs_first_half_over_1.5",
+        "best_odds": {
+          "first_half_under_1.5_odd": {
+            "value": 1.8,
+            "source": "Clubx2"
+          },
+          "first_half_over_1.5_odd": {
+            "value": 2.324,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9858,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13954789-11288488",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Iceland",
+        "tournament_Clubx2": "1st deild",
+        "Clubx2_match_id": 13954789,
+        "Clubx2_tournament_id": 5426,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13954789#/overview",
+        "Tounesbet_country_name": "Iceland",
+        "tournament_Tounesbet": "1.deild",
+        "Tounesbet_match_id": 11288488,
+        "Tounesbet_tournament_id": 23334,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579532646719827987-653789518-11288488-13954789-28014006",
+        "home_team": "Keflavik IF",
+        "away_team": "Ungmennafelag Njarðvíkur",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "first_half_under_1.5_vs_first_half_over_1.5",
+        "best_odds": {
+          "first_half_under_1.5_odd": {
+            "value": 2.065,
+            "source": "Tounesbet"
+          },
+          "first_half_over_1.5_odd": {
+            "value": 1.95,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9971,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "28014006-11288488",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Iceland",
+        "tournament_Tounesbet": "1.deild",
+        "Tounesbet_match_id": 11288488,
+        "Tounesbet_tournament_id": 23334,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "Iceland",
+        "tournament_Asbet": "1. Deild",
+        "Asbet_match_id": 28014006,
+        "Asbet_tournament_id": 1897,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Iceland/1897/deild/28014006/keflavik-umf-njardvik",
+        "group_id": "2579532646719827987-653789518-11288488-13954789-28014006",
+        "home_team": "Keflavik IF",
+        "away_team": "Ungmennafelag Njarðvíkur",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2579744191039025157-11299135-13981608-28024242",
+    "home_team": "IBV Vestmannaeyjar",
+    "away_team": "UMF Afturelding",
+    "date": "21/09/2025",
+    "time": "15:00",
+    "country": "Iceland",
+    "all_sources": [
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "first_half_under_1.0_vs_first_half_over_1.0",
+        "best_odds": {
+          "first_half_under_1.0_odd": {
+            "value": 2.44,
+            "source": "Asbet"
+          },
+          "first_half_over_1.0_odd": {
+            "value": 1.781,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9713,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "28024242-11299135",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Iceland",
+        "tournament_Asbet": "Urvalsdeild",
+        "Asbet_match_id": 28024242,
+        "Asbet_tournament_id": 1895,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Iceland/1895/urvalsdeild/28024242/ibv-vestmannaeyjar-umf-afturelding",
+        "Tounesbet_country_name": "Iceland",
+        "tournament_Tounesbet": "Urvalsdeild",
+        "Tounesbet_match_id": 11299135,
+        "Tounesbet_tournament_id": 69814,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579744191039025157-11299135-13981608-28024242",
+        "home_team": "IBV Vestmannaeyjar",
+        "away_team": "UMF Afturelding",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "first_half_under_1.0_vs_first_half_over_1.0",
+        "best_odds": {
+          "first_half_under_1.0_odd": {
+            "value": 2.4,
+            "source": "Clubx2"
+          },
+          "first_half_over_1.0_odd": {
+            "value": 1.781,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9781,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13981608-11299135",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Iceland",
+        "tournament_Clubx2": "Urvalsdeild",
+        "Clubx2_match_id": 13981608,
+        "Clubx2_tournament_id": 5276,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13981608#/overview",
+        "Tounesbet_country_name": "Iceland",
+        "tournament_Tounesbet": "Urvalsdeild",
+        "Tounesbet_match_id": 11299135,
+        "Tounesbet_tournament_id": 69814,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579744191039025157-11299135-13981608-28024242",
+        "home_team": "IBV Vestmannaeyjar",
+        "away_team": "UMF Afturelding",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2579795494838607877-11297609-13981612",
+    "home_team": "KA Akureyri",
+    "away_team": "KR Reykjavik",
+    "date": "21/09/2025",
+    "time": "17:00",
+    "country": "Iceland",
+    "all_sources": [
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "first_half_under_1.5_vs_first_half_over_1.5",
+        "best_odds": {
+          "first_half_under_1.5_odd": {
+            "value": 1.9,
+            "source": "Clubx2"
+          },
+          "first_half_over_1.5_odd": {
+            "value": 2.159,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9895,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13981612-11297609",
+        "Clubx2_country_name": "Iceland",
+        "tournament_Clubx2": "Urvalsdeild",
+        "Clubx2_match_id": 13981612,
+        "Clubx2_tournament_id": 5276,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13981612#/overview",
+        "Tounesbet_country_name": "Iceland",
+        "tournament_Tounesbet": "Urvalsdeild",
+        "Tounesbet_match_id": 11297609,
+        "Tounesbet_tournament_id": 69814,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579795494838607877-11297609-13981612",
+        "home_team": "KA Akureyri",
+        "away_team": "KR Reykjavik",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2579795494838607873-11297614-13981641",
+    "home_team": "Valur Reykjavik",
+    "away_team": "Breidablik Kopavogur",
+    "date": "22/09/2025",
+    "time": "20:15",
+    "country": "Iceland",
+    "all_sources": [
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "first_half_under_1.5_vs_first_half_over_1.5",
+        "best_odds": {
+          "first_half_under_1.5_odd": {
+            "value": 2.029,
+            "source": "Tounesbet"
+          },
+          "first_half_over_1.5_odd": {
+            "value": 2.05,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9807,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13981641-11297614",
+        "Tounesbet_country_name": "Iceland",
+        "tournament_Tounesbet": "Urvalsdeild",
+        "Tounesbet_match_id": 11297614,
+        "Tounesbet_tournament_id": 69814,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "Iceland",
+        "tournament_Clubx2": "Urvalsdeild",
+        "Clubx2_match_id": 13981641,
+        "Clubx2_tournament_id": 5276,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13981641#/overview",
+        "group_id": "2579795494838607873-11297614-13981641",
+        "home_team": "Valur Reykjavik",
+        "away_team": "Breidablik Kopavogur",
+        "activity_duration": "1 hour"
+      }
+    ]
+  }
+]

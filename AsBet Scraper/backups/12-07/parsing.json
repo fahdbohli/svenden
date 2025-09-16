@@ -1,0 +1,215 @@
+{
+    "market_types": [
+        "P1XP2",
+        "1X12X2",
+        "BothTeamsToScore",
+        "OverUnder",
+        "AsianHandicap",
+        "CornersOverUnder",
+        "To Qualify",
+        "Team1OverUnder",
+        "Team2OverUnder",
+        "Team1TotalOverUnderAsian",
+        "Team2TotalOverUnderAsian",
+        "HalfTimeOverUnder",
+        "2ndHalfTotalOver/Under",
+        "HalfTimeOverUnderAsian",
+        "2ndHalfTotalOver/Under Asian",
+        "Team1ToScoreFirstHalf/SecondHalf",
+        "Team2ToScoreFirstHalf/SecondHalf",
+        "HalfTimeTeam1OverUnder",
+        "HalfTimeTeam1OverUnderAsian",
+        "HalfTimeTeam2OverUnder",
+        "HalfTimeTeam2OverUnderAsian",
+        "SecondHalfHomeTeamTotalGoalsOverUnder",
+        "SecondHalfAwayTeamTotalGoalsOverUnder",
+        "Penalty"
+    ],
+    "odds_mapping": {
+        "P1XP2": {
+            "description": "Mainline (1X2)",
+            "events": {
+                "W1": "1_odd",
+                "X": "draw_odd",
+                "W2": "2_odd"
+            }
+        },
+        "1X12X2": {
+            "description": "Double chance",
+            "events": {
+                "1X": "1X_odd",
+                "12": "12_odd",
+                "X2": "X2_odd"
+            }
+        },
+        "BothTeamsToScore": {
+            "description": "Both to score",
+            "events": {
+                "Yes": "both_score_odd",
+                "No": "both_noscore_odd"
+            }
+        },
+        "OverUnder": {
+            "description": "Over/Under",
+            "events": {
+                "Under": "under_{base}_odd",
+                "Over": "over_{base}_odd"
+            },
+            "use_base": true
+        },
+        "AsianHandicap": {
+            "description": "Total handicap / Asian Handicap",
+            "events": {
+                "Home": "home_handicap_{base}_odd",
+                "Away": "away_handicap_{base}_odd"
+            },
+            "use_event_base": true
+        },
+        "CornersOverUnder": {
+            "description": "Corners Over/Under",
+            "events": {
+                "Under": "corners_under_{base}_odd",
+                "Over": "corners_over_{base}_odd"
+            },
+            "use_base": true
+        },
+        "To Qualify": {
+            "description": "Home/Away to qualify",
+            "events": {
+                "W1": "home_qualify_odd",
+                "W2": "away_qualify_odd"
+            }
+        },
+        "Team1OverUnder": {
+            "description": "Home Total Over/Under",
+            "events": {
+                "Under": "home_under_{base}_odd",
+                "Over": "home_over_{base}_odd"
+            },
+            "use_base": true
+        },
+        "Team2OverUnder": {
+            "description": "Away Total Over/Under",
+            "events": {
+                "Under": "away_under_{base}_odd",
+                "Over": "away_over_{base}_odd"
+            },
+            "use_base": true
+        },
+        "Team1TotalOverUnderAsian": {
+            "description": "Home Total Over/Under Asian",
+            "events": {
+                "Under": "home_under_{base}_odd",
+                "Over": "home_over_{base}_odd"
+            },
+            "use_base": true
+        },
+        "Team2TotalOverUnderAsian": {
+            "description": "Away Total Over/Under Asian",
+            "events": {
+                "Under": "away_under_{base}_odd",
+                "Over": "away_over_{base}_odd"
+            },
+            "use_base": true
+        },
+        "HalfTimeOverUnder": {
+            "description": "1st Half Total Over/Under",
+            "events": {
+                "Under": "first_half_under_{base}_odd",
+                "Over": "first_half_over_{base}_odd"
+            },
+            "use_base": true
+        },
+        "2ndHalfTotalOver/Under": {
+            "description": "2nd Half Total Over/Under",
+            "events": {
+                "Under": "second_half_under_{base}_odd",
+                "Over": "second_half_over_{base}_odd"
+            },
+            "use_base": true
+        },
+        "HalfTimeOverUnderAsian": {
+            "description": "1st Half Total Over/Under Asian",
+            "events": {
+                "Under": "first_half_under_{base}_odd",
+                "Over": "first_half_over_{base}_odd"
+            },
+            "use_base": true
+        },
+        "2ndHalfTotalOver/Under Asian": {
+            "description": "2nd Half Total Over/Under Asian",
+            "events": {
+                "Under": "second_half_under_{base}_odd",
+                "Over": "second_half_over_{base}_odd"
+            },
+            "use_base": true
+        },
+        "Team1ToScoreFirstHalf/SecondHalf": {
+            "description": "Home Team to score in both halves",
+            "events": {
+                "Yes/Yes": "home_score_both_halves_odd"
+            }
+        },
+        "Team2ToScoreFirstHalf/SecondHalf": {
+            "description": "Away Team to score in both halves",
+            "events": {
+                "Yes/Yes": "away_score_both_halves_odd"
+            }
+        },
+        "HalfTimeTeam1OverUnder": {
+            "description": "Home 1st Half Total Over/Under",
+            "events": {
+                "Under": "home_first_half_under_{base}_odd",
+                "Over": "home_first_half_over_{base}_odd"
+            },
+            "use_base": true
+        },
+        "HalfTimeTeam1OverUnderAsian": {
+            "description": "Home 1st Half Total Over/Under Asian",
+            "events": {
+                "Under": "home_first_half_under_{base}_odd",
+                "Over": "home_first_half_over_{base}_odd"
+            },
+            "use_base": true
+        },
+        "HalfTimeTeam2OverUnder": {
+            "description": "Away 1st Half Total Over/Under",
+            "events": {
+                "Under": "away_first_half_under_{base}_odd",
+                "Over": "away_first_half_over_{base}_odd"
+            },
+            "use_base": true
+        },
+        "HalfTimeTeam2OverUnderAsian": {
+            "description": "Away 1st Half Total Over/Under Asian",
+            "events": {
+                "Under": "away_first_half_under_{base}_odd",
+                "Over": "away_first_half_over_{base}_odd"
+            },
+            "use_base": true
+        },
+        "SecondHalfHomeTeamTotalGoalsOverUnder": {
+            "description": "Home 2nd Half Total Over/Under Asian",
+            "events": {
+                "Under": "home_second_half_under_{base}_odd",
+                "Over": "home_second_half_over_{base}_odd"
+            },
+            "use_base": true
+        },
+        "SecondHalfAwayTeamTotalGoalsOverUnder": {
+            "description": "Away 2nd Half Total Over/Under Asian",
+            "events": {
+                "Under": "away_second_half_under_{base}_odd",
+                "Over": "away_second_half_over_{base}_odd"
+            },
+            "use_base": true
+        },
+        "Penalty": {
+            "description": "Penalty in match",
+            "events": {
+                "Yes": "penalty_in_match_odd",
+                "No": "no_penalty_in_match_odd"
+            }
+        }
+    }
+}

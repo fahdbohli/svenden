@@ -1,0 +1,45 @@
+{
+    "odds_market_types": {
+        "regular": [
+            {
+                "market_id": "1",
+                "export_map": {
+                    "1": "1_odd",
+                    "2": "draw_odd",
+                    "3": "2_odd"
+                }
+            },
+            {
+                "market_id": "10",
+                "export_map": {
+                    "9": "1X_odd",
+                    "10": "12_odd",
+                    "11": "X2_odd"
+                }
+            },
+            {
+                "market_id": "29",
+                "export_map": {
+                    "74": "both_score_odd",
+                    "76": "both_noscore_odd"
+                }
+            }
+        ],
+        "total": [
+            {
+                "market_id": "18",
+                "over_marker": "12",
+                "under_marker": "13",
+                "prefix": ""
+            }
+        ],
+        "handicap": [
+            {
+                "market_id": "16",
+                "home_marker": "1714",
+                "away_marker": "1715",
+                "prefix": ""
+            }
+        ]
+    }
+}

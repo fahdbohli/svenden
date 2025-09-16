@@ -1,0 +1,134 @@
+[
+    {
+        "last_updated": "2025-09-16T20:53:08.423457+01:00"
+    },
+    {
+        "tournament_id": 3685,
+        "tournament_name": "Liga Nacional. Clausura",
+        "matches": [
+            {
+                "match_id": 13891066,
+                "date": "18/09/2025",
+                "time": "00:15",
+                "home_team": "Platense",
+                "away_team": "Motagua",
+                "1_odd": 2.625,
+                "draw_odd": 3.3334,
+                "2_odd": 2.3334,
+                "1X_odd": 1.4445,
+                "12_odd": 1.2728,
+                "X2_odd": 1.3847,
+                "home_handicap_0.5_odd": 1.5,
+                "away_handicap_-0.5_odd": 2.3,
+                "over_2.5_odd": 1.6667,
+                "under_2.5_odd": 2.1,
+                "both_score_odd": 1.5556,
+                "both_noscore_odd": 2.2858,
+                "first_half_over_1.5_odd": 2.4,
+                "first_half_under_1.5_odd": 1.5
+            },
+            {
+                "match_id": 13891065,
+                "date": "18/09/2025",
+                "time": "02:30",
+                "home_team": "Olimpia",
+                "away_team": "Olancho FC",
+                "1_odd": 1.5385,
+                "draw_odd": 3.8,
+                "2_odd": 5.0,
+                "1X_odd": 1.1429,
+                "12_odd": 1.1819,
+                "X2_odd": 2.0834,
+                "home_handicap_-0.5_odd": 1.5,
+                "away_handicap_0.5_odd": 2.3,
+                "over_2.5_odd": 1.75,
+                "under_2.5_odd": 1.95,
+                "both_score_odd": 1.8334,
+                "both_noscore_odd": 1.8334,
+                "first_half_over_1.5_odd": 2.5455,
+                "first_half_under_1.5_odd": 1.4546
+            }
+        ]
+    },
+    {
+        "tournament_id": 35427,
+        "tournament_name": "Reserve League",
+        "matches": [
+            {
+                "match_id": 13955556,
+                "date": "16/09/2025",
+                "time": "21:00",
+                "home_team": "Club Deportivo Platense Reserves",
+                "away_team": "Marathon Reserves",
+                "1_odd": 2.3334,
+                "draw_odd": 3.25,
+                "2_odd": 2.5455,
+                "1X_odd": 1.3847,
+                "12_odd": 1.2667,
+                "X2_odd": 1.4546,
+                "over_3.5_odd": 2.2,
+                "under_3.5_odd": 1.5556
+            },
+            {
+                "match_id": 13949033,
+                "date": "16/09/2025",
+                "time": "22:00",
+                "home_team": "CD Choloma Reserves",
+                "away_team": "Motagua Reserves",
+                "1_odd": 4.0,
+                "draw_odd": 4.0,
+                "2_odd": 1.5834,
+                "1X_odd": 1.96,
+                "12_odd": 1.2,
+                "X2_odd": 1.1667,
+                "over_3.5_odd": 2.0,
+                "under_3.5_odd": 1.6667
+            },
+            {
+                "match_id": 13949036,
+                "date": "16/09/2025",
+                "time": "22:00",
+                "home_team": "CD Real Espana Reserves",
+                "away_team": "Club Deportivo Victoria Reserves",
+                "1_odd": 1.68,
+                "draw_odd": 3.5,
+                "2_odd": 4.0,
+                "1X_odd": 1.2,
+                "12_odd": 1.2223,
+                "X2_odd": 1.8334,
+                "over_3.5_odd": 2.0,
+                "under_3.5_odd": 1.6667
+            },
+            {
+                "match_id": 13949035,
+                "date": "16/09/2025",
+                "time": "22:00",
+                "home_team": "Lobos UPNFM Reserves",
+                "away_team": "FC Olancho Reserves",
+                "1_odd": 2.2,
+                "draw_odd": 3.2,
+                "2_odd": 2.75,
+                "1X_odd": 1.35,
+                "12_odd": 1.2728,
+                "X2_odd": 1.48,
+                "over_2.5_odd": 1.6667,
+                "under_2.5_odd": 2.0
+            },
+            {
+                "match_id": 13949034,
+                "date": "16/09/2025",
+                "time": "22:00",
+                "home_team": "Olimpia Reserves",
+                "away_team": "Genesis FC Reserves",
+                "1_odd": 1.1429,
+                "draw_odd": 6.5,
+                "2_odd": 10.0,
+                "1X_odd": 1.04,
+                "12_odd": 1.0589,
+                "X2_odd": 3.4,
+                "over_4.5_odd": 2.1,
+                "under_4.5_odd": 1.6
+            }
+        ]
+    }
+]

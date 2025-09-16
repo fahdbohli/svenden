@@ -1,0 +1,42 @@
+these two matches from different sources are considered thez same : 
+- clubx2 source :"{
+                "match_id": 13018940,
+                "date": "12/07/2025",
+                "time": "13:00",
+                "home_team": "JK Tallinna Kalev U21",
+                "away_team": "FC Nomme United",
+                "1_odd": 21.0,
+                "draw_odd": 9.0,
+                "2_odd": 1.05,
+                "1X_odd": 4.3334,
+                "12_odd": 1.02,
+                "X2_odd": 1.01,
+                "over_4.5_odd": 2.2,
+                "under_4.5_odd": 1.5556,
+                "first_half_over_1.5_odd": 1.6,
+                "first_half_under_1.5_odd": 2.1
+            },"
+- 1xbet source : "{
+                "match_id": 269893463,
+                "date": "13/07/2025",
+                "time": "13:00",
+                "home_team": "Maardu Linnameeskond",
+                "away_team": "Nomme United U21",
+                "1_odd": 1.374,
+                "draw_odd": 4.75,
+                "2_odd": 6.21,
+                "1X_odd": 1.083,
+                "12_odd": 1.125,
+                "X2_odd": 2.75,
+                "both_score_odd": 1.527,
+                "both_noscore_odd": 2.514,
+                "over_2.5_odd": 1.333,
+                "over_3.5_odd": 1.85,
+                "under_2.5_odd": 3.25,
+                "under_3.5_odd": 1.95,
+                "home_handicap_0.0_odd": 1.2,
+                "away_handicap_0.0_odd": 4.33,
+                "home_handicap_-1.25_odd": 1.85,
+                "away_handicap_1.25_odd": 1.95
+            }"
+the problem here is that there is an important guard in the code that is supposed to block this matching because home team from clubx source has "U21" that is not present within the home team of the other source, also the away team of the 1xbet have also "U21" that is not present in the other source away team.

@@ -1,0 +1,83 @@
+[
+  {
+    "match_info": {
+      "home_team": "HSK Zrinjski",
+      "away_team": "FK Radnik Bijeljina",
+      "date": "10/05/2025",
+      "time": "15:00",
+      "sources": [
+        "1xbet",
+        "Tounesbet"
+      ],
+      "country": "Bosnia and Herzegovina",
+      "tournament_1xbet": null,
+      "tournament_Tounesbet": null
+    },
+    "complementary_set": "pair_4",
+    "best_odds": {
+      "both_score_odd": {
+        "value": 3.25,
+        "source": "Tounesbet"
+      },
+      "both_noscore_odd": {
+        "value": 1.448,
+        "source": "1xbet"
+      }
+    },
+    "arbitrage_percentage": 0.9983
+  },
+  {
+    "match_info": {
+      "home_team": "HSK Zrinjski",
+      "away_team": "FK Radnik Bijeljina",
+      "date": "10/05/2025",
+      "time": "15:00",
+      "sources": [
+        "1xbet",
+        "Tounesbet"
+      ],
+      "country": "Bosnia and Herzegovina",
+      "tournament_1xbet": null,
+      "tournament_Tounesbet": null
+    },
+    "complementary_set": "pair_4",
+    "best_odds": {
+      "both_score_odd": {
+        "value": 3.25,
+        "source": "Tounesbet"
+      },
+      "both_noscore_odd": {
+        "value": 1.448,
+        "source": "1xbet"
+      }
+    },
+    "arbitrage_percentage": 0.9983
+  },
+  {
+    "match_info": {
+      "home_team": "HSK Zrinjski",
+      "away_team": "FK Radnik Bijeljina",
+      "date": "10/05/2025",
+      "time": "15:00",
+      "sources": [
+        "1xbet",
+        "Tounesbet"
+      ],
+      "country": "Bosnia and Herzegovina",
+      "tournament_1xbet": null,
+      "tournament_Tounesbet": null
+    },
+    "complementary_set": "pair_4",
+    "best_odds": {
+      "both_score_odd": {
+        "value": 3.25,
+        "source": "Tounesbet"
+      },
+      "both_noscore_odd": {
+        "value": 1.448,
+        "source": "1xbet"
+      }
+    },
+    "arbitrage_percentage": 0.9983
+  }
+]

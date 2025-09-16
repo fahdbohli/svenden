@@ -1,0 +1,58 @@
+[
+  {
+    "match_info": {
+      "home_team": "Spartak Trnava",
+      "away_team": "BK Hacken",
+      "date": "10/07/2025",
+      "time": "19:15",
+      "sources": [
+        "Clubx2",
+        "Tounesbet"
+      ],
+      "country": "Europe",
+      "tournament_Clubx2": null,
+      "tournament_Tounesbet": null
+    },
+    "complementary_set": "ah_0.5_home_vs_away",
+    "best_odds": {
+      "home_handicap_0.5_odd": {
+        "value": 1.5,
+        "source": "Clubx2"
+      },
+      "away_handicap_-0.5_odd": {
+        "value": 3.135,
+        "source": "Tounesbet"
+      }
+    },
+    "arbitrage_percentage": 0.9856
+  },
+  {
+    "match_info": {
+      "home_team": "SJK Seinäjoki",
+      "away_team": "KI Klaksvik",
+      "date": "10/07/2025",
+      "time": "17:00",
+      "sources": [
+        "Asbet",
+        "Clubx2",
+        "Tounesbet"
+      ],
+      "country": "Europe",
+      "tournament_Asbet": null,
+      "tournament_Clubx2": null,
+      "tournament_Tounesbet": null
+    },
+    "complementary_set": "ah_-0.5_home_vs_away",
+    "best_odds": {
+      "home_handicap_-0.5_odd": {
+        "value": 2.277,
+        "source": "Tounesbet"
+      },
+      "away_handicap_0.5_odd": {
+        "value": 1.9,
+        "source": "Clubx2"
+      }
+    },
+    "arbitrage_percentage": 0.9655
+  }
+]

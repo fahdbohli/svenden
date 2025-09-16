@@ -1,0 +1,1199 @@
+import os
+import json
+import shutil
+import re
+import unicodedata
+import difflib
+from datetime import datetime
+from itertools import combinations
+from typing import Dict, List, Tuple, Set, Any, Optional
+
+# --- load our filename‑synonyms config ---
+CONFIG_PATH = "config.json"
+with open(CONFIG_PATH, encoding="utf-8") as cfg:
+    config = json.load(cfg)
+SYN_GROUPS = [set(group) for group in config.get("synonyms", [])]
+
+# Output directory for arbitrage opportunities
+OUTPUT_DIR = "arbitrage_opportunities"
+
+# Configure source directories - easily add more sources here
+SOURCE_DIRECTORIES = [
+    # Format: (source_name, directory_path)
+    ("1xbet", r"C:\Users\HP\PycharmProjects\Arbitrage Betting\Football\1xbet Scraper\scraped_matches"),
+    ("Tounesbet", r"C:\Users\HP\PycharmProjects\Arbitrage Betting\Football\TounesBet Scraper\scraped_matches"),
+    ("Asbet", r"C:\Users\HP\PycharmProjects\Arbitrage Betting\Football\AsBet Scraper\scraped_matches"),
+    # ("Africa1x2", r"C:\Users\foura\PyCharmMiscProject\Projects\Arbitrage Betting\Africa1x2 scraper\scraped_matches"),
+    # Add more sources as needed:
+    # ("NewSource1", r"path\to\new\source1"),
+    # ("NewSource2", r"path\to\new\source2"),
+]
+
+# Enhanced common words and location-specific terms to ignore
+COMMON_TEAM_WORDS = {
+    'united', 'city', 'fc', 'sc', 'afc', 'sfc', 'club', 'de', 'real', 'sporting', 'athletic', 'racing',
+    'team', 'association', 'sport', 'academy', 'society', 'school',
+}
+
+LOCATION_IDENTIFIERS = {
+    'riyadh', 'sa', 'saudi', 'arabia', 'jeddah', 'london', 'madrid', 'milan', 'rome', 'paris', 'moscow',
+    'berlin', 'munich', 'manchester', 'liverpool', 'barcelona', 'lisbon', 'porto'
+}
+
+# Team name synonyms for teams that are commonly written differently
+TEAM_SYNONYMS = [
+    {"al hilal", "alhilal", "al-hilal"},
+    {"al shabab", "alshabab", "al-shabab"},
+    {"al ahli", "alahli", "al-ahli"},
+    {"al nassr", "alnassr", "al-nassr"},
+    {"al ittihad", "alittihad", "al-ittihad"},
+    {"dynamo", "dinamo"},
+    {"olympique", "olympic"},
+    {"real", "royal"},
+    {"inter", "internazionale"},
+    {"atletico", "athletic", "atlético"},
+    {"manchester utd", "manchester united", "man utd", "man united"},
+    {"manchester city", "man city"},
+    {"dalian kun", "dalian kun city", "dalian k'un", "dalian k'un city"},
+]
+
+FUZZY_THRESHOLD = 0.6
+FUZZY_THRESHOLD_ARABIC = 0.6  # Lower threshold for Arabic team names which have more variations
+
+
+# --- Helpers ---
+def reset_output():
+    """Reset the output directory"""
+    if os.path.exists(OUTPUT_DIR):
+        shutil.rmtree(OUTPUT_DIR)
+    os.makedirs(OUTPUT_DIR, exist_ok=True)
+
+
+def parse_date(date_str):
+    """Parse date string to datetime object"""
+    if not date_str:
+        return None
+
+    try:
+        d, m, y = date_str.strip().split('/')
+        return datetime(int(y), int(m), int(d)).date()
+    except:
+        try:
+            # Try alternative format
+            formats = ["%d/%m/%Y", "%Y-%m-%d", "%m/%d/%Y", "%d-%m-%Y", "%d.%m.%Y"]
+            for fmt in formats:
+                try:
+                    return datetime.strptime(date_str.strip(), fmt).date()
+                except:
+                    continue
+        except:
+            return None
+
+
+def remove_accents(text):
+    """Remove accents from text"""
+    if not text:
+        return ""
+    return ''.join(c for c in unicodedata.normalize('NFD', text)
+                   if not unicodedata.combining(c))
+
+
+def load_matches(filename):
+    """Load matches from a JSON file"""
+    with open(filename, 'r', encoding='utf-8') as f:
+        data = json.load(f)
+    matches = []
+    if isinstance(data, dict):
+        matches = data.get("matches", [data])
+        # Extract country name from the filename
+        base_filename = os.path.basename(filename)
+        country_name = os.path.splitext(base_filename)[0]
+
+        # Store country name in each match
+        for match in matches:
+            match["country"] = country_name
+
+    elif isinstance(data, list):
+        for element in data:
+            if isinstance(element, dict) and "matches" in element:
+                for match in element["matches"]:
+                    match["country"] = os.path.splitext(os.path.basename(filename))[0]
+                matches.extend(element["matches"])
+            else:
+                element["country"] = os.path.splitext(os.path.basename(filename))[0]
+                matches.append(element)
+    return matches
+
+
+def fuzzy_match(a, b, threshold=None):
+    """Check if two strings match using fuzzy logic"""
+    if not a or not b:
+        return False
+
+    # Convert to lowercase for comparison
+    a_lower = a.lower()
+    b_lower = b.lower()
+
+    # Detect if we're dealing with Arabic team names (often have "Al" prefix)
+    is_arabic = any(name.lower().startswith(("al ", "al-")) for name in [a, b])
+
+    # Use provided threshold or default based on name type
+    if threshold is None:
+        threshold = FUZZY_THRESHOLD_ARABIC if is_arabic else FUZZY_THRESHOLD
+
+    return difflib.SequenceMatcher(None, a_lower, b_lower).ratio() >= threshold
+
+def normalize_team_name(name):
+    """Normalize team name for better matching"""
+    if not name:
+        return ""
+
+    # Convert to lowercase and remove accents
+    n = remove_accents(name.lower())
+
+    # Remove parentheses content like "(SA)" or "(Saudi Arabia)"
+    n = re.sub(r'\([^)]*\)', '', n)
+
+    # Replace special characters with spaces
+    n = re.sub(r'[^\w\s]', ' ', n)
+
+    # Replace multiple spaces with a single space
+    n = re.sub(r'\s+', ' ', n)
+
+    return n.strip()
+
+def get_canonical_name(name):
+    """Get canonical form of a name (removing all non-alphanumeric characters)"""
+    if not name:
+        return ""
+    # Remove all non-alphanumeric characters
+    return re.sub(r'[^a-z0-9]', '', normalize_team_name(name))
+
+def get_phonetic_representation(name):
+    """
+    Get a phonetic representation of a name to match similar sounding names
+    This handles cases like 'K'un' vs 'Kun', etc.
+    """
+    if not name:
+        return ""
+
+    # Normalize first
+    n = normalize_team_name(name)
+
+    # Apply phonetic substitutions
+    phonetic_subs = [
+        (r'k[\'`\-\s]*un', 'kun'),  # K'un, K-un, K un -> kun
+        (r'j[\'`\-\s]*in', 'jin'),  # J'in, J-in, J in -> jin
+        (r'zh[\'`\-\s]*ou', 'zhou'),  # Zh'ou, Zh-ou -> zhou
+        (r'([aeiou])[\'`]', r'\1'),  # Remove apostrophes after vowels
+        (r'saint', 'st'),  # Saint -> St
+        (r'fc', ''),  # Remove FC
+        (r'[\s\-]+', '')  # Remove spaces and hyphens
+    ]
+
+    result = n
+    for pattern, replacement in phonetic_subs:
+        result = re.sub(pattern, replacement, result)
+
+    return result
+
+def simplify_team_name(name):
+    """Simplify team name for better matching by removing common words"""
+    if not name:
+        return ""
+
+    n = normalize_team_name(name)
+
+    # Remove common team words and location identifiers
+    words = n.split()
+    filtered_words = [w for w in words if w not in COMMON_TEAM_WORDS and w not in LOCATION_IDENTIFIERS]
+
+    # Remove suffix patterns like "ienne", "ais", etc.
+    result = ' '.join(filtered_words)
+    result = re.sub(r'(ienne|ien|aise|ais|oise|ois|ine|in|é)$', '', result)
+
+    return result.strip()
+
+def canonical_form(name):
+    """Convert a team name to its canonical form (removing all non-alphanumeric chars)"""
+    if not name:
+        return ""
+    # Normalize first
+    n = normalize_team_name(name)
+    # Remove all non-alphanumeric chars
+    n = re.sub(r'[^a-z0-9]', '', n)
+    return n
+
+def extract_significant_words(name):
+    """Extract significant words from team name"""
+    if not name:
+        return set()
+
+    # Normalize and get words
+    normalized = normalize_team_name(name)
+    words = normalized.split()
+
+    # Filter out short words and common words
+    return {w for w in words if len(w) > 2 and
+            w not in COMMON_TEAM_WORDS and
+            w not in LOCATION_IDENTIFIERS}
+
+
+def check_team_synonyms(t1, t2):
+    """Check if teams are known synonyms"""
+    # Normalize names
+    n1 = normalize_team_name(t1)
+    n2 = normalize_team_name(t2)
+
+    # Check in synonym groups
+    for synonym_group in TEAM_SYNONYMS:
+        t1_found = any(syn in n1 for syn in synonym_group)
+        t2_found = any(syn in n2 for syn in synonym_group)
+        if t1_found and t2_found:
+            return True
+
+    return False
+
+
+def teams_match(t1, t2):
+    """Check if two team names match using multiple methods"""
+    # Handle empty strings
+    if not t1 or not t2:
+        return False
+
+    # Normalize names
+    n1 = normalize_team_name(t1)
+    n2 = normalize_team_name(t2)
+
+    # Direct comparison of normalized names
+    if n1 == n2:
+        return True
+
+    # Compare canonical forms (all non-alphanumeric chars removed)
+    c1 = get_canonical_name(t1)
+    c2 = get_canonical_name(t2)
+    if c1 == c2 and c1:  # Ensure not empty
+        return True
+
+    # Compare phonetic representations
+    p1 = get_phonetic_representation(t1)
+    p2 = get_phonetic_representation(t2)
+    if p1 == p2 and p1:  # Ensure not empty
+        return True
+
+    # Fuzzy match on normalized names
+    if fuzzy_match(n1, n2):
+        return True
+
+    # Fuzzy match on phonetic representations
+    if fuzzy_match(p1, p2) and len(p1) > 5 and len(p2) > 5:  # Only for substantive names
+        return True
+
+    # Check known synonyms
+    if check_team_synonyms(t1, t2):
+        return True
+
+    # Simplify names and check again
+    s1, s2 = simplify_team_name(t1), simplify_team_name(t2)
+    if s1 and s2 and (s1 == s2 or fuzzy_match(s1, s2)):
+        return True
+
+    # Check significant words
+    w1, w2 = extract_significant_words(t1), extract_significant_words(t2)
+    if not w1 or not w2:
+        return False
+
+    # If we have only one significant word each, they should match with high confidence
+    if len(w1) == 1 and len(w2) == 1:
+        word1 = list(w1)[0]
+        word2 = list(w2)[0]
+
+        # Compare canonical forms of individual words
+        word1_clean = re.sub(r'[^a-z0-9]', '', word1)
+        word2_clean = re.sub(r'[^a-z0-9]', '', word2)
+
+        if word1_clean == word2_clean or fuzzy_match(word1_clean, word2_clean, threshold=0.8):
+            return True
+
+        # Try phonetic comparison for individual words
+        word1_phonetic = get_phonetic_representation(word1)
+        word2_phonetic = get_phonetic_representation(word2)
+
+        if word1_phonetic == word2_phonetic:
+            return True
+
+    # Check if they share enough significant words
+    # Normalize all words by removing special characters
+    w1_norm = {re.sub(r'[^a-z0-9]', '', word) for word in w1}
+    w2_norm = {re.sub(r'[^a-z0-9]', '', word) for word in w2}
+
+    # Also check phonetic versions of words
+    w1_phonetic = {get_phonetic_representation(word) for word in w1}
+    w2_phonetic = {get_phonetic_representation(word) for word in w2}
+
+    # Check normal intersection
+    inter_norm = w1_norm & w2_norm
+    if bool(inter_norm) and len(inter_norm) / min(len(w1_norm), len(w2_norm)) > 0.5:
+        return True
+
+    # Check phonetic intersection
+    inter_phonetic = w1_phonetic & w2_phonetic
+    if bool(inter_phonetic) and len(inter_phonetic) / min(len(w1_phonetic), len(w2_phonetic)) > 0.5:
+        return True
+
+    return False
+
+
+def find_matching_matches(matches_by_source):
+    """
+    Find matching matches across all sources
+    Returns a list of groups, where each group contains matching matches from different sources
+    """
+    # Sort sources for deterministic processing order
+    sources = sorted(matches_by_source.keys())
+    all_matches = []
+
+    # Create a unique ID for each processed match to avoid duplication
+    processed_matches = set()
+
+    # Create a consistent dictionary to track match groups
+    match_groups = {}
+
+    # First pass: Index matches by normalized name + date + time
+    for source in sources:
+        for match in matches_by_source[source]:
+            # Create match key based on normalized team names
+            home_norm = normalize_team_name(match.get('home_team', ''))
+            away_norm = normalize_team_name(match.get('away_team', ''))
+            date_str = match.get('date', '')
+            time_str = match.get('time', '').strip()
+
+            # Ensure consistent ordering of teams in key (home-away)
+            match_key = f"{home_norm}|{away_norm}|{date_str}|{time_str}"
+
+            if match_key not in match_groups:
+                match_groups[match_key] = []
+            match_groups[match_key].append((source, match))
+
+    # Second pass: Process groups with exact name matches first
+    for match_key, matches in match_groups.items():
+        # Only process groups with matches from multiple sources
+        if len(set(src for src, _ in matches)) < 2:
+            continue
+
+        # Create a group with one match from each source
+        group = []
+        sources_seen = set()
+
+        for src, match in matches:
+            if src not in sources_seen:
+                match["source"] = src  # Ensure source is set
+                group.append(match)
+                sources_seen.add(src)
+
+                # Mark as processed
+                match_id = f"{match.get('home_team', '')}|{match.get('away_team', '')}|{match.get('date', '')}|{match.get('time', '')}"
+                processed_matches.add(match_id)
+
+        if len(group) >= 2:
+            all_matches.append(group)
+
+    # Third pass: Use fuzzy matching for remaining matches
+    for source_idx, source in enumerate(sources):
+        for match in matches_by_source[source]:
+            # Skip matches we've already processed
+            home_team = match.get('home_team', '')
+            away_team = match.get('away_team', '')
+            date_str = match.get('date', '')
+            time_str = match.get('time', '').strip()
+
+            match_id = f"{home_team}|{away_team}|{date_str}|{time_str}"
+            if match_id in processed_matches:
+                continue
+
+            processed_matches.add(match_id)
+
+            # Find matching matches from other sources using fuzzy matching
+            matching_group = [match]
+            match["source"] = source  # Ensure source is set
+
+            for other_source in sorted(sources):  # Sort for deterministic order
+                if other_source == source:
+                    continue
+
+                best_match = None
+                best_score = 0
+
+                for other_match in matches_by_source[other_source]:
+                    # Skip matches we've already processed
+                    other_id = f"{other_match.get('home_team', '')}|{other_match.get('away_team', '')}|{other_match.get('date', '')}|{other_match.get('time', '')}"
+                    if other_id in processed_matches:
+                        continue
+
+                    # Check date and time match
+                    d1 = parse_date(match.get("date", ""))
+                    t1 = match.get("time", "").strip()
+                    d2 = parse_date(other_match.get("date", ""))
+                    t2 = other_match.get("time", "").strip()
+
+                    date_match = (d1 and d2 and abs((d1 - d2).days) <= 1) or match.get("date", "") == other_match.get(
+                        "date", "")
+                    time_match = t1 == t2
+
+                    if date_match and time_match:
+                        # Check team names match
+                        home_match = teams_match(match.get("home_team", ""), other_match.get("home_team", ""))
+                        away_match = teams_match(match.get("away_team", ""), other_match.get("away_team", ""))
+
+                        if home_match and away_match:
+                            # Calculate a match score for deterministic selection
+                            h1 = simplify_team_name(match.get("home_team", ""))
+                            a1 = simplify_team_name(match.get("away_team", ""))
+                            h2 = simplify_team_name(other_match.get("home_team", ""))
+                            a2 = simplify_team_name(other_match.get("away_team", ""))
+
+                            home_score = difflib.SequenceMatcher(None, h1, h2).ratio()
+                            away_score = difflib.SequenceMatcher(None, a1, a2).ratio()
+                            score = (home_score + away_score) / 2
+
+                            if score > best_score:
+                                best_score = score
+                                best_match = other_match
+
+                if best_match:
+                    best_match["source"] = other_source  # Ensure source is set
+                    matching_group.append(best_match)
+                    other_id = f"{best_match.get('home_team', '')}|{best_match.get('away_team', '')}|{best_match.get('date', '')}|{best_match.get('time', '')}"
+                    processed_matches.add(other_id)
+
+            # Only add groups that appear in at least 2 sources
+            if len(matching_group) >= 2:
+                all_matches.append(matching_group)
+
+    return all_matches
+
+
+def pick_best_odds(matches, key):
+    """
+    Pick the best odd across all matches for a specific market
+    Returns the best odd value and its source
+    """
+    best_value = 0
+    best_source = None
+
+    for match in matches:
+        try:
+            value_raw = match.get(key, "0")
+
+            # Handle both string and numeric types
+            if isinstance(value_raw, (int, float)):
+                value = float(value_raw)
+            elif isinstance(value_raw, str) and value_raw.strip():
+                value = float(value_raw)
+            else:
+                continue  # Skip if empty or invalid
+
+            if value > best_value:
+                best_value = value
+                best_source = match.get("source")
+        except (ValueError, TypeError) as e:
+            # Log the error for debugging
+            print(f"Error parsing odd {key} from match {match.get('home_team')} vs {match.get('away_team')}: {e}")
+            continue
+
+    return best_value, best_source
+
+
+def check_arbitrage(odds):
+    """Check if there's an arbitrage opportunity"""
+    # Check if all odds are valid
+    if any(v <= 0 for v, _ in odds.values()):
+        return None
+
+    # Check if odds come from at least 2 different sources
+    sources = {src for _, src in odds.values()}
+    if len(sources) < 2:
+        return None
+
+    # Calculate arbitrage percentage (convert to decimal odds)
+    total = sum(1 / float(v) for v, _ in odds.values())
+
+    # Return the arbitrage percentage if it's profitable
+    return total if total < 1 else None
+
+
+def analyze_matching_matches(matching_group):
+    """
+    Analyze a group of matching matches for arbitrage opportunities
+    Each matching_group contains matches from different sources
+    """
+    # Only process if we have matches from at least 2 sources
+    if len(matching_group) < 2:
+        return None
+
+    sources = [match.get("source") for match in matching_group]
+
+    # Define market sets to check
+    market_sets = {
+        "three_way": ["1_odd", "draw_odd", "2_odd"],
+        "pair_1": ["1_odd", "X2_odd"],
+        "pair_2": ["draw_odd", "12_odd"],
+        "pair_3": ["2_odd", "1X_odd"],
+        "pair_4": ["both_score_odd", "both_noscore_odd"],
+        "pair_5": ["under_2.5_odd", "over_2.5_odd"]
+    }
+
+    # Create match info from the first match
+    first_match = matching_group[0]
+    country = first_match.get("country", "unknown")
+
+    # Check which home/away team name to use (use the most detailed one)
+    home_teams = [m.get("home_team", "") for m in matching_group if m.get("home_team")]
+    away_teams = [m.get("away_team", "") for m in matching_group if m.get("away_team")]
+
+    best_home = max(home_teams, key=len) if home_teams else ""
+    best_away = max(away_teams, key=len) if away_teams else ""
+
+    info = {
+        "home_team": best_home,
+        "away_team": best_away,
+        "date": first_match.get("date"),
+        "time": first_match.get("time"),
+        "sources": sources,
+        "country": country
+    }
+
+    # Debug info
+    match_signature = f"{best_home} vs {best_away} on {first_match.get('date')} at {first_match.get('time')}"
+
+    # Add tournament info for each source
+    for match in matching_group:
+        src = match.get("source")
+        if src:
+            info[f"tournament_{src}"] = match.get("tournament_name")
+
+    opportunities = []
+
+    # Check each market set for arbitrage opportunities
+    for name, keys in market_sets.items():
+        # Skip if any key is missing from all matches
+        should_skip = False
+        for k in keys:
+            if all(not match.get(k) or str(match.get(k)).strip() == "" for match in matching_group):
+                should_skip = True
+                break
+
+        if should_skip:
+            continue
+
+        # Pick best odds from all sources
+        odds = {}
+        for k in keys:
+            odds[k] = pick_best_odds(matching_group, k)
+
+        # Check for arbitrage opportunity
+        arb = check_arbitrage(odds)
+        if arb is not None:
+            # Print debug info for arbitrage found
+            print(f"Arbitrage found ({name}): {match_signature}, {arb:.4f}")
+            # Format odds for better readability in output
+            formatted_odds = {}
+            for k, (v, s) in odds.items():
+                formatted_odds[k] = {"value": v, "source": s}
+
+            opportunities.append({
+                "match_info": info,
+                "complementary_set": name,
+                "best_odds": formatted_odds,
+                "arbitrage_percentage": round(arb, 4)
+            })
+
+    return opportunities
+
+
+def find_actual_filename(base, dir_path):
+    """Find the actual filename for a country in a directory"""
+    # try exact
+    exact = base + ".json"
+    if os.path.exists(os.path.join(dir_path, exact)):
+        return exact
+    # try substring match
+    for fn in os.listdir(dir_path):
+        if fn.lower().endswith('.json') and base.lower() in fn.lower():
+            return fn
+    # try synonyms
+    for group in SYN_GROUPS:
+        if base in group:
+            for alt in group:
+                alt_fn = alt + ".json"
+                if os.path.exists(os.path.join(dir_path, alt_fn)):
+                    return alt_fn
+    return None
+
+
+
+
+def find_matching_matches_improved(matches_by_source):
+    """
+    Find matching matches across all sources with improved matching algorithm
+    Returns a list of groups, where each group contains matching matches from different sources
+    """
+    # Sort sources for deterministic processing order
+    sources = sorted(matches_by_source.keys())
+    all_matches = []
+
+    # Create a consistent dictionary to track match groups
+    match_groups = {}
+
+    # First pass: Index matches by normalized name + date + time (same as before)
+    for source in sources:
+        for match in matches_by_source[source]:
+            # Create match key based on normalized team names
+            home_norm = normalize_team_name(match.get('home_team', ''))
+            away_norm = normalize_team_name(match.get('away_team', ''))
+            date_str = match.get('date', '')
+            time_str = match.get('time', '').strip()
+
+            # Ensure consistent ordering of teams in key (home-away)
+            match_key = f"{home_norm}|{away_norm}|{date_str}|{time_str}"
+
+            if match_key not in match_groups:
+                match_groups[match_key] = []
+            match_groups[match_key].append((source, match))
+
+    # Second pass: Process groups with exact name matches first
+    for match_key, matches in match_groups.items():
+        # Only process groups with matches from multiple sources
+        if len(set(src for src, _ in matches)) < 2:
+            continue
+
+        # Create a group with one match from each source
+        group = []
+        sources_seen = set()
+
+        for src, match in matches:
+            if src not in sources_seen:
+                match["source"] = src  # Ensure source is set
+                group.append(match)
+                sources_seen.add(src)
+
+        if len(group) >= 2:
+            all_matches.append(group)
+
+    # Third pass: Use fuzzy matching for all source combinations
+    # Instead of marking matches as processed globally, track combinations
+
+    # For each pair of sources
+    for i, source1 in enumerate(sources):
+        for source2 in sources[i + 1:]:  # Start at i+1 to avoid duplicate pairs
+            # Create source-specific sets to track processed matches
+            processed_source1 = set()
+            processed_source2 = set()
+
+            # Compare every match from source1 with every match from source2
+            for match1 in matches_by_source[source1]:
+                # Skip matches already matched in exact matching phase
+                match1_id = f"{match1.get('home_team', '')}|{match1.get('away_team', '')}|{match1.get('date', '')}|{match1.get('time', '')}"
+                if match1_id in processed_source1:
+                    continue
+
+                for match2 in matches_by_source[source2]:
+                    # Skip matches already matched in exact matching phase
+                    match2_id = f"{match2.get('home_team', '')}|{match2.get('away_team', '')}|{match2.get('date', '')}|{match2.get('time', '')}"
+                    if match2_id in processed_source2:
+                        continue
+
+                    # Check date and time match
+                    d1 = parse_date(match1.get("date", ""))
+                    t1 = match1.get("time", "").strip()
+                    d2 = parse_date(match2.get("date", ""))
+                    t2 = match2.get("time", "").strip()
+
+                    date_match = (d1 and d2 and abs((d1 - d2).days) <= 1) or match1.get("date", "") == match2.get(
+                        "date", "")
+                    time_match = t1 == t2
+
+                    if date_match and time_match:
+                        # Check team names match
+                        home_match = teams_match(match1.get("home_team", ""), match2.get("home_team", ""))
+                        away_match = teams_match(match1.get("away_team", ""), match2.get("away_team", ""))
+
+                        if home_match and away_match:
+                            # We found a match between these two sources
+                            match1["source"] = source1
+                            match2["source"] = source2
+
+                            # Create a new group with these two matches
+                            group = [match1, match2]
+                            all_matches.append(group)
+
+                            # Mark these matches as processed for these sources
+                            processed_source1.add(match1_id)
+                            processed_source2.add(match2_id)
+
+                            # Move to next match1
+                            break
+
+    return all_matches
+
+
+def find_all_matching_matches(matches_by_source):
+    """
+    Find all possible match combinations across all sources
+    Returns a list of groups, where each group contains matching matches from all possible sources
+    """
+    # Sort sources for deterministic processing order
+    sources = sorted(matches_by_source.keys())
+
+    # Step 1: Create match signature index
+    # This will map a match signature to all its occurrences across all sources
+    match_index = {}
+
+    # First pass: Index all matches by exact signature
+    for source in sources:
+        for match in matches_by_source[source]:
+            # Create match key based on normalized team names
+            home_norm = normalize_team_name(match.get('home_team', ''))
+            away_norm = normalize_team_name(match.get('away_team', ''))
+            date_str = match.get('date', '')
+            time_str = match.get('time', '').strip()
+
+            # Create a match signature
+            match_sig = f"{home_norm}|{away_norm}|{date_str}|{time_str}"
+
+            if match_sig not in match_index:
+                match_index[match_sig] = {}
+
+            # Store the match indexed by source
+            match["source"] = source  # Ensure source is set
+            match_index[match_sig][source] = match
+
+    # Step 2: Find fuzzy matches
+    # For each match that doesn't have matches in all sources, try to find fuzzy matches
+    fuzzy_matches = []
+
+    # Track which matches have been processed in fuzzy matching
+    processed_matches = {src: set() for src in sources}
+
+    # For each source
+    for source1 in sources:
+        for match1 in matches_by_source[source1]:
+            # Skip if already found an exact match with all sources
+            match1_sig = f"{normalize_team_name(match1.get('home_team', ''))}|{normalize_team_name(match1.get('away_team', ''))}|{match1.get('date', '')}|{match1.get('time', '').strip()}"
+            if match1_sig in match_index and len(match_index[match1_sig]) == len(sources):
+                continue
+
+            # Skip if this match was already processed in fuzzy matching
+            match1_id = f"{match1.get('home_team', '')}|{match1.get('away_team', '')}|{match1.get('date', '')}|{match1.get('time', '')}"
+            if match1_id in processed_matches[source1]:
+                continue
+
+            # This will track all matches that match with match1 across all sources
+            fuzzy_group = {source1: match1}
+            processed_matches[source1].add(match1_id)
+
+            # For each other source
+            for source2 in sources:
+                if source2 == source1:
+                    continue
+
+                best_match = None
+                best_score = 0
+
+                # Try to find best matching match from source2
+                for match2 in matches_by_source[source2]:
+                    # Skip if already used in this fuzzy match group or exact match
+                    match2_id = f"{match2.get('home_team', '')}|{match2.get('away_team', '')}|{match2.get('date', '')}|{match2.get('time', '')}"
+                    if match2_id in processed_matches[source2]:
+                        continue
+
+                    # Check date and time match
+                    d1 = parse_date(match1.get("date", ""))
+                    t1 = match1.get("time", "").strip()
+                    d2 = parse_date(match2.get("date", ""))
+                    t2 = match2.get("time", "").strip()
+
+                    date_match = (d1 and d2 and abs((d1 - d2).days) <= 1) or match1.get("date", "") == match2.get(
+                        "date", "")
+                    time_match = t1 == t2
+
+                    if date_match and time_match:
+                        # Check team names match
+                        home_match = teams_match(match1.get("home_team", ""), match2.get("home_team", ""))
+                        away_match = teams_match(match1.get("away_team", ""), match2.get("away_team", ""))
+
+                        if home_match and away_match:
+                            # Calculate match score
+                            h1 = simplify_team_name(match1.get("home_team", ""))
+                            a1 = simplify_team_name(match1.get("away_team", ""))
+                            h2 = simplify_team_name(match2.get("home_team", ""))
+                            a2 = simplify_team_name(match2.get("away_team", ""))
+
+                            home_score = difflib.SequenceMatcher(None, h1, h2).ratio()
+                            away_score = difflib.SequenceMatcher(None, a1, a2).ratio()
+                            score = (home_score + away_score) / 2
+
+                            if score > best_score:
+                                best_score = score
+                                best_match = match2
+
+                # If we found a match, add it to the group
+                if best_match:
+                    best_match["source"] = source2  # Ensure source is set
+                    fuzzy_group[source2] = best_match
+                    best_match_id = f"{best_match.get('home_team', '')}|{best_match.get('away_team', '')}|{best_match.get('date', '')}|{best_match.get('time', '')}"
+                    processed_matches[source2].add(best_match_id)
+
+            # Only add groups that have matches from at least 2 sources
+            if len(fuzzy_group) >= 2:
+                fuzzy_matches.append(list(fuzzy_group.values()))
+
+    # Step 3: Combine exact matches from match_index
+    exact_matches = []
+    for sig, matches_by_src in match_index.items():
+        if len(matches_by_src) >= 2:  # Only include if found in at least 2 sources
+            exact_matches.append(list(matches_by_src.values()))
+
+    # Combine both exact and fuzzy matches
+    all_matches = exact_matches + fuzzy_matches
+    return all_matches
+
+
+def analyze_optimal_arbitrage(matching_group):
+    """
+    Find the optimal arbitrage opportunity across all sources for a match
+    This function ensures we check all possible combinations of odds
+    """
+    # Only process if we have matches from at least 2 sources
+    if len(matching_group) < 2:
+        return None
+
+    # Extract sources and create match info
+    sources = [match.get("source") for match in matching_group]
+
+    # Create match info from the first match
+    first_match = matching_group[0]
+    country = first_match.get("country", "unknown")
+
+    # Check which home/away team name to use (use the most detailed one)
+    home_teams = [m.get("home_team", "") for m in matching_group if m.get("home_team")]
+    away_teams = [m.get("away_team", "") for m in matching_group if m.get("away_team")]
+
+    best_home = max(home_teams, key=len) if home_teams else ""
+    best_away = max(away_teams, key=len) if away_teams else ""
+
+    info = {
+        "home_team": best_home,
+        "away_team": best_away,
+        "date": first_match.get("date"),
+        "time": first_match.get("time"),
+        "sources": sources,
+        "country": country
+    }
+
+    # Match signature for debugging
+    match_signature = f"{best_home} vs {best_away} on {first_match.get('date')} at {first_match.get('time')}"
+
+    # Add tournament info for each source
+    for match in matching_group:
+        src = match.get("source")
+        if src:
+            info[f"tournament_{src}"] = match.get("tournament_name")
+
+    # Define market sets to check
+    market_sets = {
+        "three_way": ["1_odd", "draw_odd", "2_odd"],
+        "pair_1": ["1_odd", "X2_odd"],
+        "pair_2": ["draw_odd", "12_odd"],
+        "pair_3": ["2_odd", "1X_odd"],
+        "pair_4": ["both_score_odd", "both_noscore_odd"],
+        "pair_5": ["under_2.5_odd", "over_2.5_odd"]
+    }
+
+    # Find the best arbitrage opportunity across all market sets
+    best_opportunity = None
+    best_arb_percentage = 1.0  # Initialize with 1.0 (no profit)
+
+    for name, keys in market_sets.items():
+        # Skip if any key is missing from all matches
+        should_skip = False
+        for k in keys:
+            if all(not match.get(k) or str(match.get(k)).strip() == "" for match in matching_group):
+                should_skip = True
+                break
+
+        if should_skip:
+            continue
+
+        # For each key, find the best odd across all sources
+        best_odds = {}
+        for k in keys:
+            best_odds[k] = pick_best_odds(matching_group, k)
+
+        # Check if we have a valid arbitrage opportunity
+        arb = check_arbitrage(best_odds)
+        if arb is not None and arb < best_arb_percentage:
+            # Format odds for better readability
+            formatted_odds = {}
+            for k, (v, s) in best_odds.items():
+                formatted_odds[k] = {"value": v, "source": s}
+
+            # Create opportunity object
+            opportunity = {
+                "match_info": info,
+                "complementary_set": name,
+                "best_odds": formatted_odds,
+                "arbitrage_percentage": round(arb, 4)
+            }
+
+            best_opportunity = opportunity
+            best_arb_percentage = arb
+
+            # Debug info
+            print(f"Arbitrage found ({name}): {match_signature}, {arb:.4f}")
+
+    # Return the best opportunity (or None if no arbitrage found)
+    return [best_opportunity] if best_opportunity else None
+
+
+def process_files_optimal():
+    """Process all files to find optimal arbitrage opportunities across all sources"""
+    reset_output()
+    total_matching_groups = 0
+    total_arb = 0
+
+    # Dictionary to store arbitrage opportunities by country
+    arbitrage_by_country = {}
+
+    # Track which country files we've already processed
+    processed_countries = set()
+
+    # Use the configured source directories
+    sources = SOURCE_DIRECTORIES
+
+    # Process each country file once
+    all_countries = set()
+    for _, source_dir in sources:
+        if os.path.exists(source_dir):
+            for fname in os.listdir(source_dir):
+                if fname.lower().endswith('.json'):
+                    all_countries.add(os.path.splitext(fname)[0])
+
+    # Process each country
+    for country_name in sorted(all_countries):
+        # Skip if we've already processed this country
+        if country_name in processed_countries:
+            continue
+
+        processed_countries.add(country_name)
+        base = country_name
+
+        # Find corresponding files in all sources
+        paths = {}
+        for src_name, src_dir in sources:
+            if os.path.exists(src_dir):
+                fn = find_actual_filename(base, src_dir)
+                if fn:
+                    paths[src_name] = os.path.join(src_dir, fn)
+
+        # Skip if we don't have at least 2 sources
+        if len(paths) < 2:
+            continue
+
+        # Load matches from each source
+        data = {}
+        for src_name, path in paths.items():
+            entries = load_matches(path)
+            for m in entries:
+                m["source"] = src_name
+            data[src_name] = entries
+
+        # Find all possible matching matches across all sources
+        matching_groups = find_all_matching_matches(data)
+        total_matching_groups += len(matching_groups)
+
+        print(f"Country {country_name}: Found {len(matching_groups)} matching groups across sources.")
+
+        # Analyze each group for optimal arbitrage opportunities
+        country_arb_count = 0
+        for group in matching_groups:
+            opportunities = analyze_optimal_arbitrage(group)
+            if opportunities:
+                country_arb_count += len(opportunities)
+                total_arb += len(opportunities)
+
+                # Group opportunities by country
+                country = group[0].get("country", country_name)
+                if country not in arbitrage_by_country:
+                    arbitrage_by_country[country] = []
+                arbitrage_by_country[country].extend(opportunities)
+
+        if country_arb_count > 0:
+            print(f"Country {country_name}: Found {country_arb_count} arbitrage opportunities.")
+
+    # Save arbitrage opportunities by country
+    for country, opps in sorted(arbitrage_by_country.items()):
+        if opps:
+            out_path = os.path.join(OUTPUT_DIR, f"{country}.json")
+            with open(out_path, 'w', encoding='utf-8') as f:
+                json.dump(opps, f, ensure_ascii=False, indent=2)
+
+    print(f"Total matching groups: {total_matching_groups}")
+    print(f"Total arbitrage opportunities: {total_arb}")
+
+def process_files():
+    """Process all files to find arbitrage opportunities with improved algorithm"""
+    reset_output()
+    total_matching_groups = 0
+    total_arb = 0
+
+    # Dictionary to store arbitrage opportunities by country
+    arbitrage_by_country = {}
+
+    # Track which country files we've already processed
+    processed_countries = set()
+
+    # Use the configured source directories
+    sources = SOURCE_DIRECTORIES
+
+    # Process each country file once
+    all_countries = set()
+    for _, source_dir in sources:
+        if os.path.exists(source_dir):
+            for fname in os.listdir(source_dir):
+                if fname.lower().endswith('.json'):
+                    all_countries.add(os.path.splitext(fname)[0])
+
+    # Process each source pair for each country
+    for country_name in sorted(all_countries):
+        # Skip if we've already processed this country
+        if country_name in processed_countries:
+            continue
+
+        processed_countries.add(country_name)
+        base = country_name
+
+        # Find corresponding files in all sources
+        paths = {}
+        for src_name, src_dir in sources:
+            if os.path.exists(src_dir):
+                fn = find_actual_filename(base, src_dir)
+                if fn:
+                    paths[src_name] = os.path.join(src_dir, fn)
+
+        # Skip if we don't have at least 2 sources
+        if len(paths) < 2:
+            continue
+
+        # Load matches from each source
+        data = {}
+        for src_name, path in paths.items():
+            entries = load_matches(path)
+            for m in entries:
+                m["source"] = src_name
+            data[src_name] = entries
+
+        # Find matching matches across all sources with improved algorithm
+        matching_groups = find_matching_matches_improved(data)
+        total_matching_groups += len(matching_groups)
+
+        print(f"Country {country_name}: Found {len(matching_groups)} matching groups across sources.")
+
+        # Analyze each group for arbitrage opportunities
+        country_arb_count = 0
+        for group in matching_groups:
+            opportunities = analyze_matching_matches(group)
+            if opportunities:
+                country_arb_count += len(opportunities)
+                total_arb += len(opportunities)
+
+                # Group opportunities by country
+                country = group[0].get("country", country_name)
+                if country not in arbitrage_by_country:
+                    arbitrage_by_country[country] = []
+                arbitrage_by_country[country].extend(opportunities)
+
+        if country_arb_count > 0:
+            print(f"Country {country_name}: Found {country_arb_count} arbitrage opportunities.")
+
+    # Save arbitrage opportunities by country
+    for country, opps in sorted(arbitrage_by_country.items()):
+        if opps:
+            out_path = os.path.join(OUTPUT_DIR, f"{country}.json")
+            with open(out_path, 'w', encoding='utf-8') as f:
+                json.dump(opps, f, ensure_ascii=False, indent=2)
+
+    print(f"Total matching groups: {total_matching_groups}")
+    print(f"Total arbitrage opportunities: {total_arb}")
+
+
+def add_source_directory(source_name: str, directory_path: str):
+    """Add a new source directory"""
+    global SOURCE_DIRECTORIES
+    # Check if the directory exists
+    if not os.path.exists(directory_path):
+        print(f"Warning: Directory '{directory_path}' does not exist")
+        return False
+
+    # Check if source already exists
+    for name, _ in SOURCE_DIRECTORIES:
+        if name == source_name:
+            print(f"Warning: Source '{source_name}' already exists")
+            return False
+
+    # Add the new source
+    SOURCE_DIRECTORIES.append((source_name, directory_path))
+    print(f"Added source: {source_name} at {directory_path}")
+    return True
+
+
+def test_team_matching():
+    """Test function to validate team name matching logic"""
+    test_cases = [
+        ("Al Hilal SFC", "Al Hilal Riyadh", True),
+        ("Al-Shabab FC (SA)", "Al Shabab Riyadh", True),
+        ("Manchester United", "Man Utd", True),
+        ("Real Madrid", "Real Madrid CF", True),
+        ("Paris Saint-Germain", "PSG", False),  # Add to synonyms if needed
+        ("Inter Milan", "Internazionale", True),
+        ("Bayern Munich", "FC Bayern München", True),
+        ("Liverpool FC", "Liverpool", True),
+        ("Barcelona", "FC Barcelona", True),
+        ("Juventus", "Juventus Turin", True),
+        ("AC Milan", "Milan", True),
+        ("Chelsea FC", "Chelsea London", True),
+        ("Al Nassr", "Al-Nassr FC", True),
+        ("Al Ittihad", "Al-Ittihad Club", True),
+        ("Yanbian Longding", "Yanbian Longding", True),
+        ("Dalian Kun City", "Dalian K'un City", True),
+    ]
+
+    passed = 0
+    failed = []
+
+    for team1, team2, expected in test_cases:
+        result = teams_match(team1, team2)
+        if result == expected:
+            passed += 1
+        else:
+            failed.append((team1, team2, expected, result))
+
+    print(f"Team matching tests: {passed}/{len(test_cases)} passed")
+
+    if failed:
+        print("Failed tests:")
+        for team1, team2, expected, result in failed:
+            print(f"  - '{team1}' vs '{team2}': Expected {expected}, got {result}")
+            # Debug info
+            print(f"    - Normalized: '{normalize_team_name(team1)}' vs '{normalize_team_name(team2)}'")
+            print(f"    - Simplified: '{simplify_team_name(team1)}' vs '{simplify_team_name(team2)}'")
+            print(f"    - Words: {extract_significant_words(team1)} vs {extract_significant_words(team2)}")
+            print(f"    - Synonyms: {check_team_synonyms(team1, team2)}")
+
+
+if __name__ == '__main__':
+    # Test team name matching
+    test_team_matching()
+
+    # Process all files to find arbitrage opportunities
+    process_files_optimal()

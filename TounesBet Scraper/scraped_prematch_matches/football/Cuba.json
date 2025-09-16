@@ -1,0 +1,47 @@
+[
+    {
+        "last_updated": "2025-09-16T20:54:21.092698+01:00"
+    },
+    {
+        "tournament_name": "Cuba Liga De Barrios",
+        "tournament_id": 256878,
+        "matches": [
+            {
+                "match_id": 11301614,
+                "tournament_id": 256878,
+                "date": "17/09/2025",
+                "time": "14:00",
+                "home_team": "Sporting Bellavista",
+                "away_team": "Olimpicos Habana",
+                "1_odd": null,
+                "draw_odd": null,
+                "2_odd": null,
+                "both_score_odd": null,
+                "both_noscore_odd": null,
+                "under_2.5_odd": null,
+                "over_2.5_odd": null,
+                "1X_odd": null,
+                "12_odd": null,
+                "X2_odd": null
+            },
+            {
+                "match_id": 11301618,
+                "tournament_id": 256878,
+                "date": "17/09/2025",
+                "time": "16:15",
+                "home_team": "Leones De La Lisa",
+                "away_team": "Atletico Cuevita",
+                "1_odd": null,
+                "draw_odd": null,
+                "2_odd": null,
+                "both_score_odd": null,
+                "both_noscore_odd": null,
+                "under_2.5_odd": null,
+                "over_2.5_odd": null,
+                "1X_odd": null,
+                "12_odd": null,
+                "X2_odd": null
+            }
+        ]
+    }
+]

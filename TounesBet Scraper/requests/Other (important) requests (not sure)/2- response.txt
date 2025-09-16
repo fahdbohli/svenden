@@ -1,0 +1,16 @@
+HTTP/2 200 OK
+Date: Tue, 22 Jul 2025 18:52:03 GMT
+Content-Type: application/json; charset=utf-8
+Server: cloudflare
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=2Vyb00B0%2B1HYqYDbCGyKxMSDby4XidVjNe2%2FrLZ%2B1elBxhtKC%2FL8weJlUiMUx0CFxzVsI2PFk4%2BWMz2YVedJgk5yHrXGMl3MaHp5bFI%3D"}]}
+Cache-Control: private, s-maxage=0
+X-Aspnetmvc-Version: 5.2
+X-Aspnet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+Cf-Cache-Status: DYNAMIC
+Set-Cookie: _culture=fr-fr; SameSite=None; Secure; Path=/; Expires=Wed, 22 Jul 2026 18:52:03 GMT
+Cf-Ray: 96352207eafbe165-MRS
+Alt-Svc: h3=":443"; ma=86400
+
+{"Expired":false}

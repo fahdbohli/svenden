@@ -1,0 +1,1442 @@
+[
+  {
+    "group_id": "2579068340077207579-653643027-11289252-13600996-27989312",
+    "home_team": "Al Kholood",
+    "away_team": "Damac FC",
+    "date": "18/09/2025",
+    "time": "16:40",
+    "country": "Saudi Arabia",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.01,
+            "source": "1xbet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 2.301,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9321,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653643027-11289252",
+        "misvalue_source": "1xbet",
+        "1xbet_country_name": "Saudi Arabia",
+        "tournament_1xbet": "Saudi Professional League",
+        "1xbet_match_id": 653643027,
+        "1xbet_tournament_id": 16819,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/16819/653643027",
+        "Tounesbet_country_name": "Saudi Arabia",
+        "tournament_Tounesbet": "Professional League",
+        "Tounesbet_match_id": 11289252,
+        "Tounesbet_tournament_id": 21662,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579068340077207579-653643027-11289252-13600996-27989312",
+        "home_team": "Al Kholood",
+        "away_team": "Damac FC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 1.88,
+            "source": "Jibibet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 2.301,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9665,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2579068340077207579-11289252",
+        "misvalue_source": "1xbet",
+        "Jibibet_country_name": "Saudi Arabia",
+        "tournament_Jibibet": "Saudi Pro League",
+        "Jibibet_match_id": 2579068340077207579,
+        "Jibibet_tournament_id": 1669817283092025344,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "Saudi Arabia",
+        "tournament_Tounesbet": "Professional League",
+        "Tounesbet_match_id": 11289252,
+        "Tounesbet_tournament_id": 21662,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579068340077207579-653643027-11289252-13600996-27989312",
+        "home_team": "Al Kholood",
+        "away_team": "Damac FC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "corners_under_9.5_vs_corners_over_9.5",
+        "best_odds": {
+          "corners_under_9.5_odd": {
+            "value": 1.947,
+            "source": "Tounesbet"
+          },
+          "corners_over_9.5_odd": {
+            "value": 2.17,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9744,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27989312-11289252",
+        "misvalue_source": "1xbet",
+        "Tounesbet_country_name": "Saudi Arabia",
+        "tournament_Tounesbet": "Professional League",
+        "Tounesbet_match_id": 11289252,
+        "Tounesbet_tournament_id": 21662,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "Saudi Arabia",
+        "tournament_Asbet": "Saudi Professional League",
+        "Asbet_match_id": 27989312,
+        "Asbet_tournament_id": 2971,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Saudi Arabia/2971/saudi-professional-league/27989312/al-kholood-damac-fc",
+        "group_id": "2579068340077207579-653643027-11289252-13600996-27989312",
+        "home_team": "Al Kholood",
+        "away_team": "Damac FC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 1.8462,
+            "source": "Clubx2"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 2.301,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9762,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13600996-11289252",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Saudi Arabia",
+        "tournament_Clubx2": "Saudi Pro League",
+        "Clubx2_match_id": 13600996,
+        "Clubx2_tournament_id": 2934,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13600996#/overview",
+        "Tounesbet_country_name": "Saudi Arabia",
+        "tournament_Tounesbet": "Professional League",
+        "Tounesbet_match_id": 11289252,
+        "Tounesbet_tournament_id": 21662,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579068340077207579-653643027-11289252-13600996-27989312",
+        "home_team": "Al Kholood",
+        "away_team": "Damac FC",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2578687063792689178-653333429-11281940-13600984-27989311",
+    "home_team": "Al Taawon Buraidah",
+    "away_team": "Al Ettifaq Dammam",
+    "date": "18/09/2025",
+    "time": "16:40",
+    "country": "Saudi Arabia",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.48,
+            "source": "Jibibet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.829,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.95,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2578687063792689178-11281940",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "Saudi Arabia",
+        "tournament_Jibibet": "Saudi Pro League",
+        "Jibibet_match_id": 2578687063792689178,
+        "Jibibet_tournament_id": 1669817283092025344,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "Saudi Arabia",
+        "tournament_Tounesbet": "Professional League",
+        "Tounesbet_match_id": 11281940,
+        "Tounesbet_tournament_id": 21662,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578687063792689178-653333429-11281940-13600984-27989311",
+        "home_team": "Al Taawon Buraidah",
+        "away_team": "Al Ettifaq Dammam",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_0.25_home_vs_away",
+        "best_odds": {
+          "home_handicap_0.25_odd": {
+            "value": 1.852,
+            "source": "Tounesbet"
+          },
+          "away_handicap_-0.25_odd": {
+            "value": 2.35,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9655,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27989311-11281940",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Saudi Arabia",
+        "tournament_Tounesbet": "Professional League",
+        "Tounesbet_match_id": 11281940,
+        "Tounesbet_tournament_id": 21662,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "Saudi Arabia",
+        "tournament_Asbet": "Saudi Professional League",
+        "Asbet_match_id": 27989311,
+        "Asbet_tournament_id": 2971,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Saudi Arabia/2971/saudi-professional-league/27989311/al-taawon-buraidah-al-ettifaq-dammam",
+        "group_id": "2578687063792689178-653333429-11281940-13600984-27989311",
+        "home_team": "Al Taawon Buraidah",
+        "away_team": "Al Ettifaq Dammam",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "both_score",
+        "best_odds": {
+          "both_score_odd": {
+            "value": 2.029,
+            "source": "Tounesbet"
+          },
+          "both_noscore_odd": {
+            "value": 2.104,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.9681,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653333429-11281940",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Saudi Arabia",
+        "tournament_Tounesbet": "Professional League",
+        "Tounesbet_match_id": 11281940,
+        "Tounesbet_tournament_id": 21662,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "1xbet_country_name": "Saudi Arabia",
+        "tournament_1xbet": "Saudi Professional League",
+        "1xbet_match_id": 653333429,
+        "1xbet_tournament_id": 16819,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/16819/653333429",
+        "group_id": "2578687063792689178-653333429-11281940-13600984-27989311",
+        "home_team": "Al Taawon Buraidah",
+        "away_team": "Al Ettifaq Dammam",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "both_score",
+        "best_odds": {
+          "both_score_odd": {
+            "value": 2.029,
+            "source": "Tounesbet"
+          },
+          "both_noscore_odd": {
+            "value": 2.1,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.969,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13600984-11281940",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Saudi Arabia",
+        "tournament_Tounesbet": "Professional League",
+        "Tounesbet_match_id": 11281940,
+        "Tounesbet_tournament_id": 21662,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "Saudi Arabia",
+        "tournament_Clubx2": "Saudi Pro League",
+        "Clubx2_match_id": 13600984,
+        "Clubx2_tournament_id": 2934,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13600984#/overview",
+        "group_id": "2578687063792689178-653333429-11281940-13600984-27989311",
+        "home_team": "Al Taawon Buraidah",
+        "away_team": "Al Ettifaq Dammam",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2579667331496153126-654030705-11299758-13600994-27989814",
+    "home_team": "Neom SC",
+    "away_team": "Al Akhdoud Club",
+    "date": "18/09/2025",
+    "time": "19:00",
+    "country": "Saudi Arabia",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "away_under_0.5_vs_away_over_0.5",
+        "best_odds": {
+          "away_under_0.5_odd": {
+            "value": 2.32,
+            "source": "1xbet"
+          },
+          "away_over_0.5_odd": {
+            "value": 1.899,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9576,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "654030705-11299758",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Saudi Arabia",
+        "tournament_1xbet": "Saudi Professional League",
+        "1xbet_match_id": 654030705,
+        "1xbet_tournament_id": 16819,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/16819/654030705",
+        "Tounesbet_country_name": "Saudi Arabia",
+        "tournament_Tounesbet": "Professional League",
+        "Tounesbet_match_id": 11299758,
+        "Tounesbet_tournament_id": 21662,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579667331496153126-654030705-11299758-13600994-27989814",
+        "home_team": "Neom SC",
+        "away_team": "Al Akhdoud Club",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_-1.5_home_vs_away",
+        "best_odds": {
+          "home_handicap_-1.5_odd": {
+            "value": 2.3,
+            "source": "Asbet"
+          },
+          "away_handicap_1.5_odd": {
+            "value": 1.888,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9644,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27989814-11299758",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Saudi Arabia",
+        "tournament_Asbet": "Saudi Professional League",
+        "Asbet_match_id": 27989814,
+        "Asbet_tournament_id": 2971,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Saudi Arabia/2971/saudi-professional-league/27989814/neom-sc-al-akhdoud-club",
+        "Tounesbet_country_name": "Saudi Arabia",
+        "tournament_Tounesbet": "Professional League",
+        "Tounesbet_match_id": 11299758,
+        "Tounesbet_tournament_id": 21662,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579667331496153126-654030705-11299758-13600994-27989814",
+        "home_team": "Neom SC",
+        "away_team": "Al Akhdoud Club",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "home_under_1.5_vs_home_over_1.5",
+        "best_odds": {
+          "home_under_1.5_odd": {
+            "value": 2.2858,
+            "source": "Clubx2"
+          },
+          "home_over_1.5_odd": {
+            "value": 1.852,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9774,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13600994-11299758",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Saudi Arabia",
+        "tournament_Clubx2": "Saudi Pro League",
+        "Clubx2_match_id": 13600994,
+        "Clubx2_tournament_id": 2934,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13600994#/overview",
+        "Tounesbet_country_name": "Saudi Arabia",
+        "tournament_Tounesbet": "Professional League",
+        "Tounesbet_match_id": 11299758,
+        "Tounesbet_tournament_id": 21662,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579667331496153126-654030705-11299758-13600994-27989814",
+        "home_team": "Neom SC",
+        "away_team": "Al Akhdoud Club",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2578765474334650414-653353314-11274593-13600983-27996901",
+    "home_team": "Al Qadisiyah FC",
+    "away_team": "Al-Khaleej Club Saihat",
+    "date": "19/09/2025",
+    "time": "16:15",
+    "country": "Saudi Arabia",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "first_half_ah_-0.25_home_vs_away",
+        "best_odds": {
+          "home_first_half_handicap_-0.25_odd": {
+            "value": 1.852,
+            "source": "Tounesbet"
+          },
+          "away_first_half_handicap_0.25_odd": {
+            "value": 2.35,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9655,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27996901-11274593",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Saudi Arabia",
+        "tournament_Tounesbet": "Professional League",
+        "Tounesbet_match_id": 11274593,
+        "Tounesbet_tournament_id": 21662,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "Saudi Arabia",
+        "tournament_Asbet": "Saudi Professional League",
+        "Asbet_match_id": 27996901,
+        "Asbet_tournament_id": 2971,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Saudi Arabia/2971/saudi-professional-league/27996901/al-qadisiyah-fc-al-khaleej-saihat",
+        "group_id": "2578765474334650414-653353314-11274593-13600983-27996901",
+        "home_team": "Al Qadisiyah FC",
+        "away_team": "Al-Khaleej Club Saihat",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_-1.75_home_vs_away",
+        "best_odds": {
+          "home_handicap_-1.75_odd": {
+            "value": 2.43,
+            "source": "1xbet"
+          },
+          "away_handicap_1.75_odd": {
+            "value": 1.793,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9692,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653353314-11274593",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Saudi Arabia",
+        "tournament_1xbet": "Saudi Professional League",
+        "1xbet_match_id": 653353314,
+        "1xbet_tournament_id": 16819,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/16819/653353314",
+        "Tounesbet_country_name": "Saudi Arabia",
+        "tournament_Tounesbet": "Professional League",
+        "Tounesbet_match_id": 11274593,
+        "Tounesbet_tournament_id": 21662,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578765474334650414-653353314-11274593-13600983-27996901",
+        "home_team": "Al Qadisiyah FC",
+        "away_team": "Al-Khaleej Club Saihat",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_-1.0_home_vs_away",
+        "best_odds": {
+          "home_handicap_-1.0_odd": {
+            "value": 1.97,
+            "source": "Tounesbet"
+          },
+          "away_handicap_1.0_odd": {
+            "value": 2.1429,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9743,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13600983-11274593",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Saudi Arabia",
+        "tournament_Tounesbet": "Professional League",
+        "Tounesbet_match_id": 11274593,
+        "Tounesbet_tournament_id": 21662,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "Saudi Arabia",
+        "tournament_Clubx2": "Saudi Pro League",
+        "Clubx2_match_id": 13600983,
+        "Clubx2_tournament_id": 2934,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13600983#/overview",
+        "group_id": "2578765474334650414-653353314-11274593-13600983-27996901",
+        "home_team": "Al Qadisiyah FC",
+        "away_team": "Al-Khaleej Club Saihat",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "under_3.5_vs_over_3.5",
+        "best_odds": {
+          "under_3.5_odd": {
+            "value": 1.48,
+            "source": "Jibibet"
+          },
+          "over_3.5_odd": {
+            "value": 3.091,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9992,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2578765474334650414-11274593",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "Saudi Arabia",
+        "tournament_Jibibet": "Saudi Pro League",
+        "Jibibet_match_id": 2578765474334650414,
+        "Jibibet_tournament_id": 1669817283092025344,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "Saudi Arabia",
+        "tournament_Tounesbet": "Professional League",
+        "Tounesbet_match_id": 11274593,
+        "Tounesbet_tournament_id": 21662,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578765474334650414-653353314-11274593-13600983-27996901",
+        "home_team": "Al Qadisiyah FC",
+        "away_team": "Al-Khaleej Club Saihat",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2578687063792689154-653334158-11281941-13600985-27997002",
+    "home_team": "Al Fayha FC",
+    "away_team": "Al Shabab FC Riyadh",
+    "date": "19/09/2025",
+    "time": "16:35",
+    "country": "Saudi Arabia",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_0.75_home_vs_away",
+        "best_odds": {
+          "home_handicap_0.75_odd": {
+            "value": 1.911,
+            "source": "Tounesbet"
+          },
+          "away_handicap_-0.75_odd": {
+            "value": 2.3,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9581,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27997002-11281941",
+        "misvalue_source": "Asbet",
+        "Tounesbet_country_name": "Saudi Arabia",
+        "tournament_Tounesbet": "Professional League",
+        "Tounesbet_match_id": 11281941,
+        "Tounesbet_tournament_id": 21662,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "Saudi Arabia",
+        "tournament_Asbet": "Saudi Professional League",
+        "Asbet_match_id": 27997002,
+        "Asbet_tournament_id": 2971,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Saudi Arabia/2971/saudi-professional-league/27997002/al-feiha-al-shabab-fc-riyadh",
+        "group_id": "2578687063792689154-653334158-11281941-13600985-27997002",
+        "home_team": "Al Fayha FC",
+        "away_team": "Al Shabab FC Riyadh",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "two_vs_1x_handicap",
+        "best_odds": {
+          "2_odd": {
+            "value": 1.98,
+            "source": "Jibibet"
+          },
+          "home_handicap_0.5_odd": {
+            "value": 2.147,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9708,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2578687063792689154-11281941",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "Saudi Arabia",
+        "tournament_Jibibet": "Saudi Pro League",
+        "Jibibet_match_id": 2578687063792689154,
+        "Jibibet_tournament_id": 1669817283092025344,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "Saudi Arabia",
+        "tournament_Tounesbet": "Professional League",
+        "Tounesbet_match_id": 11281941,
+        "Tounesbet_tournament_id": 21662,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578687063792689154-653334158-11281941-13600985-27997002",
+        "home_team": "Al Fayha FC",
+        "away_team": "Al Shabab FC Riyadh",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_0.25_home_vs_away",
+        "best_odds": {
+          "home_handicap_0.25_odd": {
+            "value": 2.08,
+            "source": "1xbet"
+          },
+          "away_handicap_-0.25_odd": {
+            "value": 2.029,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9736,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653334158-11281941",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Saudi Arabia",
+        "tournament_1xbet": "Saudi Professional League",
+        "1xbet_match_id": 653334158,
+        "1xbet_tournament_id": 16819,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/16819/653334158",
+        "Tounesbet_country_name": "Saudi Arabia",
+        "tournament_Tounesbet": "Professional League",
+        "Tounesbet_match_id": 11281941,
+        "Tounesbet_tournament_id": 21662,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578687063792689154-653334158-11281941-13600985-27997002",
+        "home_team": "Al Fayha FC",
+        "away_team": "Al Shabab FC Riyadh",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2578708729528721431-653353317-11282068-13601009-27997570",
+    "home_team": "Al Ahli Saudi FC",
+    "away_team": "Al-Hilal Riyadh",
+    "date": "19/09/2025",
+    "time": "19:00",
+    "country": "Saudi Arabia",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_1.0_home_vs_away",
+        "best_odds": {
+          "home_handicap_1.0_odd": {
+            "value": 1.852,
+            "source": "Tounesbet"
+          },
+          "away_handicap_-1.0_odd": {
+            "value": 2.69,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.9117,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653353317-11282068",
+        "misvalue_source": "Asbet",
+        "Tounesbet_country_name": "Saudi Arabia",
+        "tournament_Tounesbet": "Professional League",
+        "Tounesbet_match_id": 11282068,
+        "Tounesbet_tournament_id": 21662,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "1xbet_country_name": "Saudi Arabia",
+        "tournament_1xbet": "Saudi Professional League",
+        "1xbet_match_id": 653353317,
+        "1xbet_tournament_id": 16819,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/16819/653353317",
+        "group_id": "2578708729528721431-653353317-11282068-13601009-27997570",
+        "home_team": "Al Ahli Saudi FC",
+        "away_team": "Al-Hilal Riyadh",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_1.0_home_vs_away",
+        "best_odds": {
+          "home_handicap_1.0_odd": {
+            "value": 1.852,
+            "source": "Tounesbet"
+          },
+          "away_handicap_-1.0_odd": {
+            "value": 2.62,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9216,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27997570-11282068",
+        "misvalue_source": "Asbet",
+        "Tounesbet_country_name": "Saudi Arabia",
+        "tournament_Tounesbet": "Professional League",
+        "Tounesbet_match_id": 11282068,
+        "Tounesbet_tournament_id": 21662,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "Saudi Arabia",
+        "tournament_Asbet": "Saudi Professional League",
+        "Asbet_match_id": 27997570,
+        "Asbet_tournament_id": 2971,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Saudi Arabia/2971/saudi-professional-league/27997570/al-ahli-jeddah-al-hilal-riyadh",
+        "group_id": "2578708729528721431-653353317-11282068-13601009-27997570",
+        "home_team": "Al Ahli Saudi FC",
+        "away_team": "Al-Hilal Riyadh",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "two_vs_1x_handicap",
+        "best_odds": {
+          "2_odd": {
+            "value": 1.91,
+            "source": "Jibibet"
+          },
+          "home_handicap_0.5_odd": {
+            "value": 2.36,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9473,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2578708729528721431-11282068",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "Saudi Arabia",
+        "tournament_Jibibet": "Saudi Pro League",
+        "Jibibet_match_id": 2578708729528721431,
+        "Jibibet_tournament_id": 1669817283092025344,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "Saudi Arabia",
+        "tournament_Tounesbet": "Professional League",
+        "Tounesbet_match_id": 11282068,
+        "Tounesbet_tournament_id": 21662,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578708729528721431-653353317-11282068-13601009-27997570",
+        "home_team": "Al Ahli Saudi FC",
+        "away_team": "Al-Hilal Riyadh",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_1.0_home_vs_away",
+        "best_odds": {
+          "home_handicap_1.0_odd": {
+            "value": 1.852,
+            "source": "Tounesbet"
+          },
+          "away_handicap_-1.0_odd": {
+            "value": 2.4546,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9474,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13601009-11282068",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Saudi Arabia",
+        "tournament_Tounesbet": "Professional League",
+        "Tounesbet_match_id": 11282068,
+        "Tounesbet_tournament_id": 21662,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "Saudi Arabia",
+        "tournament_Clubx2": "Saudi Pro League",
+        "Clubx2_match_id": 13601009,
+        "Clubx2_tournament_id": 2934,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13601009#/overview",
+        "group_id": "2578708729528721431-653353317-11282068-13601009-27997570",
+        "home_team": "Al Ahli Saudi FC",
+        "away_team": "Al-Hilal Riyadh",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2579667331496153120-654030708-11299714-13600995-28003796",
+    "home_team": "Al Hazm Rass",
+    "away_team": "Al-Fateh Al-Ahsa",
+    "date": "20/09/2025",
+    "time": "16:40",
+    "country": "Saudi Arabia",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_1.0_home_vs_away",
+        "best_odds": {
+          "home_handicap_1.0_odd": {
+            "value": 1.829,
+            "source": "Tounesbet"
+          },
+          "away_handicap_-1.0_odd": {
+            "value": 2.7,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.9171,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "654030708-11299714",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Saudi Arabia",
+        "tournament_Tounesbet": "Professional League",
+        "Tounesbet_match_id": 11299714,
+        "Tounesbet_tournament_id": 21662,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "1xbet_country_name": "Saudi Arabia",
+        "tournament_1xbet": "Saudi Professional League",
+        "1xbet_match_id": 654030708,
+        "1xbet_tournament_id": 16819,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/16819/654030708",
+        "group_id": "2579667331496153120-654030708-11299714-13600995-28003796",
+        "home_team": "Al Hazm Rass",
+        "away_team": "Al-Fateh Al-Ahsa",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "two_vs_1x_handicap",
+        "best_odds": {
+          "2_odd": {
+            "value": 1.89,
+            "source": "Jibibet"
+          },
+          "home_handicap_0.5_odd": {
+            "value": 2.324,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9594,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2579667331496153120-11299714",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "Saudi Arabia",
+        "tournament_Jibibet": "Saudi Pro League",
+        "Jibibet_match_id": 2579667331496153120,
+        "Jibibet_tournament_id": 1669817283092025344,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "Saudi Arabia",
+        "tournament_Tounesbet": "Professional League",
+        "Tounesbet_match_id": 11299714,
+        "Tounesbet_tournament_id": 21662,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579667331496153120-654030708-11299714-13600995-28003796",
+        "home_team": "Al Hazm Rass",
+        "away_team": "Al-Fateh Al-Ahsa",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "two_vs_1x_handicap",
+        "best_odds": {
+          "2_odd": {
+            "value": 1.8889,
+            "source": "Clubx2"
+          },
+          "home_handicap_0.5_odd": {
+            "value": 2.324,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9597,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13600995-11299714",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Saudi Arabia",
+        "tournament_Clubx2": "Saudi Pro League",
+        "Clubx2_match_id": 13600995,
+        "Clubx2_tournament_id": 2934,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13600995#/overview",
+        "Tounesbet_country_name": "Saudi Arabia",
+        "tournament_Tounesbet": "Professional League",
+        "Tounesbet_match_id": 11299714,
+        "Tounesbet_tournament_id": 21662,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579667331496153120-654030708-11299714-13600995-28003796",
+        "home_team": "Al Hazm Rass",
+        "away_team": "Al-Fateh Al-Ahsa",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_1.0_home_vs_away",
+        "best_odds": {
+          "home_handicap_1.0_odd": {
+            "value": 1.829,
+            "source": "Tounesbet"
+          },
+          "away_handicap_-1.0_odd": {
+            "value": 2.37,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9687,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "28003796-11299714",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Saudi Arabia",
+        "tournament_Tounesbet": "Professional League",
+        "Tounesbet_match_id": 11299714,
+        "Tounesbet_tournament_id": 21662,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "Saudi Arabia",
+        "tournament_Asbet": "Saudi Professional League",
+        "Asbet_match_id": 28003796,
+        "Asbet_tournament_id": 2971,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Saudi Arabia/2971/saudi-professional-league/28003796/al-hazem-al-fateh-sc",
+        "group_id": "2579667331496153120-654030708-11299714-13600995-28003796",
+        "home_team": "Al Hazm Rass",
+        "away_team": "Al-Fateh Al-Ahsa",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2579667331496153125-654030702-11299715-13600987-28003795",
+    "home_team": "Al-Najma Unaizah",
+    "away_team": "Al-Ittihad Jeddah",
+    "date": "20/09/2025",
+    "time": "16:40",
+    "country": "Saudi Arabia",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "away_under_1.5_vs_away_over_1.5",
+        "best_odds": {
+          "away_under_1.5_odd": {
+            "value": 2.5,
+            "source": "1xbet"
+          },
+          "away_over_1.5_odd": {
+            "value": 1.899,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9266,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "654030702-11299715",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Saudi Arabia",
+        "tournament_1xbet": "Saudi Professional League",
+        "1xbet_match_id": 654030702,
+        "1xbet_tournament_id": 16819,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/16819/654030702",
+        "Tounesbet_country_name": "Saudi Arabia",
+        "tournament_Tounesbet": "Professional League",
+        "Tounesbet_match_id": 11299715,
+        "Tounesbet_tournament_id": 21662,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579667331496153125-654030702-11299715-13600987-28003795",
+        "home_team": "Al-Najma Unaizah",
+        "away_team": "Al-Ittihad Jeddah",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "first_half_ah_0.5_home_vs_away",
+        "best_odds": {
+          "home_first_half_handicap_0.5_odd": {
+            "value": 2.006,
+            "source": "Tounesbet"
+          },
+          "away_first_half_handicap_-0.5_odd": {
+            "value": 2.21,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.951,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "28003795-11299715",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Saudi Arabia",
+        "tournament_Tounesbet": "Professional League",
+        "Tounesbet_match_id": 11299715,
+        "Tounesbet_tournament_id": 21662,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "Saudi Arabia",
+        "tournament_Asbet": "Saudi Professional League",
+        "Asbet_match_id": 28003795,
+        "Asbet_tournament_id": 2971,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Saudi Arabia/2971/saudi-professional-league/28003795/al-najma-sc-al-ittihad-jeddah",
+        "group_id": "2579667331496153125-654030702-11299715-13600987-28003795",
+        "home_team": "Al-Najma Unaizah",
+        "away_team": "Al-Ittihad Jeddah",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "two_vs_1x",
+        "best_odds": {
+          "2_odd": {
+            "value": 1.888,
+            "source": "Tounesbet"
+          },
+          "1X_odd": {
+            "value": 2.28,
+            "source": "Jibibet"
+          }
+        },
+        "arbitrage_percentage": 0.9683,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2579667331496153125-11299715",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Saudi Arabia",
+        "tournament_Tounesbet": "Professional League",
+        "Tounesbet_match_id": 11299715,
+        "Tounesbet_tournament_id": 21662,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Jibibet_country_name": "Saudi Arabia",
+        "tournament_Jibibet": "Saudi Pro League",
+        "Jibibet_match_id": 2579667331496153125,
+        "Jibibet_tournament_id": 1669817283092025344,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "group_id": "2579667331496153125-654030702-11299715-13600987-28003795",
+        "home_team": "Al-Najma Unaizah",
+        "away_team": "Al-Ittihad Jeddah",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2579068340077207581-653643030-11289253-13600999-28004341",
+    "home_team": "Al Nassr Riyadh",
+    "away_team": "Al-Riyadh SC",
+    "date": "20/09/2025",
+    "time": "19:00",
+    "country": "Saudi Arabia",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_-1.25_home_vs_away",
+        "best_odds": {
+          "home_handicap_-1.25_odd": {
+            "value": 1.829,
+            "source": "Tounesbet"
+          },
+          "away_handicap_1.25_odd": {
+            "value": 2.52,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.9436,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653643030-11289253",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Saudi Arabia",
+        "tournament_Tounesbet": "Professional League",
+        "Tounesbet_match_id": 11289253,
+        "Tounesbet_tournament_id": 21662,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "1xbet_country_name": "Saudi Arabia",
+        "tournament_1xbet": "Saudi Professional League",
+        "1xbet_match_id": 653643030,
+        "1xbet_tournament_id": 16819,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/16819/653643030",
+        "group_id": "2579068340077207581-653643030-11289253-13600999-28004341",
+        "home_team": "Al Nassr Riyadh",
+        "away_team": "Al-Riyadh SC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "first_half_under_1.0_vs_first_half_over_1.0",
+        "best_odds": {
+          "first_half_under_1.0_odd": {
+            "value": 2.52,
+            "source": "Asbet"
+          },
+          "first_half_over_1.0_odd": {
+            "value": 1.781,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9583,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "28004341-11289253",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Saudi Arabia",
+        "tournament_Asbet": "Saudi Professional League",
+        "Asbet_match_id": 28004341,
+        "Asbet_tournament_id": 2971,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Saudi Arabia/2971/saudi-professional-league/28004341/al-nassr-riyadh-al-riyadh-sc",
+        "Tounesbet_country_name": "Saudi Arabia",
+        "tournament_Tounesbet": "Professional League",
+        "Tounesbet_match_id": 11289253,
+        "Tounesbet_tournament_id": 21662,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579068340077207581-653643030-11289253-13600999-28004341",
+        "home_team": "Al Nassr Riyadh",
+        "away_team": "Al-Riyadh SC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "under_3.5_vs_over_3.5",
+        "best_odds": {
+          "under_3.5_odd": {
+            "value": 1.899,
+            "source": "Tounesbet"
+          },
+          "over_3.5_odd": {
+            "value": 2.25,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.971,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13600999-11289253",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Saudi Arabia",
+        "tournament_Tounesbet": "Professional League",
+        "Tounesbet_match_id": 11289253,
+        "Tounesbet_tournament_id": 21662,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "Saudi Arabia",
+        "tournament_Clubx2": "Saudi Pro League",
+        "Clubx2_match_id": 13600999,
+        "Clubx2_tournament_id": 2934,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13600999#/overview",
+        "group_id": "2579068340077207581-653643030-11289253-13600999-28004341",
+        "home_team": "Al Nassr Riyadh",
+        "away_team": "Al-Riyadh SC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "under_3.5_vs_over_3.5",
+        "best_odds": {
+          "under_3.5_odd": {
+            "value": 1.899,
+            "source": "Tounesbet"
+          },
+          "over_3.5_odd": {
+            "value": 2.24,
+            "source": "Jibibet"
+          }
+        },
+        "arbitrage_percentage": 0.973,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2579068340077207581-11289253",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Saudi Arabia",
+        "tournament_Tounesbet": "Professional League",
+        "Tounesbet_match_id": 11289253,
+        "Tounesbet_tournament_id": 21662,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Jibibet_country_name": "Saudi Arabia",
+        "tournament_Jibibet": "Saudi Pro League",
+        "Jibibet_match_id": 2579068340077207581,
+        "Jibibet_tournament_id": 1669817283092025344,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "group_id": "2579068340077207581-653643030-11289253-13600999-28004341",
+        "home_team": "Al Nassr Riyadh",
+        "away_team": "Al-Riyadh SC",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2579795494838607872-11254586-13919277-28017353",
+    "home_team": "Al Orobah FC",
+    "away_team": "Al Tai FC",
+    "date": "17/09/2025",
+    "time": "17:00",
+    "country": "Saudi Arabia",
+    "all_sources": [
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "homewin_handicap_vs_x2",
+        "best_odds": {
+          "home_handicap_-0.5_odd": {
+            "value": 2.2,
+            "source": "Clubx2"
+          },
+          "X2_odd": {
+            "value": 1.888,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9842,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13919277-11254586",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Saudi Arabia",
+        "tournament_Clubx2": "Division 1",
+        "Clubx2_match_id": 13919277,
+        "Clubx2_tournament_id": 3021,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13919277#/overview",
+        "Tounesbet_country_name": "Saudi Arabia",
+        "tournament_Tounesbet": "Division 1",
+        "Tounesbet_match_id": 11254586,
+        "Tounesbet_tournament_id": 21676,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579795494838607872-11254586-13919277-28017353",
+        "home_team": "Al Orobah FC",
+        "away_team": "Al Tai FC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_-0.25_home_vs_away",
+        "best_odds": {
+          "home_handicap_-0.25_odd": {
+            "value": 1.9,
+            "source": "Asbet"
+          },
+          "away_handicap_0.25_odd": {
+            "value": 2.183,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9844,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "28017353-11254586",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Saudi Arabia",
+        "tournament_Asbet": "1st Division",
+        "Asbet_match_id": 28017353,
+        "Asbet_tournament_id": 2960,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Saudi Arabia/2960/st-division/28017353/al-orobah-fc-al-tai-fc",
+        "Tounesbet_country_name": "Saudi Arabia",
+        "tournament_Tounesbet": "Division 1",
+        "Tounesbet_match_id": 11254586,
+        "Tounesbet_tournament_id": 21676,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579795494838607872-11254586-13919277-28017353",
+        "home_team": "Al Orobah FC",
+        "away_team": "Al Tai FC",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2579802184061423656-11257067-13919136-28017887",
+    "home_team": "Al Draih",
+    "away_team": "Al Adalh Club",
+    "date": "17/09/2025",
+    "time": "19:00",
+    "country": "Saudi Arabia",
+    "all_sources": [
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "first_half_ah_-0.25_home_vs_away",
+        "best_odds": {
+          "home_first_half_handicap_-0.25_odd": {
+            "value": 2.324,
+            "source": "Tounesbet"
+          },
+          "away_first_half_handicap_0.25_odd": {
+            "value": 1.93,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9484,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "28017887-11257067",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Saudi Arabia",
+        "tournament_Tounesbet": "Division 1",
+        "Tounesbet_match_id": 11257067,
+        "Tounesbet_tournament_id": 21676,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "Saudi Arabia",
+        "tournament_Asbet": "1st Division",
+        "Asbet_match_id": 28017887,
+        "Asbet_tournament_id": 2960,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Saudi Arabia/2960/st-division/28017887/al-draih-al-adalh-club",
+        "group_id": "2579802184061423656-11257067-13919136-28017887",
+        "home_team": "Al Draih",
+        "away_team": "Al Adalh Club",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_-0.5_home_vs_away",
+        "best_odds": {
+          "home_handicap_-0.5_odd": {
+            "value": 2.147,
+            "source": "Tounesbet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 2.05,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9536,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13919136-11257067",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Saudi Arabia",
+        "tournament_Tounesbet": "Division 1",
+        "Tounesbet_match_id": 11257067,
+        "Tounesbet_tournament_id": 21676,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "Saudi Arabia",
+        "tournament_Clubx2": "Division 1",
+        "Clubx2_match_id": 13919136,
+        "Clubx2_tournament_id": 3021,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13919136#/overview",
+        "group_id": "2579802184061423656-11257067-13919136-28017887",
+        "home_team": "Al Draih",
+        "away_team": "Al Adalh Club",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "homewin_handicap_vs_x2",
+        "best_odds": {
+          "home_handicap_-0.5_odd": {
+            "value": 2.147,
+            "source": "Tounesbet"
+          },
+          "X2_odd": {
+            "value": 1.9,
+            "source": "Jibibet"
+          }
+        },
+        "arbitrage_percentage": 0.9921,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2579802184061423656-11257067",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Saudi Arabia",
+        "tournament_Tounesbet": "Division 1",
+        "Tounesbet_match_id": 11257067,
+        "Tounesbet_tournament_id": 21676,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Jibibet_country_name": "Saudi Arabia",
+        "tournament_Jibibet": "Division 1",
+        "Jibibet_match_id": 2579802184061423656,
+        "Jibibet_tournament_id": 1673501685387087872,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "group_id": "2579802184061423656-11257067-13919136-28017887",
+        "home_team": "Al Draih",
+        "away_team": "Al Adalh Club",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2579802184061423659-11254592-28017352",
+    "home_team": "Al Ula FC",
+    "away_team": "Al Bukayriyah",
+    "date": "17/09/2025",
+    "time": "17:00",
+    "country": "Saudi Arabia",
+    "all_sources": [
+      "Asbet",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "homewin_handicap_vs_x2",
+        "best_odds": {
+          "home_handicap_-0.5_odd": {
+            "value": 2.301,
+            "source": "Tounesbet"
+          },
+          "X2_odd": {
+            "value": 1.95,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9474,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "28017352-11254592",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Saudi Arabia",
+        "tournament_Tounesbet": "Division 1",
+        "Tounesbet_match_id": 11254592,
+        "Tounesbet_tournament_id": 21676,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "Saudi Arabia",
+        "tournament_Asbet": "1st Division",
+        "Asbet_match_id": 28017352,
+        "Asbet_tournament_id": 2960,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Saudi Arabia/2960/st-division/28017352/al-ula-fc-al-bukayriyah",
+        "group_id": "2579802184061423659-11254592-28017352",
+        "home_team": "Al Ula FC",
+        "away_team": "Al Bukayriyah",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "homewin_handicap_vs_x2",
+        "best_odds": {
+          "home_handicap_-0.5_odd": {
+            "value": 2.301,
+            "source": "Tounesbet"
+          },
+          "X2_odd": {
+            "value": 1.82,
+            "source": "Jibibet"
+          }
+        },
+        "arbitrage_percentage": 0.984,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2579802184061423659-11254592",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Saudi Arabia",
+        "tournament_Tounesbet": "Division 1",
+        "Tounesbet_match_id": 11254592,
+        "Tounesbet_tournament_id": 21676,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Jibibet_country_name": "Saudi Arabia",
+        "tournament_Jibibet": "Division 1",
+        "Jibibet_match_id": 2579802184061423659,
+        "Jibibet_tournament_id": 1673501685387087872,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "group_id": "2579802184061423659-11254592-28017352",
+        "home_team": "Al Ula FC",
+        "away_team": "Al Bukayriyah",
+        "activity_duration": "1 hour"
+      }
+    ]
+  }
+]

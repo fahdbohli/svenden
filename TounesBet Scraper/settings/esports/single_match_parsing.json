@@ -1,0 +1,120 @@
+{
+  "regular": [
+    {
+      "market_titles": ["12"],
+      "outcomes": {
+        "1": "player1_odd",
+        "2": "player2_odd"
+      }
+    },
+    {
+      "market_titles": ["1st period winner home/away", "gagnant 1ere periode domicile / exterieur"],
+      "outcomes": {
+        "1": "player1_win_set1_odd",
+        "2": "player2_win_set1_odd"
+      }
+    },
+    {
+      "market_titles": ["2nd period winner home/away", "gagnant 2eme periode domicile / exterieur"],
+      "outcomes": {
+        "1": "player1_win_set2_odd",
+        "2": "player2_win_set2_odd"
+      }
+    },
+    {
+      "market_titles": ["1st period odd/even", "1ere periode impaire / paire"],
+      "outcomes": {
+        "Even": "set1_total_games_even_odd",
+        "Odd": "set1_total_games_odd_odd"
+      }
+    },
+    {
+      "market_titles": ["2nd period odd/even", "2eme periode impaire / paire"],
+      "outcomes": {
+        "Even": "set2_total_games_even_odd",
+        "Odd": "set2_total_games_odd_odd"
+      }
+    }
+  ],
+"total": [
+    {
+      "market_titles": ["under/over games", "under/over jeu"],
+      "outcome_templates": {
+        "over": "total_games_over_{line}_odd",
+        "under": "total_games_under_{line}_odd"
+      }
+    },
+    {
+      "market_titles": ["under/over 1st period", "under / over 1ere periode"],
+      "outcome_templates": {
+        "over": "set1_total_games_over_{line}_odd",
+        "under": "set1_total_games_under_{line}_odd"
+      }
+    },
+    {
+      "market_titles": ["under/over 2nd period", "under/over 2eme periode"],
+      "outcome_templates": {
+        "over": "set2_total_games_over_{line}_odd",
+        "under": "set2_total_games_under_{line}_odd"
+      }
+    },
+    {
+      "market_titles": ["under/over - home team", "under / over - equipe a domicile"],
+      "outcome_templates": {
+        "over": "player1_total_games_over_{line}_odd",
+        "under": "player1_total_games_under_{line}_odd"
+      }
+    },
+    {
+      "market_titles": ["under/over - away team", "under / over -equipe exterieure"],
+      "outcome_templates": {
+        "over": "player2_total_games_over_{line}_odd",
+        "under": "player2_total_games_under_{line}_odd"
+      }
+    },
+    {
+      "market_titles": ["under/over 1st period - home team", "under / over 1 1st periode - equipe a domicile"],
+      "outcome_templates": {
+        "over": "player1_set1_total_games_over_{line}_odd",
+        "under": "player1_set1_total_games_under_{line}_odd"
+      }
+    },
+    {
+      "market_titles": ["under/over 2nd period - home team", "under / over 2nd periode - equipe a domicile"],
+      "outcome_templates": {
+        "over": "player1_set2_total_games_over_{line}_odd",
+        "under": "player1_set2_total_games_under_{line}_odd"
+      }
+    },
+    {
+      "market_titles": ["under/over 1st period - away team", "under / over 1st periode - equipe a l'exterieur"],
+      "outcome_templates": {
+        "over": "player2_set1_total_games_over_{line}_odd",
+        "under": "player2_set1_total_games_under_{line}_odd"
+      }
+    },
+    {
+      "market_titles": ["under/over 2nd period - away team", "under / over 2nd periode - equipe a l'exterieur"],
+      "outcome_templates": {
+        "over": "player2_set2_total_games_over_{line}_odd",
+        "under": "player2_set2_total_games_under_{line}_odd"
+      }
+    },
+    {
+      "market_titles": ["under/over sets"],
+      "outcome_templates": {
+        "over": "total_sets_over_{line}_odd",
+        "under": "total_sets_under_{line}_odd"
+      }
+    }
+  ],
+  "handicap": [
+    {
+      "market_titles": ["asian handicap games", "asian handicap jeux"],
+      "outcome_templates": {
+        "1": "player1_games_handicap_{line}_odd",
+        "2": "player2_games_handicap_{line}_odd"
+      }
+    }
+  ]
+}

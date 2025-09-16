@@ -1,0 +1,23 @@
+{
+    "METHOD": "ONE_SHARPING",
+    "method_description": "METHOD (ONE_SHARPING or MULTIPLE_SHARPING)",
+
+
+    "SHARP_SOURCE": "1xbet",
+
+    "SHARPING_GROUP": [
+        "1xbet",
+        "Asbet",
+        "Clubx2"
+    ],
+
+    "EV_SOURCE": "Tounesbet",
+
+    "ODDS_INTERVAL": [1.1, 3.0],
+
+    "MIN_OVERPRICE": 0.1,
+
+    "OUTPUT_DIRECTORY": "C:\\Users\\HP\\dyad-apps\\arbitrage-viewer\\public",
+
+    "OVERPRICE_SOURCE_LOGGING": true
+}

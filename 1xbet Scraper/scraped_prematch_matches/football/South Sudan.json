@@ -1,0 +1,42 @@
+[
+    {
+        "last_updated": "2025-09-16T13:28:45.533550+01:00"
+    },
+    {
+        "tournament_id": 1057117,
+        "tournament_name": "Premier League",
+        "matches": [
+            {
+                "match_id": 652720111,
+                "date": "16/09/2025",
+                "time": "15:00",
+                "home_team": "Wajuma",
+                "away_team": "Salam Aweil",
+                "1_odd": 2.17,
+                "draw_odd": 4.08,
+                "2_odd": 2.4,
+                "1X_odd": 1.42,
+                "12_odd": 1.14,
+                "X2_odd": 1.51,
+                "both_score_odd": 1.29,
+                "both_noscore_odd": 3.14,
+                "over_2.5_odd": 1.29,
+                "over_3.0_odd": 1.44,
+                "over_3.5_odd": 1.83,
+                "over_4.0_odd": 2.41,
+                "over_4.5_odd": 2.99,
+                "under_2.5_odd": 3.16,
+                "under_3.0_odd": 2.5,
+                "under_3.5_odd": 1.83,
+                "under_4.0_odd": 1.47,
+                "under_4.5_odd": 1.32,
+                "home_handicap_0.0_odd": 1.74,
+                "away_handicap_0.0_odd": 1.93,
+                "home_over_1.5_odd": 1.62,
+                "home_under_1.5_odd": 2.1,
+                "away_over_1.5_odd": 1.71,
+                "away_under_1.5_odd": 1.97
+            }
+        ]
+    }
+]

@@ -1,0 +1,80 @@
+[
+    {
+        "last_updated": "2025-09-16T20:53:09.764945+01:00"
+    },
+    {
+        "tournament_id": 3448,
+        "tournament_name": "Azadegan League",
+        "matches": [
+            {
+                "match_id": 13919162,
+                "date": "17/09/2025",
+                "time": "13:30",
+                "home_team": "FC Fard",
+                "away_team": "Mes Sungun Varzaghan",
+                "1_odd": 2.1,
+                "draw_odd": 2.8,
+                "2_odd": 3.6,
+                "1X_odd": 1.2308,
+                "12_odd": 1.35,
+                "X2_odd": 1.5455,
+                "home_handicap_-0.5_odd": 2.1,
+                "away_handicap_0.5_odd": 1.6,
+                "over_2.5_odd": 2.5455,
+                "under_2.5_odd": 1.4546,
+                "over_1.5_odd": 1.5,
+                "under_1.5_odd": 2.4,
+                "both_score_odd": 2.2,
+                "both_noscore_odd": 1.6,
+                "first_half_over_0.5_odd": 1.5556,
+                "first_half_under_0.5_odd": 2.2858
+            },
+            {
+                "match_id": 13919288,
+                "date": "17/09/2025",
+                "time": "15:00",
+                "home_team": "Ario Eslamshahr",
+                "away_team": "Mes Shahr-e Babak",
+                "1_odd": 1.9091,
+                "draw_odd": 2.8,
+                "2_odd": 4.3334,
+                "1X_odd": 1.1765,
+                "12_odd": 1.3334,
+                "X2_odd": 1.6667,
+                "home_handicap_-0.5_odd": 1.9,
+                "away_handicap_0.5_odd": 1.75,
+                "over_2.5_odd": 3.0,
+                "under_2.5_odd": 1.3334,
+                "over_1.5_odd": 1.6667,
+                "under_1.5_odd": 2.1,
+                "both_score_odd": 2.5455,
+                "both_noscore_odd": 1.4546,
+                "first_half_over_0.5_odd": 1.6,
+                "first_half_under_0.5_odd": 2.2
+            },
+            {
+                "match_id": 13919308,
+                "date": "17/09/2025",
+                "time": "15:00",
+                "home_team": "SaiPa FC",
+                "away_team": "Niroye Zamini Tehran",
+                "1_odd": 1.6364,
+                "draw_odd": 3.0,
+                "2_odd": 6.0,
+                "1X_odd": 1.1112,
+                "12_odd": 1.2858,
+                "X2_odd": 1.9091,
+                "home_handicap_-0.5_odd": 1.6,
+                "away_handicap_0.5_odd": 2.1,
+                "over_2.5_odd": 3.0,
+                "under_2.5_odd": 1.3334,
+                "over_1.5_odd": 1.6667,
+                "under_1.5_odd": 2.1,
+                "both_score_odd": 2.9,
+                "both_noscore_odd": 1.3637,
+                "first_half_over_0.5_odd": 1.6667,
+                "first_half_under_0.5_odd": 2.1
+            }
+        ]
+    }
+]

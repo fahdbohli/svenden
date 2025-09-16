@@ -1,0 +1,121 @@
+{
+  "main_markets": [
+    {
+      "marker_class": "main-market-no_1",
+      "description": "Full Time Result (1X2)",
+      "odds": [
+        { "output_name": "1_odd", "index": 0 },
+        { "output_name": "draw_odd", "index": 1 },
+        { "output_name": "2_odd", "index": 2 }
+      ]
+    },
+    {
+      "marker_class": "main-market-no_2",
+      "description": "Both Teams to Score",
+      "odds": [
+        { "output_name": "both_score_odd", "index": 0 },
+        { "output_name": "both_noscore_odd", "index": 1 }
+      ]
+    },
+    {
+      "marker_class": "main-market-no_3",
+      "description": "Default Under/Over 2.5",
+      "odds": [
+        { "output_name": "under_2.5_odd", "index": 0 },
+        { "output_name": "over_2.5_odd", "index": 1 }
+      ]
+    },
+    {
+      "marker_class": "main-market-no_4",
+      "description": "Double Chance (1X, 12, X2)",
+      "odds": [
+        { "output_name": "1X_odd", "index": 0 },
+        { "output_name": "12_odd", "index": 1 },
+        { "output_name": "X2_odd", "index": 2 }
+      ]
+    }
+  ],
+  "special_markets": [
+    {
+      "type": "totals",
+      "description": "All Under/Over Goal Lines",
+      "odd_type_id": "533",
+      "outcome_mapping": [
+        { "id": "under", "name_template": "under_{line}_odd" },
+        { "id": "over", "name_template": "over_{line}_odd" }
+      ]
+    },
+    {
+      "type": "totals",
+      "description": "Home Under/Over Goal Lines",
+      "odd_type_id": "610",
+      "outcome_mapping": [
+        { "id": "under", "name_template": "home_under_{line}_odd" },
+        { "id": "over", "name_template": "home_over_{line}_odd" }
+      ]
+    },
+    {
+      "type": "totals",
+      "description": "Away Under/Over Goal Lines",
+      "odd_type_id": "611",
+      "outcome_mapping": [
+        { "id": "under", "name_template": "away_under_{line}_odd" },
+        { "id": "over", "name_template": "away_over_{line}_odd" }
+      ]
+    },
+    {
+      "type": "totals",
+      "description": "1st Half Under/Over Goal Lines",
+      "odd_type_id": "546",
+      "outcome_mapping": [
+        { "id": "under", "name_template": "first_half_under_{line}_odd" },
+        { "id": "over", "name_template": "first_half_over_{line}_odd" }
+      ]
+    },
+    {
+      "type": "totals",
+      "description": "2nd Half Under/Over Goal Lines",
+      "odd_type_id": "560",
+      "outcome_mapping": [
+        { "id": "under", "name_template": "second_half_under_{line}_odd" },
+        { "id": "over", "name_template": "second_half_over_{line}_odd" }
+      ]
+    },
+    {
+      "type": "totals",
+      "description": "Total Corners",
+      "odd_type_id": "540",
+      "outcome_mapping": [
+        { "id": "under", "name_template": "corners_under_{line}_odd" },
+        { "id": "over", "name_template": "corners_over_{line}_odd" }
+      ]
+    },
+    {
+      "type": "handicap",
+      "description": "Asian Handicap Lines",
+      "odd_type_id": "534",
+      "outcome_mapping": [
+        { "id": "1", "name_template": "home_handicap_{line}_odd" },
+        { "id": "2", "name_template": "away_handicap_{line}_odd" }
+      ]
+    },
+    {
+      "type": "handicap",
+      "description": "First Half Asian Handicap Lines",
+      "odd_type_id": "576",
+      "outcome_mapping": [
+        { "id": "1", "name_template": "home_first_half_handicap_{line}_odd" },
+        { "id": "2", "name_template": "away_first_half_handicap_{line}_odd" }
+      ]
+    },
+    {
+      "type": "handicap",
+      "description": "Second Half Asian Handicap Lines",
+      "odd_type_id": "577",
+      "outcome_mapping": [
+        { "id": "1", "name_template": "home_second_half_handicap_{line}_odd" },
+        { "id": "2", "name_template": "away_second_half_handicap_{line}_odd" }
+      ]
+    }
+  ]
+}

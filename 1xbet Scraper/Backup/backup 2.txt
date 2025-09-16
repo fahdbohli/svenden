@@ -1,0 +1,116 @@
+import os
+import json
+import time
+import requests
+
+OUTPUT_DIR = "scraped_matches"
+CHAMPS_URL = "https://tn.1xbet.com/service-api/LineFeed/GetChampsZip"
+ODDS_URL = "https://1xbet.com/service-api/LineFeed/Get1x2_VZip"
+
+# Headers for fetching championships
+BASE_HEADERS = {
+    "Accept": "application/json, text/plain, */*",
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+    "X-Requested-With": "XMLHttpRequest",
+    "X-Svc-Source": "__BETTING_APP__",
+    "X-App-N": "__BETTING_APP__",
+}
+
+# Parameters for fetching championships
+CHAMPS_PARAMS = {
+    "sport": 1,
+    "lng": "en",
+    "country": 187,
+    "partner": 213,
+    "virtualSports": "true",
+    "groupChamps": "true",
+}
+
+# Parameters for fetching 1x2 odds
+ODDS_PARAMS = {
+    "sports": "1",
+    "champs": None,  # filled per-league
+    "count": "50",
+    "lng": "fr",
+    "tf": "2200000",
+    "tz": "1",
+    "mode": "4",
+    "country": "187",
+    "getEmpty": "true",
+    "gr": "70",
+}
+
+
+def get_country_leagues(session):
+    r = session.get(CHAMPS_URL, params=CHAMPS_PARAMS, timeout=10)
+    r.raise_for_status()
+    out = {}
+    for item in r.json().get("Value", []):
+        country = item.get("L", "Unknown")
+        if item.get("SC"):
+            for league in item["SC"]:
+                lid = league["LI"]
+                raw = league.get("L", "")
+                name = raw.split('. ', 1)[1] if '. ' in raw else raw
+                out.setdefault(country, []).append((lid, name))
+        else:
+            lid = item["LI"]
+            out.setdefault(country, []).append((lid, country))
+    return out
+
+
+def get_matches_for_league(session, champs_id):
+    # Minimal headers for odds request
+    headers = {
+        "Accept": "*/*",
+        "User-Agent": session.headers.get("User-Agent"),
+        "X-Requested-With": "XMLHttpRequest",
+        "Referer": f"https://1xbet.com/fr/line/football/{champs_id}",
+    }
+    # Fill in league-specific champs ID
+    params = ODDS_PARAMS.copy()
+    params["champs"] = str(champs_id)
+
+    r = session.get(ODDS_URL, params=params, headers=headers, timeout=10)
+    r.raise_for_status()
+    return r.json().get("Value", [])
+
+
+def main():
+    os.makedirs(OUTPUT_DIR, exist_ok=True)
+    session = requests.Session()
+    session.headers.update(BASE_HEADERS)
+
+    leagues_by_country = get_country_leagues(session)
+
+    for country, leagues in leagues_by_country.items():
+        data = []
+        for lid, name in leagues:
+            print(f"Fetching {name} (ID {lid})…", end="")
+            try:
+                matches = get_matches_for_league(session, lid)
+            except requests.HTTPError as e:
+                print(f"  → Skipped: {e}")
+                continue
+
+            print(f"  → {len(matches)} matches")
+            data.append({
+                "tournament_id": lid,
+                "tournament_name": name,
+                "matches": matches
+            })
+
+            time.sleep(0.5)
+
+        if not data:
+            print(f"No data for {country}, skipping.")
+            continue
+
+        path = os.path.join(OUTPUT_DIR, f"{country}.json")
+        with open(path, "w", encoding="utf-8") as f:
+            json.dump(data, f, ensure_ascii=False, indent=2)
+        print(f"Saved {country}.json")
+
+
+if __name__ == "__main__":
+    main()

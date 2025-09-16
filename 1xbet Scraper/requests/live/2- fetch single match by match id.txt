@@ -1,0 +1,4 @@
+GET /LiveFeed/GetGameZip?id=634936099&lng=en&isSubGames=true&GroupEvents=true&allEventsGroupSubGames=true&countevents=250&country=187&fcountry=187&marketType=1&gr=70&isNewBuilder=true HTTP/2
+Host: 1xbet.com
+
+

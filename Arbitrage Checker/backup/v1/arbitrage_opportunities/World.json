@@ -1,0 +1,29 @@
+[
+  {
+    "match_info": {
+      "home_team": "Widzew Lodz",
+      "away_team": "MKS Miedz Legnica",
+      "date": "10/07/2025",
+      "time": "15:30",
+      "sources": [
+        "Asbet",
+        "Tounesbet"
+      ],
+      "country": "World",
+      "tournament_Asbet": null,
+      "tournament_Tounesbet": null
+    },
+    "complementary_set": "ah_1.0_home_vs_away",
+    "best_odds": {
+      "home_handicap_1.0_odd": {
+        "value": 1.41,
+        "source": "Asbet"
+      },
+      "away_handicap_-1.0_odd": {
+        "value": 3.542,
+        "source": "Tounesbet"
+      }
+    },
+    "arbitrage_percentage": 0.9915
+  }
+]

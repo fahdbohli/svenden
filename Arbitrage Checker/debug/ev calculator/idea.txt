@@ -1,0 +1,4 @@
+- add a functionality that checks which one between the ev source or the fair source (either one sharp source or sharping group) has changed its odd value to join the other
+- the functionality will store the logs of these when happen (use the unique id for tracking) : number of times ev source or fair source was wrong, number of ev opportunities organized in intervals, which one made the biggest errors, how much was an ev opportunities and how long it lasted, the period of time needed for correcting the odd, which one of the sources (ev ot fair) was wrong about the odd
+- organize the obtained data in visualization for more understanding and comparing
+- compare different sources with each other by changing each time the ev source and the fair source

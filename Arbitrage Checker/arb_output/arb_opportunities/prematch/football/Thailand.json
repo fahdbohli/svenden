@@ -1,0 +1,896 @@
+[
+  {
+    "group_id": "2578981620363169794-653691026-11275942-13692933-27979839",
+    "home_team": "Lamphun Warrior FC",
+    "away_team": "Nakhon Ratchasima FC",
+    "date": "20/09/2025",
+    "time": "12:00",
+    "country": "Thailand",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "first_half_ah_-0.25_home_vs_away",
+        "best_odds": {
+          "home_first_half_handicap_-0.25_odd": {
+            "value": 2.124,
+            "source": "Tounesbet"
+          },
+          "away_first_half_handicap_0.25_odd": {
+            "value": 2.0,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9708,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27979839-11275942",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Thailand",
+        "tournament_Tounesbet": "Thai Premier League",
+        "Tounesbet_match_id": 11275942,
+        "Tounesbet_tournament_id": 21154,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "Thailand",
+        "tournament_Asbet": "Thai League",
+        "Asbet_match_id": 27979839,
+        "Asbet_tournament_id": 3010,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Thailand/3010/thai-league/27979839/lamphun-warrior-fc-nakhon-ratchasima-fc",
+        "group_id": "2578981620363169794-653691026-11275942-13692933-27979839",
+        "home_team": "Lamphun Warrior FC",
+        "away_team": "Nakhon Ratchasima FC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_-0.75_home_vs_away",
+        "best_odds": {
+          "home_handicap_-0.75_odd": {
+            "value": 1.78,
+            "source": "1xbet"
+          },
+          "away_handicap_0.75_odd": {
+            "value": 2.36,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9855,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653691026-11275942",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Thailand",
+        "tournament_1xbet": "Thai Premier League",
+        "1xbet_match_id": 653691026,
+        "1xbet_tournament_id": 1351549,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/1351549/653691026",
+        "Tounesbet_country_name": "Thailand",
+        "tournament_Tounesbet": "Thai Premier League",
+        "Tounesbet_match_id": 11275942,
+        "Tounesbet_tournament_id": 21154,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578981620363169794-653691026-11275942-13692933-27979839",
+        "home_team": "Lamphun Warrior FC",
+        "away_team": "Nakhon Ratchasima FC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2",
+        "best_odds": {
+          "1_odd": {
+            "value": 1.899,
+            "source": "Tounesbet"
+          },
+          "X2_odd": {
+            "value": 2.15,
+            "source": "Jibibet"
+          }
+        },
+        "arbitrage_percentage": 0.9917,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2578981620363169794-11275942",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Thailand",
+        "tournament_Tounesbet": "Thai Premier League",
+        "Tounesbet_match_id": 11275942,
+        "Tounesbet_tournament_id": 21154,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Jibibet_country_name": "Thailand",
+        "tournament_Jibibet": "Thai League 1",
+        "Jibibet_match_id": 2578981620363169794,
+        "Jibibet_tournament_id": 1670140053139136512,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "group_id": "2578981620363169794-653691026-11275942-13692933-27979839",
+        "home_team": "Lamphun Warrior FC",
+        "away_team": "Nakhon Ratchasima FC",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2578610068194988060-654013977-11275949-13692936-27980014",
+    "home_team": "Uthai Thani FC",
+    "away_team": "Sukhothai FC",
+    "date": "20/09/2025",
+    "time": "12:30",
+    "country": "Thailand",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "first_half_ah_-0.25_home_vs_away",
+        "best_odds": {
+          "home_first_half_handicap_-0.25_odd": {
+            "value": 2.36,
+            "source": "Tounesbet"
+          },
+          "away_first_half_handicap_0.25_odd": {
+            "value": 1.87,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9585,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27980014-11275949",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Thailand",
+        "tournament_Tounesbet": "Thai Premier League",
+        "Tounesbet_match_id": 11275949,
+        "Tounesbet_tournament_id": 21154,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "Thailand",
+        "tournament_Asbet": "Thai League",
+        "Asbet_match_id": 27980014,
+        "Asbet_tournament_id": 3010,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Thailand/3010/thai-league/27980014/uthai-thani-fc-sukhothai-fc",
+        "group_id": "2578610068194988060-654013977-11275949-13692936-27980014",
+        "home_team": "Uthai Thani FC",
+        "away_team": "Sukhothai FC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_-0.5_home_vs_away",
+        "best_odds": {
+          "home_handicap_-0.5_odd": {
+            "value": 2.206,
+            "source": "Tounesbet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.95,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9661,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13692936-11275949",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Thailand",
+        "tournament_Tounesbet": "Thai Premier League",
+        "Tounesbet_match_id": 11275949,
+        "Tounesbet_tournament_id": 21154,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "Thailand",
+        "tournament_Clubx2": "Thai League 1",
+        "Clubx2_match_id": 13692936,
+        "Clubx2_tournament_id": 3992,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13692936#/overview",
+        "group_id": "2578610068194988060-654013977-11275949-13692936-27980014",
+        "home_team": "Uthai Thani FC",
+        "away_team": "Sukhothai FC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 1.83,
+            "source": "Jibibet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 2.265,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9879,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2578610068194988060-11275949",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "Thailand",
+        "tournament_Jibibet": "Thai League 1",
+        "Jibibet_match_id": 2578610068194988060,
+        "Jibibet_tournament_id": 1670140053139136512,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "Thailand",
+        "tournament_Tounesbet": "Thai Premier League",
+        "Tounesbet_match_id": 11275949,
+        "Tounesbet_tournament_id": 21154,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578610068194988060-654013977-11275949-13692936-27980014",
+        "home_team": "Uthai Thani FC",
+        "away_team": "Sukhothai FC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "homewin_handicap_vs_x2",
+        "best_odds": {
+          "home_handicap_-0.5_odd": {
+            "value": 2.206,
+            "source": "Tounesbet"
+          },
+          "X2_odd": {
+            "value": 1.86,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.9909,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "654013977-11275949",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Thailand",
+        "tournament_Tounesbet": "Thai Premier League",
+        "Tounesbet_match_id": 11275949,
+        "Tounesbet_tournament_id": 21154,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "1xbet_country_name": "Thailand",
+        "tournament_1xbet": "Thai Premier League",
+        "1xbet_match_id": 654013977,
+        "1xbet_tournament_id": 1351549,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/1351549/654013977",
+        "group_id": "2578610068194988060-654013977-11275949-13692936-27980014",
+        "home_team": "Uthai Thani FC",
+        "away_team": "Sukhothai FC",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2579356384713908257-653825025-11275952-13692965-27980293",
+    "home_team": "Prachuap FC",
+    "away_team": "Singha GB Kanchanaburi",
+    "date": "20/09/2025",
+    "time": "13:00",
+    "country": "Thailand",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 1.92,
+            "source": "1xbet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 2.242,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9669,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653825025-11275952",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Thailand",
+        "tournament_1xbet": "Thai Premier League",
+        "1xbet_match_id": 653825025,
+        "1xbet_tournament_id": 1351549,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/1351549/653825025",
+        "Tounesbet_country_name": "Thailand",
+        "tournament_Tounesbet": "Thai Premier League",
+        "Tounesbet_match_id": 11275952,
+        "Tounesbet_tournament_id": 21154,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579356384713908257-653825025-11275952-13692965-27980293",
+        "home_team": "Prachuap FC",
+        "away_team": "Singha GB Kanchanaburi",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 1.89,
+            "source": "Jibibet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 2.242,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9751,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2579356384713908257-11275952",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "Thailand",
+        "tournament_Jibibet": "Thai League 1",
+        "Jibibet_match_id": 2579356384713908257,
+        "Jibibet_tournament_id": 1670140053139136512,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "Thailand",
+        "tournament_Tounesbet": "Thai Premier League",
+        "Tounesbet_match_id": 11275952,
+        "Tounesbet_tournament_id": 21154,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579356384713908257-653825025-11275952-13692965-27980293",
+        "home_team": "Prachuap FC",
+        "away_team": "Singha GB Kanchanaburi",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_-0.5_home_vs_away",
+        "best_odds": {
+          "home_handicap_-0.5_odd": {
+            "value": 1.86,
+            "source": "Asbet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 2.242,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9837,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27980293-11275952",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Thailand",
+        "tournament_Asbet": "Thai League",
+        "Asbet_match_id": 27980293,
+        "Asbet_tournament_id": 3010,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Thailand/3010/thai-league/27980293/prachuap-fc-kanchanaburi-power-fc",
+        "Tounesbet_country_name": "Thailand",
+        "tournament_Tounesbet": "Thai Premier League",
+        "Tounesbet_match_id": 11275952,
+        "Tounesbet_tournament_id": 21154,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579356384713908257-653825025-11275952-13692965-27980293",
+        "home_team": "Prachuap FC",
+        "away_team": "Singha GB Kanchanaburi",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.242,
+            "source": "Tounesbet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.8334,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9915,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13692965-11275952",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Thailand",
+        "tournament_Tounesbet": "Thai Premier League",
+        "Tounesbet_match_id": 11275952,
+        "Tounesbet_tournament_id": 21154,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "Thailand",
+        "tournament_Clubx2": "Thai League 1",
+        "Clubx2_match_id": 13692965,
+        "Clubx2_tournament_id": 3992,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13692965#/overview",
+        "group_id": "2579356384713908257-653825025-11275952-13692965-27980293",
+        "home_team": "Prachuap FC",
+        "away_team": "Singha GB Kanchanaburi",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2578966425238638619-653691029-11283343-13692927-27987453",
+    "home_team": "Chiangrai United FC",
+    "away_team": "BG Pathum United FC",
+    "date": "21/09/2025",
+    "time": "12:00",
+    "country": "Thailand",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_0.25_home_vs_away",
+        "best_odds": {
+          "home_handicap_0.25_odd": {
+            "value": 2.06,
+            "source": "1xbet"
+          },
+          "away_handicap_-0.25_odd": {
+            "value": 2.265,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9269,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653691029-11283343",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Thailand",
+        "tournament_1xbet": "Thai Premier League",
+        "1xbet_match_id": 653691029,
+        "1xbet_tournament_id": 1351549,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/1351549/653691029",
+        "Tounesbet_country_name": "Thailand",
+        "tournament_Tounesbet": "Thai Premier League",
+        "Tounesbet_match_id": 11283343,
+        "Tounesbet_tournament_id": 21154,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578966425238638619-653691029-11283343-13692927-27987453",
+        "home_team": "Chiangrai United FC",
+        "away_team": "BG Pathum United FC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "first_half_ah_0.0_home_vs_away",
+        "best_odds": {
+          "home_first_half_handicap_0.0_odd": {
+            "value": 2.21,
+            "source": "Asbet"
+          },
+          "away_first_half_handicap_0.0_odd": {
+            "value": 2.006,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.951,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27987453-11283343",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Thailand",
+        "tournament_Asbet": "Thai League",
+        "Asbet_match_id": 27987453,
+        "Asbet_tournament_id": 3010,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Thailand/3010/thai-league/27987453/chiangrai-united-fc-bg-pathum-united-fc",
+        "Tounesbet_country_name": "Thailand",
+        "tournament_Tounesbet": "Thai Premier League",
+        "Tounesbet_match_id": 11283343,
+        "Tounesbet_tournament_id": 21154,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578966425238638619-653691029-11283343-13692927-27987453",
+        "home_team": "Chiangrai United FC",
+        "away_team": "BG Pathum United FC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "two_vs_1x",
+        "best_odds": {
+          "2_odd": {
+            "value": 2.2,
+            "source": "Jibibet"
+          },
+          "1X_odd": {
+            "value": 1.899,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9811,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2578966425238638619-11283343",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "Thailand",
+        "tournament_Jibibet": "Thai League 1",
+        "Jibibet_match_id": 2578966425238638619,
+        "Jibibet_tournament_id": 1670140053139136512,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "Thailand",
+        "tournament_Tounesbet": "Thai Premier League",
+        "Tounesbet_match_id": 11283343,
+        "Tounesbet_tournament_id": 21154,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578966425238638619-653691029-11283343-13692927-27987453",
+        "home_team": "Chiangrai United FC",
+        "away_team": "BG Pathum United FC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "two_vs_1x_handicap",
+        "best_odds": {
+          "2_odd": {
+            "value": 2.596,
+            "source": "Tounesbet"
+          },
+          "home_handicap_0.5_odd": {
+            "value": 1.6667,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9852,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13692927-11283343",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Thailand",
+        "tournament_Tounesbet": "Thai Premier League",
+        "Tounesbet_match_id": 11283343,
+        "Tounesbet_tournament_id": 21154,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "Thailand",
+        "tournament_Clubx2": "Thai League 1",
+        "Clubx2_match_id": 13692927,
+        "Clubx2_tournament_id": 3992,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13692927#/overview",
+        "group_id": "2578966425238638619-653691029-11283343-13692927-27987453",
+        "home_team": "Chiangrai United FC",
+        "away_team": "BG Pathum United FC",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2579675158159695899-654037536-11283364-13692923-27987585",
+    "home_team": "Rayong FC",
+    "away_team": "Ayutthaya United FC",
+    "date": "21/09/2025",
+    "time": "12:30",
+    "country": "Thailand",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "one_vs_x2",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.02,
+            "source": "Jibibet"
+          },
+          "X2_odd": {
+            "value": 2.124,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9659,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2579675158159695899-11283364",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "Thailand",
+        "tournament_Jibibet": "Thai League 1",
+        "Jibibet_match_id": 2579675158159695899,
+        "Jibibet_tournament_id": 1670140053139136512,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "Thailand",
+        "tournament_Tounesbet": "Thai Premier League",
+        "Tounesbet_match_id": 11283364,
+        "Tounesbet_tournament_id": 21154,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579675158159695899-654037536-11283364-13692923-27987585",
+        "home_team": "Rayong FC",
+        "away_team": "Ayutthaya United FC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "first_half_under_1.0_vs_first_half_over_1.0",
+        "best_odds": {
+          "first_half_under_1.0_odd": {
+            "value": 2.21,
+            "source": "Asbet"
+          },
+          "first_half_over_1.0_odd": {
+            "value": 1.923,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9725,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27987585-11283364",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Thailand",
+        "tournament_Asbet": "Thai League",
+        "Asbet_match_id": 27987585,
+        "Asbet_tournament_id": 3010,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Thailand/3010/thai-league/27987585/rayong-fc-ayutthaya-united-fc",
+        "Tounesbet_country_name": "Thailand",
+        "tournament_Tounesbet": "Thai Premier League",
+        "Tounesbet_match_id": 11283364,
+        "Tounesbet_tournament_id": 21154,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579675158159695899-654037536-11283364-13692923-27987585",
+        "home_team": "Rayong FC",
+        "away_team": "Ayutthaya United FC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2",
+        "best_odds": {
+          "1_odd": {
+            "value": 1.97,
+            "source": "1xbet"
+          },
+          "X2_odd": {
+            "value": 2.124,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9784,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "654037536-11283364",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Thailand",
+        "tournament_1xbet": "Thai Premier League",
+        "1xbet_match_id": 654037536,
+        "1xbet_tournament_id": 1351549,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/1351549/654037536",
+        "Tounesbet_country_name": "Thailand",
+        "tournament_Tounesbet": "Thai Premier League",
+        "Tounesbet_match_id": 11283364,
+        "Tounesbet_tournament_id": 21154,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579675158159695899-654037536-11283364-13692923-27987585",
+        "home_team": "Rayong FC",
+        "away_team": "Ayutthaya United FC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2",
+        "best_odds": {
+          "1_odd": {
+            "value": 1.96,
+            "source": "Clubx2"
+          },
+          "X2_odd": {
+            "value": 2.124,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.981,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13692923-11283364",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Thailand",
+        "tournament_Clubx2": "Thai League 1",
+        "Clubx2_match_id": 13692923,
+        "Clubx2_tournament_id": 3992,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13692923#/overview",
+        "Tounesbet_country_name": "Thailand",
+        "tournament_Tounesbet": "Thai Premier League",
+        "Tounesbet_match_id": 11283364,
+        "Tounesbet_tournament_id": 21154,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579675158159695899-654037536-11283364-13692923-27987585",
+        "home_team": "Rayong FC",
+        "away_team": "Ayutthaya United FC",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2578966425238638621-653691023-11283362-13692948-27987584",
+    "home_team": "SCG Muangthong United",
+    "away_team": "Ratchaburi Mitr Phol FC",
+    "date": "21/09/2025",
+    "time": "12:30",
+    "country": "Thailand",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "first_half_ah_0.0_home_vs_away",
+        "best_odds": {
+          "home_first_half_handicap_0.0_odd": {
+            "value": 1.97,
+            "source": "Tounesbet"
+          },
+          "away_first_half_handicap_0.0_odd": {
+            "value": 2.2,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9622,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27987584-11283362",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Thailand",
+        "tournament_Tounesbet": "Thai Premier League",
+        "Tounesbet_match_id": 11283362,
+        "Tounesbet_tournament_id": 21154,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "Thailand",
+        "tournament_Asbet": "Thai League",
+        "Asbet_match_id": 27987584,
+        "Asbet_tournament_id": 3010,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Thailand/3010/thai-league/27987584/muangthong-united-ratchaburi-fc",
+        "group_id": "2578966425238638621-653691023-11283362-13692948-27987584",
+        "home_team": "SCG Muangthong United",
+        "away_team": "Ratchaburi Mitr Phol FC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_-0.25_home_vs_away",
+        "best_odds": {
+          "home_handicap_-0.25_odd": {
+            "value": 2.183,
+            "source": "Tounesbet"
+          },
+          "away_handicap_0.25_odd": {
+            "value": 1.909,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.9819,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653691023-11283362",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Thailand",
+        "tournament_Tounesbet": "Thai Premier League",
+        "Tounesbet_match_id": 11283362,
+        "Tounesbet_tournament_id": 21154,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "1xbet_country_name": "Thailand",
+        "tournament_1xbet": "Thai Premier League",
+        "1xbet_match_id": 653691023,
+        "1xbet_tournament_id": 1351549,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/1351549/653691023",
+        "group_id": "2578966425238638621-653691023-11283362-13692948-27987584",
+        "home_team": "SCG Muangthong United",
+        "away_team": "Ratchaburi Mitr Phol FC",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2578981620363169796-653691035-11283375-13692932-27987786",
+    "home_team": "Bangkok United FC",
+    "away_team": "Buriram United",
+    "date": "21/09/2025",
+    "time": "13:00",
+    "country": "Thailand",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "first_half_under_1.0_vs_first_half_over_1.0",
+        "best_odds": {
+          "first_half_under_1.0_odd": {
+            "value": 2.33,
+            "source": "Asbet"
+          },
+          "first_half_over_1.0_odd": {
+            "value": 1.899,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9558,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27987786-11283375",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Thailand",
+        "tournament_Asbet": "Thai League",
+        "Asbet_match_id": 27987786,
+        "Asbet_tournament_id": 3010,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Thailand/3010/thai-league/27987786/bangkok-united-fc-buriram-united",
+        "Tounesbet_country_name": "Thailand",
+        "tournament_Tounesbet": "Thai Premier League",
+        "Tounesbet_match_id": 11283375,
+        "Tounesbet_tournament_id": 21154,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578981620363169796-653691035-11283375-13692932-27987786",
+        "home_team": "Bangkok United FC",
+        "away_team": "Buriram United",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_0.25_home_vs_away",
+        "best_odds": {
+          "home_handicap_0.25_odd": {
+            "value": 2.301,
+            "source": "Tounesbet"
+          },
+          "away_handicap_-0.25_odd": {
+            "value": 1.83,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.981,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653691035-11283375",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Thailand",
+        "tournament_Tounesbet": "Thai Premier League",
+        "Tounesbet_match_id": 11283375,
+        "Tounesbet_tournament_id": 21154,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "1xbet_country_name": "Thailand",
+        "tournament_1xbet": "Thai Premier League",
+        "1xbet_match_id": 653691035,
+        "1xbet_tournament_id": 1351549,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/1351549/653691035",
+        "group_id": "2578981620363169796-653691035-11283375-13692932-27987786",
+        "home_team": "Bangkok United FC",
+        "away_team": "Buriram United",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "two_vs_1x",
+        "best_odds": {
+          "2_odd": {
+            "value": 2.12,
+            "source": "Jibibet"
+          },
+          "1X_odd": {
+            "value": 1.958,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9824,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2578981620363169796-11283375",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "Thailand",
+        "tournament_Jibibet": "Thai League 1",
+        "Jibibet_match_id": 2578981620363169796,
+        "Jibibet_tournament_id": 1670140053139136512,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "Thailand",
+        "tournament_Tounesbet": "Thai Premier League",
+        "Tounesbet_match_id": 11283375,
+        "Tounesbet_tournament_id": 21154,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578981620363169796-653691035-11283375-13692932-27987786",
+        "home_team": "Bangkok United FC",
+        "away_team": "Buriram United",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "two_vs_1x",
+        "best_odds": {
+          "2_odd": {
+            "value": 2.0834,
+            "source": "Clubx2"
+          },
+          "1X_odd": {
+            "value": 1.958,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9907,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13692932-11283375",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Thailand",
+        "tournament_Clubx2": "Thai League 1",
+        "Clubx2_match_id": 13692932,
+        "Clubx2_tournament_id": 3992,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13692932#/overview",
+        "Tounesbet_country_name": "Thailand",
+        "tournament_Tounesbet": "Thai Premier League",
+        "Tounesbet_match_id": 11283375,
+        "Tounesbet_tournament_id": 21154,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578981620363169796-653691035-11283375-13692932-27987786",
+        "home_team": "Bangkok United FC",
+        "away_team": "Buriram United",
+        "activity_duration": "1 hour"
+      }
+    ]
+  }
+]

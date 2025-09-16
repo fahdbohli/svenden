@@ -1,0 +1,1035 @@
+[
+  {
+    "group_id": "2578694383805272106-653351462-11217514-13845484-28004164",
+    "home_team": "AC Omonia Nicosia",
+    "away_team": "AEK Larnaca",
+    "date": "17/09/2025",
+    "time": "17:00",
+    "country": "Cyprus",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.42,
+            "source": "1xbet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.888,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9429,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653351462-11217514",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Cyprus",
+        "tournament_1xbet": "First Division",
+        "1xbet_match_id": 653351462,
+        "1xbet_tournament_id": 12505,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/12505/653351462",
+        "Tounesbet_country_name": "Cyprus",
+        "tournament_Tounesbet": "Division 1",
+        "Tounesbet_match_id": 11217514,
+        "Tounesbet_tournament_id": 44597,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578694383805272106-653351462-11217514-13845484-28004164",
+        "home_team": "AC Omonia Nicosia",
+        "away_team": "AEK Larnaca",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.32,
+            "source": "Jibibet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.888,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9607,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2578694383805272106-11217514",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "Cyprus",
+        "tournament_Jibibet": "1st Division",
+        "Jibibet_match_id": 2578694383805272106,
+        "Jibibet_tournament_id": 1669819010813923328,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "Cyprus",
+        "tournament_Tounesbet": "Division 1",
+        "Tounesbet_match_id": 11217514,
+        "Tounesbet_tournament_id": 44597,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578694383805272106-653351462-11217514-13845484-28004164",
+        "home_team": "AC Omonia Nicosia",
+        "away_team": "AEK Larnaca",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "first_half_under_1.0_vs_first_half_over_1.0",
+        "best_odds": {
+          "first_half_under_1.0_odd": {
+            "value": 2.05,
+            "source": "Clubx2"
+          },
+          "first_half_over_1.0_odd": {
+            "value": 2.1,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.964,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13845484-11217514",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Cyprus",
+        "tournament_Clubx2": "1st Division",
+        "Clubx2_match_id": 13845484,
+        "Clubx2_tournament_id": 3040,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13845484#/overview",
+        "Tounesbet_country_name": "Cyprus",
+        "tournament_Tounesbet": "Division 1",
+        "Tounesbet_match_id": 11217514,
+        "Tounesbet_tournament_id": 44597,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578694383805272106-653351462-11217514-13845484-28004164",
+        "home_team": "AC Omonia Nicosia",
+        "away_team": "AEK Larnaca",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.28,
+            "source": "Asbet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.888,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9683,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "28004164-11217514",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Cyprus",
+        "tournament_Asbet": "First Division",
+        "Asbet_match_id": 28004164,
+        "Asbet_tournament_id": 1825,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Cyprus/1825/first-division/28004164/omonia-nicosia-aek-larnaca",
+        "Tounesbet_country_name": "Cyprus",
+        "tournament_Tounesbet": "Division 1",
+        "Tounesbet_match_id": 11217514,
+        "Tounesbet_tournament_id": 44597,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578694383805272106-653351462-11217514-13845484-28004164",
+        "home_team": "AC Omonia Nicosia",
+        "away_team": "AEK Larnaca",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2579328787539955726-653827829-11281123",
+    "home_team": "Olympiakos Nicosia",
+    "away_team": "Digenis Akritas Ypsonas",
+    "date": "19/09/2025",
+    "time": "17:00",
+    "country": "Cyprus",
+    "all_sources": [
+      "1xbet",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "one_vs_x2",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.48,
+            "source": "1xbet"
+          },
+          "X2_odd": {
+            "value": 1.805,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9572,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653827829-11281123",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Cyprus",
+        "tournament_1xbet": "First Division",
+        "1xbet_match_id": 653827829,
+        "1xbet_tournament_id": 12505,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/12505/653827829",
+        "Tounesbet_country_name": "Cyprus",
+        "tournament_Tounesbet": "Division 1",
+        "Tounesbet_match_id": 11281123,
+        "Tounesbet_tournament_id": 44597,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579328787539955726-653827829-11281123",
+        "home_team": "Olympiakos Nicosia",
+        "away_team": "Digenis Akritas Ypsonas",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.44,
+            "source": "Jibibet"
+          },
+          "X2_odd": {
+            "value": 1.805,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9639,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2579328787539955726-11281123",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "Cyprus",
+        "tournament_Jibibet": "1st Division",
+        "Jibibet_match_id": 2579328787539955726,
+        "Jibibet_tournament_id": 1669819010813923328,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "Cyprus",
+        "tournament_Tounesbet": "Division 1",
+        "Tounesbet_match_id": 11281123,
+        "Tounesbet_tournament_id": 44597,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579328787539955726-653827829-11281123",
+        "home_team": "Olympiakos Nicosia",
+        "away_team": "Digenis Akritas Ypsonas",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2579328787539955715-653827832-11125585-13339500-28009675",
+    "home_team": "Akritas Chlorakas",
+    "away_team": "APOEL Nikosia",
+    "date": "20/09/2025",
+    "time": "17:00",
+    "country": "Cyprus",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_1.5_home_vs_away",
+        "best_odds": {
+          "home_handicap_1.5_odd": {
+            "value": 1.793,
+            "source": "Tounesbet"
+          },
+          "away_handicap_-1.5_odd": {
+            "value": 2.46,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.9642,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653827832-11125585",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Cyprus",
+        "tournament_Tounesbet": "Division 1",
+        "Tounesbet_match_id": 11125585,
+        "Tounesbet_tournament_id": 44597,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "1xbet_country_name": "Cyprus",
+        "tournament_1xbet": "First Division",
+        "1xbet_match_id": 653827832,
+        "1xbet_tournament_id": 12505,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/12505/653827832",
+        "group_id": "2579328787539955715-653827832-11125585-13339500-28009675",
+        "home_team": "Akritas Chlorakas",
+        "away_team": "APOEL Nikosia",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_0.5_home_vs_away",
+        "best_odds": {
+          "home_handicap_0.5_odd": {
+            "value": 2.45,
+            "source": "Asbet"
+          },
+          "away_handicap_-0.5_odd": {
+            "value": 1.793,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9659,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "28009675-11125585",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Cyprus",
+        "tournament_Asbet": "First Division",
+        "Asbet_match_id": 28009675,
+        "Asbet_tournament_id": 1825,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Cyprus/1825/first-division/28009675/akritas-chlorakas-apoel",
+        "Tounesbet_country_name": "Cyprus",
+        "tournament_Tounesbet": "Division 1",
+        "Tounesbet_match_id": 11125585,
+        "Tounesbet_tournament_id": 44597,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579328787539955715-653827832-11125585-13339500-28009675",
+        "home_team": "Akritas Chlorakas",
+        "away_team": "APOEL Nikosia",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_1.0_home_vs_away",
+        "best_odds": {
+          "home_handicap_1.0_odd": {
+            "value": 1.9,
+            "source": "Clubx2"
+          },
+          "away_handicap_-1.0_odd": {
+            "value": 2.242,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9723,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13339500-11125585",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Cyprus",
+        "tournament_Clubx2": "1st Division",
+        "Clubx2_match_id": 13339500,
+        "Clubx2_tournament_id": 3040,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13339500#/overview",
+        "Tounesbet_country_name": "Cyprus",
+        "tournament_Tounesbet": "Division 1",
+        "Tounesbet_match_id": 11125585,
+        "Tounesbet_tournament_id": 44597,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579328787539955715-653827832-11125585-13339500-28009675",
+        "home_team": "Akritas Chlorakas",
+        "away_team": "APOEL Nikosia",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "awaywin_handicap_vs_1x",
+        "best_odds": {
+          "away_handicap_-0.5_odd": {
+            "value": 1.793,
+            "source": "Tounesbet"
+          },
+          "1X_odd": {
+            "value": 2.4,
+            "source": "Jibibet"
+          }
+        },
+        "arbitrage_percentage": 0.9744,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2579328787539955715-11125585",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Cyprus",
+        "tournament_Tounesbet": "Division 1",
+        "Tounesbet_match_id": 11125585,
+        "Tounesbet_tournament_id": 44597,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Jibibet_country_name": "Cyprus",
+        "tournament_Jibibet": "1st Division",
+        "Jibibet_match_id": 2579328787539955715,
+        "Jibibet_tournament_id": 1669819010813923328,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "group_id": "2579328787539955715-653827832-11125585-13339500-28009675",
+        "home_team": "Akritas Chlorakas",
+        "away_team": "APOEL Nikosia",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2579040911099039767-653762790-11125583-13339498-28009676",
+    "home_team": "Ethnikos Achnas FC",
+    "away_team": "Anorthosis Famagusta",
+    "date": "20/09/2025",
+    "time": "17:00",
+    "country": "Cyprus",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "both_score",
+        "best_odds": {
+          "both_score_odd": {
+            "value": 2.029,
+            "source": "Tounesbet"
+          },
+          "both_noscore_odd": {
+            "value": 2.132,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.9619,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653762790-11125583",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Cyprus",
+        "tournament_Tounesbet": "Division 1",
+        "Tounesbet_match_id": 11125583,
+        "Tounesbet_tournament_id": 44597,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "1xbet_country_name": "Cyprus",
+        "tournament_1xbet": "First Division",
+        "1xbet_match_id": 653762790,
+        "1xbet_tournament_id": 12505,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/12505/653762790",
+        "group_id": "2579040911099039767-653762790-11125583-13339498-28009676",
+        "home_team": "Ethnikos Achnas FC",
+        "away_team": "Anorthosis Famagusta",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "first_half_ah_0.0_home_vs_away",
+        "best_odds": {
+          "home_first_half_handicap_0.0_odd": {
+            "value": 2.242,
+            "source": "Tounesbet"
+          },
+          "away_first_half_handicap_0.0_odd": {
+            "value": 1.92,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9669,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "28009676-11125583",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Cyprus",
+        "tournament_Tounesbet": "Division 1",
+        "Tounesbet_match_id": 11125583,
+        "Tounesbet_tournament_id": 44597,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "Cyprus",
+        "tournament_Asbet": "First Division",
+        "Asbet_match_id": 28009676,
+        "Asbet_tournament_id": 1825,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Cyprus/1825/first-division/28009676/ethnikos-achnas-fc-anorthosis",
+        "group_id": "2579040911099039767-653762790-11125583-13339498-28009676",
+        "home_team": "Ethnikos Achnas FC",
+        "away_team": "Anorthosis Famagusta",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "both_score",
+        "best_odds": {
+          "both_score_odd": {
+            "value": 2.029,
+            "source": "Tounesbet"
+          },
+          "both_noscore_odd": {
+            "value": 2.1,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.969,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13339498-11125583",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Cyprus",
+        "tournament_Tounesbet": "Division 1",
+        "Tounesbet_match_id": 11125583,
+        "Tounesbet_tournament_id": 44597,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "Cyprus",
+        "tournament_Clubx2": "1st Division",
+        "Clubx2_match_id": 13339498,
+        "Clubx2_tournament_id": 3040,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13339498#/overview",
+        "group_id": "2579040911099039767-653762790-11125583-13339498-28009676",
+        "home_team": "Ethnikos Achnas FC",
+        "away_team": "Anorthosis Famagusta",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2579040911099039763-653762793-11125584-13339455-28009673",
+    "home_team": "Apollon Limassol LFC",
+    "away_team": "Enosis Neon Paralimni FC",
+    "date": "21/09/2025",
+    "time": "17:00",
+    "country": "Cyprus",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_-1.5_home_vs_away",
+        "best_odds": {
+          "home_handicap_-1.5_odd": {
+            "value": 2.5,
+            "source": "Asbet"
+          },
+          "away_handicap_1.5_odd": {
+            "value": 1.793,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9577,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "28009673-11125584",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Cyprus",
+        "tournament_Asbet": "First Division",
+        "Asbet_match_id": 28009673,
+        "Asbet_tournament_id": 1825,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Cyprus/1825/first-division/28009673/apollon-limassol-enosis-neon-paralimni-fc",
+        "Tounesbet_country_name": "Cyprus",
+        "tournament_Tounesbet": "Division 1",
+        "Tounesbet_match_id": 11125584,
+        "Tounesbet_tournament_id": 44597,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579040911099039763-653762793-11125584-13339455-28009673",
+        "home_team": "Apollon Limassol LFC",
+        "away_team": "Enosis Neon Paralimni FC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_-1.5_home_vs_away",
+        "best_odds": {
+          "home_handicap_-1.5_odd": {
+            "value": 2.44,
+            "source": "1xbet"
+          },
+          "away_handicap_1.5_odd": {
+            "value": 1.793,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9676,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653762793-11125584",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Cyprus",
+        "tournament_1xbet": "First Division",
+        "1xbet_match_id": 653762793,
+        "1xbet_tournament_id": 12505,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/12505/653762793",
+        "Tounesbet_country_name": "Cyprus",
+        "tournament_Tounesbet": "Division 1",
+        "Tounesbet_match_id": 11125584,
+        "Tounesbet_tournament_id": 44597,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579040911099039763-653762793-11125584-13339455-28009673",
+        "home_team": "Apollon Limassol LFC",
+        "away_team": "Enosis Neon Paralimni FC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "second_half_under_1.5_vs_second_half_over_1.5",
+        "best_odds": {
+          "second_half_under_1.5_odd": {
+            "value": 1.793,
+            "source": "Tounesbet"
+          },
+          "second_half_over_1.5_odd": {
+            "value": 2.4,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9744,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13339455-11125584",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Cyprus",
+        "tournament_Tounesbet": "Division 1",
+        "Tounesbet_match_id": 11125584,
+        "Tounesbet_tournament_id": 44597,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "Cyprus",
+        "tournament_Clubx2": "1st Division",
+        "Clubx2_match_id": 13339455,
+        "Clubx2_tournament_id": 3040,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13339455#/overview",
+        "group_id": "2579040911099039763-653762793-11125584-13339455-28009673",
+        "home_team": "Apollon Limassol LFC",
+        "away_team": "Enosis Neon Paralimni FC",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2579328787539955719-653863144-11125586-13339459-28009674",
+    "home_team": "Omonia Aradippou",
+    "away_team": "Pafos FC",
+    "date": "21/09/2025",
+    "time": "17:00",
+    "country": "Cyprus",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_1.75_home_vs_away",
+        "best_odds": {
+          "home_handicap_1.75_odd": {
+            "value": 1.852,
+            "source": "Tounesbet"
+          },
+          "away_handicap_-1.75_odd": {
+            "value": 2.8,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.8971,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653863144-11125586",
+        "misvalue_source": "1xbet",
+        "Tounesbet_country_name": "Cyprus",
+        "tournament_Tounesbet": "Division 1",
+        "Tounesbet_match_id": 11125586,
+        "Tounesbet_tournament_id": 44597,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "1xbet_country_name": "Cyprus",
+        "tournament_1xbet": "First Division",
+        "1xbet_match_id": 653863144,
+        "1xbet_tournament_id": 12505,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/12505/653863144",
+        "group_id": "2579328787539955719-653863144-11125586-13339459-28009674",
+        "home_team": "Omonia Aradippou",
+        "away_team": "Pafos FC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "away_under_1.5_vs_away_over_1.5",
+        "best_odds": {
+          "away_under_1.5_odd": {
+            "value": 2.33,
+            "source": "Asbet"
+          },
+          "away_over_1.5_odd": {
+            "value": 1.958,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9399,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "28009674-11125586",
+        "misvalue_source": "Asbet",
+        "Asbet_country_name": "Cyprus",
+        "tournament_Asbet": "First Division",
+        "Asbet_match_id": 28009674,
+        "Asbet_tournament_id": 1825,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Cyprus/1825/first-division/28009674/omonia-aradippou-pafos-fc",
+        "Tounesbet_country_name": "Cyprus",
+        "tournament_Tounesbet": "Division 1",
+        "Tounesbet_match_id": 11125586,
+        "Tounesbet_tournament_id": 44597,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579328787539955719-653863144-11125586-13339459-28009674",
+        "home_team": "Omonia Aradippou",
+        "away_team": "Pafos FC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "away_under_1.5_vs_away_over_1.5",
+        "best_odds": {
+          "away_under_1.5_odd": {
+            "value": 2.2858,
+            "source": "Clubx2"
+          },
+          "away_over_1.5_odd": {
+            "value": 1.958,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9482,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13339459-11125586",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Cyprus",
+        "tournament_Clubx2": "1st Division",
+        "Clubx2_match_id": 13339459,
+        "Clubx2_tournament_id": 3040,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13339459#/overview",
+        "Tounesbet_country_name": "Cyprus",
+        "tournament_Tounesbet": "Division 1",
+        "Tounesbet_match_id": 11125586,
+        "Tounesbet_tournament_id": 44597,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579328787539955719-653863144-11125586-13339459-28009674",
+        "home_team": "Omonia Aradippou",
+        "away_team": "Pafos FC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_1.0_home_vs_away",
+        "best_odds": {
+          "home_handicap_1.0_odd": {
+            "value": 2.4,
+            "source": "Asbet"
+          },
+          "away_handicap_-1.0_odd": {
+            "value": 1.79,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.9753,
+        "arbitrage_sources": "1xbet, Asbet",
+        "unique_id": "653863144-28009674",
+        "misvalue_source": "1xbet",
+        "Asbet_country_name": "Cyprus",
+        "tournament_Asbet": "First Division",
+        "Asbet_match_id": 28009674,
+        "Asbet_tournament_id": 1825,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Cyprus/1825/first-division/28009674/omonia-aradippou-pafos-fc",
+        "1xbet_country_name": "Cyprus",
+        "tournament_1xbet": "First Division",
+        "1xbet_match_id": 653863144,
+        "1xbet_tournament_id": 12505,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/12505/653863144",
+        "group_id": "2579328787539955719-653863144-11125586-13339459-28009674",
+        "home_team": "Omonia Aradippou",
+        "away_team": "Pafos FC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "two_vs_1x",
+        "best_odds": {
+          "2_odd": {
+            "value": 1.48,
+            "source": "1xbet"
+          },
+          "1X_odd": {
+            "value": 3.1,
+            "source": "Jibibet"
+          }
+        },
+        "arbitrage_percentage": 0.9983,
+        "arbitrage_sources": "1xbet, Jibibet",
+        "unique_id": "2579328787539955719-653863144",
+        "misvalue_source": "1xbet",
+        "1xbet_country_name": "Cyprus",
+        "tournament_1xbet": "First Division",
+        "1xbet_match_id": 653863144,
+        "1xbet_tournament_id": 12505,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/12505/653863144",
+        "Jibibet_country_name": "Cyprus",
+        "tournament_Jibibet": "1st Division",
+        "Jibibet_match_id": 2579328787539955719,
+        "Jibibet_tournament_id": 1669819010813923328,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "group_id": "2579328787539955719-653863144-11125586-13339459-28009674",
+        "home_team": "Omonia Aradippou",
+        "away_team": "Pafos FC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_1.75_home_vs_away",
+        "best_odds": {
+          "home_handicap_1.75_odd": {
+            "value": 1.5556,
+            "source": "Clubx2"
+          },
+          "away_handicap_-1.75_odd": {
+            "value": 2.8,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 1.0,
+        "arbitrage_sources": "1xbet, Clubx2",
+        "unique_id": "653863144-13339459",
+        "misvalue_source": "1xbet",
+        "Clubx2_country_name": "Cyprus",
+        "tournament_Clubx2": "1st Division",
+        "Clubx2_match_id": 13339459,
+        "Clubx2_tournament_id": 3040,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13339459#/overview",
+        "1xbet_country_name": "Cyprus",
+        "tournament_1xbet": "First Division",
+        "1xbet_match_id": 653863144,
+        "1xbet_tournament_id": 12505,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/12505/653863144",
+        "group_id": "2579328787539955719-653863144-11125586-13339459-28009674",
+        "home_team": "Omonia Aradippou",
+        "away_team": "Pafos FC",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2579510873634779177-653909058-11125569-13339446-28009677",
+    "home_team": "AC Omonia Nicosia",
+    "away_team": "AEL Limassol",
+    "date": "22/09/2025",
+    "time": "17:00",
+    "country": "Cyprus",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "away_under_0.5_vs_away_over_0.5",
+        "best_odds": {
+          "away_under_0.5_odd": {
+            "value": 2.1,
+            "source": "Clubx2"
+          },
+          "away_over_0.5_odd": {
+            "value": 2.159,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9394,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13339446-11125569",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Cyprus",
+        "tournament_Clubx2": "1st Division",
+        "Clubx2_match_id": 13339446,
+        "Clubx2_tournament_id": 3040,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13339446#/overview",
+        "Tounesbet_country_name": "Cyprus",
+        "tournament_Tounesbet": "Division 1",
+        "Tounesbet_match_id": 11125569,
+        "Tounesbet_tournament_id": 44597,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579510873634779177-653909058-11125569-13339446-28009677",
+        "home_team": "AC Omonia Nicosia",
+        "away_team": "AEL Limassol",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_-1.5_home_vs_away",
+        "best_odds": {
+          "home_handicap_-1.5_odd": {
+            "value": 2.2,
+            "source": "1xbet"
+          },
+          "away_handicap_1.5_odd": {
+            "value": 1.97,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9622,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653909058-11125569",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Cyprus",
+        "tournament_1xbet": "First Division",
+        "1xbet_match_id": 653909058,
+        "1xbet_tournament_id": 12505,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/12505/653909058",
+        "Tounesbet_country_name": "Cyprus",
+        "tournament_Tounesbet": "Division 1",
+        "Tounesbet_match_id": 11125569,
+        "Tounesbet_tournament_id": 44597,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579510873634779177-653909058-11125569-13339446-28009677",
+        "home_team": "AC Omonia Nicosia",
+        "away_team": "AEL Limassol",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "first_half_ah_-0.25_home_vs_away",
+        "best_odds": {
+          "home_first_half_handicap_-0.25_odd": {
+            "value": 1.829,
+            "source": "Tounesbet"
+          },
+          "away_first_half_handicap_0.25_odd": {
+            "value": 2.37,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9687,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "28009677-11125569",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Cyprus",
+        "tournament_Tounesbet": "Division 1",
+        "Tounesbet_match_id": 11125569,
+        "Tounesbet_tournament_id": 44597,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "Cyprus",
+        "tournament_Asbet": "First Division",
+        "Asbet_match_id": 28009677,
+        "Asbet_tournament_id": 1825,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Cyprus/1825/first-division/28009677/omonia-nicosia-ael-limassol",
+        "group_id": "2579510873634779177-653909058-11125569-13339446-28009677",
+        "home_team": "AC Omonia Nicosia",
+        "away_team": "AEL Limassol",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2579396882451279880-653827835-11125587-13339450-28009679",
+    "home_team": "AEK Larnaca",
+    "away_team": "Aris Limassol FC",
+    "date": "22/09/2025",
+    "time": "17:00",
+    "country": "Cyprus",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "both_score",
+        "best_odds": {
+          "both_score_odd": {
+            "value": 2.159,
+            "source": "Tounesbet"
+          },
+          "both_noscore_odd": {
+            "value": 2.05,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.951,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13339450-11125587",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Cyprus",
+        "tournament_Tounesbet": "Division 1",
+        "Tounesbet_match_id": 11125587,
+        "Tounesbet_tournament_id": 44597,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "Cyprus",
+        "tournament_Clubx2": "1st Division",
+        "Clubx2_match_id": 13339450,
+        "Clubx2_tournament_id": 3040,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13339450#/overview",
+        "group_id": "2579396882451279880-653827835-11125587-13339450-28009679",
+        "home_team": "AEK Larnaca",
+        "away_team": "Aris Limassol FC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.3,
+            "source": "1xbet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.911,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9581,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653827835-11125587",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Cyprus",
+        "tournament_1xbet": "First Division",
+        "1xbet_match_id": 653827835,
+        "1xbet_tournament_id": 12505,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/12505/653827835",
+        "Tounesbet_country_name": "Cyprus",
+        "tournament_Tounesbet": "Division 1",
+        "Tounesbet_match_id": 11125587,
+        "Tounesbet_tournament_id": 44597,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579396882451279880-653827835-11125587-13339450-28009679",
+        "home_team": "AEK Larnaca",
+        "away_team": "Aris Limassol FC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "first_half_ah_-0.25_home_vs_away",
+        "best_odds": {
+          "home_first_half_handicap_-0.25_odd": {
+            "value": 2.25,
+            "source": "Asbet"
+          },
+          "away_first_half_handicap_0.25_odd": {
+            "value": 1.888,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9741,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "28009679-11125587",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Cyprus",
+        "tournament_Asbet": "First Division",
+        "Asbet_match_id": 28009679,
+        "Asbet_tournament_id": 1825,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Cyprus/1825/first-division/28009679/aek-larnaca-aris-limassol-fc",
+        "Tounesbet_country_name": "Cyprus",
+        "tournament_Tounesbet": "Division 1",
+        "Tounesbet_match_id": 11125587,
+        "Tounesbet_tournament_id": 44597,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579396882451279880-653827835-11125587-13339450-28009679",
+        "home_team": "AEK Larnaca",
+        "away_team": "Aris Limassol FC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.2,
+            "source": "Jibibet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.911,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9778,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2579396882451279880-11125587",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "Cyprus",
+        "tournament_Jibibet": "1st Division",
+        "Jibibet_match_id": 2579396882451279880,
+        "Jibibet_tournament_id": 1669819010813923328,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "Cyprus",
+        "tournament_Tounesbet": "Division 1",
+        "Tounesbet_match_id": 11125587,
+        "Tounesbet_tournament_id": 44597,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579396882451279880-653827835-11125587-13339450-28009679",
+        "home_team": "AEK Larnaca",
+        "away_team": "Aris Limassol FC",
+        "activity_duration": "1 hour"
+      }
+    ]
+  }
+]

@@ -1,0 +1,61 @@
+{
+    "market_groups": [
+        {
+            "group_id": 1,
+            "group_name": "Main Markets",
+            "markets": {
+                "winner": {
+                    "id": 186,
+                    "structure": "regular",
+                    "market_names": ["Winner"],
+                    "odds": {
+                        "1": {"names": ["1"], "export_name": "player1_odd"},
+                        "2": {"names": ["2"], "export_name": "player2_odd"}
+                    }
+                },
+                "game_handicap": {
+                    "id": 187,
+                    "structure": "handicap",
+                    "market_names": ["Game handicap"],
+                    "odds": {
+                        "home": {"names": ["1"], "export_name": "player1_games_handicap_{sv}_odd"},
+                        "away": {"names": ["2"], "export_name": "player2_games_handicap_{sv}_odd"}
+                    }
+                },
+                "total_games": {
+                    "id": 189,
+                    "structure": "total",
+                    "market_names": ["total games"],
+                    "odds": {
+                        "over": {"names": ["over"], "export_name": "total_games_over_{sv}_odd"},
+                        "under": {"names": ["under"], "export_name": "total_games_under_{sv}_odd"}
+                    }
+                }
+            }
+        },
+        {
+            "group_id": 13,
+            "group_name": "Set Markets",
+            "markets": {
+                "first_set_winner": {
+                    "id": 202,
+                    "structure": "regular",
+                    "market_names": ["First set - winner"],
+                    "odds": {
+                        "1": {"names": ["1"], "export_name": "player1_win_set1_odd"},
+                        "2": {"names": ["2"], "export_name": "player2_win_set1_odd"}
+                    }
+                },
+                "first_set_total_games": {
+                    "id": 204,
+                    "structure": "total",
+                    "market_names": ["First set - total games"],
+                    "odds": {
+                        "over": {"names": ["over"], "export_name": "set1_total_games_over_{sv}_odd"},
+                        "under": {"names": ["under"], "export_name": "set1_total_games_under_{sv}_odd"}
+                    }
+                }
+            }
+        }
+    ]
+}

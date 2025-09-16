@@ -1,0 +1,77 @@
+[
+    {
+        "last_updated": "2025-09-13T11:23:05.725299+01:00"
+    },
+    {
+        "tournament_id": 1672921594852528128,
+        "tournament_name": "First League",
+        "matches": [
+            {
+                "match_id": 2578528451761942545,
+                "date": "13/09/2025",
+                "time": "12:00",
+                "home_team": "FC Slonim-2017",
+                "away_team": "Lokomotiv Gomel",
+                "1_odd": "6.2",
+                "draw_odd": "4.1",
+                "2_odd": "1.45",
+                "1X_odd": "2.46",
+                "12_odd": "1.16",
+                "X2_odd": "1.06",
+                "over_4.5_odd": "3.35",
+                "under_4.5_odd": "1.25",
+                "over_2.5_odd": "1.45",
+                "under_2.5_odd": "2.44",
+                "over_3.5_odd": "2.06",
+                "under_3.5_odd": "1.63"
+            },
+            {
+                "match_id": 2578555411644944420,
+                "date": "13/09/2025",
+                "time": "14:30",
+                "home_team": "Niva Dolbizno",
+                "away_team": "FC Baranovichi",
+                "1_odd": "2.42",
+                "draw_odd": "3.7",
+                "2_odd": "2.42",
+                "1X_odd": "1.45",
+                "12_odd": "1.2",
+                "X2_odd": "1.45",
+                "over_4.5_odd": "3.45",
+                "under_4.5_odd": "1.23",
+                "over_1.5_odd": "1.15",
+                "under_1.5_odd": "4.4",
+                "over_2.5_odd": "1.45",
+                "under_2.5_odd": "2.44",
+                "over_3.5_odd": "2.12",
+                "under_3.5_odd": "1.6"
+            },
+            {
+                "match_id": 2578561999076208659,
+                "date": "13/09/2025",
+                "time": "15:00",
+                "home_team": "FC Dnepr Mogilev",
+                "away_team": "FC Volna Pinsk",
+                "1_odd": "1.66",
+                "draw_odd": "3.95",
+                "2_odd": "4.1",
+                "1X_odd": "1.16",
+                "12_odd": "1.17",
+                "X2_odd": "2.02",
+                "over_4.5_odd": "3.45",
+                "under_4.5_odd": "1.24",
+                "over_2.5_odd": "1.44",
+                "under_2.5_odd": "2.46",
+                "over_3.5_odd": "2.1",
+                "under_3.5_odd": "1.61"
+            },
+            {
+                "match_id": 2578534395786956801,
+                "date": "13/09/2025",
+                "time": "13:00",
+                "home_team": "FC Orsha",
+                "away_team": "Uni X Labs"
+            }
+        ]
+    }
+]

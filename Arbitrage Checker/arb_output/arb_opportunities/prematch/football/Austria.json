@@ -1,0 +1,1864 @@
+[
+  {
+    "group_id": "2579493863106420752-653934663-11297068-13437488-27984247",
+    "home_team": "SC Rofix Rothis",
+    "away_team": "SK Puntigamer Sturm Graz",
+    "date": "17/09/2025",
+    "time": "16:00",
+    "country": "Austria",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "first_half_under_2.0_vs_first_half_over_2.0",
+        "best_odds": {
+          "first_half_under_2.0_odd": {
+            "value": 2.15,
+            "source": "Asbet"
+          },
+          "first_half_over_2.0_odd": {
+            "value": 2.029,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.958,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27984247-11297068",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Austria",
+        "tournament_Asbet": "OFB Cup",
+        "Asbet_match_id": 27984247,
+        "Asbet_tournament_id": 1708,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Austria/1708/ofb-cup/27984247/sc-rofix-rothis-sk-sturm-graz",
+        "Tounesbet_country_name": "Austria",
+        "tournament_Tounesbet": "ÖFB Cup",
+        "Tounesbet_match_id": 11297068,
+        "Tounesbet_tournament_id": 22642,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579493863106420752-653934663-11297068-13437488-27984247",
+        "home_team": "SC Rofix Rothis",
+        "away_team": "SK Puntigamer Sturm Graz",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_4.25_home_vs_away",
+        "best_odds": {
+          "home_handicap_4.25_odd": {
+            "value": 1.888,
+            "source": "Tounesbet"
+          },
+          "away_handicap_-4.25_odd": {
+            "value": 2.28,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.9683,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653934663-11297068",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Austria",
+        "tournament_Tounesbet": "ÖFB Cup",
+        "Tounesbet_match_id": 11297068,
+        "Tounesbet_tournament_id": 22642,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "1xbet_country_name": "Austria",
+        "tournament_1xbet": "Austria Cup",
+        "1xbet_match_id": 653934663,
+        "1xbet_tournament_id": 119809,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/119809/653934663",
+        "group_id": "2579493863106420752-653934663-11297068-13437488-27984247",
+        "home_team": "SC Rofix Rothis",
+        "away_team": "SK Puntigamer Sturm Graz",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "first_half_ah_1.5_home_vs_away",
+        "best_odds": {
+          "home_first_half_handicap_1.5_odd": {
+            "value": 2.419,
+            "source": "Tounesbet"
+          },
+          "away_first_half_handicap_-1.5_odd": {
+            "value": 1.8,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9689,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13437488-11297068",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Austria",
+        "tournament_Tounesbet": "ÖFB Cup",
+        "Tounesbet_match_id": 11297068,
+        "Tounesbet_tournament_id": 22642,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "Austria",
+        "tournament_Clubx2": "OFB Cup",
+        "Clubx2_match_id": 13437488,
+        "Clubx2_tournament_id": 3153,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13437488#/overview",
+        "group_id": "2579493863106420752-653934663-11297068-13437488-27984247",
+        "home_team": "SC Rofix Rothis",
+        "away_team": "SK Puntigamer Sturm Graz",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "under_4.5_vs_over_4.5",
+        "best_odds": {
+          "under_4.5_odd": {
+            "value": 2.26,
+            "source": "Jibibet"
+          },
+          "over_4.5_odd": {
+            "value": 1.852,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9824,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2579493863106420752-11297068",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "Austria",
+        "tournament_Jibibet": "OFB Cup",
+        "Jibibet_match_id": 2579493863106420752,
+        "Jibibet_tournament_id": 1672292153746964480,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "Austria",
+        "tournament_Tounesbet": "ÖFB Cup",
+        "Tounesbet_match_id": 11297068,
+        "Tounesbet_tournament_id": 22642,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579493863106420752-653934663-11297068-13437488-27984247",
+        "home_team": "SC Rofix Rothis",
+        "away_team": "SK Puntigamer Sturm Graz",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2579493863106420753-653934660-11297066-13437490-27984472",
+    "home_team": "SpG Oberwart/Rotenturm",
+    "away_team": "SK Rapid Wien",
+    "date": "17/09/2025",
+    "time": "18:00",
+    "country": "Austria",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "under_4.5_vs_over_4.5",
+        "best_odds": {
+          "under_4.5_odd": {
+            "value": 2.029,
+            "source": "Tounesbet"
+          },
+          "over_4.5_odd": {
+            "value": 2.18,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.9516,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653934660-11297066",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Austria",
+        "tournament_Tounesbet": "ÖFB Cup",
+        "Tounesbet_match_id": 11297066,
+        "Tounesbet_tournament_id": 22642,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "1xbet_country_name": "Austria",
+        "tournament_1xbet": "Austria Cup",
+        "1xbet_match_id": 653934660,
+        "1xbet_tournament_id": 119809,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/119809/653934660",
+        "group_id": "2579493863106420753-653934660-11297066-13437490-27984472",
+        "home_team": "SpG Oberwart/Rotenturm",
+        "away_team": "SK Rapid Wien",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "first_half_ah_1.0_home_vs_away",
+        "best_odds": {
+          "home_first_half_handicap_1.0_odd": {
+            "value": 2.52,
+            "source": "Asbet"
+          },
+          "away_first_half_handicap_-1.0_odd": {
+            "value": 1.793,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9545,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27984472-11297066",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Austria",
+        "tournament_Asbet": "OFB Cup",
+        "Asbet_match_id": 27984472,
+        "Asbet_tournament_id": 1708,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Austria/1708/ofb-cup/27984472/spg-oberwartrotenturm-sk-rapid-wien",
+        "Tounesbet_country_name": "Austria",
+        "tournament_Tounesbet": "ÖFB Cup",
+        "Tounesbet_match_id": 11297066,
+        "Tounesbet_tournament_id": 22642,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579493863106420753-653934660-11297066-13437490-27984472",
+        "home_team": "SpG Oberwart/Rotenturm",
+        "away_team": "SK Rapid Wien",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_2.5_home_vs_away",
+        "best_odds": {
+          "home_handicap_2.5_odd": {
+            "value": 2.2858,
+            "source": "Clubx2"
+          },
+          "away_handicap_-2.5_odd": {
+            "value": 1.888,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9671,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13437490-11297066",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Austria",
+        "tournament_Clubx2": "OFB Cup",
+        "Clubx2_match_id": 13437490,
+        "Clubx2_tournament_id": 3153,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13437490#/overview",
+        "Tounesbet_country_name": "Austria",
+        "tournament_Tounesbet": "ÖFB Cup",
+        "Tounesbet_match_id": 11297066,
+        "Tounesbet_tournament_id": 22642,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579493863106420753-653934660-11297066-13437490-27984472",
+        "home_team": "SpG Oberwart/Rotenturm",
+        "away_team": "SK Rapid Wien",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "under_4.5_vs_over_4.5",
+        "best_odds": {
+          "under_4.5_odd": {
+            "value": 2.029,
+            "source": "Tounesbet"
+          },
+          "over_4.5_odd": {
+            "value": 1.99,
+            "source": "Jibibet"
+          }
+        },
+        "arbitrage_percentage": 0.9954,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2579493863106420753-11297066",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Austria",
+        "tournament_Tounesbet": "ÖFB Cup",
+        "Tounesbet_match_id": 11297066,
+        "Tounesbet_tournament_id": 22642,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Jibibet_country_name": "Austria",
+        "tournament_Jibibet": "OFB Cup",
+        "Jibibet_match_id": 2579493863106420753,
+        "Jibibet_tournament_id": 1672292153746964480,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "group_id": "2579493863106420753-653934660-11297066-13437490-27984472",
+        "home_team": "SpG Oberwart/Rotenturm",
+        "away_team": "SK Rapid Wien",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2578620775296802819-653257001-11280487-13143940-27997145",
+    "home_team": "SK Rapid Wien II",
+    "away_team": "VfB Admira Wacker Modling",
+    "date": "19/09/2025",
+    "time": "17:00",
+    "country": "Austria",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "home_under_0.5_vs_home_over_0.5",
+        "best_odds": {
+          "home_under_0.5_odd": {
+            "value": 2.5,
+            "source": "1xbet"
+          },
+          "home_over_0.5_odd": {
+            "value": 1.852,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.94,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653257001-11280487",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Austria",
+        "tournament_1xbet": "Second League",
+        "1xbet_match_id": 653257001,
+        "1xbet_tournament_id": 2191612,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/2191612/653257001",
+        "Tounesbet_country_name": "Austria",
+        "tournament_Tounesbet": "Erste Liga",
+        "Tounesbet_match_id": 11280487,
+        "Tounesbet_tournament_id": 22630,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578620775296802819-653257001-11280487-13143940-27997145",
+        "home_team": "SK Rapid Wien II",
+        "away_team": "VfB Admira Wacker Modling",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "home_under_0.5_vs_home_over_0.5",
+        "best_odds": {
+          "home_under_0.5_odd": {
+            "value": 2.4,
+            "source": "Clubx2"
+          },
+          "home_over_0.5_odd": {
+            "value": 1.852,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9566,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13143940-11280487",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Austria",
+        "tournament_Clubx2": "2. Liga",
+        "Clubx2_match_id": 13143940,
+        "Clubx2_tournament_id": 3093,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13143940#/overview",
+        "Tounesbet_country_name": "Austria",
+        "tournament_Tounesbet": "Erste Liga",
+        "Tounesbet_match_id": 11280487,
+        "Tounesbet_tournament_id": 22630,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578620775296802819-653257001-11280487-13143940-27997145",
+        "home_team": "SK Rapid Wien II",
+        "away_team": "VfB Admira Wacker Modling",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "home_under_0.5_vs_home_over_0.5",
+        "best_odds": {
+          "home_under_0.5_odd": {
+            "value": 2.37,
+            "source": "Asbet"
+          },
+          "home_over_0.5_odd": {
+            "value": 1.852,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9619,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27997145-11280487",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Austria",
+        "tournament_Asbet": "2. Liga",
+        "Asbet_match_id": 27997145,
+        "Asbet_tournament_id": 1707,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Austria/1707/liga/27997145/sk-rapid-wien-ii-vfb-admira-wacker-modling",
+        "Tounesbet_country_name": "Austria",
+        "tournament_Tounesbet": "Erste Liga",
+        "Tounesbet_match_id": 11280487,
+        "Tounesbet_tournament_id": 22630,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578620775296802819-653257001-11280487-13143940-27997145",
+        "home_team": "SK Rapid Wien II",
+        "away_team": "VfB Admira Wacker Modling",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2578620775296802822-653497598-11280488-13143968-27997144",
+    "home_team": "SV Stripfing/Weiden",
+    "away_team": "Schwarz-Weiss Bregenz",
+    "date": "19/09/2025",
+    "time": "17:00",
+    "country": "Austria",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "home_under_1.5_vs_home_over_1.5",
+        "best_odds": {
+          "home_under_1.5_odd": {
+            "value": 2.4,
+            "source": "Clubx2"
+          },
+          "home_over_1.5_odd": {
+            "value": 1.852,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9566,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13143968-11280488",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Austria",
+        "tournament_Clubx2": "2. Liga",
+        "Clubx2_match_id": 13143968,
+        "Clubx2_tournament_id": 3093,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13143968#/overview",
+        "Tounesbet_country_name": "Austria",
+        "tournament_Tounesbet": "Erste Liga",
+        "Tounesbet_match_id": 11280488,
+        "Tounesbet_tournament_id": 22630,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578620775296802822-653497598-11280488-13143968-27997144",
+        "home_team": "SV Stripfing/Weiden",
+        "away_team": "Schwarz-Weiss Bregenz",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_-0.25_home_vs_away",
+        "best_odds": {
+          "home_handicap_-0.25_odd": {
+            "value": 1.829,
+            "source": "Tounesbet"
+          },
+          "away_handicap_0.25_odd": {
+            "value": 2.4,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9634,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27997144-11280488",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Austria",
+        "tournament_Tounesbet": "Erste Liga",
+        "Tounesbet_match_id": 11280488,
+        "Tounesbet_tournament_id": 22630,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "Austria",
+        "tournament_Asbet": "2. Liga",
+        "Asbet_match_id": 27997144,
+        "Asbet_tournament_id": 1707,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Austria/1707/liga/27997144/sv-stripfingweiden-schwarz-weis-bregenz",
+        "group_id": "2578620775296802822-653497598-11280488-13143968-27997144",
+        "home_team": "SV Stripfing/Weiden",
+        "away_team": "Schwarz-Weiss Bregenz",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_-1.0_home_vs_away",
+        "best_odds": {
+          "home_handicap_-1.0_odd": {
+            "value": 2.25,
+            "source": "1xbet"
+          },
+          "away_handicap_1.0_odd": {
+            "value": 1.911,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9677,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653497598-11280488",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Austria",
+        "tournament_1xbet": "Second League",
+        "1xbet_match_id": 653497598,
+        "1xbet_tournament_id": 2191612,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/2191612/653497598",
+        "Tounesbet_country_name": "Austria",
+        "tournament_Tounesbet": "Erste Liga",
+        "Tounesbet_match_id": 11280488,
+        "Tounesbet_tournament_id": 22630,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578620775296802822-653497598-11280488-13143968-27997144",
+        "home_team": "SV Stripfing/Weiden",
+        "away_team": "Schwarz-Weiss Bregenz",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "under_3.5_vs_over_3.5",
+        "best_odds": {
+          "under_3.5_odd": {
+            "value": 1.899,
+            "source": "Tounesbet"
+          },
+          "over_3.5_odd": {
+            "value": 2.16,
+            "source": "Jibibet"
+          }
+        },
+        "arbitrage_percentage": 0.9896,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2578620775296802822-11280488",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Austria",
+        "tournament_Tounesbet": "Erste Liga",
+        "Tounesbet_match_id": 11280488,
+        "Tounesbet_tournament_id": 22630,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Jibibet_country_name": "Austria",
+        "tournament_Jibibet": "2. Liga",
+        "Jibibet_match_id": 2578620775296802822,
+        "Jibibet_tournament_id": 1669818912306499584,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "group_id": "2578620775296802822-653497598-11280488-13143968-27997144",
+        "home_team": "SV Stripfing/Weiden",
+        "away_team": "Schwarz-Weiss Bregenz",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2578923312533086230-653497595-11286003-13143992-27997146",
+    "home_team": "WSC Hertha Wels",
+    "away_team": "Liefering Salzburg",
+    "date": "19/09/2025",
+    "time": "17:00",
+    "country": "Austria",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "first_half_under_1.0_vs_first_half_over_1.0",
+        "best_odds": {
+          "first_half_under_1.0_odd": {
+            "value": 2.2,
+            "source": "Clubx2"
+          },
+          "first_half_over_1.0_odd": {
+            "value": 1.994,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.956,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13143992-11286003",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Austria",
+        "tournament_Clubx2": "2. Liga",
+        "Clubx2_match_id": 13143992,
+        "Clubx2_tournament_id": 3093,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13143992#/overview",
+        "Tounesbet_country_name": "Austria",
+        "tournament_Tounesbet": "Erste Liga",
+        "Tounesbet_match_id": 11286003,
+        "Tounesbet_tournament_id": 22630,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578923312533086230-653497595-11286003-13143992-27997146",
+        "home_team": "WSC Hertha Wels",
+        "away_team": "Liefering Salzburg",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "two_vs_1x_handicap",
+        "best_odds": {
+          "2_odd": {
+            "value": 2.3,
+            "source": "1xbet"
+          },
+          "home_handicap_0.5_odd": {
+            "value": 1.911,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9581,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653497595-11286003",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Austria",
+        "tournament_1xbet": "Second League",
+        "1xbet_match_id": 653497595,
+        "1xbet_tournament_id": 2191612,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/2191612/653497595",
+        "Tounesbet_country_name": "Austria",
+        "tournament_Tounesbet": "Erste Liga",
+        "Tounesbet_match_id": 11286003,
+        "Tounesbet_tournament_id": 22630,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578923312533086230-653497595-11286003-13143992-27997146",
+        "home_team": "WSC Hertha Wels",
+        "away_team": "Liefering Salzburg",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "two_vs_1x_handicap",
+        "best_odds": {
+          "2_odd": {
+            "value": 2.24,
+            "source": "Jibibet"
+          },
+          "home_handicap_0.5_odd": {
+            "value": 1.911,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9697,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2578923312533086230-11286003",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "Austria",
+        "tournament_Jibibet": "2. Liga",
+        "Jibibet_match_id": 2578923312533086230,
+        "Jibibet_tournament_id": 1669818912306499584,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "Austria",
+        "tournament_Tounesbet": "Erste Liga",
+        "Tounesbet_match_id": 11286003,
+        "Tounesbet_tournament_id": 22630,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578923312533086230-653497595-11286003-13143992-27997146",
+        "home_team": "WSC Hertha Wels",
+        "away_team": "Liefering Salzburg",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "first_half_under_1.0_vs_first_half_over_1.0",
+        "best_odds": {
+          "first_half_under_1.0_odd": {
+            "value": 2.12,
+            "source": "Asbet"
+          },
+          "first_half_over_1.0_odd": {
+            "value": 1.994,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9732,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27997146-11286003",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Austria",
+        "tournament_Asbet": "2. Liga",
+        "Asbet_match_id": 27997146,
+        "Asbet_tournament_id": 1707,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Austria/1707/liga/27997146/wsc-hertha-wels-fc-liefering",
+        "Tounesbet_country_name": "Austria",
+        "tournament_Tounesbet": "Erste Liga",
+        "Tounesbet_match_id": 11286003,
+        "Tounesbet_tournament_id": 22630,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578923312533086230-653497595-11286003-13143992-27997146",
+        "home_team": "WSC Hertha Wels",
+        "away_team": "Liefering Salzburg",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2578706774735589399-653476709-11282400-13143949-27997698",
+    "home_team": "First Vienna FC",
+    "away_team": "SK Austria Klagenfurt",
+    "date": "19/09/2025",
+    "time": "19:30",
+    "country": "Austria",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.21,
+            "source": "1xbet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.97,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9601,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653476709-11282400",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Austria",
+        "tournament_1xbet": "Second League",
+        "1xbet_match_id": 653476709,
+        "1xbet_tournament_id": 2191612,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/2191612/653476709",
+        "Tounesbet_country_name": "Austria",
+        "tournament_Tounesbet": "Erste Liga",
+        "Tounesbet_match_id": 11282400,
+        "Tounesbet_tournament_id": 22630,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578706774735589399-653476709-11282400-13143949-27997698",
+        "home_team": "First Vienna FC",
+        "away_team": "SK Austria Klagenfurt",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.1667,
+            "source": "Clubx2"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.97,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9691,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13143949-11282400",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Austria",
+        "tournament_Clubx2": "2. Liga",
+        "Clubx2_match_id": 13143949,
+        "Clubx2_tournament_id": 3093,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13143949#/overview",
+        "Tounesbet_country_name": "Austria",
+        "tournament_Tounesbet": "Erste Liga",
+        "Tounesbet_match_id": 11282400,
+        "Tounesbet_tournament_id": 22630,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578706774735589399-653476709-11282400-13143949-27997698",
+        "home_team": "First Vienna FC",
+        "away_team": "SK Austria Klagenfurt",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.16,
+            "source": "Jibibet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.97,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9706,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2578706774735589399-11282400",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "Austria",
+        "tournament_Jibibet": "2. Liga",
+        "Jibibet_match_id": 2578706774735589399,
+        "Jibibet_tournament_id": 1669818912306499584,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "Austria",
+        "tournament_Tounesbet": "Erste Liga",
+        "Tounesbet_match_id": 11282400,
+        "Tounesbet_tournament_id": 22630,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578706774735589399-653476709-11282400-13143949-27997698",
+        "home_team": "First Vienna FC",
+        "away_team": "SK Austria Klagenfurt",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "first_half_ah_0.0_home_vs_away",
+        "best_odds": {
+          "home_first_half_handicap_0.0_odd": {
+            "value": 1.97,
+            "source": "Tounesbet"
+          },
+          "away_first_half_handicap_0.0_odd": {
+            "value": 2.15,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9727,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27997698-11282400",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Austria",
+        "tournament_Tounesbet": "Erste Liga",
+        "Tounesbet_match_id": 11282400,
+        "Tounesbet_tournament_id": 22630,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "Austria",
+        "tournament_Asbet": "2. Liga",
+        "Asbet_match_id": 27997698,
+        "Asbet_tournament_id": 1707,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Austria/1707/liga/27997698/first-vienna-fc-sk-austria-klagenfurt",
+        "group_id": "2578706774735589399-653476709-11282400-13143949-27997698",
+        "home_team": "First Vienna FC",
+        "away_team": "SK Austria Klagenfurt",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2578923312533086226-653597694-11286004-13143973-28002811",
+    "home_team": "SV Austria Salzburg",
+    "away_team": "SKN St. Polten",
+    "date": "20/09/2025",
+    "time": "13:30",
+    "country": "Austria",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "second_half_under_1.5_vs_second_half_over_1.5",
+        "best_odds": {
+          "second_half_under_1.5_odd": {
+            "value": 2.371,
+            "source": "Tounesbet"
+          },
+          "second_half_over_1.5_odd": {
+            "value": 1.8,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9773,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13143973-11286004",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Austria",
+        "tournament_Tounesbet": "Erste Liga",
+        "Tounesbet_match_id": 11286004,
+        "Tounesbet_tournament_id": 22630,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "Austria",
+        "tournament_Clubx2": "2. Liga",
+        "Clubx2_match_id": 13143973,
+        "Clubx2_tournament_id": 3093,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13143973#/overview",
+        "group_id": "2578923312533086226-653597694-11286004-13143973-28002811",
+        "home_team": "SV Austria Salzburg",
+        "away_team": "SKN St. Polten",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "first_half_under_1.5_vs_first_half_over_1.5",
+        "best_odds": {
+          "first_half_under_1.5_odd": {
+            "value": 1.876,
+            "source": "Tounesbet"
+          },
+          "first_half_over_1.5_odd": {
+            "value": 2.21,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9855,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "28002811-11286004",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Austria",
+        "tournament_Tounesbet": "Erste Liga",
+        "Tounesbet_match_id": 11286004,
+        "Tounesbet_tournament_id": 22630,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "Austria",
+        "tournament_Asbet": "2. Liga",
+        "Asbet_match_id": 28002811,
+        "Asbet_tournament_id": 1707,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Austria/1707/liga/28002811/sv-austria-salzburg-skn-st-polten",
+        "group_id": "2578923312533086226-653597694-11286004-13143973-28002811",
+        "home_team": "SV Austria Salzburg",
+        "away_team": "SKN St. Polten",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "653500008-11286005-28008619",
+    "home_team": "SKU Amstetten",
+    "away_team": "Kapfenberger SV 1919",
+    "date": "21/09/2025",
+    "time": "09:30",
+    "country": "Austria",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "homewin_handicap_vs_x2",
+        "best_odds": {
+          "home_handicap_-0.5_odd": {
+            "value": 2.029,
+            "source": "Tounesbet"
+          },
+          "X2_odd": {
+            "value": 2.12,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.9646,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653500008-11286005",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Austria",
+        "tournament_Tounesbet": "Erste Liga",
+        "Tounesbet_match_id": 11286005,
+        "Tounesbet_tournament_id": 22630,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "1xbet_country_name": "Austria",
+        "tournament_1xbet": "Second League",
+        "1xbet_match_id": 653500008,
+        "1xbet_tournament_id": 2191612,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/2191612/653500008",
+        "group_id": "653500008-11286005-28008619",
+        "home_team": "SKU Amstetten",
+        "away_team": "Kapfenberger SV 1919",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_-1.0_home_vs_away",
+        "best_odds": {
+          "home_handicap_-1.0_odd": {
+            "value": 2.21,
+            "source": "Asbet"
+          },
+          "away_handicap_1.0_odd": {
+            "value": 1.947,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9661,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "28008619-11286005",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Austria",
+        "tournament_Asbet": "2. Liga",
+        "Asbet_match_id": 28008619,
+        "Asbet_tournament_id": 1707,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Austria/1707/liga/28008619/sku-amstetten-kapfenberger-sv",
+        "Tounesbet_country_name": "Austria",
+        "tournament_Tounesbet": "Erste Liga",
+        "Tounesbet_match_id": 11286005,
+        "Tounesbet_tournament_id": 22630,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653500008-11286005-28008619",
+        "home_team": "SKU Amstetten",
+        "away_team": "Kapfenberger SV 1919",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2578657326173130777-650219890-10749312-13114280-27953290",
+    "home_team": "FK Austria Wien",
+    "away_team": "SV Ried",
+    "date": "20/09/2025",
+    "time": "16:00",
+    "country": "Austria",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_-1.0_home_vs_away",
+        "best_odds": {
+          "home_handicap_-1.0_odd": {
+            "value": 2.375,
+            "source": "1xbet"
+          },
+          "away_handicap_1.0_odd": {
+            "value": 1.852,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.961,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "650219890-10749312",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Austria",
+        "tournament_1xbet": "Bundesliga",
+        "1xbet_match_id": 650219890,
+        "1xbet_tournament_id": 26031,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/26031/650219890",
+        "Tounesbet_country_name": "Austria",
+        "tournament_Tounesbet": "Bundesliga",
+        "Tounesbet_match_id": 10749312,
+        "Tounesbet_tournament_id": 44176,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578657326173130777-650219890-10749312-13114280-27953290",
+        "home_team": "FK Austria Wien",
+        "away_team": "SV Ried",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_-1.0_home_vs_away",
+        "best_odds": {
+          "home_handicap_-1.0_odd": {
+            "value": 2.37,
+            "source": "Asbet"
+          },
+          "away_handicap_1.0_odd": {
+            "value": 1.852,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9619,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27953290-10749312",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Austria",
+        "tournament_Asbet": "Bundesliga",
+        "Asbet_match_id": 27953290,
+        "Asbet_tournament_id": 556,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Austria/556/bundesliga/27953290/fk-austria-wien-sv-ried",
+        "Tounesbet_country_name": "Austria",
+        "tournament_Tounesbet": "Bundesliga",
+        "Tounesbet_match_id": 10749312,
+        "Tounesbet_tournament_id": 44176,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578657326173130777-650219890-10749312-13114280-27953290",
+        "home_team": "FK Austria Wien",
+        "away_team": "SV Ried",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_-0.25_home_vs_away",
+        "best_odds": {
+          "home_handicap_-0.25_odd": {
+            "value": 1.829,
+            "source": "Tounesbet"
+          },
+          "away_handicap_0.25_odd": {
+            "value": 2.35,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9723,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13114280-10749312",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Austria",
+        "tournament_Tounesbet": "Bundesliga",
+        "Tounesbet_match_id": 10749312,
+        "Tounesbet_tournament_id": 44176,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "Austria",
+        "tournament_Clubx2": "Bundesliga",
+        "Clubx2_match_id": 13114280,
+        "Clubx2_tournament_id": 3094,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13114280#/overview",
+        "group_id": "2578657326173130777-650219890-10749312-13114280-27953290",
+        "home_team": "FK Austria Wien",
+        "away_team": "SV Ried",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 1.74,
+            "source": "Jibibet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 2.419,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9881,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2578657326173130777-10749312",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "Austria",
+        "tournament_Jibibet": "Bundesliga",
+        "Jibibet_match_id": 2578657326173130777,
+        "Jibibet_tournament_id": 1669818884225634304,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "Austria",
+        "tournament_Tounesbet": "Bundesliga",
+        "Tounesbet_match_id": 10749312,
+        "Tounesbet_tournament_id": 44176,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578657326173130777-650219890-10749312-13114280-27953290",
+        "home_team": "FK Austria Wien",
+        "away_team": "SV Ried",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2578657326173130775-650219897-10749482-13114270",
+    "home_team": "TSV Hartberg",
+    "away_team": "Wolfsberger AC",
+    "date": "20/09/2025",
+    "time": "16:00",
+    "country": "Austria",
+    "all_sources": [
+      "1xbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "two_vs_1x_handicap",
+        "best_odds": {
+          "2_odd": {
+            "value": 2.25,
+            "source": "1xbet"
+          },
+          "home_handicap_0.5_odd": {
+            "value": 1.97,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9521,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "650219897-10749482",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Austria",
+        "tournament_1xbet": "Bundesliga",
+        "1xbet_match_id": 650219897,
+        "1xbet_tournament_id": 26031,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/26031/650219897",
+        "Tounesbet_country_name": "Austria",
+        "tournament_Tounesbet": "Bundesliga",
+        "Tounesbet_match_id": 10749482,
+        "Tounesbet_tournament_id": 44176,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578657326173130775-650219897-10749482-13114270",
+        "home_team": "TSV Hartberg",
+        "away_team": "Wolfsberger AC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "two_vs_1x_handicap",
+        "best_odds": {
+          "2_odd": {
+            "value": 2.18,
+            "source": "Jibibet"
+          },
+          "home_handicap_0.5_odd": {
+            "value": 1.97,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9663,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2578657326173130775-10749482",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "Austria",
+        "tournament_Jibibet": "Bundesliga",
+        "Jibibet_match_id": 2578657326173130775,
+        "Jibibet_tournament_id": 1669818884225634304,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "Austria",
+        "tournament_Tounesbet": "Bundesliga",
+        "Tounesbet_match_id": 10749482,
+        "Tounesbet_tournament_id": 44176,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578657326173130775-650219897-10749482-13114270",
+        "home_team": "TSV Hartberg",
+        "away_team": "Wolfsberger AC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_0.0_home_vs_away",
+        "best_odds": {
+          "home_handicap_0.0_odd": {
+            "value": 2.25,
+            "source": "Clubx2"
+          },
+          "away_handicap_0.0_odd": {
+            "value": 1.911,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9677,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13114270-10749482",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Austria",
+        "tournament_Clubx2": "Bundesliga",
+        "Clubx2_match_id": 13114270,
+        "Clubx2_tournament_id": 3094,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13114270#/overview",
+        "Tounesbet_country_name": "Austria",
+        "tournament_Tounesbet": "Bundesliga",
+        "Tounesbet_match_id": 10749482,
+        "Tounesbet_tournament_id": 44176,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578657326173130775-650219897-10749482-13114270",
+        "home_team": "TSV Hartberg",
+        "away_team": "Wolfsberger AC",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2578657326173130771-650274406-10749485-13114263-27953288",
+    "home_team": "FC Red Bull Salzburg",
+    "away_team": "SK Puntigamer Sturm Graz",
+    "date": "20/09/2025",
+    "time": "16:00",
+    "country": "Austria",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 1.81,
+            "source": "1xbet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 2.442,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.962,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "650274406-10749485",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Austria",
+        "tournament_1xbet": "Bundesliga",
+        "1xbet_match_id": 650274406,
+        "1xbet_tournament_id": 26031,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/26031/650274406",
+        "Tounesbet_country_name": "Austria",
+        "tournament_Tounesbet": "Bundesliga",
+        "Tounesbet_match_id": 10749485,
+        "Tounesbet_tournament_id": 44176,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578657326173130771-650274406-10749485-13114263-27953288",
+        "home_team": "FC Red Bull Salzburg",
+        "away_team": "SK Puntigamer Sturm Graz",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "home_under_1.5_vs_home_over_1.5",
+        "best_odds": {
+          "home_under_1.5_odd": {
+            "value": 2.2,
+            "source": "Clubx2"
+          },
+          "home_over_1.5_odd": {
+            "value": 1.958,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9653,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13114263-10749485",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Austria",
+        "tournament_Clubx2": "Bundesliga",
+        "Clubx2_match_id": 13114263,
+        "Clubx2_tournament_id": 3094,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13114263#/overview",
+        "Tounesbet_country_name": "Austria",
+        "tournament_Tounesbet": "Bundesliga",
+        "Tounesbet_match_id": 10749485,
+        "Tounesbet_tournament_id": 44176,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578657326173130771-650274406-10749485-13114263-27953288",
+        "home_team": "FC Red Bull Salzburg",
+        "away_team": "SK Puntigamer Sturm Graz",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_-1.0_home_vs_away",
+        "best_odds": {
+          "home_handicap_-1.0_odd": {
+            "value": 2.23,
+            "source": "Asbet"
+          },
+          "away_handicap_1.0_odd": {
+            "value": 1.911,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9717,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27953288-10749485",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Austria",
+        "tournament_Asbet": "Bundesliga",
+        "Asbet_match_id": 27953288,
+        "Asbet_tournament_id": 556,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Austria/556/bundesliga/27953288/red-bull-salzburg-sk-sturm-graz",
+        "Tounesbet_country_name": "Austria",
+        "tournament_Tounesbet": "Bundesliga",
+        "Tounesbet_match_id": 10749485,
+        "Tounesbet_tournament_id": 44176,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578657326173130771-650274406-10749485-13114263-27953288",
+        "home_team": "FC Red Bull Salzburg",
+        "away_team": "SK Puntigamer Sturm Graz",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 1.76,
+            "source": "Jibibet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 2.442,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9777,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2578657326173130771-10749485",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "Austria",
+        "tournament_Jibibet": "Bundesliga",
+        "Jibibet_match_id": 2578657326173130771,
+        "Jibibet_tournament_id": 1669818884225634304,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "Austria",
+        "tournament_Tounesbet": "Bundesliga",
+        "Tounesbet_match_id": 10749485,
+        "Tounesbet_tournament_id": 44176,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578657326173130771-650274406-10749485-13114263-27953288",
+        "home_team": "FC Red Bull Salzburg",
+        "away_team": "SK Puntigamer Sturm Graz",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2578979601225224229-650219894-10749481-13114265-27953310",
+    "home_team": "LASK Linz",
+    "away_team": "FC Blau Weiss Linz",
+    "date": "21/09/2025",
+    "time": "13:30",
+    "country": "Austria",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "first_half_ah_0.0_home_vs_away",
+        "best_odds": {
+          "home_first_half_handicap_0.0_odd": {
+            "value": 1.793,
+            "source": "Tounesbet"
+          },
+          "away_first_half_handicap_0.0_odd": {
+            "value": 2.5455,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9506,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13114265-10749481",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Austria",
+        "tournament_Tounesbet": "Bundesliga",
+        "Tounesbet_match_id": 10749481,
+        "Tounesbet_tournament_id": 44176,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "Austria",
+        "tournament_Clubx2": "Bundesliga",
+        "Clubx2_match_id": 13114265,
+        "Clubx2_tournament_id": 3094,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13114265#/overview",
+        "group_id": "2578979601225224229-650219894-10749481-13114265-27953310",
+        "home_team": "LASK Linz",
+        "away_team": "FC Blau Weiss Linz",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "first_half_ah_0.0_home_vs_away",
+        "best_odds": {
+          "home_first_half_handicap_0.0_odd": {
+            "value": 1.793,
+            "source": "Tounesbet"
+          },
+          "away_first_half_handicap_0.0_odd": {
+            "value": 2.45,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9659,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27953310-10749481",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Austria",
+        "tournament_Tounesbet": "Bundesliga",
+        "Tounesbet_match_id": 10749481,
+        "Tounesbet_tournament_id": 44176,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "Austria",
+        "tournament_Asbet": "Bundesliga",
+        "Asbet_match_id": 27953310,
+        "Asbet_tournament_id": 556,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Austria/556/bundesliga/27953310/lask-linz-fc-blau-weiss-linz",
+        "group_id": "2578979601225224229-650219894-10749481-13114265-27953310",
+        "home_team": "LASK Linz",
+        "away_team": "FC Blau Weiss Linz",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "homewin_handicap_vs_x2",
+        "best_odds": {
+          "home_handicap_-0.5_odd": {
+            "value": 2.265,
+            "source": "Tounesbet"
+          },
+          "X2_odd": {
+            "value": 1.9,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.9678,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "650219894-10749481",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Austria",
+        "tournament_Tounesbet": "Bundesliga",
+        "Tounesbet_match_id": 10749481,
+        "Tounesbet_tournament_id": 44176,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "1xbet_country_name": "Austria",
+        "tournament_1xbet": "Bundesliga",
+        "1xbet_match_id": 650219894,
+        "1xbet_tournament_id": 26031,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/26031/650219894",
+        "group_id": "2578979601225224229-650219894-10749481-13114265-27953310",
+        "home_team": "LASK Linz",
+        "away_team": "FC Blau Weiss Linz",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "homewin_handicap_vs_x2",
+        "best_odds": {
+          "home_handicap_-0.5_odd": {
+            "value": 2.265,
+            "source": "Tounesbet"
+          },
+          "X2_odd": {
+            "value": 1.87,
+            "source": "Jibibet"
+          }
+        },
+        "arbitrage_percentage": 0.9763,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2578979601225224229-10749481",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Austria",
+        "tournament_Tounesbet": "Bundesliga",
+        "Tounesbet_match_id": 10749481,
+        "Tounesbet_tournament_id": 44176,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Jibibet_country_name": "Austria",
+        "tournament_Jibibet": "Bundesliga",
+        "Jibibet_match_id": 2578979601225224229,
+        "Jibibet_tournament_id": 1669818884225634304,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "group_id": "2578979601225224229-650219894-10749481-13114265-27953310",
+        "home_team": "LASK Linz",
+        "away_team": "FC Blau Weiss Linz",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2578979601225224230-650219903-10749310-13114287-27953309",
+    "home_team": "Rheindorf Altach",
+    "away_team": "WSG Tirol",
+    "date": "21/09/2025",
+    "time": "13:30",
+    "country": "Austria",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "one_vs_x2",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.09,
+            "source": "1xbet"
+          },
+          "X2_odd": {
+            "value": 2.124,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9493,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "650219903-10749310",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Austria",
+        "tournament_1xbet": "Bundesliga",
+        "1xbet_match_id": 650219903,
+        "1xbet_tournament_id": 26031,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/26031/650219903",
+        "Tounesbet_country_name": "Austria",
+        "tournament_Tounesbet": "Bundesliga",
+        "Tounesbet_match_id": 10749310,
+        "Tounesbet_tournament_id": 44176,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578979601225224230-650219903-10749310-13114287-27953309",
+        "home_team": "Rheindorf Altach",
+        "away_team": "WSG Tirol",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "first_half_ah_0.0_home_vs_away",
+        "best_odds": {
+          "home_first_half_handicap_0.0_odd": {
+            "value": 1.793,
+            "source": "Tounesbet"
+          },
+          "away_first_half_handicap_0.0_odd": {
+            "value": 2.44,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9676,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27953309-10749310",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Austria",
+        "tournament_Tounesbet": "Bundesliga",
+        "Tounesbet_match_id": 10749310,
+        "Tounesbet_tournament_id": 44176,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "Austria",
+        "tournament_Asbet": "Bundesliga",
+        "Asbet_match_id": 27953309,
+        "Asbet_tournament_id": 556,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Austria/556/bundesliga/27953309/scr-altach-wsg-tirol",
+        "group_id": "2578979601225224230-650219903-10749310-13114287-27953309",
+        "home_team": "Rheindorf Altach",
+        "away_team": "WSG Tirol",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_-0.25_home_vs_away",
+        "best_odds": {
+          "home_handicap_-0.25_odd": {
+            "value": 2.029,
+            "source": "Tounesbet"
+          },
+          "away_handicap_0.25_odd": {
+            "value": 2.1,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.969,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13114287-10749310",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Austria",
+        "tournament_Tounesbet": "Bundesliga",
+        "Tounesbet_match_id": 10749310,
+        "Tounesbet_tournament_id": 44176,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "Austria",
+        "tournament_Clubx2": "Bundesliga",
+        "Clubx2_match_id": 13114287,
+        "Clubx2_tournament_id": 3094,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13114287#/overview",
+        "group_id": "2578979601225224230-650219903-10749310-13114287-27953309",
+        "home_team": "Rheindorf Altach",
+        "away_team": "WSG Tirol",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.36,
+            "source": "Tounesbet"
+          },
+          "X2_odd": {
+            "value": 1.78,
+            "source": "Jibibet"
+          }
+        },
+        "arbitrage_percentage": 0.9855,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2578979601225224230-10749310",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Austria",
+        "tournament_Tounesbet": "Bundesliga",
+        "Tounesbet_match_id": 10749310,
+        "Tounesbet_tournament_id": 44176,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Jibibet_country_name": "Austria",
+        "tournament_Jibibet": "Bundesliga",
+        "Jibibet_match_id": 2578979601225224230,
+        "Jibibet_tournament_id": 1669818884225634304,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "group_id": "2578979601225224230-650219903-10749310-13114287-27953309",
+        "home_team": "Rheindorf Altach",
+        "away_team": "WSG Tirol",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2579013090926530573-650219900-10749489-13114269-27953311",
+    "home_team": "Grazer AK 1902",
+    "away_team": "SK Rapid Wien",
+    "date": "21/09/2025",
+    "time": "16:00",
+    "country": "Austria",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "first_half_under_1.0_vs_first_half_over_1.0",
+        "best_odds": {
+          "first_half_under_1.0_odd": {
+            "value": 2.2,
+            "source": "Clubx2"
+          },
+          "first_half_over_1.0_odd": {
+            "value": 1.982,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9591,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13114269-10749489",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Austria",
+        "tournament_Clubx2": "Bundesliga",
+        "Clubx2_match_id": 13114269,
+        "Clubx2_tournament_id": 3094,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13114269#/overview",
+        "Tounesbet_country_name": "Austria",
+        "tournament_Tounesbet": "Bundesliga",
+        "Tounesbet_match_id": 10749489,
+        "Tounesbet_tournament_id": 44176,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579013090926530573-650219900-10749489-13114269-27953311",
+        "home_team": "Grazer AK 1902",
+        "away_team": "SK Rapid Wien",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "two_vs_1x_handicap",
+        "best_odds": {
+          "2_odd": {
+            "value": 1.71,
+            "source": "1xbet"
+          },
+          "home_handicap_0.5_odd": {
+            "value": 2.655,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9614,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "650219900-10749489",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Austria",
+        "tournament_1xbet": "Bundesliga",
+        "1xbet_match_id": 650219900,
+        "1xbet_tournament_id": 26031,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/26031/650219900",
+        "Tounesbet_country_name": "Austria",
+        "tournament_Tounesbet": "Bundesliga",
+        "Tounesbet_match_id": 10749489,
+        "Tounesbet_tournament_id": 44176,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579013090926530573-650219900-10749489-13114269-27953311",
+        "home_team": "Grazer AK 1902",
+        "away_team": "SK Rapid Wien",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "two_vs_1x",
+        "best_odds": {
+          "2_odd": {
+            "value": 1.947,
+            "source": "Tounesbet"
+          },
+          "1X_odd": {
+            "value": 2.21,
+            "source": "Jibibet"
+          }
+        },
+        "arbitrage_percentage": 0.9661,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2579013090926530573-10749489",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Austria",
+        "tournament_Tounesbet": "Bundesliga",
+        "Tounesbet_match_id": 10749489,
+        "Tounesbet_tournament_id": 44176,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Jibibet_country_name": "Austria",
+        "tournament_Jibibet": "Bundesliga",
+        "Jibibet_match_id": 2579013090926530573,
+        "Jibibet_tournament_id": 1669818884225634304,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "group_id": "2579013090926530573-650219900-10749489-13114269-27953311",
+        "home_team": "Grazer AK 1902",
+        "away_team": "SK Rapid Wien",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "two_vs_1x_handicap",
+        "best_odds": {
+          "2_odd": {
+            "value": 1.947,
+            "source": "Tounesbet"
+          },
+          "home_handicap_0.5_odd": {
+            "value": 2.2,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9682,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27953311-10749489",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Austria",
+        "tournament_Tounesbet": "Bundesliga",
+        "Tounesbet_match_id": 10749489,
+        "Tounesbet_tournament_id": 44176,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "Austria",
+        "tournament_Asbet": "Bundesliga",
+        "Asbet_match_id": 27953311,
+        "Asbet_tournament_id": 556,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Austria/556/bundesliga/27953311/grazer-ak-sk-rapid-wien",
+        "group_id": "2579013090926530573-650219900-10749489-13114269-27953311",
+        "home_team": "Grazer AK 1902",
+        "away_team": "SK Rapid Wien",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2578348753970929702-11275118-13143952",
+    "home_team": "SC Austria Lustenau",
+    "away_team": "FAC Team fur Wien",
+    "date": "19/09/2025",
+    "time": "17:00",
+    "country": "Austria",
+    "all_sources": [
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "second_half_under_1.5_vs_second_half_over_1.5",
+        "best_odds": {
+          "second_half_under_1.5_odd": {
+            "value": 1.935,
+            "source": "Tounesbet"
+          },
+          "second_half_over_1.5_odd": {
+            "value": 2.2,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9713,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13143952-11275118",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Austria",
+        "tournament_Tounesbet": "Erste Liga",
+        "Tounesbet_match_id": 11275118,
+        "Tounesbet_tournament_id": 22630,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "Austria",
+        "tournament_Clubx2": "2. Liga",
+        "Clubx2_match_id": 13143952,
+        "Clubx2_tournament_id": 3093,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13143952#/overview",
+        "group_id": "2578348753970929702-11275118-13143952",
+        "home_team": "SC Austria Lustenau",
+        "away_team": "FAC Team fur Wien",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.08,
+            "source": "Jibibet"
+          },
+          "X2_odd": {
+            "value": 2.029,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9736,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2578348753970929702-11275118",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "Austria",
+        "tournament_Jibibet": "2. Liga",
+        "Jibibet_match_id": 2578348753970929702,
+        "Jibibet_tournament_id": 1669818912306499584,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "Austria",
+        "tournament_Tounesbet": "Erste Liga",
+        "Tounesbet_match_id": 11275118,
+        "Tounesbet_tournament_id": 22630,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578348753970929702-11275118-13143952",
+        "home_team": "SC Austria Lustenau",
+        "away_team": "FAC Team fur Wien",
+        "activity_duration": "1 hour"
+      }
+    ]
+  }
+]

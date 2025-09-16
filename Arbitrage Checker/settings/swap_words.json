@@ -1,0 +1,7 @@
+{
+  "swap_pairs": [
+    ["home", "away"],
+    ["home_team", "away_team"],
+    ["player1", "player2"]
+  ]
+}

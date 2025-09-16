@@ -1,0 +1,2 @@
+- FirstHalfHandicap : first half handicap
+- SecondHalfHandicap : second half handicap

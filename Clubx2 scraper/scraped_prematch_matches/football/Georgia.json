@@ -1,0 +1,21 @@
+[
+    {
+        "last_updated": "2025-09-16T20:53:07.186924+01:00"
+    },
+    {
+        "tournament_id": 4053,
+        "tournament_name": "Erovnuli Liga",
+        "matches": [
+            {
+                "match_id": 13877807,
+                "date": "19/09/2025",
+                "time": "17:00",
+                "home_team": "FC Dinamo Tbilisi",
+                "away_team": "FC Iberia 1999",
+                "1_odd": 2.5455,
+                "draw_odd": 2.9,
+                "2_odd": 2.5455
+            }
+        ]
+    }
+]

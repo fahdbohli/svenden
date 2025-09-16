@@ -1,0 +1,78 @@
+[
+    {
+        "last_updated": "2025-09-14T13:23:59.373993+01:00"
+    },
+    {
+        "tournament_id": 1673038432076742656,
+        "tournament_name": "Campionato Sammarinese",
+        "matches": [
+            {
+                "match_id": 2578576685893029932,
+                "date": "14/09/2025",
+                "time": "14:00",
+                "home_team": "SP Tre Fiori",
+                "away_team": "SS San Giovanni",
+                "1_odd": "1.57",
+                "draw_odd": "3.85",
+                "2_odd": "4.9",
+                "1X_odd": "1.11",
+                "12_odd": "1.17",
+                "X2_odd": "2.19",
+                "over_4.5_odd": "4.3",
+                "under_4.5_odd": "1.15",
+                "over_1.5_odd": "1.19",
+                "under_1.5_odd": "3.85",
+                "over_2.5_odd": "1.66",
+                "under_2.5_odd": "2.02",
+                "over_3.5_odd": "2.54",
+                "under_3.5_odd": "1.42",
+                "over_0.5_odd": "1.02",
+                "under_0.5_odd": "8.6"
+            },
+            {
+                "match_id": 2578821744227913736,
+                "date": "14/09/2025",
+                "time": "14:00",
+                "home_team": "FC Fiorentino",
+                "away_team": "SS Pennarossa",
+                "1_odd": "1.66",
+                "draw_odd": "4.3",
+                "2_odd": "3.8",
+                "1X_odd": "1.18",
+                "12_odd": "1.15",
+                "X2_odd": "2.04",
+                "over_4.5_odd": "4.1",
+                "under_4.5_odd": "1.17",
+                "over_1.5_odd": "1.15",
+                "under_1.5_odd": "4.4",
+                "over_2.5_odd": "1.55",
+                "under_2.5_odd": "2.22",
+                "over_3.5_odd": "2.36",
+                "under_3.5_odd": "1.48"
+            },
+            {
+                "match_id": 2578821744227913735,
+                "date": "14/09/2025",
+                "time": "14:00",
+                "home_team": "FC Domagnano",
+                "away_team": "AC Libertas",
+                "1_odd": "1.71",
+                "draw_odd": "3.5",
+                "2_odd": "4.4",
+                "1X_odd": "1.14",
+                "12_odd": "1.22",
+                "X2_odd": "1.97",
+                "over_4.5_odd": "5.2",
+                "under_4.5_odd": "1.1",
+                "over_1.5_odd": "1.26",
+                "under_1.5_odd": "3.25",
+                "over_2.5_odd": "1.83",
+                "under_2.5_odd": "1.81",
+                "over_3.5_odd": "2.98",
+                "under_3.5_odd": "1.31",
+                "over_0.5_odd": "1.03",
+                "under_0.5_odd": "8.0"
+            }
+        ]
+    }
+]

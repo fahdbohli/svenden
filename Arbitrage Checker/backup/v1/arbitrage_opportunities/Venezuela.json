@@ -1,0 +1,33 @@
+[
+  {
+    "match_info": {
+      "home_team": "Dinamo Puerto La Cruz",
+      "away_team": "Aragua FC",
+      "date": "10/07/2025",
+      "time": "00:30",
+      "sources": [
+        "1xbet",
+        "Asbet",
+        "Clubx2",
+        "Tounesbet"
+      ],
+      "country": "Venezuela",
+      "tournament_1xbet": null,
+      "tournament_Asbet": null,
+      "tournament_Clubx2": null,
+      "tournament_Tounesbet": null
+    },
+    "complementary_set": "ah_-0.5_home_vs_away",
+    "best_odds": {
+      "home_handicap_-0.5_odd": {
+        "value": 2.2,
+        "source": "Tounesbet"
+      },
+      "away_handicap_0.5_odd": {
+        "value": 2.08,
+        "source": "Asbet"
+      }
+    },
+    "arbitrage_percentage": 0.9353
+  }
+]

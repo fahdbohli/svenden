@@ -1,0 +1,608 @@
+import os
+import json
+import time
+import datetime
+import re
+import requests
+from requests.adapters import HTTPAdapter
+from urllib3.util.retry import Retry
+
+# ---------------------------------------------------
+# Change this to "LIVE" or "PREMATCH"
+# ---------------------------------------------------
+MODE = "LIVE"  # or "PREMATCH"
+
+# ---------------------------------------------------
+# Common Configuration
+# ---------------------------------------------------
+BASE_URL = "https://sb2frontend-1-altenar2.biahosted.com"
+HEADERS = {
+    "Accept": "application/json, text/plain, */*",
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+}
+
+def create_session_with_retries():
+    session = requests.Session()
+    session.headers.update(HEADERS)
+    retry_strategy = Retry(
+        total=5,
+        backoff_factor=0.3,
+        status_forcelist=[429, 500, 502, 503, 504],
+        allowed_methods=["GET"]
+    )
+    adapter = HTTPAdapter(max_retries=retry_strategy)
+    session.mount("https://", adapter)
+    session.mount("http://", adapter)
+    return session
+
+def fetch_json(session, endpoint, params):
+    url = BASE_URL + endpoint
+    resp = session.get(url, params=params, timeout=10)
+    resp.raise_for_status()
+    return resp.json()
+
+# ---------------------------------------------------
+# PREMATCH (unchanged from before)
+# ---------------------------------------------------
+SPORT_MENU_ENDPOINT = "/api/widget/GetSportMenu"
+OVERVIEW_ENDPOINT   = "/api/Widget/GetOverviewWithGroups"
+
+def fetch_event_details(session, event_id):
+    """
+    Same URL‐params as before, except:
+      • culture=fr-FR
+      • plus we manually inject all of the Sec-Ch-Ua, Origin, Referer, etc.
+
+    Returns the parsed JSON from GetEventDetails.
+    """
+    url = BASE_URL + EVENT_DETAILS_ENDPOINT
+    params = {
+        "culture":        "fr-FR",
+        "timezoneOffset": "-60",
+        "integration":    "webetx2",
+        "deviceType":     "1",
+        "numFormat":      "en-GB",
+        "countryCode":    "TN",
+        "eventId":        str(event_id)
+    }
+    # EXACT same headers you pasted (minus Cookie, if you don’t have one)
+    headers = {
+        "Accept":            "*/*",
+        "Accept-Language":   "en-US,en;q=0.9",
+        "Sec-Ch-Ua-Platform":"\"Windows\"",
+        "Sec-Ch-Ua":         "\"Not.A/Brand\";v=\"99\", \"Chromium\";v=\"136\"",
+        "Sec-Ch-Ua-Mobile":  "?0",
+        "User-Agent":        "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) "
+                             "Gecko/20100101 Firefox/134.0",
+        "Origin":            "https://www.clubx2.com",
+        "Sec-Fetch-Site":    "cross-site",
+        "Sec-Fetch-Mode":    "cors",
+        "Sec-Fetch-Dest":    "empty",
+        "Referer":           "https://www.clubx2.com/",
+        "Accept-Encoding":   "gzip, deflate, br"
+        # If you have a cookie string, add: "Cookie": "<your_cookie_here>"
+    }
+
+    resp = session.get(url, params=params, headers=headers, timeout=10)
+    resp.raise_for_status()   # will raise if 403 or any error
+    return resp.json()
+
+MENU_PARAMS = {
+    "culture": "en-GB",
+    "timezoneOffset": "-60",
+    "integration": "webetx2",
+    "deviceType": "1",
+    "numFormat": "en-GB",
+    "countryCode": "TN",
+    "period": "0"
+}
+OVERVIEW_COMMON_PARAMS = {
+    "culture": "en-GB",
+    "timezoneOffset": "-60",
+    "integration": "webetx2",
+    "deviceType": "1",
+    "numFormat": "en-GB",
+    "countryCode": "TN",
+    "eventCount": "0",
+    "sportId": "0"
+}
+
+def parse_sport_menu(menu_json):
+    sports     = menu_json.get("sports", [])
+    categories = menu_json.get("categories", [])
+    football = next((s for s in sports if s.get("typeId") == 1 or "Football" in s.get("name","")), None)
+    if not football:
+        return []
+
+    cat_ids = set(football.get("catIds", []))
+    result = []
+    for cat in categories:
+        if cat.get("id") in cat_ids:
+            result.append({
+                "country_id":   cat["id"],
+                "country_name": cat.get("name","").strip(),
+                "champ_ids":    cat.get("champIds", [])
+            })
+    return result
+
+def parse_overview_response(overview_json):
+    odds_list = overview_json.get("odds", [])
+    odd_map   = {o["id"]: o for o in odds_list}
+
+    markets   = overview_json.get("markets", [])
+    market_map = {}
+    for m in markets:
+        market_map[m["id"]] = m
+        for line in m.get("lines", []):
+            market_map[line["id"]] = line
+
+    matches = []
+    for ev in overview_json.get("events", []):
+        match_id = ev.get("id")
+        raw_name = ev.get("name","")
+        parts    = re.split(r"\s+vs\.?\s+", raw_name, flags=re.IGNORECASE)
+        if len(parts)==2:
+            home_team, away_team = parts[0].strip(), parts[1].strip()
+        else:
+            home_team = away_team = ""
+
+        # Add 1 hour to startDate
+        start_iso = ev.get("startDate")
+        dt_utc    = datetime.datetime.strptime(start_iso, "%Y-%m-%dT%H:%M:%SZ") \
+                         .replace(tzinfo=datetime.timezone.utc)
+        dt_plus1  = dt_utc + datetime.timedelta(hours=1)
+        dt_local  = dt_plus1.astimezone(datetime.timezone(datetime.timedelta(hours=0)))
+        date_str  = dt_local.strftime("%d/%m/%Y")
+        time_str  = dt_local.strftime("%H:%M")
+
+        base = {
+            "match_id":   match_id,
+            "date":       date_str,
+            "time":       time_str,
+            "home_team":  home_team,
+            "away_team":  away_team
+        }
+
+        for m_id in ev.get("marketIds", []):
+            market  = market_map.get(m_id)
+            if not market:
+                continue
+            m_name  = market.get("name","").strip().lower()
+
+            # 1x2
+            if m_name == "1x2":
+                for oid in market.get("oddIds", []):
+                    odd = odd_map.get(oid)
+                    if odd and odd["oddStatus"] == 0:
+                        nm    = odd["name"].upper()
+                        price = odd["price"]
+                        if nm == "1":
+                            base["1_odd"] = price
+                        elif nm in ("X","N"):
+                            base["draw_odd"] = price
+                        elif nm == "2":
+                            base["2_odd"] = price
+
+            # Double chance
+            elif m_name == "double chance":
+                for oid in market.get("oddIds", []):
+                    odd = odd_map.get(oid)
+                    if odd and odd["oddStatus"] == 0:
+                        raw   = odd["name"].strip().upper()
+                        price = odd["price"]
+                        if raw in ("1X", "1 OR DRAW"):
+                            base["1X_odd"] = price
+                        elif raw in ("12", "1 OR 2"):
+                            base["12_odd"] = price
+                        elif raw in ("X2", "DRAW OR 2"):
+                            base["X2_odd"] = price
+
+            # GG/NG
+            elif m_name in ("gg/ng", "gg/ng"):
+                for oid in market.get("oddIds", []):
+                    odd = odd_map.get(oid)
+                    if odd and odd["oddStatus"] == 0:
+                        nm    = odd["name"].upper()
+                        price = odd["price"]
+                        if nm == "GG":
+                            base["both_score_odd"] = price
+                        elif nm == "NG":
+                            base["both_noscore_odd"] = price
+
+            # Total (Over/Under)
+            elif m_name == "total":
+                lines = market.get("lines", [])
+                if lines:
+                    # nested-lines (rare in LIVE)
+                    for line in lines:
+                        for oid in line.get("oddIds", []):
+                            odd = odd_map.get(oid)
+                            if odd and odd["oddStatus"] == 0:
+                                nm    = odd["name"].lower().split()
+                                price = odd["price"]
+                                if len(nm)==2:
+                                    side, val = nm
+                                    if side == "over":
+                                        base[f"over_{val}_odd"] = price
+                                    elif side == "under":
+                                        base[f"under_{val}_odd"] = price
+                else:
+                    # single-line Total
+                    line_val = market.get("sv","").strip()  # e.g. "0.5"
+                    for oid in market.get("oddIds", []):
+                        odd = odd_map.get(oid)
+                        if odd and odd["oddStatus"] == 0:
+                            nm    = odd["name"].lower()
+                            price = odd["price"]
+                            if nm.startswith("over") or nm.startswith("plus"):
+                                base[f"over_{line_val}_odd"] = price
+                            elif nm.startswith("under") or nm.startswith("moins"):
+                                base[f"under_{line_val}_odd"] = price
+
+            # Handicap
+            elif m_name == "handicap":
+                lines = market.get("lines", [])
+                if lines:
+                    # nested-lines
+                    for line in lines:
+                        for oid in line.get("oddIds", []):
+                            odd = odd_map.get(oid)
+                            if odd and odd["oddStatus"] == 0:
+                                nm    = odd["name"]
+                                price = odd["price"]
+                                m_h   = re.match(r"([12])\s*\(\s*([+-]?[0-9]*\.?[0-9]+)\s*\)", nm)
+                                if m_h:
+                                    side_digit, val_str = m_h.groups()
+                                    if side_digit == "1":
+                                        base[f"home_handicap_{val_str}_odd"] = price
+                                    else:
+                                        val_clean = val_str.lstrip("+")
+                                        base[f"away_handicap_{val_clean}_odd"] = price
+                else:
+                    # single-line Handicap
+                    line_val = market.get("sv","").strip()  # e.g. "-0.5"
+                    for oid in market.get("oddIds", []):
+                        odd = odd_map.get(oid)
+                        if odd and odd["oddStatus"] == 0:
+                            nm    = odd["name"].strip().upper()
+                            price = odd["price"]
+                            if nm == "1":
+                                base[f"home_handicap_{line_val}_odd"] = price
+                            elif nm == "2":
+                                clean_val = line_val.lstrip("+")
+                                base[f"away_handicap_{clean_val}_odd"] = price
+
+        matches.append(base)
+
+    return matches
+
+def scrape_prematch():
+    session = create_session_with_retries()
+    menu_json  = fetch_json(session, SPORT_MENU_ENDPOINT, MENU_PARAMS)
+    countries  = parse_sport_menu(menu_json)
+
+    os.makedirs("scraped matches", exist_ok=True)
+
+    for country in countries:
+        c_name       = country["country_name"]
+        safe_country = re.sub(r"[^\w\-]+", "_", c_name)
+        out_path     = os.path.join("scraped matches", f"{safe_country}.json")
+        country_data = []
+
+        for champ_id in country["champ_ids"]:
+            params        = OVERVIEW_COMMON_PARAMS.copy()
+            params["champIds"] = str(champ_id)
+            overview_json = fetch_json(session, OVERVIEW_ENDPOINT, params)
+
+            # find tournament name
+            t_name = str(champ_id)
+            for grp in overview_json.get("availableChamps", []):
+                if grp.get("id") == champ_id:
+                    t_name = grp.get("name", t_name)
+                    break
+
+            matches = parse_overview_response(overview_json)
+            if matches:
+                country_data.append({
+                    "tournament_id":   champ_id,
+                    "tournament_name": t_name,
+                    "matches":         matches
+                })
+            time.sleep(0.05)
+
+        if country_data:
+            with open(out_path, "w", encoding="utf-8") as f:
+                json.dump(country_data, f, ensure_ascii=False, indent=4)
+            print(f"→ Saved PREMATCH for {c_name} → {out_path}")
+        else:
+            print(f"→ No PREMATCH matches for {c_name}, skipping.")
+
+# ---------------------------------------------------
+# LIVE
+# ---------------------------------------------------
+LIVE_OVERVIEW_ENDPOINT = "/api/widget/GetLiveOverview"
+EVENT_DETAILS_ENDPOINT = "/api/widget/GetEventDetails"
+
+LIVE_PARAMS_TEMPLATE = {
+    "culture": "en-GB",
+    "timezoneOffset": "-60",
+    "integration": "webetx2",
+    "deviceType": "1",
+    "numFormat": "en-GB",
+    "countryCode": "TN",
+    "sportId": "0"
+}
+
+def parse_live_event_basic(ev, odd_map, market_map):
+    """
+    Parse the basic fields (1x2, Double Chance, GG/NG, the single-line Totals/Handicaps)
+    from the initial live overview. Returns a dict with odds found so far.
+    """
+    match_id = ev.get("id")
+    raw_name = ev.get("name","")
+    parts    = re.split(r"\s+vs\.?\s+", raw_name, flags=re.IGNORECASE)
+    if len(parts)==2:
+        home_team, away_team = parts[0].strip(), parts[1].strip()
+    else:
+        home_team = away_team = ""
+
+    # Add 1 hour to startDate
+    start_iso = ev.get("startDate")
+    dt_utc    = datetime.datetime.strptime(start_iso, "%Y-%m-%dT%H:%M:%SZ") \
+                     .replace(tzinfo=datetime.timezone.utc)
+    dt_plus1  = dt_utc + datetime.timedelta(hours=1)
+    dt_local  = dt_plus1.astimezone(datetime.timezone(datetime.timedelta(hours=0)))
+    date_str  = dt_local.strftime("%d/%m/%Y")
+    time_str  = dt_local.strftime("%H:%M")
+
+    base = {
+        "match_id":   match_id,
+        "date":       date_str,
+        "time":       time_str,
+        "home_team":  home_team,
+        "away_team":  away_team
+    }
+
+    for m_id in ev.get("marketIds", []):
+        market  = market_map.get(m_id)
+        if not market:
+            continue
+        m_name  = market.get("name","").strip().lower()
+
+        # 1x2
+        if m_name == "1x2":
+            for oid in market.get("oddIds", []):
+                odd = odd_map.get(oid)
+                if odd and odd["oddStatus"] == 0:
+                    nm    = odd["name"].upper()
+                    price = odd["price"]
+                    if nm == "1":
+                        base["1_odd"] = price
+                    elif nm in ("X","N"):
+                        base["draw_odd"] = price
+                    elif nm == "2":
+                        base["2_odd"] = price
+
+        # Double chance
+        elif m_name == "double chance":
+            for oid in market.get("oddIds", []):
+                odd = odd_map.get(oid)
+                if odd and odd["oddStatus"] == 0:
+                    raw   = odd["name"].strip().upper()
+                    price = odd["price"]
+                    if raw in ("1X", "1 OR DRAW"):
+                        base["1X_odd"] = price
+                    elif raw in ("12", "1 OR 2"):
+                        base["12_odd"] = price
+                    elif raw in ("X2", "DRAW OR 2"):
+                        base["X2_odd"] = price
+
+        # GG/NG
+        elif m_name in ("gg/ng", "gg/ng"):
+            for oid in market.get("oddIds", []):
+                odd = odd_map.get(oid)
+                if odd and odd["oddStatus"] == 0:
+                    nm    = odd["name"].upper()
+                    price = odd["price"]
+                    if nm == "GG":
+                        base["both_score_odd"] = price
+                    elif nm == "NG":
+                        base["both_noscore_odd"] = price
+
+        # Total (single-line)
+        elif m_name == "total":
+            lines = market.get("lines", [])
+            if lines:
+                # nested-lines (rare in LIVE overview)
+                for line in lines:
+                    for oid in line.get("oddIds", []):
+                        odd = odd_map.get(oid)
+                        if odd and odd["oddStatus"] == 0:
+                            nm    = odd["name"].lower().split()
+                            price = odd["price"]
+                            if len(nm)==2:
+                                side, val = nm
+                                if side == "over":
+                                    base[f"over_{val}_odd"] = price
+                                elif side == "under":
+                                    base[f"under_{val}_odd"] = price
+            else:
+                # single-line Total
+                line_val = market.get("sv","").strip()  # e.g. "0.5"
+                for oid in market.get("oddIds", []):
+                    odd = odd_map.get(oid)
+                    if odd and odd["oddStatus"] == 0:
+                        nm    = odd["name"].lower()
+                        price = odd["price"]
+                        if nm.startswith("over") or nm.startswith("plus"):
+                            base[f"over_{line_val}_odd"] = price
+                        elif nm.startswith("under") or nm.startswith("moins"):
+                            base[f"under_{line_val}_odd"] = price
+
+        # Handicap (single-line)
+        elif m_name == "handicap":
+            lines = market.get("lines", [])
+            if lines:
+                # nested-lines (rare)
+                for line in lines:
+                    for oid in line.get("oddIds", []):
+                        odd = odd_map.get(oid)
+                        if odd and odd["oddStatus"] == 0:
+                            nm    = odd["name"]
+                            price = odd["price"]
+                            m_h   = re.match(r"([12])\s*\(\s*([+-]?[0-9]*\.?[0-9]+)\s*\)", nm)
+                            if m_h:
+                                side_digit, val_str = m_h.groups()
+                                if side_digit == "1":
+                                    base[f"home_handicap_{val_str}_odd"] = price
+                                else:
+                                    val_clean = val_str.lstrip("+")
+                                    base[f"away_handicap_{val_clean}_odd"] = price
+            else:
+                line_val = market.get("sv","").strip()  # e.g. "-0.5"
+                for oid in market.get("oddIds", []):
+                    odd = odd_map.get(oid)
+                    if odd and odd["oddStatus"] == 0:
+                        nm    = odd["name"].strip().upper()
+                        price = odd["price"]
+                        if nm == "1":
+                            base[f"home_handicap_{line_val}_odd"] = price
+                        elif nm == "2":
+                            clean_val = line_val.lstrip("+")
+                            base[f"away_handicap_{clean_val}_odd"] = price
+
+    return base
+
+def parse_event_details(event_json):
+    """
+    Given a GetEventDetails response, return a dict of ALL
+    Total & Handicap lines for that event, keyed exactly like:
+      over_<val>_odd, under_<val>_odd,
+      home_handicap_<val>_odd, away_handicap_<val>_odd.
+    """
+    odds_list = event_json.get("odds", [])
+    odd_map   = {o["id"]: o for o in odds_list}
+
+    details_markets = event_json.get("markets", [])
+    extra_data = {}
+
+    for m in details_markets:
+        m_name = m.get("name","").strip().lower()
+        # We only want to pull the lines if typeId in (18=Total, 16=Handicap)
+        if m_name == "total":
+            # desktopOddIds is a list of lists of oddIds: [[over_ids...],[under_ids...]]
+            # For each sub-list, read odd by odd
+            line_val = m.get("sv", "").strip()  # e.g. "1.5"
+            # Example: "desktopOddIds": [ [2520487786, 2515312745, 2515312747], [2520487787, 2515312746, 2515312748] ]
+            # We loop over both inner-lists (the first is all “Over <sv>” ids, second is “Under <sv>” ids)
+            group_ids = m.get("desktopOddIds", []) or m.get("mobileOddIds", [])
+            for sub in group_ids:
+                for oid in sub:
+                    odd = odd_map.get(oid)
+                    if odd and odd["oddStatus"] == 0:
+                        nm    = odd["name"].lower()
+                        price = odd["price"]
+                        if nm.startswith("over") or nm.startswith("plus"):
+                            extra_data[f"over_{line_val}_odd"] = price
+                        elif nm.startswith("under") or nm.startswith("moins"):
+                            extra_data[f"under_{line_val}_odd"] = price
+
+        elif m_name == "handicap":
+            line_val = m.get("sv","").strip()  # e.g. "-0.5"
+            group_ids = m.get("desktopOddIds", []) or m.get("mobileOddIds", [])
+            for sub in group_ids:
+                for oid in sub:
+                    odd = odd_map.get(oid)
+                    if odd and odd["oddStatus"] == 0:
+                        nm    = odd["name"].strip().upper()
+                        price = odd["price"]
+                        if nm.startswith("1"):
+                            extra_data[f"home_handicap_{line_val}_odd"] = price
+                        elif nm.startswith("2"):
+                            clean_val = line_val.lstrip("+")
+                            extra_data[f"away_handicap_{clean_val}_odd"] = price
+
+    return extra_data
+
+def scrape_live():
+    session = create_session_with_retries()
+
+    # 1) Fetch live overview as before
+    live_params = LIVE_PARAMS_TEMPLATE.copy()
+    live_json   = fetch_json(session, LIVE_OVERVIEW_ENDPOINT, live_params)
+
+    odds_list  = live_json.get("odds", [])
+    odd_map    = {o["id"]: o for o in odds_list}
+    markets    = live_json.get("markets", [])
+    market_map = {}
+    for m in markets:
+        market_map[m["id"]] = m
+        for line in m.get("lines", []):
+            market_map[line["id"]] = line
+
+    all_events     = live_json.get("events", [])
+    champ_name_map = {c["id"]: c.get("name", str(c["id"])) for c in live_json.get("champs", [])}
+    categories     = live_json.get("categories", [])
+
+    os.makedirs("scraped_live_matches", exist_ok=True)
+
+    for cat in categories:
+        country_name = cat.get("name", "").strip()
+        champ_ids    = cat.get("champIds", [])
+        safe_country = re.sub(r"[^\w\-]+", "_", country_name)
+        out_path     = os.path.join("scraped_live_matches", f"{safe_country}.json")
+        country_data = []
+
+        for champ_id in champ_ids:
+            t_name       = champ_name_map.get(champ_id, str(champ_id))
+            matches_list = []
+
+            for ev in all_events:
+                if ev.get("champId") != champ_id:
+                    continue
+
+                # A) Parse all the “basic” odds from /GetLiveOverview:
+                base_data = parse_live_event_basic(ev, odd_map, market_map)
+
+                # B) Now fetch *all* lines using the exact same headers + culture=fr-FR:
+                event_id   = ev.get("id")
+                try:
+                    event_json = fetch_event_details(session, event_id)
+                except requests.exceptions.HTTPError as e:
+                    print(f"  ↳ Failed to fetch details for event {event_id}: {e}")
+                    # skip or continue depending on your preference:
+                    continue
+
+                # C) Extract every Total/Handicap line from GetEventDetails
+                extra_data = parse_event_details(event_json)
+
+                # D) Merge into base_data (extra_data may overwrite if same key)
+                base_data.update(extra_data)
+
+                matches_list.append(base_data)
+                time.sleep(0.02)
+
+            if matches_list:
+                country_data.append({
+                    "tournament_id":   champ_id,
+                    "tournament_name": t_name,
+                    "matches":         matches_list
+                })
+
+        if country_data:
+            with open(out_path, "w", encoding="utf-8") as f:
+                json.dump(country_data, f, ensure_ascii=False, indent=4)
+            print(f"→ Saved LIVE for {country_name} → {out_path}")
+        else:
+            print(f"→ No LIVE matches for {country_name}, skipping.")
+
+# ---------------------------------------------------
+# Entry Point
+# ---------------------------------------------------
+if __name__ == "__main__":
+    if MODE.upper() == "PREMATCH":
+        scrape_prematch()
+    elif MODE.upper() == "LIVE":
+        scrape_live()
+    else:
+        print("Please set MODE = 'PREMATCH' or 'LIVE' at the top.")

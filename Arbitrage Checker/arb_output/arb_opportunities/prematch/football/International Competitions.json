@@ -1,0 +1,4356 @@
+[
+  {
+    "group_id": "2579493863106420739-653934656-11168906-13639828-28015634",
+    "home_team": "Gamba Osaka",
+    "away_team": "Eastern Sports Club",
+    "date": "17/09/2025",
+    "time": "11:00",
+    "country": "International Competitions",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_-2.5_home_vs_away",
+        "best_odds": {
+          "home_handicap_-2.5_odd": {
+            "value": 2.08,
+            "source": "1xbet"
+          },
+          "away_handicap_2.5_odd": {
+            "value": 2.301,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9154,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653934656-11168906",
+        "misvalue_source": "1xbet",
+        "1xbet_country_name": "International Competitions",
+        "tournament_1xbet": "AFC Champions League 2",
+        "1xbet_match_id": 653934656,
+        "1xbet_tournament_id": 2743971,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/2743971/653934656",
+        "Tounesbet_country_name": "International Competitions",
+        "tournament_Tounesbet": "AFC Champions League Two",
+        "Tounesbet_match_id": 11168906,
+        "Tounesbet_tournament_id": 238108,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579493863106420739-653934656-11168906-13639828-28015634",
+        "home_team": "Gamba Osaka",
+        "away_team": "Eastern Sports Club",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "first_half_under_1.5_vs_first_half_over_1.5",
+        "best_odds": {
+          "first_half_under_1.5_odd": {
+            "value": 1.8334,
+            "source": "Clubx2"
+          },
+          "first_half_over_1.5_odd": {
+            "value": 2.383,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9651,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13639828-11168906",
+        "misvalue_source": "1xbet",
+        "Clubx2_country_name": "International Competitions",
+        "tournament_Clubx2": "AFC Cup",
+        "Clubx2_match_id": 13639828,
+        "Clubx2_tournament_id": 3972,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13639828#/overview",
+        "Tounesbet_country_name": "International Competitions",
+        "tournament_Tounesbet": "AFC Champions League Two",
+        "Tounesbet_match_id": 11168906,
+        "Tounesbet_tournament_id": 238108,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579493863106420739-653934656-11168906-13639828-28015634",
+        "home_team": "Gamba Osaka",
+        "away_team": "Eastern Sports Club",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_-2.0_home_vs_away",
+        "best_odds": {
+          "home_handicap_-2.0_odd": {
+            "value": 1.72,
+            "source": "1xbet"
+          },
+          "away_handicap_2.0_odd": {
+            "value": 2.52,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9782,
+        "arbitrage_sources": "1xbet, Asbet",
+        "unique_id": "653934656-28015634",
+        "misvalue_source": "1xbet",
+        "1xbet_country_name": "International Competitions",
+        "tournament_1xbet": "AFC Champions League 2",
+        "1xbet_match_id": 653934656,
+        "1xbet_tournament_id": 2743971,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/2743971/653934656",
+        "Asbet_country_name": "International Competitions",
+        "tournament_Asbet": "AFC Champions League Two",
+        "Asbet_match_id": 28015634,
+        "Asbet_tournament_id": 1693,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Asia/1693/afc-champions-league-two/28015634/gamba-osaka-eastern-sc",
+        "group_id": "2579493863106420739-653934656-11168906-13639828-28015634",
+        "home_team": "Gamba Osaka",
+        "away_team": "Eastern Sports Club",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_-2.5_home_vs_away",
+        "best_odds": {
+          "home_handicap_-2.5_odd": {
+            "value": 1.83,
+            "source": "Asbet"
+          },
+          "away_handicap_2.5_odd": {
+            "value": 2.301,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.981,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "28015634-11168906",
+        "misvalue_source": "1xbet",
+        "Asbet_country_name": "International Competitions",
+        "tournament_Asbet": "AFC Champions League Two",
+        "Asbet_match_id": 28015634,
+        "Asbet_tournament_id": 1693,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Asia/1693/afc-champions-league-two/28015634/gamba-osaka-eastern-sc",
+        "Tounesbet_country_name": "International Competitions",
+        "tournament_Tounesbet": "AFC Champions League Two",
+        "Tounesbet_match_id": 11168906,
+        "Tounesbet_tournament_id": 238108,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579493863106420739-653934656-11168906-13639828-28015634",
+        "home_team": "Gamba Osaka",
+        "away_team": "Eastern Sports Club",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "under_3.5_vs_over_3.5",
+        "best_odds": {
+          "under_3.5_odd": {
+            "value": 1.9,
+            "source": "Clubx2"
+          },
+          "over_3.5_odd": {
+            "value": 2.18,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.985,
+        "arbitrage_sources": "1xbet, Clubx2",
+        "unique_id": "653934656-13639828",
+        "misvalue_source": "1xbet",
+        "Clubx2_country_name": "International Competitions",
+        "tournament_Clubx2": "AFC Cup",
+        "Clubx2_match_id": 13639828,
+        "Clubx2_tournament_id": 3972,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13639828#/overview",
+        "1xbet_country_name": "International Competitions",
+        "tournament_1xbet": "AFC Champions League 2",
+        "1xbet_match_id": 653934656,
+        "1xbet_tournament_id": 2743971,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/2743971/653934656",
+        "group_id": "2579493863106420739-653934656-11168906-13639828-28015634",
+        "home_team": "Gamba Osaka",
+        "away_team": "Eastern Sports Club",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2579487059572035612-653949970-11168945-13639830-28016503",
+    "home_team": "Nam Dinh FC",
+    "away_team": "Ratchaburi Mitr Phol FC",
+    "date": "17/09/2025",
+    "time": "13:15",
+    "country": "International Competitions",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_-0.75_home_vs_away",
+        "best_odds": {
+          "home_handicap_-0.75_odd": {
+            "value": 2.35,
+            "source": "1xbet"
+          },
+          "away_handicap_0.75_odd": {
+            "value": 2.183,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.8836,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653949970-11168945",
+        "misvalue_source": "1xbet",
+        "1xbet_country_name": "International Competitions",
+        "tournament_1xbet": "AFC Champions League 2",
+        "1xbet_match_id": 653949970,
+        "1xbet_tournament_id": 2743971,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/2743971/653949970",
+        "Tounesbet_country_name": "International Competitions",
+        "tournament_Tounesbet": "AFC Champions League Two",
+        "Tounesbet_match_id": 11168945,
+        "Tounesbet_tournament_id": 238108,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579487059572035612-653949970-11168945-13639830-28016503",
+        "home_team": "Nam Dinh FC",
+        "away_team": "Ratchaburi Mitr Phol FC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_-0.75_home_vs_away",
+        "best_odds": {
+          "home_handicap_-0.75_odd": {
+            "value": 1.94,
+            "source": "Asbet"
+          },
+          "away_handicap_0.75_odd": {
+            "value": 2.183,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9735,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "28016503-11168945",
+        "misvalue_source": "1xbet",
+        "Asbet_country_name": "International Competitions",
+        "tournament_Asbet": "AFC Champions League Two",
+        "Asbet_match_id": 28016503,
+        "Asbet_tournament_id": 1693,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Asia/1693/afc-champions-league-two/28016503/nam-dinh-fc-ratchaburi-fc",
+        "Tounesbet_country_name": "International Competitions",
+        "tournament_Tounesbet": "AFC Champions League Two",
+        "Tounesbet_match_id": 11168945,
+        "Tounesbet_tournament_id": 238108,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579487059572035612-653949970-11168945-13639830-28016503",
+        "home_team": "Nam Dinh FC",
+        "away_team": "Ratchaburi Mitr Phol FC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_-1.0_home_vs_away",
+        "best_odds": {
+          "home_handicap_-1.0_odd": {
+            "value": 3.08,
+            "source": "1xbet"
+          },
+          "away_handicap_1.0_odd": {
+            "value": 1.53,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9783,
+        "arbitrage_sources": "1xbet, Asbet",
+        "unique_id": "653949970-28016503",
+        "misvalue_source": "1xbet",
+        "1xbet_country_name": "International Competitions",
+        "tournament_1xbet": "AFC Champions League 2",
+        "1xbet_match_id": 653949970,
+        "1xbet_tournament_id": 2743971,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/2743971/653949970",
+        "Asbet_country_name": "International Competitions",
+        "tournament_Asbet": "AFC Champions League Two",
+        "Asbet_match_id": 28016503,
+        "Asbet_tournament_id": 1693,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Asia/1693/afc-champions-league-two/28016503/nam-dinh-fc-ratchaburi-fc",
+        "group_id": "2579487059572035612-653949970-11168945-13639830-28016503",
+        "home_team": "Nam Dinh FC",
+        "away_team": "Ratchaburi Mitr Phol FC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.07,
+            "source": "1xbet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.95,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9959,
+        "arbitrage_sources": "1xbet, Clubx2",
+        "unique_id": "653949970-13639830",
+        "misvalue_source": "1xbet",
+        "1xbet_country_name": "International Competitions",
+        "tournament_1xbet": "AFC Champions League 2",
+        "1xbet_match_id": 653949970,
+        "1xbet_tournament_id": 2743971,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/2743971/653949970",
+        "Clubx2_country_name": "International Competitions",
+        "tournament_Clubx2": "AFC Cup",
+        "Clubx2_match_id": 13639830,
+        "Clubx2_tournament_id": 3972,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13639830#/overview",
+        "group_id": "2579487059572035612-653949970-11168945-13639830-28016503",
+        "home_team": "Nam Dinh FC",
+        "away_team": "Ratchaburi Mitr Phol FC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.07,
+            "source": "1xbet"
+          },
+          "X2_odd": {
+            "value": 1.95,
+            "source": "Jibibet"
+          }
+        },
+        "arbitrage_percentage": 0.9959,
+        "arbitrage_sources": "1xbet, Jibibet",
+        "unique_id": "2579487059572035612-653949970",
+        "misvalue_source": "1xbet",
+        "1xbet_country_name": "International Competitions",
+        "tournament_1xbet": "AFC Champions League 2",
+        "1xbet_match_id": 653949970,
+        "1xbet_tournament_id": 2743971,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/2743971/653949970",
+        "Jibibet_country_name": "International Competitions",
+        "tournament_Jibibet": "AFC Champions League 2",
+        "Jibibet_match_id": 2579487059572035612,
+        "Jibibet_tournament_id": 2475470228105080833,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "group_id": "2579487059572035612-653949970-11168945-13639830-28016503",
+        "home_team": "Nam Dinh FC",
+        "away_team": "Ratchaburi Mitr Phol FC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2",
+        "best_odds": {
+          "1_odd": {
+            "value": 1.7778,
+            "source": "Clubx2"
+          },
+          "X2_odd": {
+            "value": 2.301,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9971,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13639830-11168945",
+        "misvalue_source": "1xbet",
+        "Clubx2_country_name": "International Competitions",
+        "tournament_Clubx2": "AFC Cup",
+        "Clubx2_match_id": 13639830,
+        "Clubx2_tournament_id": 3972,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13639830#/overview",
+        "Tounesbet_country_name": "International Competitions",
+        "tournament_Tounesbet": "AFC Champions League Two",
+        "Tounesbet_match_id": 11168945,
+        "Tounesbet_tournament_id": 238108,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579487059572035612-653949970-11168945-13639830-28016503",
+        "home_team": "Nam Dinh FC",
+        "away_team": "Ratchaburi Mitr Phol FC",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2579487059572035616-653958617-11168917-13639594-28016822",
+    "home_team": "Arkadag FK",
+    "away_team": "PFK Andijan",
+    "date": "17/09/2025",
+    "time": "14:45",
+    "country": "International Competitions",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_-0.25_home_vs_away",
+        "best_odds": {
+          "home_handicap_-0.25_odd": {
+            "value": 2.124,
+            "source": "Tounesbet"
+          },
+          "away_handicap_0.25_odd": {
+            "value": 1.96,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.981,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "28016822-11168917",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "International Competitions",
+        "tournament_Tounesbet": "AFC Champions League Two",
+        "Tounesbet_match_id": 11168917,
+        "Tounesbet_tournament_id": 238108,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "International Competitions",
+        "tournament_Asbet": "AFC Champions League Two",
+        "Asbet_match_id": 28016822,
+        "Asbet_tournament_id": 1693,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Asia/1693/afc-champions-league-two/28016822/arkadag-fk-pfk-andijan",
+        "group_id": "2579487059572035616-653958617-11168917-13639594-28016822",
+        "home_team": "Arkadag FK",
+        "away_team": "PFK Andijan",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_-0.25_home_vs_away",
+        "best_odds": {
+          "home_handicap_-0.25_odd": {
+            "value": 2.124,
+            "source": "Tounesbet"
+          },
+          "away_handicap_0.25_odd": {
+            "value": 1.9,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.9971,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653958617-11168917",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "International Competitions",
+        "tournament_Tounesbet": "AFC Champions League Two",
+        "Tounesbet_match_id": 11168917,
+        "Tounesbet_tournament_id": 238108,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "1xbet_country_name": "International Competitions",
+        "tournament_1xbet": "AFC Champions League 2",
+        "1xbet_match_id": 653958617,
+        "1xbet_tournament_id": 2743971,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/2743971/653958617",
+        "group_id": "2579487059572035616-653958617-11168917-13639594-28016822",
+        "home_team": "Arkadag FK",
+        "away_team": "PFK Andijan",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2579493863106420760-653958620-11168951-13640032-28016821",
+    "home_team": "FC Goa",
+    "away_team": "Al Zawraa SC",
+    "date": "17/09/2025",
+    "time": "14:45",
+    "country": "International Competitions",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "two_vs_1x_handicap",
+        "best_odds": {
+          "2_odd": {
+            "value": 1.875,
+            "source": "Clubx2"
+          },
+          "home_handicap_0.5_odd": {
+            "value": 2.301,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9679,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13640032-11168951",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "International Competitions",
+        "tournament_Clubx2": "AFC Cup",
+        "Clubx2_match_id": 13640032,
+        "Clubx2_tournament_id": 3972,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13640032#/overview",
+        "Tounesbet_country_name": "International Competitions",
+        "tournament_Tounesbet": "AFC Champions League Two",
+        "Tounesbet_match_id": 11168951,
+        "Tounesbet_tournament_id": 238108,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579493863106420760-653958620-11168951-13640032-28016821",
+        "home_team": "FC Goa",
+        "away_team": "Al Zawraa SC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "two_vs_1x_handicap",
+        "best_odds": {
+          "2_odd": {
+            "value": 1.86,
+            "source": "Asbet"
+          },
+          "home_handicap_0.5_odd": {
+            "value": 2.301,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9722,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "28016821-11168951",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "International Competitions",
+        "tournament_Asbet": "AFC Champions League Two",
+        "Asbet_match_id": 28016821,
+        "Asbet_tournament_id": 1693,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Asia/1693/afc-champions-league-two/28016821/fc-goa-al-zawraa-sc",
+        "Tounesbet_country_name": "International Competitions",
+        "tournament_Tounesbet": "AFC Champions League Two",
+        "Tounesbet_match_id": 11168951,
+        "Tounesbet_tournament_id": 238108,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579493863106420760-653958620-11168951-13640032-28016821",
+        "home_team": "FC Goa",
+        "away_team": "Al Zawraa SC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "two_vs_1x_handicap",
+        "best_odds": {
+          "2_odd": {
+            "value": 1.83,
+            "source": "Jibibet"
+          },
+          "home_handicap_0.5_odd": {
+            "value": 2.301,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.981,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2579493863106420760-11168951",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "International Competitions",
+        "tournament_Jibibet": "AFC Champions League 2",
+        "Jibibet_match_id": 2579493863106420760,
+        "Jibibet_tournament_id": 2475470228105080833,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "International Competitions",
+        "tournament_Tounesbet": "AFC Champions League Two",
+        "Tounesbet_match_id": 11168951,
+        "Tounesbet_tournament_id": 238108,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579493863106420760-653958620-11168951-13640032-28016821",
+        "home_team": "FC Goa",
+        "away_team": "Al Zawraa SC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "two_vs_1x_handicap",
+        "best_odds": {
+          "2_odd": {
+            "value": 1.81,
+            "source": "1xbet"
+          },
+          "home_handicap_0.5_odd": {
+            "value": 2.301,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9871,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653958620-11168951",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "International Competitions",
+        "tournament_1xbet": "AFC Champions League 2",
+        "1xbet_match_id": 653958620,
+        "1xbet_tournament_id": 2743971,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/2743971/653958620",
+        "Tounesbet_country_name": "International Competitions",
+        "tournament_Tounesbet": "AFC Champions League Two",
+        "Tounesbet_match_id": 11168951,
+        "Tounesbet_tournament_id": 238108,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579493863106420760-653958620-11168951-13640032-28016821",
+        "home_team": "FC Goa",
+        "away_team": "Al Zawraa SC",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2579493863106420754-653949535-11168968-13639595-28017357",
+    "home_team": "Al Ahli Doha SC",
+    "away_team": "Al-Khaldiya SC",
+    "date": "17/09/2025",
+    "time": "17:00",
+    "country": "International Competitions",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_-0.25_home_vs_away",
+        "best_odds": {
+          "home_handicap_-0.25_odd": {
+            "value": 2.124,
+            "source": "Tounesbet"
+          },
+          "away_handicap_0.25_odd": {
+            "value": 2.14,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.9381,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653949535-11168968",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "International Competitions",
+        "tournament_Tounesbet": "AFC Champions League Two",
+        "Tounesbet_match_id": 11168968,
+        "Tounesbet_tournament_id": 238108,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "1xbet_country_name": "International Competitions",
+        "tournament_1xbet": "AFC Champions League 2",
+        "1xbet_match_id": 653949535,
+        "1xbet_tournament_id": 2743971,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/2743971/653949535",
+        "group_id": "2579493863106420754-653949535-11168968-13639595-28017357",
+        "home_team": "Al Ahli Doha SC",
+        "away_team": "Al-Khaldiya SC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.125,
+            "source": "Clubx2"
+          },
+          "X2_odd": {
+            "value": 1.958,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9813,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13639595-11168968",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "International Competitions",
+        "tournament_Clubx2": "AFC Cup",
+        "Clubx2_match_id": 13639595,
+        "Clubx2_tournament_id": 3972,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13639595#/overview",
+        "Tounesbet_country_name": "International Competitions",
+        "tournament_Tounesbet": "AFC Champions League Two",
+        "Tounesbet_match_id": 11168968,
+        "Tounesbet_tournament_id": 238108,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579493863106420754-653949535-11168968-13639595-28017357",
+        "home_team": "Al Ahli Doha SC",
+        "away_team": "Al-Khaldiya SC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_-0.25_home_vs_away",
+        "best_odds": {
+          "home_handicap_-0.25_odd": {
+            "value": 1.79,
+            "source": "Asbet"
+          },
+          "away_handicap_0.25_odd": {
+            "value": 2.36,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9824,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "28017357-11168968",
+        "misvalue_source": "Asbet",
+        "Asbet_country_name": "International Competitions",
+        "tournament_Asbet": "AFC Champions League Two",
+        "Asbet_match_id": 28017357,
+        "Asbet_tournament_id": 1693,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Asia/1693/afc-champions-league-two/28017357/al-ahli-doha-khalidiya",
+        "Tounesbet_country_name": "International Competitions",
+        "tournament_Tounesbet": "AFC Champions League Two",
+        "Tounesbet_match_id": 11168968,
+        "Tounesbet_tournament_id": 238108,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579493863106420754-653949535-11168968-13639595-28017357",
+        "home_team": "Al Ahli Doha SC",
+        "away_team": "Al-Khaldiya SC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "two_vs_1x",
+        "best_odds": {
+          "2_odd": {
+            "value": 3.66,
+            "source": "1xbet"
+          },
+          "1X_odd": {
+            "value": 1.39,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9926,
+        "arbitrage_sources": "1xbet, Asbet",
+        "unique_id": "653949535-28017357",
+        "misvalue_source": "Asbet",
+        "1xbet_country_name": "International Competitions",
+        "tournament_1xbet": "AFC Champions League 2",
+        "1xbet_match_id": 653949535,
+        "1xbet_tournament_id": 2743971,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/2743971/653949535",
+        "Asbet_country_name": "International Competitions",
+        "tournament_Asbet": "AFC Champions League Two",
+        "Asbet_match_id": 28017357,
+        "Asbet_tournament_id": 1693,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Asia/1693/afc-champions-league-two/28017357/al-ahli-doha-khalidiya",
+        "group_id": "2579493863106420754-653949535-11168968-13639595-28017357",
+        "home_team": "Al Ahli Doha SC",
+        "away_team": "Al-Khaldiya SC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.36,
+            "source": "Tounesbet"
+          },
+          "X2_odd": {
+            "value": 1.75,
+            "source": "Jibibet"
+          }
+        },
+        "arbitrage_percentage": 0.9952,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2579493863106420754-11168968",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "International Competitions",
+        "tournament_Tounesbet": "AFC Champions League Two",
+        "Tounesbet_match_id": 11168968,
+        "Tounesbet_tournament_id": 238108,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Jibibet_country_name": "International Competitions",
+        "tournament_Jibibet": "AFC Champions League 2",
+        "Jibibet_match_id": 2579493863106420754,
+        "Jibibet_tournament_id": 2475470228105080833,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "group_id": "2579493863106420754-653949535-11168968-13639595-28017357",
+        "home_team": "Al Ahli Doha SC",
+        "away_team": "Al-Khaldiya SC",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2579487059572035621-653949076-11168950-13639588-28017356",
+    "home_team": "Al Wasl Dubai",
+    "away_team": "Esteghlal Jonoob Tehran",
+    "date": "17/09/2025",
+    "time": "17:00",
+    "country": "International Competitions",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 1.96,
+            "source": "Asbet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 2.147,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.976,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "28017356-11168950",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "International Competitions",
+        "tournament_Asbet": "AFC Champions League Two",
+        "Asbet_match_id": 28017356,
+        "Asbet_tournament_id": 1693,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Asia/1693/afc-champions-league-two/28017356/al-wasl-fc-esteghlal-fc",
+        "Tounesbet_country_name": "International Competitions",
+        "tournament_Tounesbet": "AFC Champions League Two",
+        "Tounesbet_match_id": 11168950,
+        "Tounesbet_tournament_id": 238108,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579487059572035621-653949076-11168950-13639588-28017356",
+        "home_team": "Al Wasl Dubai",
+        "away_team": "Esteghlal Jonoob Tehran",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 1.96,
+            "source": "Clubx2"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 2.147,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.976,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13639588-11168950",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "International Competitions",
+        "tournament_Clubx2": "AFC Cup",
+        "Clubx2_match_id": 13639588,
+        "Clubx2_tournament_id": 3972,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13639588#/overview",
+        "Tounesbet_country_name": "International Competitions",
+        "tournament_Tounesbet": "AFC Champions League Two",
+        "Tounesbet_match_id": 11168950,
+        "Tounesbet_tournament_id": 238108,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579487059572035621-653949076-11168950-13639588-28017356",
+        "home_team": "Al Wasl Dubai",
+        "away_team": "Esteghlal Jonoob Tehran",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 1.95,
+            "source": "Jibibet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 2.147,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9786,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2579487059572035621-11168950",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "International Competitions",
+        "tournament_Jibibet": "AFC Champions League 2",
+        "Jibibet_match_id": 2579487059572035621,
+        "Jibibet_tournament_id": 2475470228105080833,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "International Competitions",
+        "tournament_Tounesbet": "AFC Champions League Two",
+        "Tounesbet_match_id": 11168950,
+        "Tounesbet_tournament_id": 238108,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579487059572035621-653949076-11168950-13639588-28017356",
+        "home_team": "Al Wasl Dubai",
+        "away_team": "Esteghlal Jonoob Tehran",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 1.929,
+            "source": "1xbet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 2.147,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9842,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653949076-11168950",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "International Competitions",
+        "tournament_1xbet": "AFC Champions League 2",
+        "1xbet_match_id": 653949076,
+        "1xbet_tournament_id": 2743971,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/2743971/653949076",
+        "Tounesbet_country_name": "International Competitions",
+        "tournament_Tounesbet": "AFC Champions League Two",
+        "Tounesbet_match_id": 11168950,
+        "Tounesbet_tournament_id": 238108,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579487059572035621-653949076-11168950-13639588-28017356",
+        "home_team": "Al Wasl Dubai",
+        "away_team": "Esteghlal Jonoob Tehran",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2579493863106420757-653949967-11185180-13640033-28017943",
+    "home_team": "Al Nassr Riyadh",
+    "away_team": "FC Istiklol Dushanbe",
+    "date": "17/09/2025",
+    "time": "19:15",
+    "country": "International Competitions",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_-2.5_home_vs_away",
+        "best_odds": {
+          "home_handicap_-2.5_odd": {
+            "value": 1.9,
+            "source": "Clubx2"
+          },
+          "away_handicap_2.5_odd": {
+            "value": 2.324,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9566,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13640033-11185180",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "International Competitions",
+        "tournament_Clubx2": "AFC Cup",
+        "Clubx2_match_id": 13640033,
+        "Clubx2_tournament_id": 3972,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13640033#/overview",
+        "Tounesbet_country_name": "International Competitions",
+        "tournament_Tounesbet": "AFC Champions League Two",
+        "Tounesbet_match_id": 11185180,
+        "Tounesbet_tournament_id": 238108,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579493863106420757-653949967-11185180-13640033-28017943",
+        "home_team": "Al Nassr Riyadh",
+        "away_team": "FC Istiklol Dushanbe",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_-2.5_home_vs_away",
+        "best_odds": {
+          "home_handicap_-2.5_odd": {
+            "value": 1.88,
+            "source": "Asbet"
+          },
+          "away_handicap_2.5_odd": {
+            "value": 2.324,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9622,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "28017943-11185180",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "International Competitions",
+        "tournament_Asbet": "AFC Champions League Two",
+        "Asbet_match_id": 28017943,
+        "Asbet_tournament_id": 1693,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Asia/1693/afc-champions-league-two/28017943/al-nassr-riyadh-fc-istiklol-dushanbe",
+        "Tounesbet_country_name": "International Competitions",
+        "tournament_Tounesbet": "AFC Champions League Two",
+        "Tounesbet_match_id": 11185180,
+        "Tounesbet_tournament_id": 238108,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579493863106420757-653949967-11185180-13640033-28017943",
+        "home_team": "Al Nassr Riyadh",
+        "away_team": "FC Istiklol Dushanbe",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_-2.5_home_vs_away",
+        "best_odds": {
+          "home_handicap_-2.5_odd": {
+            "value": 1.87,
+            "source": "1xbet"
+          },
+          "away_handicap_2.5_odd": {
+            "value": 2.324,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9651,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653949967-11185180",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "International Competitions",
+        "tournament_1xbet": "AFC Champions League 2",
+        "1xbet_match_id": 653949967,
+        "1xbet_tournament_id": 2743971,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/2743971/653949967",
+        "Tounesbet_country_name": "International Competitions",
+        "tournament_Tounesbet": "AFC Champions League Two",
+        "Tounesbet_match_id": 11185180,
+        "Tounesbet_tournament_id": 238108,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579493863106420757-653949967-11185180-13640033-28017943",
+        "home_team": "Al Nassr Riyadh",
+        "away_team": "FC Istiklol Dushanbe",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2579487059572035619-653949532-11254621-13639584-28017944",
+    "home_team": "Al Muharraq SC",
+    "away_team": "Al Wehdat SC Amman",
+    "date": "17/09/2025",
+    "time": "19:15",
+    "country": "International Competitions",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_-0.25_home_vs_away",
+        "best_odds": {
+          "home_handicap_-0.25_odd": {
+            "value": 1.81,
+            "source": "1xbet"
+          },
+          "away_handicap_0.25_odd": {
+            "value": 2.36,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9762,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653949532-11254621",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "International Competitions",
+        "tournament_1xbet": "AFC Champions League 2",
+        "1xbet_match_id": 653949532,
+        "1xbet_tournament_id": 2743971,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/2743971/653949532",
+        "Tounesbet_country_name": "International Competitions",
+        "tournament_Tounesbet": "AFC Champions League Two",
+        "Tounesbet_match_id": 11254621,
+        "Tounesbet_tournament_id": 238108,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579487059572035619-653949532-11254621-13639584-28017944",
+        "home_team": "Al Muharraq SC",
+        "away_team": "Al Wehdat SC Amman",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_-0.25_home_vs_away",
+        "best_odds": {
+          "home_handicap_-0.25_odd": {
+            "value": 2.124,
+            "source": "Tounesbet"
+          },
+          "away_handicap_0.25_odd": {
+            "value": 1.94,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9863,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "28017944-11254621",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "International Competitions",
+        "tournament_Tounesbet": "AFC Champions League Two",
+        "Tounesbet_match_id": 11254621,
+        "Tounesbet_tournament_id": 238108,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "International Competitions",
+        "tournament_Asbet": "AFC Champions League Two",
+        "Asbet_match_id": 28017944,
+        "Asbet_tournament_id": 1693,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Asia/1693/afc-champions-league-two/28017944/al-muharraq-sc-al-wehdat-sc-amman",
+        "group_id": "2579487059572035619-653949532-11254621-13639584-28017944",
+        "home_team": "Al Muharraq SC",
+        "away_team": "Al Wehdat SC Amman",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.125,
+            "source": "Clubx2"
+          },
+          "X2_odd": {
+            "value": 1.899,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9972,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13639584-11254621",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "International Competitions",
+        "tournament_Clubx2": "AFC Cup",
+        "Clubx2_match_id": 13639584,
+        "Clubx2_tournament_id": 3972,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13639584#/overview",
+        "Tounesbet_country_name": "International Competitions",
+        "tournament_Tounesbet": "AFC Champions League Two",
+        "Tounesbet_match_id": 11254621,
+        "Tounesbet_tournament_id": 238108,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579487059572035619-653949532-11254621-13639584-28017944",
+        "home_team": "Al Muharraq SC",
+        "away_team": "Al Wehdat SC Amman",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2573817655903522841-649544337-11183446-13779535-27907686",
+    "home_team": "Olympiacos Piraeus",
+    "away_team": "Pafos FC",
+    "date": "17/09/2025",
+    "time": "17:45",
+    "country": "International Competitions",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_-1.5_home_vs_away",
+        "best_odds": {
+          "home_handicap_-1.5_odd": {
+            "value": 2.261,
+            "source": "1xbet"
+          },
+          "away_handicap_1.5_odd": {
+            "value": 2.006,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9408,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "649544337-11183446",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "International Competitions",
+        "tournament_1xbet": "UEFA Champions League",
+        "1xbet_match_id": 649544337,
+        "1xbet_tournament_id": 118587,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/118587/649544337",
+        "Tounesbet_country_name": "International Competitions",
+        "tournament_Tounesbet": "UEFA Champions League",
+        "Tounesbet_match_id": 11183446,
+        "Tounesbet_tournament_id": 47754,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2573817655903522841-649544337-11183446-13779535-27907686",
+        "home_team": "Olympiacos Piraeus",
+        "away_team": "Pafos FC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_-1.0_home_vs_away",
+        "best_odds": {
+          "home_handicap_-1.0_odd": {
+            "value": 1.911,
+            "source": "Tounesbet"
+          },
+          "away_handicap_1.0_odd": {
+            "value": 2.32,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9543,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27907686-11183446",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "International Competitions",
+        "tournament_Tounesbet": "UEFA Champions League",
+        "Tounesbet_match_id": 11183446,
+        "Tounesbet_tournament_id": 47754,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "International Competitions",
+        "tournament_Asbet": "UEFA Champions League",
+        "Asbet_match_id": 27907686,
+        "Asbet_tournament_id": 566,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Europe/566/uefa-champions-league/27907686/olympiacos-piraeus-pafos-fc",
+        "group_id": "2573817655903522841-649544337-11183446-13779535-27907686",
+        "home_team": "Olympiacos Piraeus",
+        "away_team": "Pafos FC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_-1.75_home_vs_away",
+        "best_odds": {
+          "home_handicap_-1.75_odd": {
+            "value": 2.5,
+            "source": "Clubx2"
+          },
+          "away_handicap_1.75_odd": {
+            "value": 1.793,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9577,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13779535-11183446",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "International Competitions",
+        "tournament_Clubx2": "UEFA Champions League",
+        "Clubx2_match_id": 13779535,
+        "Clubx2_tournament_id": 16808,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13779535#/overview",
+        "Tounesbet_country_name": "International Competitions",
+        "tournament_Tounesbet": "UEFA Champions League",
+        "Tounesbet_match_id": 11183446,
+        "Tounesbet_tournament_id": 47754,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2573817655903522841-649544337-11183446-13779535-27907686",
+        "home_team": "Olympiacos Piraeus",
+        "away_team": "Pafos FC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "under_3.5_vs_over_3.5",
+        "best_odds": {
+          "under_3.5_odd": {
+            "value": 1.4,
+            "source": "Jibibet"
+          },
+          "over_3.5_odd": {
+            "value": 3.54,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9968,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2573817655903522841-11183446",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "International Competitions",
+        "tournament_Jibibet": "UEFA Champions League",
+        "Jibibet_match_id": 2573817655903522841,
+        "Jibibet_tournament_id": 2470546796305330203,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "International Competitions",
+        "tournament_Tounesbet": "UEFA Champions League",
+        "Tounesbet_match_id": 11183446,
+        "Tounesbet_tournament_id": 47754,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2573817655903522841-649544337-11183446-13779535-27907686",
+        "home_team": "Olympiacos Piraeus",
+        "away_team": "Pafos FC",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2573817655903522843-649528455-11183107-13779330-27907685",
+    "home_team": "SK Slavia Praha",
+    "away_team": "FK Bodo/Glimt",
+    "date": "17/09/2025",
+    "time": "17:45",
+    "country": "International Competitions",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "under_3.5_vs_over_3.5",
+        "best_odds": {
+          "under_3.5_odd": {
+            "value": 1.899,
+            "source": "Tounesbet"
+          },
+          "over_3.5_odd": {
+            "value": 2.438,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.9368,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "649528455-11183107",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "International Competitions",
+        "tournament_Tounesbet": "UEFA Champions League",
+        "Tounesbet_match_id": 11183107,
+        "Tounesbet_tournament_id": 47754,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "1xbet_country_name": "International Competitions",
+        "tournament_1xbet": "UEFA Champions League",
+        "1xbet_match_id": 649528455,
+        "1xbet_tournament_id": 118587,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/118587/649528455",
+        "group_id": "2573817655903522843-649528455-11183107-13779330-27907685",
+        "home_team": "SK Slavia Praha",
+        "away_team": "FK Bodo/Glimt",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_-1.0_home_vs_away",
+        "best_odds": {
+          "home_handicap_-1.0_odd": {
+            "value": 2.35,
+            "source": "Asbet"
+          },
+          "away_handicap_1.0_odd": {
+            "value": 1.888,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9552,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27907685-11183107",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "International Competitions",
+        "tournament_Asbet": "UEFA Champions League",
+        "Asbet_match_id": 27907685,
+        "Asbet_tournament_id": 566,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Europe/566/uefa-champions-league/27907685/sk-slavia-praha-fk-bodoglimt",
+        "Tounesbet_country_name": "International Competitions",
+        "tournament_Tounesbet": "UEFA Champions League",
+        "Tounesbet_match_id": 11183107,
+        "Tounesbet_tournament_id": 47754,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2573817655903522843-649528455-11183107-13779330-27907685",
+        "home_team": "SK Slavia Praha",
+        "away_team": "FK Bodo/Glimt",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "under_3.5_vs_over_3.5",
+        "best_odds": {
+          "under_3.5_odd": {
+            "value": 1.899,
+            "source": "Tounesbet"
+          },
+          "over_3.5_odd": {
+            "value": 2.3,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9614,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13779330-11183107",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "International Competitions",
+        "tournament_Tounesbet": "UEFA Champions League",
+        "Tounesbet_match_id": 11183107,
+        "Tounesbet_tournament_id": 47754,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "International Competitions",
+        "tournament_Clubx2": "UEFA Champions League",
+        "Clubx2_match_id": 13779330,
+        "Clubx2_tournament_id": 16808,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13779330#/overview",
+        "group_id": "2573817655903522843-649528455-11183107-13779330-27907685",
+        "home_team": "SK Slavia Praha",
+        "away_team": "FK Bodo/Glimt",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "under_3.5_vs_over_3.5",
+        "best_odds": {
+          "under_3.5_odd": {
+            "value": 1.899,
+            "source": "Tounesbet"
+          },
+          "over_3.5_odd": {
+            "value": 2.3,
+            "source": "Jibibet"
+          }
+        },
+        "arbitrage_percentage": 0.9614,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2573817655903522843-11183107",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "International Competitions",
+        "tournament_Tounesbet": "UEFA Champions League",
+        "Tounesbet_match_id": 11183107,
+        "Tounesbet_tournament_id": 47754,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Jibibet_country_name": "International Competitions",
+        "tournament_Jibibet": "UEFA Champions League",
+        "Jibibet_match_id": 2573817655903522843,
+        "Jibibet_tournament_id": 2470546796305330203,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "group_id": "2573817655903522843-649528455-11183107-13779330-27907685",
+        "home_team": "SK Slavia Praha",
+        "away_team": "FK Bodo/Glimt",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2573817655903522844-649544343-11187290-13782807-27907692",
+    "home_team": "Ajax Amsterdam",
+    "away_team": "Internazionale Milano",
+    "date": "17/09/2025",
+    "time": "20:00",
+    "country": "International Competitions",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "two_vs_1x_handicap",
+        "best_odds": {
+          "2_odd": {
+            "value": 1.879,
+            "source": "1xbet"
+          },
+          "home_handicap_0.5_odd": {
+            "value": 2.419,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9456,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "649544343-11187290",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "International Competitions",
+        "tournament_1xbet": "UEFA Champions League",
+        "1xbet_match_id": 649544343,
+        "1xbet_tournament_id": 118587,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/118587/649544343",
+        "Tounesbet_country_name": "International Competitions",
+        "tournament_Tounesbet": "UEFA Champions League",
+        "Tounesbet_match_id": 11187290,
+        "Tounesbet_tournament_id": 47754,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2573817655903522844-649544343-11187290-13782807-27907692",
+        "home_team": "Ajax Amsterdam",
+        "away_team": "Internazionale Milano",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "first_half_under_1.0_vs_first_half_over_1.0",
+        "best_odds": {
+          "first_half_under_1.0_odd": {
+            "value": 2.35,
+            "source": "Clubx2"
+          },
+          "first_half_over_1.0_odd": {
+            "value": 1.911,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9488,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13782807-11187290",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "International Competitions",
+        "tournament_Clubx2": "UEFA Champions League",
+        "Clubx2_match_id": 13782807,
+        "Clubx2_tournament_id": 16808,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13782807#/overview",
+        "Tounesbet_country_name": "International Competitions",
+        "tournament_Tounesbet": "UEFA Champions League",
+        "Tounesbet_match_id": 11187290,
+        "Tounesbet_tournament_id": 47754,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2573817655903522844-649544343-11187290-13782807-27907692",
+        "home_team": "Ajax Amsterdam",
+        "away_team": "Internazionale Milano",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_1.0_home_vs_away",
+        "best_odds": {
+          "home_handicap_1.0_odd": {
+            "value": 1.829,
+            "source": "Tounesbet"
+          },
+          "away_handicap_-1.0_odd": {
+            "value": 2.47,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9516,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27907692-11187290",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "International Competitions",
+        "tournament_Tounesbet": "UEFA Champions League",
+        "Tounesbet_match_id": 11187290,
+        "Tounesbet_tournament_id": 47754,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "International Competitions",
+        "tournament_Asbet": "UEFA Champions League",
+        "Asbet_match_id": 27907692,
+        "Asbet_tournament_id": 566,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Europe/566/uefa-champions-league/27907692/ajax-amsterdam-inter-milan",
+        "group_id": "2573817655903522844-649544343-11187290-13782807-27907692",
+        "home_team": "Ajax Amsterdam",
+        "away_team": "Internazionale Milano",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "two_vs_1x_handicap",
+        "best_odds": {
+          "2_odd": {
+            "value": 1.81,
+            "source": "Jibibet"
+          },
+          "home_handicap_0.5_odd": {
+            "value": 2.419,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9659,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2573817655903522844-11187290",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "International Competitions",
+        "tournament_Jibibet": "UEFA Champions League",
+        "Jibibet_match_id": 2573817655903522844,
+        "Jibibet_tournament_id": 2470546796305330203,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "International Competitions",
+        "tournament_Tounesbet": "UEFA Champions League",
+        "Tounesbet_match_id": 11187290,
+        "Tounesbet_tournament_id": 47754,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2573817655903522844-649544343-11187290-13782807-27907692",
+        "home_team": "Ajax Amsterdam",
+        "away_team": "Internazionale Milano",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2573817655903522845-649544340-11183955-13780410-27907688",
+    "home_team": "FC Bayern München",
+    "away_team": "Chelsea FC",
+    "date": "17/09/2025",
+    "time": "20:00",
+    "country": "International Competitions",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "under_3.5_vs_over_3.5",
+        "best_odds": {
+          "under_3.5_odd": {
+            "value": 1.958,
+            "source": "Tounesbet"
+          },
+          "over_3.5_odd": {
+            "value": 2.375,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.9318,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "649544340-11183955",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "International Competitions",
+        "tournament_Tounesbet": "UEFA Champions League",
+        "Tounesbet_match_id": 11183955,
+        "Tounesbet_tournament_id": 47754,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "1xbet_country_name": "International Competitions",
+        "tournament_1xbet": "UEFA Champions League",
+        "1xbet_match_id": 649544340,
+        "1xbet_tournament_id": 118587,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/118587/649544340",
+        "group_id": "2573817655903522845-649544340-11183955-13780410-27907688",
+        "home_team": "FC Bayern München",
+        "away_team": "Chelsea FC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_-1.25_home_vs_away",
+        "best_odds": {
+          "home_handicap_-1.25_odd": {
+            "value": 2.4,
+            "source": "Asbet"
+          },
+          "away_handicap_1.25_odd": {
+            "value": 1.888,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9463,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27907688-11183955",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "International Competitions",
+        "tournament_Asbet": "UEFA Champions League",
+        "Asbet_match_id": 27907688,
+        "Asbet_tournament_id": 566,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Europe/566/uefa-champions-league/27907688/bayern-munich-chelsea",
+        "Tounesbet_country_name": "International Competitions",
+        "tournament_Tounesbet": "UEFA Champions League",
+        "Tounesbet_match_id": 11183955,
+        "Tounesbet_tournament_id": 47754,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2573817655903522845-649544340-11183955-13780410-27907688",
+        "home_team": "FC Bayern München",
+        "away_team": "Chelsea FC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_-1.25_home_vs_away",
+        "best_odds": {
+          "home_handicap_-1.25_odd": {
+            "value": 2.3637,
+            "source": "Clubx2"
+          },
+          "away_handicap_1.25_odd": {
+            "value": 1.888,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9527,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13780410-11183955",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "International Competitions",
+        "tournament_Clubx2": "UEFA Champions League",
+        "Clubx2_match_id": 13780410,
+        "Clubx2_tournament_id": 16808,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13780410#/overview",
+        "Tounesbet_country_name": "International Competitions",
+        "tournament_Tounesbet": "UEFA Champions League",
+        "Tounesbet_match_id": 11183955,
+        "Tounesbet_tournament_id": 47754,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2573817655903522845-649544340-11183955-13780410-27907688",
+        "home_team": "FC Bayern München",
+        "away_team": "Chelsea FC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2",
+        "best_odds": {
+          "1_odd": {
+            "value": 1.947,
+            "source": "Tounesbet"
+          },
+          "X2_odd": {
+            "value": 2.24,
+            "source": "Jibibet"
+          }
+        },
+        "arbitrage_percentage": 0.96,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2573817655903522845-11183955",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "International Competitions",
+        "tournament_Tounesbet": "UEFA Champions League",
+        "Tounesbet_match_id": 11183955,
+        "Tounesbet_tournament_id": 47754,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Jibibet_country_name": "International Competitions",
+        "tournament_Jibibet": "UEFA Champions League",
+        "Jibibet_match_id": 2573817655903522845,
+        "Jibibet_tournament_id": 2470546796305330203,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "group_id": "2573817655903522845-649544340-11183955-13780410-27907688",
+        "home_team": "FC Bayern München",
+        "away_team": "Chelsea FC",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2573817655903522846-649529218-11185738-13782855-27907690",
+    "home_team": "Liverpool FC",
+    "away_team": "Atletico Madrid",
+    "date": "17/09/2025",
+    "time": "20:00",
+    "country": "International Competitions",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_-0.75_home_vs_away",
+        "best_odds": {
+          "home_handicap_-0.75_odd": {
+            "value": 1.888,
+            "source": "Tounesbet"
+          },
+          "away_handicap_0.75_odd": {
+            "value": 2.3637,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9527,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13782855-11185738",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "International Competitions",
+        "tournament_Tounesbet": "UEFA Champions League",
+        "Tounesbet_match_id": 11185738,
+        "Tounesbet_tournament_id": 47754,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "International Competitions",
+        "tournament_Clubx2": "UEFA Champions League",
+        "Clubx2_match_id": 13782855,
+        "Clubx2_tournament_id": 16808,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13782855#/overview",
+        "group_id": "2573817655903522846-649529218-11185738-13782855-27907690",
+        "home_team": "Liverpool FC",
+        "away_team": "Atletico Madrid",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "first_half_ah_-0.75_home_vs_away",
+        "best_odds": {
+          "home_first_half_handicap_-0.75_odd": {
+            "value": 2.44,
+            "source": "Asbet"
+          },
+          "away_first_half_handicap_0.75_odd": {
+            "value": 1.829,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9566,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27907690-11185738",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "International Competitions",
+        "tournament_Asbet": "UEFA Champions League",
+        "Asbet_match_id": 27907690,
+        "Asbet_tournament_id": 566,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Europe/566/uefa-champions-league/27907690/liverpool-atletico-madrid",
+        "Tounesbet_country_name": "International Competitions",
+        "tournament_Tounesbet": "UEFA Champions League",
+        "Tounesbet_match_id": 11185738,
+        "Tounesbet_tournament_id": 47754,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2573817655903522846-649529218-11185738-13782855-27907690",
+        "home_team": "Liverpool FC",
+        "away_team": "Atletico Madrid",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_-1.0_home_vs_away",
+        "best_odds": {
+          "home_handicap_-1.0_odd": {
+            "value": 1.85,
+            "source": "1xbet"
+          },
+          "away_handicap_1.0_odd": {
+            "value": 2.383,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9602,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "649529218-11185738",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "International Competitions",
+        "tournament_1xbet": "UEFA Champions League",
+        "1xbet_match_id": 649529218,
+        "1xbet_tournament_id": 118587,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/118587/649529218",
+        "Tounesbet_country_name": "International Competitions",
+        "tournament_Tounesbet": "UEFA Champions League",
+        "Tounesbet_match_id": 11185738,
+        "Tounesbet_tournament_id": 47754,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2573817655903522846-649529218-11185738-13782855-27907690",
+        "home_team": "Liverpool FC",
+        "away_team": "Atletico Madrid",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "under_3.5_vs_over_3.5",
+        "best_odds": {
+          "under_3.5_odd": {
+            "value": 1.51,
+            "source": "Jibibet"
+          },
+          "over_3.5_odd": {
+            "value": 3.091,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9858,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2573817655903522846-11185738",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "International Competitions",
+        "tournament_Jibibet": "UEFA Champions League",
+        "Jibibet_match_id": 2573817655903522846,
+        "Jibibet_tournament_id": 2470546796305330203,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "International Competitions",
+        "tournament_Tounesbet": "UEFA Champions League",
+        "Tounesbet_match_id": 11185738,
+        "Tounesbet_tournament_id": 47754,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2573817655903522846-649529218-11185738-13782855-27907690",
+        "home_team": "Liverpool FC",
+        "away_team": "Atletico Madrid",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2573817655903522847-649529209-11183447-13779536-27907689",
+    "home_team": "Paris Saint-Germain",
+    "away_team": "Atalanta BC",
+    "date": "17/09/2025",
+    "time": "20:00",
+    "country": "International Competitions",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "under_3.5_vs_over_3.5",
+        "best_odds": {
+          "under_3.5_odd": {
+            "value": 1.852,
+            "source": "Tounesbet"
+          },
+          "over_3.5_odd": {
+            "value": 2.47,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9448,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27907689-11183447",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "International Competitions",
+        "tournament_Tounesbet": "UEFA Champions League",
+        "Tounesbet_match_id": 11183447,
+        "Tounesbet_tournament_id": 47754,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "International Competitions",
+        "tournament_Asbet": "UEFA Champions League",
+        "Asbet_match_id": 27907689,
+        "Asbet_tournament_id": 566,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Europe/566/uefa-champions-league/27907689/paris-saint-germain-atalanta",
+        "group_id": "2573817655903522847-649529209-11183447-13779536-27907689",
+        "home_team": "Paris Saint-Germain",
+        "away_team": "Atalanta BC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "under_3.5_vs_over_3.5",
+        "best_odds": {
+          "under_3.5_odd": {
+            "value": 1.852,
+            "source": "Tounesbet"
+          },
+          "over_3.5_odd": {
+            "value": 2.45,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.9481,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "649529209-11183447",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "International Competitions",
+        "tournament_Tounesbet": "UEFA Champions League",
+        "Tounesbet_match_id": 11183447,
+        "Tounesbet_tournament_id": 47754,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "1xbet_country_name": "International Competitions",
+        "tournament_1xbet": "UEFA Champions League",
+        "1xbet_match_id": 649529209,
+        "1xbet_tournament_id": 118587,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/118587/649529209",
+        "group_id": "2573817655903522847-649529209-11183447-13779536-27907689",
+        "home_team": "Paris Saint-Germain",
+        "away_team": "Atalanta BC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "under_3.5_vs_over_3.5",
+        "best_odds": {
+          "under_3.5_odd": {
+            "value": 1.852,
+            "source": "Tounesbet"
+          },
+          "over_3.5_odd": {
+            "value": 2.4286,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9517,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13779536-11183447",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "International Competitions",
+        "tournament_Tounesbet": "UEFA Champions League",
+        "Tounesbet_match_id": 11183447,
+        "Tounesbet_tournament_id": 47754,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "International Competitions",
+        "tournament_Clubx2": "UEFA Champions League",
+        "Clubx2_match_id": 13779536,
+        "Clubx2_tournament_id": 16808,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13779536#/overview",
+        "group_id": "2573817655903522847-649529209-11183447-13779536-27907689",
+        "home_team": "Paris Saint-Germain",
+        "away_team": "Atalanta BC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "under_3.5_vs_over_3.5",
+        "best_odds": {
+          "under_3.5_odd": {
+            "value": 1.852,
+            "source": "Tounesbet"
+          },
+          "over_3.5_odd": {
+            "value": 2.42,
+            "source": "Jibibet"
+          }
+        },
+        "arbitrage_percentage": 0.9532,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2573817655903522847-11183447",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "International Competitions",
+        "tournament_Tounesbet": "UEFA Champions League",
+        "Tounesbet_match_id": 11183447,
+        "Tounesbet_tournament_id": 47754,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Jibibet_country_name": "International Competitions",
+        "tournament_Jibibet": "UEFA Champions League",
+        "Jibibet_match_id": 2573817655903522847,
+        "Jibibet_tournament_id": 2470546796305330203,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "group_id": "2573817655903522847-649529209-11183447-13779536-27907689",
+        "home_team": "Paris Saint-Germain",
+        "away_team": "Atalanta BC",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2573817655903522848-649529227-11183448-13779537-27907702",
+    "home_team": "Club Brugge KV",
+    "away_team": "AS Monaco",
+    "date": "18/09/2025",
+    "time": "17:45",
+    "country": "International Competitions",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "under_3.5_vs_over_3.5",
+        "best_odds": {
+          "under_3.5_odd": {
+            "value": 1.805,
+            "source": "Tounesbet"
+          },
+          "over_3.5_odd": {
+            "value": 2.57,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9431,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27907702-11183448",
+        "misvalue_source": "1xbet",
+        "Tounesbet_country_name": "International Competitions",
+        "tournament_Tounesbet": "UEFA Champions League",
+        "Tounesbet_match_id": 11183448,
+        "Tounesbet_tournament_id": 47754,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "International Competitions",
+        "tournament_Asbet": "UEFA Champions League",
+        "Asbet_match_id": 27907702,
+        "Asbet_tournament_id": 566,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Europe/566/uefa-champions-league/27907702/club-brugge-as-monaco",
+        "group_id": "2573817655903522848-649529227-11183448-13779537-27907702",
+        "home_team": "Club Brugge KV",
+        "away_team": "AS Monaco",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_0.0_home_vs_away",
+        "best_odds": {
+          "home_handicap_0.0_odd": {
+            "value": 2.028,
+            "source": "1xbet"
+          },
+          "away_handicap_0.0_odd": {
+            "value": 2.206,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9464,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "649529227-11183448",
+        "misvalue_source": "1xbet",
+        "1xbet_country_name": "International Competitions",
+        "tournament_1xbet": "UEFA Champions League",
+        "1xbet_match_id": 649529227,
+        "1xbet_tournament_id": 118587,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/118587/649529227",
+        "Tounesbet_country_name": "International Competitions",
+        "tournament_Tounesbet": "UEFA Champions League",
+        "Tounesbet_match_id": 11183448,
+        "Tounesbet_tournament_id": 47754,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2573817655903522848-649529227-11183448-13779537-27907702",
+        "home_team": "Club Brugge KV",
+        "away_team": "AS Monaco",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "under_3.5_vs_over_3.5",
+        "best_odds": {
+          "under_3.5_odd": {
+            "value": 1.805,
+            "source": "Tounesbet"
+          },
+          "over_3.5_odd": {
+            "value": 2.52,
+            "source": "Jibibet"
+          }
+        },
+        "arbitrage_percentage": 0.9508,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2573817655903522848-11183448",
+        "misvalue_source": "1xbet",
+        "Tounesbet_country_name": "International Competitions",
+        "tournament_Tounesbet": "UEFA Champions League",
+        "Tounesbet_match_id": 11183448,
+        "Tounesbet_tournament_id": 47754,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Jibibet_country_name": "International Competitions",
+        "tournament_Jibibet": "UEFA Champions League",
+        "Jibibet_match_id": 2573817655903522848,
+        "Jibibet_tournament_id": 2470546796305330203,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "group_id": "2573817655903522848-649529227-11183448-13779537-27907702",
+        "home_team": "Club Brugge KV",
+        "away_team": "AS Monaco",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "under_3.5_vs_over_3.5",
+        "best_odds": {
+          "under_3.5_odd": {
+            "value": 1.805,
+            "source": "Tounesbet"
+          },
+          "over_3.5_odd": {
+            "value": 2.5,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.954,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13779537-11183448",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "International Competitions",
+        "tournament_Tounesbet": "UEFA Champions League",
+        "Tounesbet_match_id": 11183448,
+        "Tounesbet_tournament_id": 47754,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "International Competitions",
+        "tournament_Clubx2": "UEFA Champions League",
+        "Clubx2_match_id": 13779537,
+        "Clubx2_tournament_id": 16808,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13779537#/overview",
+        "group_id": "2573817655903522848-649529227-11183448-13779537-27907702",
+        "home_team": "Club Brugge KV",
+        "away_team": "AS Monaco",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2573817655903522850-649529221-11183418-13779525-27907701",
+    "home_team": "FC Copenhagen",
+    "away_team": "Bayer 04 Leverkusen",
+    "date": "18/09/2025",
+    "time": "17:45",
+    "country": "International Competitions",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "two_vs_1x_handicap",
+        "best_odds": {
+          "2_odd": {
+            "value": 2.256,
+            "source": "1xbet"
+          },
+          "home_handicap_0.5_odd": {
+            "value": 2.006,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9418,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "649529221-11183418",
+        "misvalue_source": "1xbet",
+        "1xbet_country_name": "International Competitions",
+        "tournament_1xbet": "UEFA Champions League",
+        "1xbet_match_id": 649529221,
+        "1xbet_tournament_id": 118587,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/118587/649529221",
+        "Tounesbet_country_name": "International Competitions",
+        "tournament_Tounesbet": "UEFA Champions League",
+        "Tounesbet_match_id": 11183418,
+        "Tounesbet_tournament_id": 47754,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2573817655903522850-649529221-11183418-13779525-27907701",
+        "home_team": "FC Copenhagen",
+        "away_team": "Bayer 04 Leverkusen",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_0.75_home_vs_away",
+        "best_odds": {
+          "home_handicap_0.75_odd": {
+            "value": 1.793,
+            "source": "Tounesbet"
+          },
+          "away_handicap_-0.75_odd": {
+            "value": 2.55,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9499,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27907701-11183418",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "International Competitions",
+        "tournament_Tounesbet": "UEFA Champions League",
+        "Tounesbet_match_id": 11183418,
+        "Tounesbet_tournament_id": 47754,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "International Competitions",
+        "tournament_Asbet": "UEFA Champions League",
+        "Asbet_match_id": 27907701,
+        "Asbet_tournament_id": 566,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Europe/566/uefa-champions-league/27907701/fc-copenhagen-bayer-leverkusen",
+        "group_id": "2573817655903522850-649529221-11183418-13779525-27907701",
+        "home_team": "FC Copenhagen",
+        "away_team": "Bayer 04 Leverkusen",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "two_vs_1x_handicap",
+        "best_odds": {
+          "2_odd": {
+            "value": 2.2,
+            "source": "Clubx2"
+          },
+          "home_handicap_0.5_odd": {
+            "value": 2.006,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.953,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13779525-11183418",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "International Competitions",
+        "tournament_Clubx2": "UEFA Champions League",
+        "Clubx2_match_id": 13779525,
+        "Clubx2_tournament_id": 16808,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13779525#/overview",
+        "Tounesbet_country_name": "International Competitions",
+        "tournament_Tounesbet": "UEFA Champions League",
+        "Tounesbet_match_id": 11183418,
+        "Tounesbet_tournament_id": 47754,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2573817655903522850-649529221-11183418-13779525-27907701",
+        "home_team": "FC Copenhagen",
+        "away_team": "Bayer 04 Leverkusen",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "two_vs_1x_handicap",
+        "best_odds": {
+          "2_odd": {
+            "value": 2.16,
+            "source": "Jibibet"
+          },
+          "home_handicap_0.5_odd": {
+            "value": 2.006,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9615,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2573817655903522850-11183418",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "International Competitions",
+        "tournament_Jibibet": "UEFA Champions League",
+        "Jibibet_match_id": 2573817655903522850,
+        "Jibibet_tournament_id": 2470546796305330203,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "International Competitions",
+        "tournament_Tounesbet": "UEFA Champions League",
+        "Tounesbet_match_id": 11183418,
+        "Tounesbet_tournament_id": 47754,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2573817655903522850-649529221-11183418-13779525-27907701",
+        "home_team": "FC Copenhagen",
+        "away_team": "Bayer 04 Leverkusen",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2573817655903522851-649543844-11184231-13780482-27907700",
+    "home_team": "Eintracht Frankfurt",
+    "away_team": "Galatasaray Istanbul",
+    "date": "18/09/2025",
+    "time": "20:00",
+    "country": "International Competitions",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "under_3.5_vs_over_3.5",
+        "best_odds": {
+          "under_3.5_odd": {
+            "value": 1.958,
+            "source": "Tounesbet"
+          },
+          "over_3.5_odd": {
+            "value": 2.303,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.9449,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "649543844-11184231",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "International Competitions",
+        "tournament_Tounesbet": "UEFA Champions League",
+        "Tounesbet_match_id": 11184231,
+        "Tounesbet_tournament_id": 47754,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "1xbet_country_name": "International Competitions",
+        "tournament_1xbet": "UEFA Champions League",
+        "1xbet_match_id": 649543844,
+        "1xbet_tournament_id": 118587,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/118587/649543844",
+        "group_id": "2573817655903522851-649543844-11184231-13780482-27907700",
+        "home_team": "Eintracht Frankfurt",
+        "away_team": "Galatasaray Istanbul",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "under_3.5_vs_over_3.5",
+        "best_odds": {
+          "under_3.5_odd": {
+            "value": 1.958,
+            "source": "Tounesbet"
+          },
+          "over_3.5_odd": {
+            "value": 2.25,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9552,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27907700-11184231",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "International Competitions",
+        "tournament_Tounesbet": "UEFA Champions League",
+        "Tounesbet_match_id": 11184231,
+        "Tounesbet_tournament_id": 47754,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "International Competitions",
+        "tournament_Asbet": "UEFA Champions League",
+        "Asbet_match_id": 27907700,
+        "Asbet_tournament_id": 566,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Europe/566/uefa-champions-league/27907700/eintracht-frankfurt-galatasaray",
+        "group_id": "2573817655903522851-649543844-11184231-13780482-27907700",
+        "home_team": "Eintracht Frankfurt",
+        "away_team": "Galatasaray Istanbul",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.1,
+            "source": "Clubx2"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 2.065,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9605,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13780482-11184231",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "International Competitions",
+        "tournament_Clubx2": "UEFA Champions League",
+        "Clubx2_match_id": 13780482,
+        "Clubx2_tournament_id": 16808,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13780482#/overview",
+        "Tounesbet_country_name": "International Competitions",
+        "tournament_Tounesbet": "UEFA Champions League",
+        "Tounesbet_match_id": 11184231,
+        "Tounesbet_tournament_id": 47754,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2573817655903522851-649543844-11184231-13780482-27907700",
+        "home_team": "Eintracht Frankfurt",
+        "away_team": "Galatasaray Istanbul",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "under_3.5_vs_over_3.5",
+        "best_odds": {
+          "under_3.5_odd": {
+            "value": 1.958,
+            "source": "Tounesbet"
+          },
+          "over_3.5_odd": {
+            "value": 2.22,
+            "source": "Jibibet"
+          }
+        },
+        "arbitrage_percentage": 0.9612,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2573817655903522851-11184231",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "International Competitions",
+        "tournament_Tounesbet": "UEFA Champions League",
+        "Tounesbet_match_id": 11184231,
+        "Tounesbet_tournament_id": 47754,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Jibibet_country_name": "International Competitions",
+        "tournament_Jibibet": "UEFA Champions League",
+        "Jibibet_match_id": 2573817655903522851,
+        "Jibibet_tournament_id": 2470546796305330203,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "group_id": "2573817655903522851-649543844-11184231-13780482-27907700",
+        "home_team": "Eintracht Frankfurt",
+        "away_team": "Galatasaray Istanbul",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2573817655903522853-649543850-11183932-13780395-27907698",
+    "home_team": "Manchester City",
+    "away_team": "SSC Napoli",
+    "date": "18/09/2025",
+    "time": "20:00",
+    "country": "International Competitions",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "one_vs_x2",
+        "best_odds": {
+          "1_odd": {
+            "value": 1.947,
+            "source": "Tounesbet"
+          },
+          "X2_odd": {
+            "value": 2.306,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.9473,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "649543850-11183932",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "International Competitions",
+        "tournament_Tounesbet": "UEFA Champions League",
+        "Tounesbet_match_id": 11183932,
+        "Tounesbet_tournament_id": 47754,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "1xbet_country_name": "International Competitions",
+        "tournament_1xbet": "UEFA Champions League",
+        "1xbet_match_id": 649543850,
+        "1xbet_tournament_id": 118587,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/118587/649543850",
+        "group_id": "2573817655903522853-649543850-11183932-13780395-27907698",
+        "home_team": "Manchester City",
+        "away_team": "SSC Napoli",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 1.947,
+            "source": "Tounesbet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 2.29,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9503,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27907698-11183932",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "International Competitions",
+        "tournament_Tounesbet": "UEFA Champions League",
+        "Tounesbet_match_id": 11183932,
+        "Tounesbet_tournament_id": 47754,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "International Competitions",
+        "tournament_Asbet": "UEFA Champions League",
+        "Asbet_match_id": 27907698,
+        "Asbet_tournament_id": 566,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Europe/566/uefa-champions-league/27907698/manchester-city-ssc-napoli",
+        "group_id": "2573817655903522853-649543850-11183932-13780395-27907698",
+        "home_team": "Manchester City",
+        "away_team": "SSC Napoli",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 1.947,
+            "source": "Tounesbet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 2.25,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9581,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13780395-11183932",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "International Competitions",
+        "tournament_Tounesbet": "UEFA Champions League",
+        "Tounesbet_match_id": 11183932,
+        "Tounesbet_tournament_id": 47754,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "International Competitions",
+        "tournament_Clubx2": "UEFA Champions League",
+        "Clubx2_match_id": 13780395,
+        "Clubx2_tournament_id": 16808,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13780395#/overview",
+        "group_id": "2573817655903522853-649543850-11183932-13780395-27907698",
+        "home_team": "Manchester City",
+        "away_team": "SSC Napoli",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2573817655903522854-649543838-11185115-13782850-27907697",
+    "home_team": "Newcastle United",
+    "away_team": "FC Barcelona",
+    "date": "18/09/2025",
+    "time": "20:00",
+    "country": "International Competitions",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "two_vs_1x_handicap",
+        "best_odds": {
+          "2_odd": {
+            "value": 2.44,
+            "source": "Asbet"
+          },
+          "home_handicap_0.5_odd": {
+            "value": 1.888,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9395,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27907697-11185115",
+        "misvalue_source": "Asbet",
+        "Asbet_country_name": "International Competitions",
+        "tournament_Asbet": "UEFA Champions League",
+        "Asbet_match_id": 27907697,
+        "Asbet_tournament_id": 566,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Europe/566/uefa-champions-league/27907697/newcastle-united-barcelona",
+        "Tounesbet_country_name": "International Competitions",
+        "tournament_Tounesbet": "UEFA Champions League",
+        "Tounesbet_match_id": 11185115,
+        "Tounesbet_tournament_id": 47754,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2573817655903522854-649543838-11185115-13782850-27907697",
+        "home_team": "Newcastle United",
+        "away_team": "FC Barcelona",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "under_3.5_vs_over_3.5",
+        "best_odds": {
+          "under_3.5_odd": {
+            "value": 2.029,
+            "source": "Tounesbet"
+          },
+          "over_3.5_odd": {
+            "value": 2.229,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.9415,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "649543838-11185115",
+        "misvalue_source": "1xbet",
+        "Tounesbet_country_name": "International Competitions",
+        "tournament_Tounesbet": "UEFA Champions League",
+        "Tounesbet_match_id": 11185115,
+        "Tounesbet_tournament_id": 47754,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "1xbet_country_name": "International Competitions",
+        "tournament_1xbet": "UEFA Champions League",
+        "1xbet_match_id": 649543838,
+        "1xbet_tournament_id": 118587,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/118587/649543838",
+        "group_id": "2573817655903522854-649543838-11185115-13782850-27907697",
+        "home_team": "Newcastle United",
+        "away_team": "FC Barcelona",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "two_vs_1x_handicap",
+        "best_odds": {
+          "2_odd": {
+            "value": 2.34,
+            "source": "Jibibet"
+          },
+          "home_handicap_0.5_odd": {
+            "value": 1.888,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.957,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2573817655903522854-11185115",
+        "misvalue_source": "Asbet",
+        "Jibibet_country_name": "International Competitions",
+        "tournament_Jibibet": "UEFA Champions League",
+        "Jibibet_match_id": 2573817655903522854,
+        "Jibibet_tournament_id": 2470546796305330203,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "International Competitions",
+        "tournament_Tounesbet": "UEFA Champions League",
+        "Tounesbet_match_id": 11185115,
+        "Tounesbet_tournament_id": 47754,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2573817655903522854-649543838-11185115-13782850-27907697",
+        "home_team": "Newcastle United",
+        "away_team": "FC Barcelona",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_-0.25_home_vs_away",
+        "best_odds": {
+          "home_handicap_-0.25_odd": {
+            "value": 2.4,
+            "source": "Clubx2"
+          },
+          "away_handicap_0.25_odd": {
+            "value": 1.829,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9634,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13782850-11185115",
+        "misvalue_source": "1xbet",
+        "Clubx2_country_name": "International Competitions",
+        "tournament_Clubx2": "UEFA Champions League",
+        "Clubx2_match_id": 13782850,
+        "Clubx2_tournament_id": 16808,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13782850#/overview",
+        "Tounesbet_country_name": "International Competitions",
+        "tournament_Tounesbet": "UEFA Champions League",
+        "Tounesbet_match_id": 11185115,
+        "Tounesbet_tournament_id": 47754,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2573817655903522854-649543838-11185115-13782850-27907697",
+        "home_team": "Newcastle United",
+        "away_team": "FC Barcelona",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 3.125,
+            "source": "1xbet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.5,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9867,
+        "arbitrage_sources": "1xbet, Asbet",
+        "unique_id": "649543838-27907697",
+        "misvalue_source": "Asbet",
+        "1xbet_country_name": "International Competitions",
+        "tournament_1xbet": "UEFA Champions League",
+        "1xbet_match_id": 649543838,
+        "1xbet_tournament_id": 118587,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/118587/649543838",
+        "Asbet_country_name": "International Competitions",
+        "tournament_Asbet": "UEFA Champions League",
+        "Asbet_match_id": 27907697,
+        "Asbet_tournament_id": 566,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Europe/566/uefa-champions-league/27907697/newcastle-united-barcelona",
+        "group_id": "2573817655903522854-649543838-11185115-13782850-27907697",
+        "home_team": "Newcastle United",
+        "away_team": "FC Barcelona",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "649529840-11183449",
+    "home_team": "Sporting Clube De Portugal CP",
+    "away_team": "FC Kairat Almaty",
+    "date": "18/09/2025",
+    "time": "20:00",
+    "country": "International Competitions",
+    "all_sources": [
+      "1xbet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "away_under_0.5_vs_away_over_0.5",
+        "best_odds": {
+          "away_under_0.5_odd": {
+            "value": 1.805,
+            "source": "Tounesbet"
+          },
+          "away_over_0.5_odd": {
+            "value": 2.5,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.954,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "649529840-11183449",
+        "Tounesbet_country_name": "International Competitions",
+        "tournament_Tounesbet": "UEFA Champions League",
+        "Tounesbet_match_id": 11183449,
+        "Tounesbet_tournament_id": 47754,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "1xbet_country_name": "International Competitions",
+        "tournament_1xbet": "UEFA Champions League",
+        "1xbet_match_id": 649529840,
+        "1xbet_tournament_id": 118587,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/118587/649529840",
+        "group_id": "649529840-11183449",
+        "home_team": "Sporting Clube De Portugal CP",
+        "away_team": "FC Kairat Almaty",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2570556914027077678-647890603-11125997-13694070-27895562",
+    "home_team": "Club Atletico Lanus",
+    "away_team": "Fluminense FC RJ",
+    "date": "17/09/2025",
+    "time": "01:30",
+    "country": "International Competitions",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.5,
+            "source": "1xbet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.829,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9467,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "647890603-11125997",
+        "misvalue_source": "1xbet",
+        "1xbet_country_name": "International Competitions",
+        "tournament_1xbet": "Copa Sudamericana",
+        "1xbet_match_id": 647890603,
+        "1xbet_tournament_id": 1528791,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/1528791/647890603",
+        "Tounesbet_country_name": "International Competitions",
+        "tournament_Tounesbet": "Copa Sudamericana",
+        "Tounesbet_match_id": 11125997,
+        "Tounesbet_tournament_id": 61945,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2570556914027077678-647890603-11125997-13694070-27895562",
+        "home_team": "Club Atletico Lanus",
+        "away_team": "Fluminense FC RJ",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.5,
+            "source": "Clubx2"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.829,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9467,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13694070-11125997",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "International Competitions",
+        "tournament_Clubx2": "Copa Sudamericana",
+        "Clubx2_match_id": 13694070,
+        "Clubx2_tournament_id": 3108,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13694070#/overview",
+        "Tounesbet_country_name": "International Competitions",
+        "tournament_Tounesbet": "Copa Sudamericana",
+        "Tounesbet_match_id": 11125997,
+        "Tounesbet_tournament_id": 61945,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2570556914027077678-647890603-11125997-13694070-27895562",
+        "home_team": "Club Atletico Lanus",
+        "away_team": "Fluminense FC RJ",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.5,
+            "source": "Jibibet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.829,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9467,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2570556914027077678-11125997",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "International Competitions",
+        "tournament_Jibibet": "Copa Sudamericana ",
+        "Jibibet_match_id": 2570556914027077678,
+        "Jibibet_tournament_id": 2489388381067423760,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "International Competitions",
+        "tournament_Tounesbet": "Copa Sudamericana",
+        "Tounesbet_match_id": 11125997,
+        "Tounesbet_tournament_id": 61945,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2570556914027077678-647890603-11125997-13694070-27895562",
+        "home_team": "Club Atletico Lanus",
+        "away_team": "Fluminense FC RJ",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.45,
+            "source": "Asbet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.829,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9549,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27895562-11125997",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "International Competitions",
+        "tournament_Asbet": "Copa Sudamericana",
+        "Asbet_match_id": 27895562,
+        "Asbet_tournament_id": 2985,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/South America/2985/copa-sudamericana/27895562/ca-lanus-fluminense",
+        "Tounesbet_country_name": "International Competitions",
+        "tournament_Tounesbet": "Copa Sudamericana",
+        "Tounesbet_match_id": 11125997,
+        "Tounesbet_tournament_id": 61945,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2570556914027077678-647890603-11125997-13694070-27895562",
+        "home_team": "Club Atletico Lanus",
+        "away_team": "Fluminense FC RJ",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2570337744085717005-647890606-11112598-13685721-27895637",
+    "home_team": "CSD Independiente del Valle",
+    "away_team": "CD Once Caldas",
+    "date": "18/09/2025",
+    "time": "01:30",
+    "country": "International Competitions",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "second_half_under_1.5_vs_second_half_over_1.5",
+        "best_odds": {
+          "second_half_under_1.5_odd": {
+            "value": 1.958,
+            "source": "Tounesbet"
+          },
+          "second_half_over_1.5_odd": {
+            "value": 2.25,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9552,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27895637-11112598",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "International Competitions",
+        "tournament_Tounesbet": "Copa Sudamericana",
+        "Tounesbet_match_id": 11112598,
+        "Tounesbet_tournament_id": 61945,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "International Competitions",
+        "tournament_Asbet": "Copa Sudamericana",
+        "Asbet_match_id": 27895637,
+        "Asbet_tournament_id": 2985,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/South America/2985/copa-sudamericana/27895637/independiente-del-valle-once-caldas",
+        "group_id": "2570337744085717005-647890606-11112598-13685721-27895637",
+        "home_team": "CSD Independiente del Valle",
+        "away_team": "CD Once Caldas",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_-1.25_home_vs_away",
+        "best_odds": {
+          "home_handicap_-1.25_odd": {
+            "value": 2.39,
+            "source": "1xbet"
+          },
+          "away_handicap_1.25_odd": {
+            "value": 1.829,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9652,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "647890606-11112598",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "International Competitions",
+        "tournament_1xbet": "Copa Sudamericana",
+        "1xbet_match_id": 647890606,
+        "1xbet_tournament_id": 1528791,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/1528791/647890606",
+        "Tounesbet_country_name": "International Competitions",
+        "tournament_Tounesbet": "Copa Sudamericana",
+        "Tounesbet_match_id": 11112598,
+        "Tounesbet_tournament_id": 61945,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2570337744085717005-647890606-11112598-13685721-27895637",
+        "home_team": "CSD Independiente del Valle",
+        "away_team": "CD Once Caldas",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "second_half_under_1.5_vs_second_half_over_1.5",
+        "best_odds": {
+          "second_half_under_1.5_odd": {
+            "value": 1.958,
+            "source": "Tounesbet"
+          },
+          "second_half_over_1.5_odd": {
+            "value": 2.2,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9653,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13685721-11112598",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "International Competitions",
+        "tournament_Tounesbet": "Copa Sudamericana",
+        "Tounesbet_match_id": 11112598,
+        "Tounesbet_tournament_id": 61945,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "International Competitions",
+        "tournament_Clubx2": "Copa Sudamericana",
+        "Clubx2_match_id": 13685721,
+        "Clubx2_tournament_id": 3108,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13685721#/overview",
+        "group_id": "2570337744085717005-647890606-11112598-13685721-27895637",
+        "home_team": "CSD Independiente del Valle",
+        "away_team": "CD Once Caldas",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2",
+        "best_odds": {
+          "1_odd": {
+            "value": 1.899,
+            "source": "Tounesbet"
+          },
+          "X2_odd": {
+            "value": 2.27,
+            "source": "Jibibet"
+          }
+        },
+        "arbitrage_percentage": 0.9671,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2570337744085717005-11112598",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "International Competitions",
+        "tournament_Tounesbet": "Copa Sudamericana",
+        "Tounesbet_match_id": 11112598,
+        "Tounesbet_tournament_id": 61945,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Jibibet_country_name": "International Competitions",
+        "tournament_Jibibet": "Copa Sudamericana ",
+        "Jibibet_match_id": 2570337744085717005,
+        "Jibibet_tournament_id": 2489388381067423760,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "group_id": "2570337744085717005-647890606-11112598-13685721-27895637",
+        "home_team": "CSD Independiente del Valle",
+        "away_team": "CD Once Caldas",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2575791700773572622-653552114-11225266-13855646-27943431",
+    "home_team": "Alianza Lima",
+    "away_team": "Universidad de Chile",
+    "date": "19/09/2025",
+    "time": "01:30",
+    "country": "International Competitions",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.4,
+            "source": "Clubx2"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.888,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9463,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13855646-11225266",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "International Competitions",
+        "tournament_Clubx2": "Copa Sudamericana",
+        "Clubx2_match_id": 13855646,
+        "Clubx2_tournament_id": 3108,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13855646#/overview",
+        "Tounesbet_country_name": "International Competitions",
+        "tournament_Tounesbet": "Copa Sudamericana",
+        "Tounesbet_match_id": 11225266,
+        "Tounesbet_tournament_id": 61945,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2575791700773572622-653552114-11225266-13855646-27943431",
+        "home_team": "Alianza Lima",
+        "away_team": "Universidad de Chile",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.34,
+            "source": "1xbet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.888,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.957,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653552114-11225266",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "International Competitions",
+        "tournament_1xbet": "Copa Sudamericana",
+        "1xbet_match_id": 653552114,
+        "1xbet_tournament_id": 1528791,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/1528791/653552114",
+        "Tounesbet_country_name": "International Competitions",
+        "tournament_Tounesbet": "Copa Sudamericana",
+        "Tounesbet_match_id": 11225266,
+        "Tounesbet_tournament_id": 61945,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2575791700773572622-653552114-11225266-13855646-27943431",
+        "home_team": "Alianza Lima",
+        "away_team": "Universidad de Chile",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.34,
+            "source": "Jibibet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.888,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.957,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2575791700773572622-11225266",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "International Competitions",
+        "tournament_Jibibet": "Copa Sudamericana ",
+        "Jibibet_match_id": 2575791700773572622,
+        "Jibibet_tournament_id": 2489388381067423760,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "International Competitions",
+        "tournament_Tounesbet": "Copa Sudamericana",
+        "Tounesbet_match_id": 11225266,
+        "Tounesbet_tournament_id": 61945,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2575791700773572622-653552114-11225266-13855646-27943431",
+        "home_team": "Alianza Lima",
+        "away_team": "Universidad de Chile",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "second_half_under_1.5_vs_second_half_over_1.5",
+        "best_odds": {
+          "second_half_under_1.5_odd": {
+            "value": 1.805,
+            "source": "Tounesbet"
+          },
+          "second_half_over_1.5_odd": {
+            "value": 2.45,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9622,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27943431-11225266",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "International Competitions",
+        "tournament_Tounesbet": "Copa Sudamericana",
+        "Tounesbet_match_id": 11225266,
+        "Tounesbet_tournament_id": 61945,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "International Competitions",
+        "tournament_Asbet": "Copa Sudamericana",
+        "Asbet_match_id": 27943431,
+        "Asbet_tournament_id": 2985,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/South America/2985/copa-sudamericana/27943431/alianza-lima-universidad-de-chile",
+        "group_id": "2575791700773572622-653552114-11225266-13855646-27943431",
+        "home_team": "Alianza Lima",
+        "away_team": "Universidad de Chile",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2579302248169484334-653416878-11287831-13641435-28001911",
+    "home_team": "Ulsan Hyundai Mipo Dockyard",
+    "away_team": "Chengdu Rongcheng FC",
+    "date": "17/09/2025",
+    "time": "11:00",
+    "country": "International Competitions",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_-1.25_home_vs_away",
+        "best_odds": {
+          "home_handicap_-1.25_odd": {
+            "value": 2.57,
+            "source": "1xbet"
+          },
+          "away_handicap_1.25_odd": {
+            "value": 1.793,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9468,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653416878-11287831",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "International Competitions",
+        "tournament_1xbet": "AFC Champions League Elite",
+        "1xbet_match_id": 653416878,
+        "1xbet_tournament_id": 2740174,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/2740174/653416878",
+        "Tounesbet_country_name": "International Competitions",
+        "tournament_Tounesbet": "AFC Champions League",
+        "Tounesbet_match_id": 11287831,
+        "Tounesbet_tournament_id": 47953,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579302248169484334-653416878-11287831-13641435-28001911",
+        "home_team": "Ulsan Hyundai Mipo Dockyard",
+        "away_team": "Chengdu Rongcheng FC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_-1.25_home_vs_away",
+        "best_odds": {
+          "home_handicap_-1.25_odd": {
+            "value": 2.52,
+            "source": "Asbet"
+          },
+          "away_handicap_1.25_odd": {
+            "value": 1.793,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9545,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "28001911-11287831",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "International Competitions",
+        "tournament_Asbet": "AFC Champions League Elite",
+        "Asbet_match_id": 28001911,
+        "Asbet_tournament_id": 1692,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Asia/1692/afc-champions-league-elite/28001911/ulsan-hyundai-fc-chengdu-rongcheng-fc",
+        "Tounesbet_country_name": "International Competitions",
+        "tournament_Tounesbet": "AFC Champions League",
+        "Tounesbet_match_id": 11287831,
+        "Tounesbet_tournament_id": 47953,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579302248169484334-653416878-11287831-13641435-28001911",
+        "home_team": "Ulsan Hyundai Mipo Dockyard",
+        "away_team": "Chengdu Rongcheng FC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_-1.25_home_vs_away",
+        "best_odds": {
+          "home_handicap_-1.25_odd": {
+            "value": 2.4,
+            "source": "Clubx2"
+          },
+          "away_handicap_1.25_odd": {
+            "value": 1.793,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9744,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13641435-11287831",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "International Competitions",
+        "tournament_Clubx2": "AFC Champions League",
+        "Clubx2_match_id": 13641435,
+        "Clubx2_tournament_id": 3868,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13641435#/overview",
+        "Tounesbet_country_name": "International Competitions",
+        "tournament_Tounesbet": "AFC Champions League",
+        "Tounesbet_match_id": 11287831,
+        "Tounesbet_tournament_id": 47953,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579302248169484334-653416878-11287831-13641435-28001911",
+        "home_team": "Ulsan Hyundai Mipo Dockyard",
+        "away_team": "Chengdu Rongcheng FC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.006,
+            "source": "Tounesbet"
+          },
+          "X2_odd": {
+            "value": 2.1,
+            "source": "Jibibet"
+          }
+        },
+        "arbitrage_percentage": 0.9747,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2579302248169484334-11287831",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "International Competitions",
+        "tournament_Tounesbet": "AFC Champions League",
+        "Tounesbet_match_id": 11287831,
+        "Tounesbet_tournament_id": 47953,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Jibibet_country_name": "International Competitions",
+        "tournament_Jibibet": "AFC Champions League Elite",
+        "Jibibet_match_id": 2579302248169484334,
+        "Jibibet_tournament_id": 2475157049831460877,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "group_id": "2579302248169484334-653416878-11287831-13641435-28001911",
+        "home_team": "Ulsan Hyundai Mipo Dockyard",
+        "away_team": "Chengdu Rongcheng FC",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2570556914027077656-648623077-11126147-13690244-27895788",
+    "home_team": "Regatas Flamengo RJ",
+    "away_team": "Estudiantes de La Plata",
+    "date": "19/09/2025",
+    "time": "01:30",
+    "country": "International Competitions",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_-1.75_home_vs_away",
+        "best_odds": {
+          "home_handicap_-1.75_odd": {
+            "value": 2.509,
+            "source": "1xbet"
+          },
+          "away_handicap_1.75_odd": {
+            "value": 1.911,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9219,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "648623077-11126147",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "International Competitions",
+        "tournament_1xbet": "Copa Libertadores",
+        "1xbet_match_id": 648623077,
+        "1xbet_tournament_id": 142091,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/142091/648623077",
+        "Tounesbet_country_name": "International Competitions",
+        "tournament_Tounesbet": "Copa Libertadores",
+        "Tounesbet_match_id": 11126147,
+        "Tounesbet_tournament_id": 24984,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2570556914027077656-648623077-11126147-13690244-27895788",
+        "home_team": "Regatas Flamengo RJ",
+        "away_team": "Estudiantes de La Plata",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_-1.75_home_vs_away",
+        "best_odds": {
+          "home_handicap_-1.75_odd": {
+            "value": 2.4,
+            "source": "Clubx2"
+          },
+          "away_handicap_1.75_odd": {
+            "value": 1.911,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.94,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13690244-11126147",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "International Competitions",
+        "tournament_Clubx2": "Copa Libertadores",
+        "Clubx2_match_id": 13690244,
+        "Clubx2_tournament_id": 3709,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13690244#/overview",
+        "Tounesbet_country_name": "International Competitions",
+        "tournament_Tounesbet": "Copa Libertadores",
+        "Tounesbet_match_id": 11126147,
+        "Tounesbet_tournament_id": 24984,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2570556914027077656-648623077-11126147-13690244-27895788",
+        "home_team": "Regatas Flamengo RJ",
+        "away_team": "Estudiantes de La Plata",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_-1.75_home_vs_away",
+        "best_odds": {
+          "home_handicap_-1.75_odd": {
+            "value": 2.38,
+            "source": "Asbet"
+          },
+          "away_handicap_1.75_odd": {
+            "value": 1.911,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9435,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27895788-11126147",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "International Competitions",
+        "tournament_Asbet": "Copa Libertadores",
+        "Asbet_match_id": 27895788,
+        "Asbet_tournament_id": 2988,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/South America/2988/copa-libertadores/27895788/regatas-flamengo-rj-estudiantes-la-plata",
+        "Tounesbet_country_name": "International Competitions",
+        "tournament_Tounesbet": "Copa Libertadores",
+        "Tounesbet_match_id": 11126147,
+        "Tounesbet_tournament_id": 24984,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2570556914027077656-648623077-11126147-13690244-27895788",
+        "home_team": "Regatas Flamengo RJ",
+        "away_team": "Estudiantes de La Plata",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "11248447-13919132-27980583",
+    "home_team": "FCV Farul Constanta (Wom)",
+    "away_team": "HB Koge (Wom)",
+    "date": "17/09/2025",
+    "time": "13:00",
+    "country": "International Competitions",
+    "all_sources": [
+      "Asbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_1.25_home_vs_away",
+        "best_odds": {
+          "home_handicap_1.25_odd": {
+            "value": 1.88,
+            "source": "Asbet"
+          },
+          "away_handicap_-1.25_odd": {
+            "value": 2.242,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9779,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27980583-11248447",
+        "Asbet_country_name": "International Competitions",
+        "tournament_Asbet": "UEFA Europa Cup - Women",
+        "Asbet_match_id": 27980583,
+        "Asbet_tournament_id": 18294051,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Europe/18294051/uefa-europa-cup---women/27980583/fcv-farul-constanta-wom-hb-koge-wom",
+        "Tounesbet_country_name": "International Competitions",
+        "tournament_Tounesbet": "Uefa Europa League Women",
+        "Tounesbet_match_id": 11248447,
+        "Tounesbet_tournament_id": 185070,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "11248447-13919132-27980583",
+        "home_team": "FCV Farul Constanta (Wom)",
+        "away_team": "HB Koge (Wom)",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "11248448-13914566-27981017",
+    "home_team": "Kuopion Palloseura (W)",
+    "away_team": "FC Nordsjaelland (Wom)",
+    "date": "17/09/2025",
+    "time": "16:00",
+    "country": "International Competitions",
+    "all_sources": [
+      "Asbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "two_vs_1x_handicap",
+        "best_odds": {
+          "2_odd": {
+            "value": 2.0,
+            "source": "Asbet"
+          },
+          "home_handicap_0.5_odd": {
+            "value": 2.124,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9708,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27981017-11248448",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "International Competitions",
+        "tournament_Asbet": "UEFA Europa Cup - Women",
+        "Asbet_match_id": 27981017,
+        "Asbet_tournament_id": 18294051,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Europe/18294051/uefa-europa-cup---women/27981017/kups-kuopio-wom-fc-nordsjaelland-wom",
+        "Tounesbet_country_name": "International Competitions",
+        "tournament_Tounesbet": "Uefa Europa League Women",
+        "Tounesbet_match_id": 11248448,
+        "Tounesbet_tournament_id": 185070,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "11248448-13914566-27981017",
+        "home_team": "Kuopion Palloseura (W)",
+        "away_team": "FC Nordsjaelland (Wom)",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "two_vs_1x_handicap",
+        "best_odds": {
+          "2_odd": {
+            "value": 2.0,
+            "source": "Clubx2"
+          },
+          "home_handicap_0.5_odd": {
+            "value": 2.124,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9708,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13914566-11248448",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "International Competitions",
+        "tournament_Clubx2": "UEFA Europa Cup, Women",
+        "Clubx2_match_id": 13914566,
+        "Clubx2_tournament_id": 56543,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13914566#/overview",
+        "Tounesbet_country_name": "International Competitions",
+        "tournament_Tounesbet": "Uefa Europa League Women",
+        "Tounesbet_match_id": 11248448,
+        "Tounesbet_tournament_id": 185070,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "11248448-13914566-27981017",
+        "home_team": "Kuopion Palloseura (W)",
+        "away_team": "FC Nordsjaelland (Wom)",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "11248451-13919264-27981341",
+    "home_team": "FC Kolos Kovalivka (Wom)",
+    "away_team": "Vllaznia Shkodër (W)",
+    "date": "17/09/2025",
+    "time": "17:00",
+    "country": "International Competitions",
+    "all_sources": [
+      "Asbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_1.0_home_vs_away",
+        "best_odds": {
+          "home_handicap_1.0_odd": {
+            "value": 1.83,
+            "source": "Asbet"
+          },
+          "away_handicap_-1.0_odd": {
+            "value": 2.265,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9879,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27981341-11248451",
+        "Asbet_country_name": "International Competitions",
+        "tournament_Asbet": "UEFA Europa Cup - Women",
+        "Asbet_match_id": 27981341,
+        "Asbet_tournament_id": 18294051,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Europe/18294051/uefa-europa-cup---women/27981341/fc-kolos-kovalivka-wom-kf-vllaznia-wom",
+        "Tounesbet_country_name": "International Competitions",
+        "tournament_Tounesbet": "Uefa Europa League Women",
+        "Tounesbet_match_id": 11248451,
+        "Tounesbet_tournament_id": 185070,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "11248451-13919264-27981341",
+        "home_team": "FC Kolos Kovalivka (Wom)",
+        "away_team": "Vllaznia Shkodër (W)",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "11248463-13919208-27981342",
+    "home_team": "ZFK Spartak Subotica (Wom)",
+    "away_team": "FK Partizani Tirana (Wom)",
+    "date": "17/09/2025",
+    "time": "17:00",
+    "country": "International Competitions",
+    "all_sources": [
+      "Asbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_-4.25_home_vs_away",
+        "best_odds": {
+          "home_handicap_-4.25_odd": {
+            "value": 2.01,
+            "source": "Asbet"
+          },
+          "away_handicap_4.25_odd": {
+            "value": 2.242,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9435,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27981342-11248463",
+        "Asbet_country_name": "International Competitions",
+        "tournament_Asbet": "UEFA Europa Cup - Women",
+        "Asbet_match_id": 27981342,
+        "Asbet_tournament_id": 18294051,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Europe/18294051/uefa-europa-cup---women/27981342/zfk-spartak-subotica-wom-fk-partizani-tirana-wom",
+        "Tounesbet_country_name": "International Competitions",
+        "tournament_Tounesbet": "Uefa Europa League Women",
+        "Tounesbet_match_id": 11248463,
+        "Tounesbet_tournament_id": 185070,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "11248463-13919208-27981342",
+        "home_team": "ZFK Spartak Subotica (Wom)",
+        "away_team": "FK Partizani Tirana (Wom)",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "first_half_under_2.5_vs_first_half_over_2.5",
+        "best_odds": {
+          "first_half_under_2.5_odd": {
+            "value": 1.5556,
+            "source": "Clubx2"
+          },
+          "first_half_over_2.5_odd": {
+            "value": 2.867,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9916,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13919208-11248463",
+        "Clubx2_country_name": "International Competitions",
+        "tournament_Clubx2": "UEFA Europa Cup, Women",
+        "Clubx2_match_id": 13919208,
+        "Clubx2_tournament_id": 56543,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13919208#/overview",
+        "Tounesbet_country_name": "International Competitions",
+        "tournament_Tounesbet": "Uefa Europa League Women",
+        "Tounesbet_match_id": 11248463,
+        "Tounesbet_tournament_id": 185070,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "11248463-13919208-27981342",
+        "home_team": "ZFK Spartak Subotica (Wom)",
+        "away_team": "FK Partizani Tirana (Wom)",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "11248455-13914578-27981588",
+    "home_team": "PSV Eindhoven (Wom)",
+    "away_team": "Rosenborg Ballklub Kvinner (W)",
+    "date": "17/09/2025",
+    "time": "18:00",
+    "country": "International Competitions",
+    "all_sources": [
+      "Asbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_-0.75_home_vs_away",
+        "best_odds": {
+          "home_handicap_-0.75_odd": {
+            "value": 1.93,
+            "source": "Asbet"
+          },
+          "away_handicap_0.75_odd": {
+            "value": 2.183,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9762,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27981588-11248455",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "International Competitions",
+        "tournament_Asbet": "UEFA Europa Cup - Women",
+        "Asbet_match_id": 27981588,
+        "Asbet_tournament_id": 18294051,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Europe/18294051/uefa-europa-cup---women/27981588/psv-eindhoven-wom-rosenborg-bk-wom",
+        "Tounesbet_country_name": "International Competitions",
+        "tournament_Tounesbet": "Uefa Europa League Women",
+        "Tounesbet_match_id": 11248455,
+        "Tounesbet_tournament_id": 185070,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "11248455-13914578-27981588",
+        "home_team": "PSV Eindhoven (Wom)",
+        "away_team": "Rosenborg Ballklub Kvinner (W)",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "11248452-13914584-27981589",
+    "home_team": "RSC Anderlecht (Wom)",
+    "away_team": "Aris Limassol (Wom)",
+    "date": "17/09/2025",
+    "time": "18:00",
+    "country": "International Competitions",
+    "all_sources": [
+      "Asbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_-3.75_home_vs_away",
+        "best_odds": {
+          "home_handicap_-3.75_odd": {
+            "value": 2.242,
+            "source": "Tounesbet"
+          },
+          "away_handicap_3.75_odd": {
+            "value": 1.85,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9866,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27981589-11248452",
+        "Tounesbet_country_name": "International Competitions",
+        "tournament_Tounesbet": "Uefa Europa League Women",
+        "Tounesbet_match_id": 11248452,
+        "Tounesbet_tournament_id": 185070,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "International Competitions",
+        "tournament_Asbet": "UEFA Europa Cup - Women",
+        "Asbet_match_id": 27981589,
+        "Asbet_tournament_id": 18294051,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Europe/18294051/uefa-europa-cup---women/27981589/rsc-anderlecht-wom-aris-limassol-wom",
+        "group_id": "11248452-13914584-27981589",
+        "home_team": "RSC Anderlecht (Wom)",
+        "away_team": "Aris Limassol (Wom)",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "first_half_under_2.5_vs_first_half_over_2.5",
+        "best_odds": {
+          "first_half_under_2.5_odd": {
+            "value": 1.805,
+            "source": "Tounesbet"
+          },
+          "first_half_over_2.5_odd": {
+            "value": 2.3,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9888,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13914584-11248452",
+        "Tounesbet_country_name": "International Competitions",
+        "tournament_Tounesbet": "Uefa Europa League Women",
+        "Tounesbet_match_id": 11248452,
+        "Tounesbet_tournament_id": 185070,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "International Competitions",
+        "tournament_Clubx2": "UEFA Europa Cup, Women",
+        "Clubx2_match_id": 13914584,
+        "Clubx2_tournament_id": 56543,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13914584#/overview",
+        "group_id": "11248452-13914584-27981589",
+        "home_team": "RSC Anderlecht (Wom)",
+        "away_team": "Aris Limassol (Wom)",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "11248457-13914586-27981831",
+    "home_team": "Hibernian Edinburgh LFC (Wom)",
+    "away_team": "Inter Milan (Wom)",
+    "date": "17/09/2025",
+    "time": "19:00",
+    "country": "International Competitions",
+    "all_sources": [
+      "Asbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_1.5_home_vs_away",
+        "best_odds": {
+          "home_handicap_1.5_odd": {
+            "value": 1.79,
+            "source": "Asbet"
+          },
+          "away_handicap_-1.5_odd": {
+            "value": 2.324,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.989,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27981831-11248457",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "International Competitions",
+        "tournament_Asbet": "UEFA Europa Cup - Women",
+        "Asbet_match_id": 27981831,
+        "Asbet_tournament_id": 18294051,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Europe/18294051/uefa-europa-cup---women/27981831/hibernian-edinburgh-lfc-wom-inter-milan-wom",
+        "Tounesbet_country_name": "International Competitions",
+        "tournament_Tounesbet": "Uefa Europa League Women",
+        "Tounesbet_match_id": 11248457,
+        "Tounesbet_tournament_id": 185070,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "11248457-13914586-27981831",
+        "home_team": "Hibernian Edinburgh LFC (Wom)",
+        "away_team": "Inter Milan (Wom)",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_1.5_home_vs_away",
+        "best_odds": {
+          "home_handicap_1.5_odd": {
+            "value": 2.147,
+            "source": "Tounesbet"
+          },
+          "away_handicap_-1.5_odd": {
+            "value": 1.9,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9921,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13914586-11248457",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "International Competitions",
+        "tournament_Tounesbet": "Uefa Europa League Women",
+        "Tounesbet_match_id": 11248457,
+        "Tounesbet_tournament_id": 185070,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "International Competitions",
+        "tournament_Clubx2": "UEFA Europa Cup, Women",
+        "Clubx2_match_id": 13914586,
+        "Clubx2_tournament_id": 56543,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13914586#/overview",
+        "group_id": "11248457-13914586-27981831",
+        "home_team": "Hibernian Edinburgh LFC (Wom)",
+        "away_team": "Inter Milan (Wom)",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "11297437-13914587-27981964",
+    "home_team": "Athlone Town FC (W)",
+    "away_team": "Glasgow City LFC (Wom)",
+    "date": "17/09/2025",
+    "time": "19:30",
+    "country": "International Competitions",
+    "all_sources": [
+      "Asbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "two_vs_1x",
+        "best_odds": {
+          "2_odd": {
+            "value": 1.8182,
+            "source": "Clubx2"
+          },
+          "1X_odd": {
+            "value": 2.36,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9737,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13914587-11297437",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "International Competitions",
+        "tournament_Clubx2": "UEFA Europa Cup, Women",
+        "Clubx2_match_id": 13914587,
+        "Clubx2_tournament_id": 56543,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13914587#/overview",
+        "Tounesbet_country_name": "International Competitions",
+        "tournament_Tounesbet": "Uefa Europa League Women",
+        "Tounesbet_match_id": 11297437,
+        "Tounesbet_tournament_id": 185070,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "11297437-13914587-27981964",
+        "home_team": "Athlone Town FC (W)",
+        "away_team": "Glasgow City LFC (Wom)",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_0.75_home_vs_away",
+        "best_odds": {
+          "home_handicap_0.75_odd": {
+            "value": 2.147,
+            "source": "Tounesbet"
+          },
+          "away_handicap_-0.75_odd": {
+            "value": 1.92,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9866,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27981964-11297437",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "International Competitions",
+        "tournament_Tounesbet": "Uefa Europa League Women",
+        "Tounesbet_match_id": 11297437,
+        "Tounesbet_tournament_id": 185070,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "International Competitions",
+        "tournament_Asbet": "UEFA Europa Cup - Women",
+        "Asbet_match_id": 27981964,
+        "Asbet_tournament_id": 18294051,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Europe/18294051/uefa-europa-cup---women/27981964/athlone-town-wom-glasgow-city-lfc-wom",
+        "group_id": "11297437-13914587-27981964",
+        "home_team": "Athlone Town FC (W)",
+        "away_team": "Glasgow City LFC (Wom)",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "11300257-13810614-27995128",
+    "home_team": "Olympiacos Piraeus U19",
+    "away_team": "Pafos FC U19",
+    "date": "17/09/2025",
+    "time": "11:30",
+    "country": "International Competitions",
+    "all_sources": [
+      "Asbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_-2.0_home_vs_away",
+        "best_odds": {
+          "home_handicap_-2.0_odd": {
+            "value": 1.888,
+            "source": "Tounesbet"
+          },
+          "away_handicap_2.0_odd": {
+            "value": 2.27,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9702,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27995128-11300257",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "International Competitions",
+        "tournament_Tounesbet": "UEFA Youth League",
+        "Tounesbet_match_id": 11300257,
+        "Tounesbet_tournament_id": 25379,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "International Competitions",
+        "tournament_Asbet": "UEFA Youth League",
+        "Asbet_match_id": 27995128,
+        "Asbet_tournament_id": 1863,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Europe/1863/uefa-youth-league/27995128/olympiacos-piraeus-u-pafos-fc-u",
+        "group_id": "11300257-13810614-27995128",
+        "home_team": "Olympiacos Piraeus U19",
+        "away_team": "Pafos FC U19",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "home_under_2.5_vs_home_over_2.5",
+        "best_odds": {
+          "home_under_2.5_odd": {
+            "value": 2.2858,
+            "source": "Clubx2"
+          },
+          "home_over_2.5_odd": {
+            "value": 1.852,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9774,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13810614-11300257",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "International Competitions",
+        "tournament_Clubx2": "UEFA Youth League",
+        "Clubx2_match_id": 13810614,
+        "Clubx2_tournament_id": 4393,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13810614#/overview",
+        "Tounesbet_country_name": "International Competitions",
+        "tournament_Tounesbet": "UEFA Youth League",
+        "Tounesbet_match_id": 11300257,
+        "Tounesbet_tournament_id": 25379,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "11300257-13810614-27995128",
+        "home_team": "Olympiacos Piraeus U19",
+        "away_team": "Pafos FC U19",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "11300263-13810128-27995738",
+    "home_team": "SK Slavia Praha U19",
+    "away_team": "FK Bodo/Glimt U19",
+    "date": "17/09/2025",
+    "time": "12:00",
+    "country": "International Competitions",
+    "all_sources": [
+      "Asbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "first_half_under_1.5_vs_first_half_over_1.5",
+        "best_odds": {
+          "first_half_under_1.5_odd": {
+            "value": 2.2858,
+            "source": "Clubx2"
+          },
+          "first_half_over_1.5_odd": {
+            "value": 1.935,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9543,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13810128-11300263",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "International Competitions",
+        "tournament_Clubx2": "UEFA Youth League",
+        "Clubx2_match_id": 13810128,
+        "Clubx2_tournament_id": 4393,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13810128#/overview",
+        "Tounesbet_country_name": "International Competitions",
+        "tournament_Tounesbet": "UEFA Youth League",
+        "Tounesbet_match_id": 11300263,
+        "Tounesbet_tournament_id": 25379,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "11300263-13810128-27995738",
+        "home_team": "SK Slavia Praha U19",
+        "away_team": "FK Bodo/Glimt U19",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_-3.75_home_vs_away",
+        "best_odds": {
+          "home_handicap_-3.75_odd": {
+            "value": 2.4,
+            "source": "Asbet"
+          },
+          "away_handicap_3.75_odd": {
+            "value": 1.852,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9566,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27995738-11300263",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "International Competitions",
+        "tournament_Asbet": "UEFA Youth League",
+        "Asbet_match_id": 27995738,
+        "Asbet_tournament_id": 1863,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Europe/1863/uefa-youth-league/27995738/sk-slavia-praha-u-fk-bodoglimt-u",
+        "Tounesbet_country_name": "International Competitions",
+        "tournament_Tounesbet": "UEFA Youth League",
+        "Tounesbet_match_id": 11300263,
+        "Tounesbet_tournament_id": 25379,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "11300263-13810128-27995738",
+        "home_team": "SK Slavia Praha U19",
+        "away_team": "FK Bodo/Glimt U19",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "11300262-27995832",
+    "home_team": "Paris Saint-Germain U19",
+    "away_team": "Atalanta U19",
+    "date": "17/09/2025",
+    "time": "13:30",
+    "country": "International Competitions",
+    "all_sources": [
+      "Asbet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_-1.0_home_vs_away",
+        "best_odds": {
+          "home_handicap_-1.0_odd": {
+            "value": 2.5,
+            "source": "Asbet"
+          },
+          "away_handicap_1.0_odd": {
+            "value": 1.793,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9577,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27995832-11300262",
+        "Asbet_country_name": "International Competitions",
+        "tournament_Asbet": "UEFA Youth League",
+        "Asbet_match_id": 27995832,
+        "Asbet_tournament_id": 1863,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Europe/1863/uefa-youth-league/27995832/paris-saint-germain-u-atalanta-u",
+        "Tounesbet_country_name": "International Competitions",
+        "tournament_Tounesbet": "UEFA Youth League",
+        "Tounesbet_match_id": 11300262,
+        "Tounesbet_tournament_id": 25379,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "11300262-27995832",
+        "home_team": "Paris Saint-Germain U19",
+        "away_team": "Atalanta U19",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "11300270-27996150",
+    "home_team": "AFC Ajax U19",
+    "away_team": "Inter Milan U19",
+    "date": "17/09/2025",
+    "time": "14:00",
+    "country": "International Competitions",
+    "all_sources": [
+      "Asbet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_-0.5_home_vs_away",
+        "best_odds": {
+          "home_handicap_-0.5_odd": {
+            "value": 2.15,
+            "source": "Asbet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.97,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9727,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27996150-11300270",
+        "Asbet_country_name": "International Competitions",
+        "tournament_Asbet": "UEFA Youth League",
+        "Asbet_match_id": 27996150,
+        "Asbet_tournament_id": 1863,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Europe/1863/uefa-youth-league/27996150/afc-ajax-u-inter-milan-u",
+        "Tounesbet_country_name": "International Competitions",
+        "tournament_Tounesbet": "UEFA Youth League",
+        "Tounesbet_match_id": 11300270,
+        "Tounesbet_tournament_id": 25379,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "11300270-27996150",
+        "home_team": "AFC Ajax U19",
+        "away_team": "Inter Milan U19",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "11299152-13810376-27996441",
+    "home_team": "Liverpool U19",
+    "away_team": "Atletico Madrid U19",
+    "date": "17/09/2025",
+    "time": "15:00",
+    "country": "International Competitions",
+    "all_sources": [
+      "Asbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "home_under_1.5_vs_home_over_1.5",
+        "best_odds": {
+          "home_under_1.5_odd": {
+            "value": 1.899,
+            "source": "Tounesbet"
+          },
+          "home_over_1.5_odd": {
+            "value": 2.5455,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9194,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13810376-11299152",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "International Competitions",
+        "tournament_Tounesbet": "UEFA Youth League",
+        "Tounesbet_match_id": 11299152,
+        "Tounesbet_tournament_id": 25379,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "International Competitions",
+        "tournament_Clubx2": "UEFA Youth League",
+        "Clubx2_match_id": 13810376,
+        "Clubx2_tournament_id": 4393,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13810376#/overview",
+        "group_id": "11299152-13810376-27996441",
+        "home_team": "Liverpool U19",
+        "away_team": "Atletico Madrid U19",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_-0.25_home_vs_away",
+        "best_odds": {
+          "home_handicap_-0.25_odd": {
+            "value": 2.52,
+            "source": "Asbet"
+          },
+          "away_handicap_0.25_odd": {
+            "value": 1.852,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9368,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27996441-11299152",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "International Competitions",
+        "tournament_Asbet": "UEFA Youth League",
+        "Asbet_match_id": 27996441,
+        "Asbet_tournament_id": 1863,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Europe/1863/uefa-youth-league/27996441/liverpool-u-atletico-madrid-u",
+        "Tounesbet_country_name": "International Competitions",
+        "tournament_Tounesbet": "UEFA Youth League",
+        "Tounesbet_match_id": 11299152,
+        "Tounesbet_tournament_id": 25379,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "11299152-13810376-27996441",
+        "home_team": "Liverpool U19",
+        "away_team": "Atletico Madrid U19",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "11299308-13810103-27996527",
+    "home_team": "FC Bayern München U19",
+    "away_team": "Chelsea U19",
+    "date": "17/09/2025",
+    "time": "15:00",
+    "country": "International Competitions",
+    "all_sources": [
+      "Asbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.0,
+            "source": "Clubx2"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 2.147,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9658,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13810103-11299308",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "International Competitions",
+        "tournament_Clubx2": "UEFA Youth League",
+        "Clubx2_match_id": 13810103,
+        "Clubx2_tournament_id": 4393,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13810103#/overview",
+        "Tounesbet_country_name": "International Competitions",
+        "tournament_Tounesbet": "UEFA Youth League",
+        "Tounesbet_match_id": 11299308,
+        "Tounesbet_tournament_id": 25379,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "11299308-13810103-27996527",
+        "home_team": "FC Bayern München U19",
+        "away_team": "Chelsea U19",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_-0.75_home_vs_away",
+        "best_odds": {
+          "home_handicap_-0.75_odd": {
+            "value": 2.23,
+            "source": "Asbet"
+          },
+          "away_handicap_0.75_odd": {
+            "value": 1.911,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9717,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27996527-11299308",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "International Competitions",
+        "tournament_Asbet": "UEFA Youth League",
+        "Asbet_match_id": 27996527,
+        "Asbet_tournament_id": 1863,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Europe/1863/uefa-youth-league/27996527/bayern-munich-u-chelsea-u",
+        "Tounesbet_country_name": "International Competitions",
+        "tournament_Tounesbet": "UEFA Youth League",
+        "Tounesbet_match_id": 11299308,
+        "Tounesbet_tournament_id": 25379,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "11299308-13810103-27996527",
+        "home_team": "FC Bayern München U19",
+        "away_team": "Chelsea U19",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "11128860-13690255",
+    "home_team": "River Plate",
+    "away_team": "Palmeiras",
+    "date": "18/09/2025",
+    "time": "01:30",
+    "country": "International Competitions",
+    "all_sources": [
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "first_half_under_0.5_vs_first_half_over_0.5",
+        "best_odds": {
+          "first_half_under_0.5_odd": {
+            "value": 2.4,
+            "source": "Clubx2"
+          },
+          "first_half_over_0.5_odd": {
+            "value": 1.888,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9463,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13690255-11128860",
+        "Clubx2_country_name": "International Competitions",
+        "tournament_Clubx2": "Copa Libertadores",
+        "Clubx2_match_id": 13690255,
+        "Clubx2_tournament_id": 3709,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13690255#/overview",
+        "Tounesbet_country_name": "International Competitions",
+        "tournament_Tounesbet": "Copa Libertadores",
+        "Tounesbet_match_id": 11128860,
+        "Tounesbet_tournament_id": 24984,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "11128860-13690255",
+        "home_team": "River Plate",
+        "away_team": "Palmeiras",
+        "activity_duration": "1 hour"
+      }
+    ]
+  }
+]

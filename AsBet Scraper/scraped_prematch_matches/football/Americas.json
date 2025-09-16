@@ -1,0 +1,49 @@
+[
+    {
+        "last_updated": "2025-09-16T20:47:55.704071+01:00"
+    },
+    {
+        "tournament_name": "CONCACAF Champions Cup - Women",
+        "tournament_id": 18290472,
+        "matches": [
+            {
+                "match_id": 28013580,
+                "date": "17/09/2025",
+                "time": "03:00",
+                "home_team": "Vancouver Rise FC (Wom)",
+                "away_team": "NJ/NY Gotham FC (Wom)",
+                "match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Americas/18290472/concacaf-champions-cup---women/28013580/vancouver-rise-fc-wom-njny-gotham-fc-wom",
+                "under_4.5_odd": 1.52,
+                "over_4.5_odd": 2.37,
+                "over_4.25_odd": 2.15,
+                "under_4.25_odd": 1.62,
+                "under_3.75_odd": 1.95,
+                "over_3.75_odd": 1.75,
+                "away_handicap_-2.75_odd": 1.94,
+                "home_handicap_2.75_odd": 1.76,
+                "under_3.5_odd": 2.17,
+                "over_3.5_odd": 1.61,
+                "under_4.0_odd": 1.77,
+                "over_4.0_odd": 1.93,
+                "away_handicap_-3.25_odd": 2.5,
+                "home_handicap_3.25_odd": 1.47,
+                "away_handicap_-3.0_odd": 2.25,
+                "home_handicap_3.0_odd": 1.57,
+                "12_odd": 1.05,
+                "X2_odd": 1.025,
+                "1X_odd": 6.2,
+                "away_handicap_-2.5_odd": 1.78,
+                "home_handicap_2.5_odd": 1.92,
+                "2_odd": 1.09,
+                "1_odd": 14.0,
+                "draw_odd": 9.0,
+                "over_3.25_odd": 1.47,
+                "under_3.25_odd": 2.5,
+                "home_handicap_2.25_odd": 2.17,
+                "away_handicap_-2.25_odd": 1.61,
+                "home_handicap_2.0_odd": 2.59,
+                "away_handicap_-2.0_odd": 1.44
+            }
+        ]
+    }
+]

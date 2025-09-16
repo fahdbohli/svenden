@@ -1,0 +1,1917 @@
+[
+  {
+    "group_id": "653783744-10635481-13865412",
+    "home_team": "Queretaro (Women)",
+    "away_team": "Pumas UNAM (W)",
+    "date": "20/09/2025",
+    "time": "00:00",
+    "country": "Mexico",
+    "all_sources": [
+      "1xbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_0.75_home_vs_away",
+        "best_odds": {
+          "home_handicap_0.75_odd": {
+            "value": 2.27,
+            "source": "1xbet"
+          },
+          "away_handicap_-0.75_odd": {
+            "value": 1.888,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9702,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653783744-10635481",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Mexico",
+        "tournament_1xbet": "Liga MX. Women",
+        "1xbet_match_id": 653783744,
+        "1xbet_tournament_id": 2306113,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/2306113/653783744",
+        "Tounesbet_country_name": "Mexico",
+        "tournament_Tounesbet": "Liga MX Women",
+        "Tounesbet_match_id": 10635481,
+        "Tounesbet_tournament_id": 23498,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653783744-10635481-13865412",
+        "home_team": "Queretaro (Women)",
+        "away_team": "Pumas UNAM (W)",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "under_3.5_vs_over_3.5",
+        "best_odds": {
+          "under_3.5_odd": {
+            "value": 2.36,
+            "source": "Tounesbet"
+          },
+          "over_3.5_odd": {
+            "value": 1.75,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9952,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13865412-10635481",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Mexico",
+        "tournament_Tounesbet": "Liga MX Women",
+        "Tounesbet_match_id": 10635481,
+        "Tounesbet_tournament_id": 23498,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "Mexico",
+        "tournament_Clubx2": "Liga MX, Women",
+        "Clubx2_match_id": 13865412,
+        "Clubx2_tournament_id": 17210,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13865412#/overview",
+        "group_id": "653783744-10635481-13865412",
+        "home_team": "Queretaro (Women)",
+        "away_team": "Pumas UNAM (W)",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "653783748-10635483-13865413",
+    "home_team": "Juarez (Women)",
+    "away_team": "Tigres de la UANL (Women)",
+    "date": "20/09/2025",
+    "time": "04:00",
+    "country": "Mexico",
+    "all_sources": [
+      "1xbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_1.25_home_vs_away",
+        "best_odds": {
+          "home_handicap_1.25_odd": {
+            "value": 2.09,
+            "source": "1xbet"
+          },
+          "away_handicap_-1.25_odd": {
+            "value": 2.006,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.977,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653783748-10635483",
+        "1xbet_country_name": "Mexico",
+        "tournament_1xbet": "Liga MX. Women",
+        "1xbet_match_id": 653783748,
+        "1xbet_tournament_id": 2306113,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/2306113/653783748",
+        "Tounesbet_country_name": "Mexico",
+        "tournament_Tounesbet": "Liga MX Women",
+        "Tounesbet_match_id": 10635483,
+        "Tounesbet_tournament_id": 23498,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653783748-10635483-13865413",
+        "home_team": "Juarez (Women)",
+        "away_team": "Tigres de la UANL (Women)",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "653682896-10635484-13865415",
+    "home_team": "C.D. Guadalajara (Women)",
+    "away_team": "Club Tijuana (W)",
+    "date": "21/09/2025",
+    "time": "18:00",
+    "country": "Mexico",
+    "all_sources": [
+      "1xbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_-1.0_home_vs_away",
+        "best_odds": {
+          "home_handicap_-1.0_odd": {
+            "value": 2.147,
+            "source": "Tounesbet"
+          },
+          "away_handicap_1.0_odd": {
+            "value": 1.975,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.9721,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653682896-10635484",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Mexico",
+        "tournament_Tounesbet": "Liga MX Women",
+        "Tounesbet_match_id": 10635484,
+        "Tounesbet_tournament_id": 23498,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "1xbet_country_name": "Mexico",
+        "tournament_1xbet": "Liga MX. Women",
+        "1xbet_match_id": 653682896,
+        "1xbet_tournament_id": 2306113,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/2306113/653682896",
+        "group_id": "653682896-10635484-13865415",
+        "home_team": "C.D. Guadalajara (Women)",
+        "away_team": "Club Tijuana (W)",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "653684661-10635485-13865416",
+    "home_team": "Puebla (Women)",
+    "away_team": "Cruz Azul (Women)",
+    "date": "21/09/2025",
+    "time": "19:00",
+    "country": "Mexico",
+    "all_sources": [
+      "1xbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "under_3.5_vs_over_3.5",
+        "best_odds": {
+          "under_3.5_odd": {
+            "value": 1.899,
+            "source": "Tounesbet"
+          },
+          "over_3.5_odd": {
+            "value": 2.25,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.971,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653684661-10635485",
+        "Tounesbet_country_name": "Mexico",
+        "tournament_Tounesbet": "Liga MX Women",
+        "Tounesbet_match_id": 10635485,
+        "Tounesbet_tournament_id": 23498,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "1xbet_country_name": "Mexico",
+        "tournament_1xbet": "Liga MX. Women",
+        "1xbet_match_id": 653684661,
+        "1xbet_tournament_id": 2306113,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/2306113/653684661",
+        "group_id": "653684661-10635485-13865416",
+        "home_team": "Puebla (Women)",
+        "away_team": "Cruz Azul (Women)",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "653890327-10635398-13865417",
+    "home_team": "Atletico San Luis (Women)",
+    "away_team": "Mazatlan (Women)",
+    "date": "22/09/2025",
+    "time": "00:00",
+    "country": "Mexico",
+    "all_sources": [
+      "1xbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_-1.75_home_vs_away",
+        "best_odds": {
+          "home_handicap_-1.75_odd": {
+            "value": 2.242,
+            "source": "Tounesbet"
+          },
+          "away_handicap_1.75_odd": {
+            "value": 1.9,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.9723,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653890327-10635398",
+        "Tounesbet_country_name": "Mexico",
+        "tournament_Tounesbet": "Liga MX Women",
+        "Tounesbet_match_id": 10635398,
+        "Tounesbet_tournament_id": 23498,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "1xbet_country_name": "Mexico",
+        "tournament_1xbet": "Liga MX. Women",
+        "1xbet_match_id": 653890327,
+        "1xbet_tournament_id": 2306113,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/2306113/653890327",
+        "group_id": "653890327-10635398-13865417",
+        "home_team": "Atletico San Luis (Women)",
+        "away_team": "Mazatlan (Women)",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "653188680-11276586-13664985-28020309",
+    "home_team": "CD Tapatio",
+    "away_team": "Correcaminos UAT",
+    "date": "20/09/2025",
+    "time": "00:00",
+    "country": "Mexico",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 1.947,
+            "source": "Tounesbet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 2.2,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9682,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "28020309-11276586",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Mexico",
+        "tournament_Tounesbet": "Liga de Expansion MX",
+        "Tounesbet_match_id": 11276586,
+        "Tounesbet_tournament_id": 109906,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "Mexico",
+        "tournament_Asbet": "Liga de Expansion MX",
+        "Asbet_match_id": 28020309,
+        "Asbet_tournament_id": 18275708,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Mexico/18275708/liga-de-expansion-mx/28020309/cd-tapatio-correcaminos-uat",
+        "group_id": "653188680-11276586-13664985-28020309",
+        "home_team": "CD Tapatio",
+        "away_team": "Correcaminos UAT",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "first_half_ah_-0.25_home_vs_away",
+        "best_odds": {
+          "home_first_half_handicap_-0.25_odd": {
+            "value": 2.124,
+            "source": "Tounesbet"
+          },
+          "away_first_half_handicap_0.25_odd": {
+            "value": 1.95,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9836,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13664985-11276586",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Mexico",
+        "tournament_Tounesbet": "Liga de Expansion MX",
+        "Tounesbet_match_id": 11276586,
+        "Tounesbet_tournament_id": 109906,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "Mexico",
+        "tournament_Clubx2": "Liga de Expansion MX, Apertura",
+        "Clubx2_match_id": 13664985,
+        "Clubx2_tournament_id": 36798,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13664985#/overview",
+        "group_id": "653188680-11276586-13664985-28020309",
+        "home_team": "CD Tapatio",
+        "away_team": "Correcaminos UAT",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2",
+        "best_odds": {
+          "1_odd": {
+            "value": 1.947,
+            "source": "Tounesbet"
+          },
+          "X2_odd": {
+            "value": 2.11,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.9875,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653188680-11276586",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Mexico",
+        "tournament_Tounesbet": "Liga de Expansion MX",
+        "Tounesbet_match_id": 11276586,
+        "Tounesbet_tournament_id": 109906,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "1xbet_country_name": "Mexico",
+        "tournament_1xbet": "Liga de Expansion MX",
+        "1xbet_match_id": 653188680,
+        "1xbet_tournament_id": 2126323,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/2126323/653188680",
+        "group_id": "653188680-11276586-13664985-28020309",
+        "home_team": "CD Tapatio",
+        "away_team": "Correcaminos UAT",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "653188686-11277108-13911506-28020636",
+    "home_team": "CD Tepatitlan de Morelos",
+    "away_team": "Coyotes de Tlaxcala",
+    "date": "20/09/2025",
+    "time": "02:00",
+    "country": "Mexico",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "one_vs_x2",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.006,
+            "source": "Tounesbet"
+          },
+          "X2_odd": {
+            "value": 2.09,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.977,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653188686-11277108",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Mexico",
+        "tournament_Tounesbet": "Liga de Expansion MX",
+        "Tounesbet_match_id": 11277108,
+        "Tounesbet_tournament_id": 109906,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "1xbet_country_name": "Mexico",
+        "tournament_1xbet": "Liga de Expansion MX",
+        "1xbet_match_id": 653188686,
+        "1xbet_tournament_id": 2126323,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/2126323/653188686",
+        "group_id": "653188686-11277108-13911506-28020636",
+        "home_team": "CD Tepatitlan de Morelos",
+        "away_team": "Coyotes de Tlaxcala",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_-0.75_home_vs_away",
+        "best_odds": {
+          "home_handicap_-0.75_odd": {
+            "value": 1.87,
+            "source": "Asbet"
+          },
+          "away_handicap_0.75_odd": {
+            "value": 2.242,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9808,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "28020636-11277108",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Mexico",
+        "tournament_Asbet": "Liga de Expansion MX",
+        "Asbet_match_id": 28020636,
+        "Asbet_tournament_id": 18275708,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Mexico/18275708/liga-de-expansion-mx/28020636/cd-tepatitlan-de-morelos-tlaxcala-fc",
+        "Tounesbet_country_name": "Mexico",
+        "tournament_Tounesbet": "Liga de Expansion MX",
+        "Tounesbet_match_id": 11277108,
+        "Tounesbet_tournament_id": 109906,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653188686-11277108-13911506-28020636",
+        "home_team": "CD Tepatitlan de Morelos",
+        "away_team": "Coyotes de Tlaxcala",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "first_half_ah_-0.25_home_vs_away",
+        "best_odds": {
+          "home_first_half_handicap_-0.25_odd": {
+            "value": 2.183,
+            "source": "Tounesbet"
+          },
+          "away_first_half_handicap_0.25_odd": {
+            "value": 1.9,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9844,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13911506-11277108",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Mexico",
+        "tournament_Tounesbet": "Liga de Expansion MX",
+        "Tounesbet_match_id": 11277108,
+        "Tounesbet_tournament_id": 109906,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "Mexico",
+        "tournament_Clubx2": "Liga de Expansion MX, Apertura",
+        "Clubx2_match_id": 13911506,
+        "Clubx2_tournament_id": 36798,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13911506#/overview",
+        "group_id": "653188686-11277108-13911506-28020636",
+        "home_team": "CD Tepatitlan de Morelos",
+        "away_team": "Coyotes de Tlaxcala",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "653188677-11277421-13911516-28020858",
+    "home_team": "Club Atletico La Paz",
+    "away_team": "Atletico Morelia",
+    "date": "20/09/2025",
+    "time": "04:00",
+    "country": "Mexico",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "first_half_under_1.0_vs_first_half_over_1.0",
+        "best_odds": {
+          "first_half_under_1.0_odd": {
+            "value": 2.44,
+            "source": "Asbet"
+          },
+          "first_half_over_1.0_odd": {
+            "value": 1.781,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9713,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "28020858-11277421",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Mexico",
+        "tournament_Asbet": "Liga de Expansion MX",
+        "Asbet_match_id": 28020858,
+        "Asbet_tournament_id": 18275708,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Mexico/18275708/liga-de-expansion-mx/28020858/ca-la-paz-atletico-morelia",
+        "Tounesbet_country_name": "Mexico",
+        "tournament_Tounesbet": "Liga de Expansion MX",
+        "Tounesbet_match_id": 11277421,
+        "Tounesbet_tournament_id": 109906,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653188677-11277421-13911516-28020858",
+        "home_team": "Club Atletico La Paz",
+        "away_team": "Atletico Morelia",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "two_vs_1x",
+        "best_odds": {
+          "2_odd": {
+            "value": 2.26,
+            "source": "1xbet"
+          },
+          "1X_odd": {
+            "value": 1.852,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9824,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653188677-11277421",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Mexico",
+        "tournament_1xbet": "Liga de Expansion MX",
+        "1xbet_match_id": 653188677,
+        "1xbet_tournament_id": 2126323,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/2126323/653188677",
+        "Tounesbet_country_name": "Mexico",
+        "tournament_Tounesbet": "Liga de Expansion MX",
+        "Tounesbet_match_id": 11277421,
+        "Tounesbet_tournament_id": 109906,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653188677-11277421-13911516-28020858",
+        "home_team": "Club Atletico La Paz",
+        "away_team": "Atletico Morelia",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_0.25_home_vs_away",
+        "best_odds": {
+          "home_handicap_0.25_odd": {
+            "value": 2.124,
+            "source": "Tounesbet"
+          },
+          "away_handicap_-0.25_odd": {
+            "value": 1.95,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9836,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13911516-11277421",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Mexico",
+        "tournament_Tounesbet": "Liga de Expansion MX",
+        "Tounesbet_match_id": 11277421,
+        "Tounesbet_tournament_id": 109906,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "Mexico",
+        "tournament_Clubx2": "Liga de Expansion MX, Apertura",
+        "Clubx2_match_id": 13911516,
+        "Clubx2_tournament_id": 36798,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13911516#/overview",
+        "group_id": "653188677-11277421-13911516-28020858",
+        "home_team": "Club Atletico La Paz",
+        "away_team": "Atletico Morelia",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "653445229-11284316-13911495",
+    "home_team": "Venados FC",
+    "away_team": "Club Deportivo Mineros de Zacatecas",
+    "date": "21/09/2025",
+    "time": "02:00",
+    "country": "Mexico",
+    "all_sources": [
+      "1xbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_0.0_home_vs_away",
+        "best_odds": {
+          "home_handicap_0.0_odd": {
+            "value": 1.83,
+            "source": "1xbet"
+          },
+          "away_handicap_0.0_odd": {
+            "value": 2.301,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.981,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653445229-11284316",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Mexico",
+        "tournament_1xbet": "Liga de Expansion MX",
+        "1xbet_match_id": 653445229,
+        "1xbet_tournament_id": 2126323,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/2126323/653445229",
+        "Tounesbet_country_name": "Mexico",
+        "tournament_Tounesbet": "Liga de Expansion MX",
+        "Tounesbet_match_id": 11284316,
+        "Tounesbet_tournament_id": 109906,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653445229-11284316-13911495",
+        "home_team": "Venados FC",
+        "away_team": "Club Deportivo Mineros de Zacatecas",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_0.0_home_vs_away",
+        "best_odds": {
+          "home_handicap_0.0_odd": {
+            "value": 1.8,
+            "source": "Clubx2"
+          },
+          "away_handicap_0.0_odd": {
+            "value": 2.301,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9901,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13911495-11284316",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Mexico",
+        "tournament_Clubx2": "Liga de Expansion MX, Apertura",
+        "Clubx2_match_id": 13911495,
+        "Clubx2_tournament_id": 36798,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13911495#/overview",
+        "Tounesbet_country_name": "Mexico",
+        "tournament_Tounesbet": "Liga de Expansion MX",
+        "Tounesbet_match_id": 11284316,
+        "Tounesbet_tournament_id": 109906,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653445229-11284316-13911495",
+        "home_team": "Venados FC",
+        "away_team": "Club Deportivo Mineros de Zacatecas",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "653467171-11284685-13866484",
+    "home_team": "Dorados de Sinaloa",
+    "away_team": "Alebrijes de Oaxaca",
+    "date": "21/09/2025",
+    "time": "04:00",
+    "country": "Mexico",
+    "all_sources": [
+      "1xbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 1.89,
+            "source": "1xbet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 2.242,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9751,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653467171-11284685",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Mexico",
+        "tournament_1xbet": "Liga de Expansion MX",
+        "1xbet_match_id": 653467171,
+        "1xbet_tournament_id": 2126323,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/2126323/653467171",
+        "Tounesbet_country_name": "Mexico",
+        "tournament_Tounesbet": "Liga de Expansion MX",
+        "Tounesbet_match_id": 11284685,
+        "Tounesbet_tournament_id": 109906,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653467171-11284685-13866484",
+        "home_team": "Dorados de Sinaloa",
+        "away_team": "Alebrijes de Oaxaca",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "first_half_ah_-0.25_home_vs_away",
+        "best_odds": {
+          "home_first_half_handicap_-0.25_odd": {
+            "value": 2.383,
+            "source": "Tounesbet"
+          },
+          "away_first_half_handicap_0.25_odd": {
+            "value": 1.75,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9911,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13866484-11284685",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Mexico",
+        "tournament_Tounesbet": "Liga de Expansion MX",
+        "Tounesbet_match_id": 11284685,
+        "Tounesbet_tournament_id": 109906,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "Mexico",
+        "tournament_Clubx2": "Liga de Expansion MX, Apertura",
+        "Clubx2_match_id": 13866484,
+        "Clubx2_tournament_id": 36798,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13866484#/overview",
+        "group_id": "653467171-11284685-13866484",
+        "home_team": "Dorados de Sinaloa",
+        "away_team": "Alebrijes de Oaxaca",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2578856157829533733-653484951-10582060-12900021-28000505",
+    "home_team": "Chivas Guadalajara",
+    "away_team": "Tigres de la UANL",
+    "date": "18/09/2025",
+    "time": "02:05",
+    "country": "Mexico",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "first_half_under_1.0_vs_first_half_over_1.0",
+        "best_odds": {
+          "first_half_under_1.0_odd": {
+            "value": 1.95,
+            "source": "Clubx2"
+          },
+          "first_half_over_1.0_odd": {
+            "value": 2.206,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9661,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "12900021-10582060",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Mexico",
+        "tournament_Clubx2": "Liga MX",
+        "Clubx2_match_id": 12900021,
+        "Clubx2_tournament_id": 10009,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=12900021#/overview",
+        "Tounesbet_country_name": "Mexico",
+        "tournament_Tounesbet": "Liga MX - Apertura",
+        "Tounesbet_match_id": 10582060,
+        "Tounesbet_tournament_id": 23487,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578856157829533733-653484951-10582060-12900021-28000505",
+        "home_team": "Chivas Guadalajara",
+        "away_team": "Tigres de la UANL",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "corners_under_10.5_vs_corners_over_10.5",
+        "best_odds": {
+          "corners_under_10.5_odd": {
+            "value": 1.947,
+            "source": "Tounesbet"
+          },
+          "corners_over_10.5_odd": {
+            "value": 2.2,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9682,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "28000505-10582060",
+        "misvalue_source": "1xbet",
+        "Tounesbet_country_name": "Mexico",
+        "tournament_Tounesbet": "Liga MX - Apertura",
+        "Tounesbet_match_id": 10582060,
+        "Tounesbet_tournament_id": 23487,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "Mexico",
+        "tournament_Asbet": "Liga MX",
+        "Asbet_match_id": 28000505,
+        "Asbet_tournament_id": 1951,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Mexico/1951/liga-mx/28000505/chivas-guadalajara-tigres-uanl",
+        "group_id": "2578856157829533733-653484951-10582060-12900021-28000505",
+        "home_team": "Chivas Guadalajara",
+        "away_team": "Tigres de la UANL",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_0.25_home_vs_away",
+        "best_odds": {
+          "home_handicap_0.25_odd": {
+            "value": 1.911,
+            "source": "Tounesbet"
+          },
+          "away_handicap_-0.25_odd": {
+            "value": 2.217,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.9743,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653484951-10582060",
+        "misvalue_source": "1xbet",
+        "Tounesbet_country_name": "Mexico",
+        "tournament_Tounesbet": "Liga MX - Apertura",
+        "Tounesbet_match_id": 10582060,
+        "Tounesbet_tournament_id": 23487,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "1xbet_country_name": "Mexico",
+        "tournament_1xbet": "Liga MX",
+        "1xbet_match_id": 653484951,
+        "1xbet_tournament_id": 2306111,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/2306111/653484951",
+        "group_id": "2578856157829533733-653484951-10582060-12900021-28000505",
+        "home_team": "Chivas Guadalajara",
+        "away_team": "Tigres de la UANL",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2",
+        "best_odds": {
+          "1_odd": {
+            "value": 3.186,
+            "source": "Tounesbet"
+          },
+          "X2_odd": {
+            "value": 1.46,
+            "source": "Jibibet"
+          }
+        },
+        "arbitrage_percentage": 0.9988,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2578856157829533733-10582060",
+        "misvalue_source": "1xbet",
+        "Tounesbet_country_name": "Mexico",
+        "tournament_Tounesbet": "Liga MX - Apertura",
+        "Tounesbet_match_id": 10582060,
+        "Tounesbet_tournament_id": 23487,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Jibibet_country_name": "Mexico",
+        "tournament_Jibibet": "Liga MX, Apertura",
+        "Jibibet_match_id": 2578856157829533733,
+        "Jibibet_tournament_id": 1677787229596139520,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "group_id": "2578856157829533733-653484951-10582060-12900021-28000505",
+        "home_team": "Chivas Guadalajara",
+        "away_team": "Tigres de la UANL",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2576199009056202794-651462173-10582139-12900180-28000561",
+    "home_team": "Club Necaxa",
+    "away_team": "Club Puebla",
+    "date": "20/09/2025",
+    "time": "02:00",
+    "country": "Mexico",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_-1.0_home_vs_away",
+        "best_odds": {
+          "home_handicap_-1.0_odd": {
+            "value": 2.35,
+            "source": "Asbet"
+          },
+          "away_handicap_1.0_odd": {
+            "value": 1.852,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9655,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "28000561-10582139",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Mexico",
+        "tournament_Asbet": "Liga MX",
+        "Asbet_match_id": 28000561,
+        "Asbet_tournament_id": 1951,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Mexico/1951/liga-mx/28000561/club-necaxa-puebla-fc",
+        "Tounesbet_country_name": "Mexico",
+        "tournament_Tounesbet": "Liga MX - Apertura",
+        "Tounesbet_match_id": 10582139,
+        "Tounesbet_tournament_id": 23487,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2576199009056202794-651462173-10582139-12900180-28000561",
+        "home_team": "Club Necaxa",
+        "away_team": "Club Puebla",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.124,
+            "source": "Tounesbet"
+          },
+          "X2_odd": {
+            "value": 2.02,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.9659,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "651462173-10582139",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Mexico",
+        "tournament_Tounesbet": "Liga MX - Apertura",
+        "Tounesbet_match_id": 10582139,
+        "Tounesbet_tournament_id": 23487,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "1xbet_country_name": "Mexico",
+        "tournament_1xbet": "Liga MX",
+        "1xbet_match_id": 651462173,
+        "1xbet_tournament_id": 2306111,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/2306111/651462173",
+        "group_id": "2576199009056202794-651462173-10582139-12900180-28000561",
+        "home_team": "Club Necaxa",
+        "away_team": "Club Puebla",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.124,
+            "source": "Tounesbet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 2.0,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9708,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "12900180-10582139",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Mexico",
+        "tournament_Tounesbet": "Liga MX - Apertura",
+        "Tounesbet_match_id": 10582139,
+        "Tounesbet_tournament_id": 23487,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "Mexico",
+        "tournament_Clubx2": "Liga MX",
+        "Clubx2_match_id": 12900180,
+        "Clubx2_tournament_id": 10009,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=12900180#/overview",
+        "group_id": "2576199009056202794-651462173-10582139-12900180-28000561",
+        "home_team": "Club Necaxa",
+        "away_team": "Club Puebla",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.124,
+            "source": "Tounesbet"
+          },
+          "X2_odd": {
+            "value": 2.0,
+            "source": "Jibibet"
+          }
+        },
+        "arbitrage_percentage": 0.9708,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2576199009056202794-10582139",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Mexico",
+        "tournament_Tounesbet": "Liga MX - Apertura",
+        "Tounesbet_match_id": 10582139,
+        "Tounesbet_tournament_id": 23487,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Jibibet_country_name": "Mexico",
+        "tournament_Jibibet": "Liga MX, Apertura",
+        "Jibibet_match_id": 2576199009056202794,
+        "Jibibet_tournament_id": 1677787229596139520,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "group_id": "2576199009056202794-651462173-10582139-12900180-28000561",
+        "home_team": "Club Necaxa",
+        "away_team": "Club Puebla",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2576202706133852165-651462158-10582138-12900179-28000560",
+    "home_team": "Cruz Azul AC",
+    "away_team": "FC Juarez",
+    "date": "20/09/2025",
+    "time": "02:00",
+    "country": "Mexico",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "home_under_1.5_vs_home_over_1.5",
+        "best_odds": {
+          "home_under_1.5_odd": {
+            "value": 2.4,
+            "source": "1xbet"
+          },
+          "home_over_1.5_odd": {
+            "value": 1.852,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9566,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "651462158-10582138",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Mexico",
+        "tournament_1xbet": "Liga MX",
+        "1xbet_match_id": 651462158,
+        "1xbet_tournament_id": 2306111,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/2306111/651462158",
+        "Tounesbet_country_name": "Mexico",
+        "tournament_Tounesbet": "Liga MX - Apertura",
+        "Tounesbet_match_id": 10582138,
+        "Tounesbet_tournament_id": 23487,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2576202706133852165-651462158-10582138-12900179-28000560",
+        "home_team": "Cruz Azul AC",
+        "away_team": "FC Juarez",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_-0.75_home_vs_away",
+        "best_odds": {
+          "home_handicap_-0.75_odd": {
+            "value": 1.888,
+            "source": "Tounesbet"
+          },
+          "away_handicap_0.75_odd": {
+            "value": 2.3,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9644,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "12900179-10582138",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Mexico",
+        "tournament_Tounesbet": "Liga MX - Apertura",
+        "Tounesbet_match_id": 10582138,
+        "Tounesbet_tournament_id": 23487,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "Mexico",
+        "tournament_Clubx2": "Liga MX",
+        "Clubx2_match_id": 12900179,
+        "Clubx2_tournament_id": 10009,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=12900179#/overview",
+        "group_id": "2576202706133852165-651462158-10582138-12900179-28000560",
+        "home_team": "Cruz Azul AC",
+        "away_team": "FC Juarez",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "first_half_ah_-0.25_home_vs_away",
+        "best_odds": {
+          "home_first_half_handicap_-0.25_odd": {
+            "value": 1.911,
+            "source": "Tounesbet"
+          },
+          "away_first_half_handicap_0.25_odd": {
+            "value": 2.25,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9677,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "28000560-10582138",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Mexico",
+        "tournament_Tounesbet": "Liga MX - Apertura",
+        "Tounesbet_match_id": 10582138,
+        "Tounesbet_tournament_id": 23487,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "Mexico",
+        "tournament_Asbet": "Liga MX",
+        "Asbet_match_id": 28000560,
+        "Asbet_tournament_id": 1951,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Mexico/1951/liga-mx/28000560/cruz-azul-ac-fc-juarez",
+        "group_id": "2576202706133852165-651462158-10582138-12900179-28000560",
+        "home_team": "Cruz Azul AC",
+        "away_team": "FC Juarez",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2",
+        "best_odds": {
+          "1_odd": {
+            "value": 1.5,
+            "source": "Jibibet"
+          },
+          "X2_odd": {
+            "value": 3.091,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9902,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2576202706133852165-10582138",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "Mexico",
+        "tournament_Jibibet": "Liga MX, Apertura",
+        "Jibibet_match_id": 2576202706133852165,
+        "Jibibet_tournament_id": 1677787229596139520,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "Mexico",
+        "tournament_Tounesbet": "Liga MX - Apertura",
+        "Tounesbet_match_id": 10582138,
+        "Tounesbet_tournament_id": 23487,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2576202706133852165-651462158-10582138-12900179-28000560",
+        "home_team": "Cruz Azul AC",
+        "away_team": "FC Juarez",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2576202706133852166-651462176-10582140-12900183-28000666",
+    "home_team": "Mazatlan FC",
+    "away_team": "Club Atlas De Guadalajara",
+    "date": "20/09/2025",
+    "time": "04:00",
+    "country": "Mexico",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.28,
+            "source": "1xbet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.947,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9522,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "651462176-10582140",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Mexico",
+        "tournament_1xbet": "Liga MX",
+        "1xbet_match_id": 651462176,
+        "1xbet_tournament_id": 2306111,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/2306111/651462176",
+        "Tounesbet_country_name": "Mexico",
+        "tournament_Tounesbet": "Liga MX - Apertura",
+        "Tounesbet_match_id": 10582140,
+        "Tounesbet_tournament_id": 23487,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2576202706133852166-651462176-10582140-12900183-28000666",
+        "home_team": "Mazatlan FC",
+        "away_team": "Club Atlas De Guadalajara",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.26,
+            "source": "Jibibet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.947,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9561,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2576202706133852166-10582140",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "Mexico",
+        "tournament_Jibibet": "Liga MX, Apertura",
+        "Jibibet_match_id": 2576202706133852166,
+        "Jibibet_tournament_id": 1677787229596139520,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "Mexico",
+        "tournament_Tounesbet": "Liga MX - Apertura",
+        "Tounesbet_match_id": 10582140,
+        "Tounesbet_tournament_id": 23487,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2576202706133852166-651462176-10582140-12900183-28000666",
+        "home_team": "Mazatlan FC",
+        "away_team": "Club Atlas De Guadalajara",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.25,
+            "source": "Clubx2"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.947,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9581,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "12900183-10582140",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Mexico",
+        "tournament_Clubx2": "Liga MX",
+        "Clubx2_match_id": 12900183,
+        "Clubx2_tournament_id": 10009,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=12900183#/overview",
+        "Tounesbet_country_name": "Mexico",
+        "tournament_Tounesbet": "Liga MX - Apertura",
+        "Tounesbet_match_id": 10582140,
+        "Tounesbet_tournament_id": 23487,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2576202706133852166-651462176-10582140-12900183-28000666",
+        "home_team": "Mazatlan FC",
+        "away_team": "Club Atlas De Guadalajara",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_-0.5_home_vs_away",
+        "best_odds": {
+          "home_handicap_-0.5_odd": {
+            "value": 2.17,
+            "source": "Asbet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.947,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9744,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "28000666-10582140",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Mexico",
+        "tournament_Asbet": "Liga MX",
+        "Asbet_match_id": 28000666,
+        "Asbet_tournament_id": 1951,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Mexico/1951/liga-mx/28000666/mazatlan-fc-club-atlas-de-guadalajara",
+        "Tounesbet_country_name": "Mexico",
+        "tournament_Tounesbet": "Liga MX - Apertura",
+        "Tounesbet_match_id": 10582140,
+        "Tounesbet_tournament_id": 23487,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2576202706133852166-651462176-10582140-12900183-28000666",
+        "home_team": "Mazatlan FC",
+        "away_team": "Club Atlas De Guadalajara",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2576202706133852170-651462155-10582141-12900181-28000679",
+    "home_team": "Club Tijuana de Caliente",
+    "away_team": "Club Leon",
+    "date": "20/09/2025",
+    "time": "04:05",
+    "country": "Mexico",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.14,
+            "source": "Jibibet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 2.029,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9601,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2576202706133852170-10582141",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "Mexico",
+        "tournament_Jibibet": "Liga MX, Apertura",
+        "Jibibet_match_id": 2576202706133852170,
+        "Jibibet_tournament_id": 1677787229596139520,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "Mexico",
+        "tournament_Tounesbet": "Liga MX - Apertura",
+        "Tounesbet_match_id": 10582141,
+        "Tounesbet_tournament_id": 23487,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2576202706133852170-651462155-10582141-12900181-28000679",
+        "home_team": "Club Tijuana de Caliente",
+        "away_team": "Club Leon",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.13,
+            "source": "1xbet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 2.029,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9623,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "651462155-10582141",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Mexico",
+        "tournament_1xbet": "Liga MX",
+        "1xbet_match_id": 651462155,
+        "1xbet_tournament_id": 2306111,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/2306111/651462155",
+        "Tounesbet_country_name": "Mexico",
+        "tournament_Tounesbet": "Liga MX - Apertura",
+        "Tounesbet_match_id": 10582141,
+        "Tounesbet_tournament_id": 23487,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2576202706133852170-651462155-10582141-12900181-28000679",
+        "home_team": "Club Tijuana de Caliente",
+        "away_team": "Club Leon",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_-0.75_home_vs_away",
+        "best_odds": {
+          "home_handicap_-0.75_odd": {
+            "value": 2.4,
+            "source": "Clubx2"
+          },
+          "away_handicap_0.75_odd": {
+            "value": 1.829,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9634,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "12900181-10582141",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Mexico",
+        "tournament_Clubx2": "Liga MX",
+        "Clubx2_match_id": 12900181,
+        "Clubx2_tournament_id": 10009,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=12900181#/overview",
+        "Tounesbet_country_name": "Mexico",
+        "tournament_Tounesbet": "Liga MX - Apertura",
+        "Tounesbet_match_id": 10582141,
+        "Tounesbet_tournament_id": 23487,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2576202706133852170-651462155-10582141-12900181-28000679",
+        "home_team": "Club Tijuana de Caliente",
+        "away_team": "Club Leon",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_-0.75_home_vs_away",
+        "best_odds": {
+          "home_handicap_-0.75_odd": {
+            "value": 2.39,
+            "source": "Asbet"
+          },
+          "away_handicap_0.75_odd": {
+            "value": 1.829,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9652,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "28000679-10582141",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Mexico",
+        "tournament_Asbet": "Liga MX",
+        "Asbet_match_id": 28000679,
+        "Asbet_tournament_id": 1951,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Mexico/1951/liga-mx/28000679/club-tijuana-club-leon",
+        "Tounesbet_country_name": "Mexico",
+        "tournament_Tounesbet": "Liga MX - Apertura",
+        "Tounesbet_match_id": 10582141,
+        "Tounesbet_tournament_id": 23487,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2576202706133852170-651462155-10582141-12900181-28000679",
+        "home_team": "Club Tijuana de Caliente",
+        "away_team": "Club Leon",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "651462167-10582143",
+    "home_team": "Club Universidad Nacional",
+    "away_team": "Tigres de la UANL",
+    "date": "21/09/2025",
+    "time": "02:00",
+    "country": "Mexico",
+    "all_sources": [
+      "1xbet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "away_under_1.5_vs_away_over_1.5",
+        "best_odds": {
+          "away_under_1.5_odd": {
+            "value": 1.805,
+            "source": "Tounesbet"
+          },
+          "away_over_1.5_odd": {
+            "value": 2.4,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.9707,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "651462167-10582143",
+        "Tounesbet_country_name": "Mexico",
+        "tournament_Tounesbet": "Liga MX - Apertura",
+        "Tounesbet_match_id": 10582143,
+        "Tounesbet_tournament_id": 23487,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "1xbet_country_name": "Mexico",
+        "tournament_1xbet": "Liga MX",
+        "1xbet_match_id": 651462167,
+        "1xbet_tournament_id": 2306111,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/2306111/651462167",
+        "group_id": "651462167-10582143",
+        "home_team": "Club Universidad Nacional",
+        "away_team": "Tigres de la UANL",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "651462164-10582144-12900186",
+    "home_team": "Guadalajara Chivas",
+    "away_team": "Deportivo Toluca",
+    "date": "21/09/2025",
+    "time": "02:07",
+    "country": "Mexico",
+    "all_sources": [
+      "1xbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "home_under_1.5_vs_home_over_1.5",
+        "best_odds": {
+          "home_under_1.5_odd": {
+            "value": 1.899,
+            "source": "Tounesbet"
+          },
+          "home_over_1.5_odd": {
+            "value": 2.2,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9811,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "12900186-10582144",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Mexico",
+        "tournament_Tounesbet": "Liga MX - Apertura",
+        "Tounesbet_match_id": 10582144,
+        "Tounesbet_tournament_id": 23487,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "Mexico",
+        "tournament_Clubx2": "Liga MX",
+        "Clubx2_match_id": 12900186,
+        "Clubx2_tournament_id": 10009,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=12900186#/overview",
+        "group_id": "651462164-10582144-12900186",
+        "home_team": "Guadalajara Chivas",
+        "away_team": "Deportivo Toluca",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "home_under_1.5_vs_home_over_1.5",
+        "best_odds": {
+          "home_under_1.5_odd": {
+            "value": 1.66,
+            "source": "1xbet"
+          },
+          "home_over_1.5_odd": {
+            "value": 2.596,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9876,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "651462164-10582144",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Mexico",
+        "tournament_1xbet": "Liga MX",
+        "1xbet_match_id": 651462164,
+        "1xbet_tournament_id": 2306111,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/2306111/651462164",
+        "Tounesbet_country_name": "Mexico",
+        "tournament_Tounesbet": "Liga MX - Apertura",
+        "Tounesbet_match_id": 10582144,
+        "Tounesbet_tournament_id": 23487,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "651462164-10582144-12900186",
+        "home_team": "Guadalajara Chivas",
+        "away_team": "Deportivo Toluca",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2576199009056202786-651462161-10582145-12900189",
+    "home_team": "CF Monterrey",
+    "away_team": "Club America",
+    "date": "21/09/2025",
+    "time": "04:05",
+    "country": "Mexico",
+    "all_sources": [
+      "1xbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.47,
+            "source": "1xbet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.829,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9516,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "651462161-10582145",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Mexico",
+        "tournament_1xbet": "Liga MX",
+        "1xbet_match_id": 651462161,
+        "1xbet_tournament_id": 2306111,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/2306111/651462161",
+        "Tounesbet_country_name": "Mexico",
+        "tournament_Tounesbet": "Liga MX - Apertura",
+        "Tounesbet_match_id": 10582145,
+        "Tounesbet_tournament_id": 23487,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2576199009056202786-651462161-10582145-12900189",
+        "home_team": "CF Monterrey",
+        "away_team": "Club America",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.46,
+            "source": "Jibibet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.829,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9533,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2576199009056202786-10582145",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "Mexico",
+        "tournament_Jibibet": "Liga MX, Apertura",
+        "Jibibet_match_id": 2576199009056202786,
+        "Jibibet_tournament_id": 1677787229596139520,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "Mexico",
+        "tournament_Tounesbet": "Liga MX - Apertura",
+        "Tounesbet_match_id": 10582145,
+        "Tounesbet_tournament_id": 23487,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2576199009056202786-651462161-10582145-12900189",
+        "home_team": "CF Monterrey",
+        "away_team": "Club America",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_0.25_home_vs_away",
+        "best_odds": {
+          "home_handicap_0.25_odd": {
+            "value": 1.852,
+            "source": "Tounesbet"
+          },
+          "away_handicap_-0.25_odd": {
+            "value": 2.4,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9566,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "12900189-10582145",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Mexico",
+        "tournament_Tounesbet": "Liga MX - Apertura",
+        "Tounesbet_match_id": 10582145,
+        "Tounesbet_tournament_id": 23487,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "Mexico",
+        "tournament_Clubx2": "Liga MX",
+        "Clubx2_match_id": 12900189,
+        "Clubx2_tournament_id": 10009,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=12900189#/overview",
+        "group_id": "2576199009056202786-651462161-10582145-12900189",
+        "home_team": "CF Monterrey",
+        "away_team": "Club America",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2576202706133852167-651462170-10582146-12900190",
+    "home_team": "Club Santos Laguna",
+    "away_team": "Atletico San Luis",
+    "date": "22/09/2025",
+    "time": "00:00",
+    "country": "Mexico",
+    "all_sources": [
+      "1xbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "two_vs_1x_handicap",
+        "best_odds": {
+          "2_odd": {
+            "value": 2.48,
+            "source": "1xbet"
+          },
+          "home_handicap_0.5_odd": {
+            "value": 1.793,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.961,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "651462170-10582146",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Mexico",
+        "tournament_1xbet": "Liga MX",
+        "1xbet_match_id": 651462170,
+        "1xbet_tournament_id": 2306111,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/2306111/651462170",
+        "Tounesbet_country_name": "Mexico",
+        "tournament_Tounesbet": "Liga MX - Apertura",
+        "Tounesbet_match_id": 10582146,
+        "Tounesbet_tournament_id": 23487,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2576202706133852167-651462170-10582146-12900190",
+        "home_team": "Club Santos Laguna",
+        "away_team": "Atletico San Luis",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "two_vs_1x_handicap",
+        "best_odds": {
+          "2_odd": {
+            "value": 2.48,
+            "source": "Jibibet"
+          },
+          "home_handicap_0.5_odd": {
+            "value": 1.793,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.961,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2576202706133852167-10582146",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "Mexico",
+        "tournament_Jibibet": "Liga MX, Apertura",
+        "Jibibet_match_id": 2576202706133852167,
+        "Jibibet_tournament_id": 1677787229596139520,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "Mexico",
+        "tournament_Tounesbet": "Liga MX - Apertura",
+        "Tounesbet_match_id": 10582146,
+        "Tounesbet_tournament_id": 23487,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2576202706133852167-651462170-10582146-12900190",
+        "home_team": "Club Santos Laguna",
+        "away_team": "Atletico San Luis",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "two_vs_1x_handicap",
+        "best_odds": {
+          "2_odd": {
+            "value": 2.4546,
+            "source": "Clubx2"
+          },
+          "home_handicap_0.5_odd": {
+            "value": 1.793,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9651,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "12900190-10582146",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Mexico",
+        "tournament_Clubx2": "Liga MX",
+        "Clubx2_match_id": 12900190,
+        "Clubx2_tournament_id": 10009,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=12900190#/overview",
+        "Tounesbet_country_name": "Mexico",
+        "tournament_Tounesbet": "Liga MX - Apertura",
+        "Tounesbet_match_id": 10582146,
+        "Tounesbet_tournament_id": 23487,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2576202706133852167-651462170-10582146-12900190",
+        "home_team": "Club Santos Laguna",
+        "away_team": "Atletico San Luis",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "11289258-13911520",
+    "home_team": "Atlante",
+    "away_team": "Leones Negros UDEG",
+    "date": "21/09/2025",
+    "time": "01:00",
+    "country": "Mexico",
+    "all_sources": [
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_-0.75_home_vs_away",
+        "best_odds": {
+          "home_handicap_-0.75_odd": {
+            "value": 1.9,
+            "source": "Clubx2"
+          },
+          "away_handicap_0.75_odd": {
+            "value": 2.183,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9844,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13911520-11289258",
+        "Clubx2_country_name": "Mexico",
+        "tournament_Clubx2": "Liga de Expansion MX, Apertura",
+        "Clubx2_match_id": 13911520,
+        "Clubx2_tournament_id": 36798,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13911520#/overview",
+        "Tounesbet_country_name": "Mexico",
+        "tournament_Tounesbet": "Liga de Expansion MX",
+        "Tounesbet_match_id": 11289258,
+        "Tounesbet_tournament_id": 109906,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "11289258-13911520",
+        "home_team": "Atlante",
+        "away_team": "Leones Negros UDEG",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "11284348-13911491",
+    "home_team": "Tampico Madero FC",
+    "away_team": "Cancun FC",
+    "date": "21/09/2025",
+    "time": "02:00",
+    "country": "Mexico",
+    "all_sources": [
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "first_half_ah_-0.25_home_vs_away",
+        "best_odds": {
+          "home_first_half_handicap_-0.25_odd": {
+            "value": 2.1,
+            "source": "Clubx2"
+          },
+          "away_first_half_handicap_0.25_odd": {
+            "value": 1.97,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9838,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13911491-11284348",
+        "Clubx2_country_name": "Mexico",
+        "tournament_Clubx2": "Liga de Expansion MX, Apertura",
+        "Clubx2_match_id": 13911491,
+        "Clubx2_tournament_id": 36798,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13911491#/overview",
+        "Tounesbet_country_name": "Mexico",
+        "tournament_Tounesbet": "Liga de Expansion MX",
+        "Tounesbet_match_id": 11284348,
+        "Tounesbet_tournament_id": 109906,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "11284348-13911491",
+        "home_team": "Tampico Madero FC",
+        "away_team": "Cancun FC",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "11303289-13919193",
+    "home_team": "Guadalajara U21",
+    "away_team": "Tigres UANL U21",
+    "date": "17/09/2025",
+    "time": "16:00",
+    "country": "Mexico",
+    "all_sources": [
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "two_vs_1x_handicap",
+        "best_odds": {
+          "2_odd": {
+            "value": 1.96,
+            "source": "Clubx2"
+          },
+          "home_handicap_0.5_odd": {
+            "value": 2.124,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.981,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13919193-11303289",
+        "Clubx2_country_name": "Mexico",
+        "tournament_Clubx2": "U21 Liga MX",
+        "Clubx2_match_id": 13919193,
+        "Clubx2_tournament_id": 55103,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13919193#/overview",
+        "Tounesbet_country_name": "Mexico",
+        "tournament_Tounesbet": "Liga MX U21",
+        "Tounesbet_match_id": 11303289,
+        "Tounesbet_tournament_id": 256905,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "11303289-13919193",
+        "home_team": "Guadalajara U21",
+        "away_team": "Tigres UANL U21",
+        "activity_duration": "1 hour"
+      }
+    ]
+  }
+]

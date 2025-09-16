@@ -1,0 +1,43 @@
+[
+    {
+        "last_updated": "2025-09-16T20:54:30.683652+01:00"
+    },
+    {
+        "tournament_name": "Bangalore - Super Division",
+        "tournament_id": 21445,
+        "matches": [
+            {
+                "match_id": 11301172,
+                "tournament_id": 21445,
+                "date": "17/09/2025",
+                "time": "06:30",
+                "home_team": "MEG",
+                "away_team": "Real Bengaluru",
+                "1_odd": 2.006,
+                "draw_odd": 4.012,
+                "2_odd": 5.109,
+                "both_score_odd": null,
+                "both_noscore_odd": null,
+                "1X_odd": 1.14,
+                "12_odd": 1.25,
+                "X2_odd": 2.301,
+                "first_half_under_0.5_odd": 3.658,
+                "first_half_over_0.5_odd": 1.3,
+                "first_half_under_1.0_odd": 2.43,
+                "first_half_over_1.0_odd": 1.982,
+                "first_half_under_1.5_odd": 1.44,
+                "first_half_over_1.5_odd": 2.961,
+                "second_half_under_1.0_odd": 3.528,
+                "second_half_over_1.0_odd": 1.32,
+                "second_half_under_1.5_odd": 2.088,
+                "second_half_over_1.5_odd": 2.289,
+                "second_half_under_2.0_odd": 1.31,
+                "second_half_over_2.0_odd": 3.587,
+                "home_handicap_-0.75_odd": 2.265,
+                "away_handicap_0.75_odd": 2.206,
+                "home_first_half_handicap_-0.25_odd": 2.206,
+                "away_first_half_handicap_0.25_odd": 2.265
+            }
+        ]
+    }
+]

@@ -1,0 +1,3 @@
+- create new sessions
+- make them before the error appears
+- when the error appears use them

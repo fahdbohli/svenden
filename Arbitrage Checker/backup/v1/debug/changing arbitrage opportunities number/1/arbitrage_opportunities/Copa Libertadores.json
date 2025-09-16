@@ -1,0 +1,31 @@
+[
+  {
+    "match_info": {
+      "home_team": "Velez Sarsfield",
+      "away_team": "CD San Antonio Bulo Bulo",
+      "date": "14/05/2025",
+      "time": "23:00",
+      "sources": [
+        "1xbet",
+        "Asbet",
+        "Tounesbet"
+      ],
+      "country": "Copa Libertadores",
+      "tournament_1xbet": null,
+      "tournament_Asbet": null,
+      "tournament_Tounesbet": null
+    },
+    "complementary_set": "pair_4",
+    "best_odds": {
+      "both_score_odd": {
+        "value": 2.65,
+        "source": "Asbet"
+      },
+      "both_noscore_odd": {
+        "value": 1.611,
+        "source": "1xbet"
+      }
+    },
+    "arbitrage_percentage": 0.9981
+  }
+]

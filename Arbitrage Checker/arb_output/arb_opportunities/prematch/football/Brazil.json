@@ -1,0 +1,2534 @@
+[
+  {
+    "group_id": "654035398-10617268-13631862",
+    "home_team": "Clube de Regatas do Flamengo U20",
+    "away_team": "Nova Iguacu U20",
+    "date": "17/09/2025",
+    "time": "14:00",
+    "country": "Brazil",
+    "all_sources": [
+      "1xbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "one_vs_x2",
+        "best_odds": {
+          "1_odd": {
+            "value": 1.805,
+            "source": "Tounesbet"
+          },
+          "X2_odd": {
+            "value": 2.31,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.9869,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "654035398-10617268",
+        "misvalue_source": "Clubx2",
+        "Tounesbet_country_name": "Brazil",
+        "tournament_Tounesbet": "Campeonato Carioca U20",
+        "Tounesbet_match_id": 10617268,
+        "Tounesbet_tournament_id": 22990,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "1xbet_country_name": "Brazil",
+        "tournament_1xbet": "Campeonato Carioca U20",
+        "1xbet_match_id": 654035398,
+        "1xbet_tournament_id": 288833,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/288833/654035398",
+        "group_id": "654035398-10617268-13631862",
+        "home_team": "Clube de Regatas do Flamengo U20",
+        "away_team": "Nova Iguacu U20",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "654029220-11212540",
+    "home_team": "America RJ U20",
+    "away_team": "CEAC-Araruama U20",
+    "date": "17/09/2025",
+    "time": "19:00",
+    "country": "Brazil",
+    "all_sources": [
+      "1xbet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_-2.0_home_vs_away",
+        "best_odds": {
+          "home_handicap_-2.0_odd": {
+            "value": 2.242,
+            "source": "Tounesbet"
+          },
+          "away_handicap_2.0_odd": {
+            "value": 1.85,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.9866,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "654029220-11212540",
+        "Tounesbet_country_name": "Brazil",
+        "tournament_Tounesbet": "Campeonato Carioca U20",
+        "Tounesbet_match_id": 11212540,
+        "Tounesbet_tournament_id": 22990,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "1xbet_country_name": "Brazil",
+        "tournament_1xbet": "Campeonato Carioca A2 U20",
+        "1xbet_match_id": 654029220,
+        "1xbet_tournament_id": 2261285,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/2261285/654029220",
+        "group_id": "654029220-11212540",
+        "home_team": "America RJ U20",
+        "away_team": "CEAC-Araruama U20",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "654028635-11212541",
+    "home_team": "Olaria Rio de Janeiro U20",
+    "away_team": "Perolas Negras U20",
+    "date": "17/09/2025",
+    "time": "19:00",
+    "country": "Brazil",
+    "all_sources": [
+      "1xbet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_-0.25_home_vs_away",
+        "best_odds": {
+          "home_handicap_-0.25_odd": {
+            "value": 1.98,
+            "source": "1xbet"
+          },
+          "away_handicap_0.25_odd": {
+            "value": 2.088,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.984,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "654028635-11212541",
+        "1xbet_country_name": "Brazil",
+        "tournament_1xbet": "Campeonato Carioca A2 U20",
+        "1xbet_match_id": 654028635,
+        "1xbet_tournament_id": 2261285,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/2261285/654028635",
+        "Tounesbet_country_name": "Brazil",
+        "tournament_Tounesbet": "Campeonato Carioca U20",
+        "Tounesbet_match_id": 11212541,
+        "Tounesbet_tournament_id": 22990,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "654028635-11212541",
+        "home_team": "Olaria Rio de Janeiro U20",
+        "away_team": "Perolas Negras U20",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "654029217-11212542",
+    "home_team": "Sao Goncalo U20",
+    "away_team": "Associacao Desportiva Cabofriense U20",
+    "date": "17/09/2025",
+    "time": "19:00",
+    "country": "Brazil",
+    "all_sources": [
+      "1xbet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_0.0_home_vs_away",
+        "best_odds": {
+          "home_handicap_0.0_odd": {
+            "value": 1.76,
+            "source": "1xbet"
+          },
+          "away_handicap_0.0_odd": {
+            "value": 2.383,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9878,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "654029217-11212542",
+        "1xbet_country_name": "Brazil",
+        "tournament_1xbet": "Campeonato Carioca A2 U20",
+        "1xbet_match_id": 654029217,
+        "1xbet_tournament_id": 2261285,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/2261285/654029217",
+        "Tounesbet_country_name": "Brazil",
+        "tournament_Tounesbet": "Campeonato Carioca U20",
+        "Tounesbet_match_id": 11212542,
+        "Tounesbet_tournament_id": 22990,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "654029217-11212542",
+        "home_team": "Sao Goncalo U20",
+        "away_team": "Associacao Desportiva Cabofriense U20",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "654030054-27997567",
+    "home_team": "America FC PE",
+    "away_team": "Ipojuca AC",
+    "date": "17/09/2025",
+    "time": "19:00",
+    "country": "Brazil",
+    "all_sources": [
+      "1xbet",
+      "Asbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_-1.0_home_vs_away",
+        "best_odds": {
+          "home_handicap_-1.0_odd": {
+            "value": 2.18,
+            "source": "1xbet"
+          },
+          "away_handicap_1.0_odd": {
+            "value": 2.01,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9562,
+        "arbitrage_sources": "1xbet, Asbet",
+        "unique_id": "654030054-27997567",
+        "1xbet_country_name": "Brazil",
+        "tournament_1xbet": "Campeonato Pernambucano. Division 2",
+        "1xbet_match_id": 654030054,
+        "1xbet_tournament_id": 1349299,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/1349299/654030054",
+        "Asbet_country_name": "Brazil",
+        "tournament_Asbet": "Campeonato Pernambucano A2",
+        "Asbet_match_id": 27997567,
+        "Asbet_tournament_id": 19480,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Brazil/19480/campeonato-pernambucano-a/27997567/america-fc-pe-ac-ipojuca",
+        "group_id": "654030054-27997567",
+        "home_team": "America FC PE",
+        "away_team": "Ipojuca AC",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2579717155243307019-654033309-11300076",
+    "home_team": "Clube Atletico do Porto",
+    "away_team": "AAD Vitoria das Tabocas",
+    "date": "17/09/2025",
+    "time": "19:00",
+    "country": "Brazil",
+    "all_sources": [
+      "1xbet",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "two_vs_1x_handicap",
+        "best_odds": {
+          "2_odd": {
+            "value": 2.01,
+            "source": "1xbet"
+          },
+          "home_handicap_0.5_odd": {
+            "value": 2.124,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9683,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "654033309-11300076",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Brazil",
+        "tournament_1xbet": "Campeonato Pernambucano. Division 2",
+        "1xbet_match_id": 654033309,
+        "1xbet_tournament_id": 1349299,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/1349299/654033309",
+        "Tounesbet_country_name": "Brazil",
+        "tournament_Tounesbet": "Pernambucano 2",
+        "Tounesbet_match_id": 11300076,
+        "Tounesbet_tournament_id": 23026,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579717155243307019-654033309-11300076",
+        "home_team": "Clube Atletico do Porto",
+        "away_team": "AAD Vitoria das Tabocas",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "two_vs_1x_handicap",
+        "best_odds": {
+          "2_odd": {
+            "value": 1.98,
+            "source": "Jibibet"
+          },
+          "home_handicap_0.5_odd": {
+            "value": 2.124,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9759,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2579717155243307019-11300076",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "Brazil",
+        "tournament_Jibibet": "Pernambucano, Serie A2",
+        "Jibibet_match_id": 2579717155243307019,
+        "Jibibet_tournament_id": 2319634990700302336,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "Brazil",
+        "tournament_Tounesbet": "Pernambucano 2",
+        "Tounesbet_match_id": 11300076,
+        "Tounesbet_tournament_id": 23026,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579717155243307019-654033309-11300076",
+        "home_team": "Clube Atletico do Porto",
+        "away_team": "AAD Vitoria das Tabocas",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2576800361474043941-651952825-12767165-27926669",
+    "home_team": "Atletico Clube Goianiense",
+    "away_team": "Avai FC SC",
+    "date": "16/09/2025",
+    "time": "23:30",
+    "country": "Brazil",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_0.0_home_vs_away",
+        "best_odds": {
+          "home_handicap_0.0_odd": {
+            "value": 1.61,
+            "source": "Asbet"
+          },
+          "away_handicap_0.0_odd": {
+            "value": 2.8,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.9783,
+        "arbitrage_sources": "1xbet, Asbet",
+        "unique_id": "651952825-27926669",
+        "misvalue_source": "1xbet",
+        "Asbet_country_name": "Brazil",
+        "tournament_Asbet": "Serie B",
+        "Asbet_match_id": 27926669,
+        "Asbet_tournament_id": 3104,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Brazil/3104/serie-b/27926669/atletico-goianiense-avai-fc",
+        "1xbet_country_name": "Brazil",
+        "tournament_1xbet": "Campeonato Brasileiro. Serie B",
+        "1xbet_match_id": 651952825,
+        "1xbet_tournament_id": 57265,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/57265/651952825",
+        "group_id": "2576800361474043941-651952825-12767165-27926669",
+        "home_team": "Atletico Clube Goianiense",
+        "away_team": "Avai FC SC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_0.0_home_vs_away",
+        "best_odds": {
+          "home_handicap_0.0_odd": {
+            "value": 1.6,
+            "source": "Clubx2"
+          },
+          "away_handicap_0.0_odd": {
+            "value": 2.8,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.9821,
+        "arbitrage_sources": "1xbet, Clubx2",
+        "unique_id": "651952825-12767165",
+        "misvalue_source": "1xbet",
+        "Clubx2_country_name": "Brazil",
+        "tournament_Clubx2": "Brasileiro Serie B",
+        "Clubx2_match_id": 12767165,
+        "Clubx2_tournament_id": 11005,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=12767165#/overview",
+        "1xbet_country_name": "Brazil",
+        "tournament_1xbet": "Campeonato Brasileiro. Serie B",
+        "1xbet_match_id": 651952825,
+        "1xbet_tournament_id": 57265,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/57265/651952825",
+        "group_id": "2576800361474043941-651952825-12767165-27926669",
+        "home_team": "Atletico Clube Goianiense",
+        "away_team": "Avai FC SC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.28,
+            "source": "Jibibet"
+          },
+          "X2_odd": {
+            "value": 1.79,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.9973,
+        "arbitrage_sources": "1xbet, Jibibet",
+        "unique_id": "2576800361474043941-651952825",
+        "misvalue_source": "1xbet",
+        "Jibibet_country_name": "Brazil",
+        "tournament_Jibibet": "Brasileiro Serie B",
+        "Jibibet_match_id": 2576800361474043941,
+        "Jibibet_tournament_id": 1669818814746988544,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "1xbet_country_name": "Brazil",
+        "tournament_1xbet": "Campeonato Brasileiro. Serie B",
+        "1xbet_match_id": 651952825,
+        "1xbet_tournament_id": 57265,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/57265/651952825",
+        "group_id": "2576800361474043941-651952825-12767165-27926669",
+        "home_team": "Atletico Clube Goianiense",
+        "away_team": "Avai FC SC",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2576800361474043935-651952819-12767171-27926949-9839559",
+    "home_team": "Chapecoense SC",
+    "away_team": "Clube Atletico Paranaense",
+    "date": "17/09/2025",
+    "time": "01:35",
+    "country": "Brazil",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_-0.25_home_vs_away",
+        "best_odds": {
+          "home_handicap_-0.25_odd": {
+            "value": 2.44,
+            "source": "1xbet"
+          },
+          "away_handicap_0.25_odd": {
+            "value": 1.852,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9498,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "651952819-9839559",
+        "misvalue_source": "1xbet",
+        "1xbet_country_name": "Brazil",
+        "tournament_1xbet": "Campeonato Brasileiro. Serie B",
+        "1xbet_match_id": 651952819,
+        "1xbet_tournament_id": 57265,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/57265/651952819",
+        "Tounesbet_country_name": "Brazil",
+        "tournament_Tounesbet": "Série B",
+        "Tounesbet_match_id": 9839559,
+        "Tounesbet_tournament_id": 23014,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2576800361474043935-651952819-12767171-27926949-9839559",
+        "home_team": "Chapecoense SC",
+        "away_team": "Clube Atletico Paranaense",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_-0.25_home_vs_away",
+        "best_odds": {
+          "home_handicap_-0.25_odd": {
+            "value": 2.33,
+            "source": "Asbet"
+          },
+          "away_handicap_0.25_odd": {
+            "value": 1.852,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9691,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27926949-9839559",
+        "misvalue_source": "Clubx2",
+        "Asbet_country_name": "Brazil",
+        "tournament_Asbet": "Serie B",
+        "Asbet_match_id": 27926949,
+        "Asbet_tournament_id": 3104,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Brazil/3104/serie-b/27926949/chapecoense-sc-ca-paranaense",
+        "Tounesbet_country_name": "Brazil",
+        "tournament_Tounesbet": "Série B",
+        "Tounesbet_match_id": 9839559,
+        "Tounesbet_tournament_id": 23014,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2576800361474043935-651952819-12767171-27926949-9839559",
+        "home_team": "Chapecoense SC",
+        "away_team": "Clube Atletico Paranaense",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "first_half_ah_0.0_home_vs_away",
+        "best_odds": {
+          "home_first_half_handicap_0.0_odd": {
+            "value": 1.9,
+            "source": "Clubx2"
+          },
+          "away_first_half_handicap_0.0_odd": {
+            "value": 2.206,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9796,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "12767171-9839559",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Brazil",
+        "tournament_Clubx2": "Brasileiro Serie B",
+        "Clubx2_match_id": 12767171,
+        "Clubx2_tournament_id": 11005,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=12767171#/overview",
+        "Tounesbet_country_name": "Brazil",
+        "tournament_Tounesbet": "Série B",
+        "Tounesbet_match_id": 9839559,
+        "Tounesbet_tournament_id": 23014,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2576800361474043935-651952819-12767171-27926949-9839559",
+        "home_team": "Chapecoense SC",
+        "away_team": "Clube Atletico Paranaense",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2578753290321932301-653677606-12794310-28006598-9839572",
+    "home_team": "Goias Esporte Clube",
+    "away_team": "Paysandu SC PA",
+    "date": "20/09/2025",
+    "time": "20:00",
+    "country": "Brazil",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "first_half_under_1.0_vs_first_half_over_1.0",
+        "best_odds": {
+          "first_half_under_1.0_odd": {
+            "value": 2.1,
+            "source": "Tounesbet"
+          },
+          "first_half_over_1.0_odd": {
+            "value": 2.07,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9593,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "28006598-9839572",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Brazil",
+        "tournament_Tounesbet": "Série B",
+        "Tounesbet_match_id": 9839572,
+        "Tounesbet_tournament_id": 23014,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "Brazil",
+        "tournament_Asbet": "Serie B",
+        "Asbet_match_id": 28006598,
+        "Asbet_tournament_id": 3104,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Brazil/3104/serie-b/28006598/goias-ec-paysandu-pa",
+        "group_id": "2578753290321932301-653677606-12794310-28006598-9839572",
+        "home_team": "Goias Esporte Clube",
+        "away_team": "Paysandu SC PA",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "second_half_under_1.5_vs_second_half_over_1.5",
+        "best_odds": {
+          "second_half_under_1.5_odd": {
+            "value": 1.829,
+            "source": "Tounesbet"
+          },
+          "second_half_over_1.5_odd": {
+            "value": 2.4,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9634,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "12794310-9839572",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Brazil",
+        "tournament_Tounesbet": "Série B",
+        "Tounesbet_match_id": 9839572,
+        "Tounesbet_tournament_id": 23014,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "Brazil",
+        "tournament_Clubx2": "Brasileiro Serie B",
+        "Clubx2_match_id": 12794310,
+        "Clubx2_tournament_id": 11005,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=12794310#/overview",
+        "group_id": "2578753290321932301-653677606-12794310-28006598-9839572",
+        "home_team": "Goias Esporte Clube",
+        "away_team": "Paysandu SC PA",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2",
+        "best_odds": {
+          "1_odd": {
+            "value": 1.888,
+            "source": "Tounesbet"
+          },
+          "X2_odd": {
+            "value": 2.29,
+            "source": "Jibibet"
+          }
+        },
+        "arbitrage_percentage": 0.9663,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2578753290321932301-9839572",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Brazil",
+        "tournament_Tounesbet": "Série B",
+        "Tounesbet_match_id": 9839572,
+        "Tounesbet_tournament_id": 23014,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Jibibet_country_name": "Brazil",
+        "tournament_Jibibet": "Brasileiro Serie B",
+        "Jibibet_match_id": 2578753290321932301,
+        "Jibibet_tournament_id": 1669818814746988544,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "group_id": "2578753290321932301-653677606-12794310-28006598-9839572",
+        "home_team": "Goias Esporte Clube",
+        "away_team": "Paysandu SC PA",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2",
+        "best_odds": {
+          "1_odd": {
+            "value": 1.888,
+            "source": "Tounesbet"
+          },
+          "X2_odd": {
+            "value": 2.28,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.9683,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653677606-9839572",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Brazil",
+        "tournament_Tounesbet": "Série B",
+        "Tounesbet_match_id": 9839572,
+        "Tounesbet_tournament_id": 23014,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "1xbet_country_name": "Brazil",
+        "tournament_1xbet": "Campeonato Brasileiro. Serie B",
+        "1xbet_match_id": 653677606,
+        "1xbet_tournament_id": 57265,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/57265/653677606",
+        "group_id": "2578753290321932301-653677606-12794310-28006598-9839572",
+        "home_team": "Goias Esporte Clube",
+        "away_team": "Paysandu SC PA",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2579328053918441487-653762802-12794302-28013592-9839565",
+    "home_team": "Clube do Remo PA",
+    "away_team": "Atletico Clube Goianiense",
+    "date": "21/09/2025",
+    "time": "00:30",
+    "country": "Brazil",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.42,
+            "source": "1xbet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.852,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9532,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653762802-9839565",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Brazil",
+        "tournament_1xbet": "Campeonato Brasileiro. Serie B",
+        "1xbet_match_id": 653762802,
+        "1xbet_tournament_id": 57265,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/57265/653762802",
+        "Tounesbet_country_name": "Brazil",
+        "tournament_Tounesbet": "Série B",
+        "Tounesbet_match_id": 9839565,
+        "Tounesbet_tournament_id": 23014,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579328053918441487-653762802-12794302-28013592-9839565",
+        "home_team": "Clube do Remo PA",
+        "away_team": "Atletico Clube Goianiense",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.41,
+            "source": "Asbet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.852,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9549,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "28013592-9839565",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Brazil",
+        "tournament_Asbet": "Serie B",
+        "Asbet_match_id": 28013592,
+        "Asbet_tournament_id": 3104,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Brazil/3104/serie-b/28013592/remo-pa-atletico-goianiense",
+        "Tounesbet_country_name": "Brazil",
+        "tournament_Tounesbet": "Série B",
+        "Tounesbet_match_id": 9839565,
+        "Tounesbet_tournament_id": 23014,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579328053918441487-653762802-12794302-28013592-9839565",
+        "home_team": "Clube do Remo PA",
+        "away_team": "Atletico Clube Goianiense",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.38,
+            "source": "Jibibet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.852,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9601,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2579328053918441487-9839565",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "Brazil",
+        "tournament_Jibibet": "Brasileiro Serie B",
+        "Jibibet_match_id": 2579328053918441487,
+        "Jibibet_tournament_id": 1669818814746988544,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "Brazil",
+        "tournament_Tounesbet": "Série B",
+        "Tounesbet_match_id": 9839565,
+        "Tounesbet_tournament_id": 23014,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579328053918441487-653762802-12794302-28013592-9839565",
+        "home_team": "Clube do Remo PA",
+        "away_team": "Atletico Clube Goianiense",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.375,
+            "source": "Clubx2"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.852,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.961,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "12794302-9839565",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Brazil",
+        "tournament_Clubx2": "Brasileiro Serie B",
+        "Clubx2_match_id": 12794302,
+        "Clubx2_tournament_id": 11005,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=12794302#/overview",
+        "Tounesbet_country_name": "Brazil",
+        "tournament_Tounesbet": "Série B",
+        "Tounesbet_match_id": 9839565,
+        "Tounesbet_tournament_id": 23014,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579328053918441487-653762802-12794302-28013592-9839565",
+        "home_team": "Clube do Remo PA",
+        "away_team": "Atletico Clube Goianiense",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2579120379989733392-653689353-12794303-28013129-9839563",
+    "home_team": "America Minas Gerais",
+    "away_team": "Coritiba FC PR",
+    "date": "21/09/2025",
+    "time": "20:00",
+    "country": "Brazil",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "first_half_under_1.0_vs_first_half_over_1.0",
+        "best_odds": {
+          "first_half_under_1.0_odd": {
+            "value": 1.864,
+            "source": "Tounesbet"
+          },
+          "first_half_over_1.0_odd": {
+            "value": 2.37,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9584,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "28013129-9839563",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Brazil",
+        "tournament_Tounesbet": "Série B",
+        "Tounesbet_match_id": 9839563,
+        "Tounesbet_tournament_id": 23014,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "Brazil",
+        "tournament_Asbet": "Serie B",
+        "Asbet_match_id": 28013129,
+        "Asbet_tournament_id": 3104,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Brazil/3104/serie-b/28013129/america-mg-coritiba",
+        "group_id": "2579120379989733392-653689353-12794303-28013129-9839563",
+        "home_team": "America Minas Gerais",
+        "away_team": "Coritiba FC PR",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.35,
+            "source": "1xbet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.852,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9655,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653689353-9839563",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Brazil",
+        "tournament_1xbet": "Campeonato Brasileiro. Serie B",
+        "1xbet_match_id": 653689353,
+        "1xbet_tournament_id": 57265,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/57265/653689353",
+        "Tounesbet_country_name": "Brazil",
+        "tournament_Tounesbet": "Série B",
+        "Tounesbet_match_id": 9839563,
+        "Tounesbet_tournament_id": 23014,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579120379989733392-653689353-12794303-28013129-9839563",
+        "home_team": "America Minas Gerais",
+        "away_team": "Coritiba FC PR",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "away_under_0.5_vs_away_over_0.5",
+        "best_odds": {
+          "away_under_0.5_odd": {
+            "value": 2.4,
+            "source": "Clubx2"
+          },
+          "away_over_0.5_odd": {
+            "value": 1.805,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9707,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "12794303-9839563",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Brazil",
+        "tournament_Clubx2": "Brasileiro Serie B",
+        "Clubx2_match_id": 12794303,
+        "Clubx2_tournament_id": 11005,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=12794303#/overview",
+        "Tounesbet_country_name": "Brazil",
+        "tournament_Tounesbet": "Série B",
+        "Tounesbet_match_id": 9839563,
+        "Tounesbet_tournament_id": 23014,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579120379989733392-653689353-12794303-28013129-9839563",
+        "home_team": "America Minas Gerais",
+        "away_team": "Coritiba FC PR",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2579287153620164628-653762796-12794307-9839566",
+    "home_team": "Criciuma EC SC",
+    "away_team": "CR Brasil AL",
+    "date": "21/09/2025",
+    "time": "20:00",
+    "country": "Brazil",
+    "all_sources": [
+      "1xbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 1.85,
+            "source": "Jibibet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 2.36,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9643,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2579287153620164628-9839566",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "Brazil",
+        "tournament_Jibibet": "Brasileiro Serie B",
+        "Jibibet_match_id": 2579287153620164628,
+        "Jibibet_tournament_id": 1669818814746988544,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "Brazil",
+        "tournament_Tounesbet": "Série B",
+        "Tounesbet_match_id": 9839566,
+        "Tounesbet_tournament_id": 23014,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579287153620164628-653762796-12794307-9839566",
+        "home_team": "Criciuma EC SC",
+        "away_team": "CR Brasil AL",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "away_under_0.5_vs_away_over_0.5",
+        "best_odds": {
+          "away_under_0.5_odd": {
+            "value": 2.2,
+            "source": "1xbet"
+          },
+          "away_over_0.5_odd": {
+            "value": 1.958,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9653,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653762796-9839566",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Brazil",
+        "tournament_1xbet": "Campeonato Brasileiro. Serie B",
+        "1xbet_match_id": 653762796,
+        "1xbet_tournament_id": 57265,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/57265/653762796",
+        "Tounesbet_country_name": "Brazil",
+        "tournament_Tounesbet": "Série B",
+        "Tounesbet_match_id": 9839566,
+        "Tounesbet_tournament_id": 23014,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579287153620164628-653762796-12794307-9839566",
+        "home_team": "Criciuma EC SC",
+        "away_team": "CR Brasil AL",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 1.8182,
+            "source": "Clubx2"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 2.36,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9737,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "12794307-9839566",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Brazil",
+        "tournament_Clubx2": "Brasileiro Serie B",
+        "Clubx2_match_id": 12794307,
+        "Clubx2_tournament_id": 11005,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=12794307#/overview",
+        "Tounesbet_country_name": "Brazil",
+        "tournament_Tounesbet": "Série B",
+        "Tounesbet_match_id": 9839566,
+        "Tounesbet_tournament_id": 23014,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579287153620164628-653762796-12794307-9839566",
+        "home_team": "Criciuma EC SC",
+        "away_team": "CR Brasil AL",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2579280738725793840-653762808-12794309-28013595-9839562",
+    "home_team": "Clube Atletico Paranaense",
+    "away_team": "Vila Nova Goiania",
+    "date": "21/09/2025",
+    "time": "23:00",
+    "country": "Brazil",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_0.0_home_vs_away",
+        "best_odds": {
+          "home_handicap_0.0_odd": {
+            "value": 1.793,
+            "source": "Tounesbet"
+          },
+          "away_handicap_0.0_odd": {
+            "value": 3.72,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.8265,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653762808-9839562",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Brazil",
+        "tournament_Tounesbet": "Série B",
+        "Tounesbet_match_id": 9839562,
+        "Tounesbet_tournament_id": 23014,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "1xbet_country_name": "Brazil",
+        "tournament_1xbet": "Campeonato Brasileiro. Serie B",
+        "1xbet_match_id": 653762808,
+        "1xbet_tournament_id": 57265,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/57265/653762808",
+        "group_id": "2579280738725793840-653762808-12794309-28013595-9839562",
+        "home_team": "Clube Atletico Paranaense",
+        "away_team": "Vila Nova Goiania",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_0.0_home_vs_away",
+        "best_odds": {
+          "home_handicap_0.0_odd": {
+            "value": 1.793,
+            "source": "Tounesbet"
+          },
+          "away_handicap_0.0_odd": {
+            "value": 3.7,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.828,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "28013595-9839562",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Brazil",
+        "tournament_Tounesbet": "Série B",
+        "Tounesbet_match_id": 9839562,
+        "Tounesbet_tournament_id": 23014,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "Brazil",
+        "tournament_Asbet": "Serie B",
+        "Asbet_match_id": 28013595,
+        "Asbet_tournament_id": 3104,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Brazil/3104/serie-b/28013595/ca-paranaense-vila-nova-goiania",
+        "group_id": "2579280738725793840-653762808-12794309-28013595-9839562",
+        "home_team": "Clube Atletico Paranaense",
+        "away_team": "Vila Nova Goiania",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.537,
+            "source": "Tounesbet"
+          },
+          "X2_odd": {
+            "value": 2.15,
+            "source": "Jibibet"
+          }
+        },
+        "arbitrage_percentage": 0.8593,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2579280738725793840-9839562",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Brazil",
+        "tournament_Tounesbet": "Série B",
+        "Tounesbet_match_id": 9839562,
+        "Tounesbet_tournament_id": 23014,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Jibibet_country_name": "Brazil",
+        "tournament_Jibibet": "Brasileiro Serie B",
+        "Jibibet_match_id": 2579280738725793840,
+        "Jibibet_tournament_id": 1669818814746988544,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "group_id": "2579280738725793840-653762808-12794309-28013595-9839562",
+        "home_team": "Clube Atletico Paranaense",
+        "away_team": "Vila Nova Goiania",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.537,
+            "source": "Tounesbet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 2.1,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.8704,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "12794309-9839562",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Brazil",
+        "tournament_Tounesbet": "Série B",
+        "Tounesbet_match_id": 9839562,
+        "Tounesbet_tournament_id": 23014,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "Brazil",
+        "tournament_Clubx2": "Brasileiro Serie B",
+        "Clubx2_match_id": 12794309,
+        "Clubx2_tournament_id": 11005,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=12794309#/overview",
+        "group_id": "2579280738725793840-653762808-12794309-28013595-9839562",
+        "home_team": "Clube Atletico Paranaense",
+        "away_team": "Vila Nova Goiania",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2579292692341202954-653762799-12794308-28013596-9839567",
+    "home_team": "Cuiaba Esporte Clube MT",
+    "away_team": "Chapecoense SC",
+    "date": "22/09/2025",
+    "time": "00:30",
+    "country": "Brazil",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "away_under_0.5_vs_away_over_0.5",
+        "best_odds": {
+          "away_under_0.5_odd": {
+            "value": 2.4,
+            "source": "1xbet"
+          },
+          "away_over_0.5_odd": {
+            "value": 1.899,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9433,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653762799-9839567",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Brazil",
+        "tournament_1xbet": "Campeonato Brasileiro. Serie B",
+        "1xbet_match_id": 653762799,
+        "1xbet_tournament_id": 57265,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/57265/653762799",
+        "Tounesbet_country_name": "Brazil",
+        "tournament_Tounesbet": "Série B",
+        "Tounesbet_match_id": 9839567,
+        "Tounesbet_tournament_id": 23014,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579292692341202954-653762799-12794308-28013596-9839567",
+        "home_team": "Cuiaba Esporte Clube MT",
+        "away_team": "Chapecoense SC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "first_half_under_1.0_vs_first_half_over_1.0",
+        "best_odds": {
+          "first_half_under_1.0_odd": {
+            "value": 1.923,
+            "source": "Tounesbet"
+          },
+          "first_half_over_1.0_odd": {
+            "value": 2.3,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9548,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "28013596-9839567",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Brazil",
+        "tournament_Tounesbet": "Série B",
+        "Tounesbet_match_id": 9839567,
+        "Tounesbet_tournament_id": 23014,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "Brazil",
+        "tournament_Asbet": "Serie B",
+        "Asbet_match_id": 28013596,
+        "Asbet_tournament_id": 3104,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Brazil/3104/serie-b/28013596/cuiaba-ec-chapecoense-sc",
+        "group_id": "2579292692341202954-653762799-12794308-28013596-9839567",
+        "home_team": "Cuiaba Esporte Clube MT",
+        "away_team": "Chapecoense SC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.06,
+            "source": "Jibibet"
+          },
+          "X2_odd": {
+            "value": 2.124,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9562,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2579292692341202954-9839567",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "Brazil",
+        "tournament_Jibibet": "Brasileiro Serie B",
+        "Jibibet_match_id": 2579292692341202954,
+        "Jibibet_tournament_id": 1669818814746988544,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "Brazil",
+        "tournament_Tounesbet": "Série B",
+        "Tounesbet_match_id": 9839567,
+        "Tounesbet_tournament_id": 23014,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579292692341202954-653762799-12794308-28013596-9839567",
+        "home_team": "Cuiaba Esporte Clube MT",
+        "away_team": "Chapecoense SC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.05,
+            "source": "Clubx2"
+          },
+          "X2_odd": {
+            "value": 2.124,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9586,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "12794308-9839567",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Brazil",
+        "tournament_Clubx2": "Brasileiro Serie B",
+        "Clubx2_match_id": 12794308,
+        "Clubx2_tournament_id": 11005,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=12794308#/overview",
+        "Tounesbet_country_name": "Brazil",
+        "tournament_Tounesbet": "Série B",
+        "Tounesbet_match_id": 9839567,
+        "Tounesbet_tournament_id": 23014,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579292692341202954-653762799-12794308-28013596-9839567",
+        "home_team": "Cuiaba Esporte Clube MT",
+        "away_team": "Chapecoense SC",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "654041391-11300490-13734538",
+    "home_team": "Sport Club Corinthians Paulista (W)",
+    "away_team": "Esporte Clube Juventude (Women)",
+    "date": "17/09/2025",
+    "time": "19:00",
+    "country": "Brazil",
+    "all_sources": [
+      "1xbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_-3.0_home_vs_away",
+        "best_odds": {
+          "home_handicap_-3.0_odd": {
+            "value": 2.242,
+            "source": "Tounesbet"
+          },
+          "away_handicap_3.0_odd": {
+            "value": 1.9,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.9723,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "654041391-11300490",
+        "Tounesbet_country_name": "Brazil",
+        "tournament_Tounesbet": "Copa do Brasil Women",
+        "Tounesbet_match_id": 11300490,
+        "Tounesbet_tournament_id": 22996,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "1xbet_country_name": "Brazil",
+        "tournament_1xbet": "Women",
+        "1xbet_match_id": 654041391,
+        "1xbet_tournament_id": 185615,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/185615/654041391",
+        "group_id": "654041391-11300490-13734538",
+        "home_team": "Sport Club Corinthians Paulista (W)",
+        "away_team": "Esporte Clube Juventude (Women)",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "first_half_under_1.5_vs_first_half_over_1.5",
+        "best_odds": {
+          "first_half_under_1.5_odd": {
+            "value": 1.95,
+            "source": "Clubx2"
+          },
+          "first_half_over_1.5_odd": {
+            "value": 2.135,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9812,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13734538-11300490",
+        "Clubx2_country_name": "Brazil",
+        "tournament_Clubx2": "Brazil Cup Women",
+        "Clubx2_match_id": 13734538,
+        "Clubx2_tournament_id": 8382,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13734538#/overview",
+        "Tounesbet_country_name": "Brazil",
+        "tournament_Tounesbet": "Copa do Brasil Women",
+        "Tounesbet_match_id": 11300490,
+        "Tounesbet_tournament_id": 22996,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "654041391-11300490-13734538",
+        "home_team": "Sport Club Corinthians Paulista (W)",
+        "away_team": "Esporte Clube Juventude (Women)",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "654035554-11300314-13734539",
+    "home_team": "Red Bull Bragantino (Women)",
+    "away_team": "Atletico Piauiense (Women)",
+    "date": "17/09/2025",
+    "time": "21:00",
+    "country": "Brazil",
+    "all_sources": [
+      "1xbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_-1.5_home_vs_away",
+        "best_odds": {
+          "home_handicap_-1.5_odd": {
+            "value": 1.9,
+            "source": "Clubx2"
+          },
+          "away_handicap_1.5_odd": {
+            "value": 2.301,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9609,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13734539-11300314",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Brazil",
+        "tournament_Clubx2": "Brazil Cup Women",
+        "Clubx2_match_id": 13734539,
+        "Clubx2_tournament_id": 8382,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13734539#/overview",
+        "Tounesbet_country_name": "Brazil",
+        "tournament_Tounesbet": "Copa do Brasil Women",
+        "Tounesbet_match_id": 11300314,
+        "Tounesbet_tournament_id": 22996,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "654035554-11300314-13734539",
+        "home_team": "Red Bull Bragantino (Women)",
+        "away_team": "Atletico Piauiense (Women)",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_-1.5_home_vs_away",
+        "best_odds": {
+          "home_handicap_-1.5_odd": {
+            "value": 2.183,
+            "source": "Tounesbet"
+          },
+          "away_handicap_1.5_odd": {
+            "value": 1.975,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.9644,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "654035554-11300314",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Brazil",
+        "tournament_Tounesbet": "Copa do Brasil Women",
+        "Tounesbet_match_id": 11300314,
+        "Tounesbet_tournament_id": 22996,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "1xbet_country_name": "Brazil",
+        "tournament_1xbet": "Women",
+        "1xbet_match_id": 654035554,
+        "1xbet_tournament_id": 185615,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/185615/654035554",
+        "group_id": "654035554-11300314-13734539",
+        "home_team": "Red Bull Bragantino (Women)",
+        "away_team": "Atletico Piauiense (Women)",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2574279130031984664-650220597-12776125-27939767-9786155",
+    "home_team": "EC Vitoria Salvador",
+    "away_team": "Fluminense FC RJ",
+    "date": "20/09/2025",
+    "time": "20:00",
+    "country": "Brazil",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_0.0_home_vs_away",
+        "best_odds": {
+          "home_handicap_0.0_odd": {
+            "value": 2.005,
+            "source": "1xbet"
+          },
+          "away_handicap_0.0_odd": {
+            "value": 2.206,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9521,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "650220597-9786155",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Brazil",
+        "tournament_1xbet": "Campeonato Brasileiro. Serie A",
+        "1xbet_match_id": 650220597,
+        "1xbet_tournament_id": 1268397,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/1268397/650220597",
+        "Tounesbet_country_name": "Brazil",
+        "tournament_Tounesbet": "Série A",
+        "Tounesbet_match_id": 9786155,
+        "Tounesbet_tournament_id": 23013,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2574279130031984664-650220597-12776125-27939767-9786155",
+        "home_team": "EC Vitoria Salvador",
+        "away_team": "Fluminense FC RJ",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "under_1.5_vs_over_1.5",
+        "best_odds": {
+          "under_1.5_odd": {
+            "value": 2.5,
+            "source": "Clubx2"
+          },
+          "over_1.5_odd": {
+            "value": 1.805,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.954,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "12776125-9786155",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Brazil",
+        "tournament_Clubx2": "Brasileiro Serie A",
+        "Clubx2_match_id": 12776125,
+        "Clubx2_tournament_id": 11318,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=12776125#/overview",
+        "Tounesbet_country_name": "Brazil",
+        "tournament_Tounesbet": "Série A",
+        "Tounesbet_match_id": 9786155,
+        "Tounesbet_tournament_id": 23013,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2574279130031984664-650220597-12776125-27939767-9786155",
+        "home_team": "EC Vitoria Salvador",
+        "away_team": "Fluminense FC RJ",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "under_1.5_vs_over_1.5",
+        "best_odds": {
+          "under_1.5_odd": {
+            "value": 2.5,
+            "source": "Jibibet"
+          },
+          "over_1.5_odd": {
+            "value": 1.805,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.954,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2574279130031984664-9786155",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "Brazil",
+        "tournament_Jibibet": "Brasileiro Serie A",
+        "Jibibet_match_id": 2574279130031984664,
+        "Jibibet_tournament_id": 1669818812230406144,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "Brazil",
+        "tournament_Tounesbet": "Série A",
+        "Tounesbet_match_id": 9786155,
+        "Tounesbet_tournament_id": 23013,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2574279130031984664-650220597-12776125-27939767-9786155",
+        "home_team": "EC Vitoria Salvador",
+        "away_team": "Fluminense FC RJ",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "under_1.5_vs_over_1.5",
+        "best_odds": {
+          "under_1.5_odd": {
+            "value": 2.45,
+            "source": "Asbet"
+          },
+          "over_1.5_odd": {
+            "value": 1.805,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9622,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27939767-9786155",
+        "misvalue_source": "1xbet",
+        "Asbet_country_name": "Brazil",
+        "tournament_Asbet": "Serie A",
+        "Asbet_match_id": 27939767,
+        "Asbet_tournament_id": 1792,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Brazil/1792/serie-a/27939767/ec-vitoria-ba-fluminense",
+        "Tounesbet_country_name": "Brazil",
+        "tournament_Tounesbet": "Série A",
+        "Tounesbet_match_id": 9786155,
+        "Tounesbet_tournament_id": 23013,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2574279130031984664-650220597-12776125-27939767-9786155",
+        "home_team": "EC Vitoria Salvador",
+        "away_team": "Fluminense FC RJ",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2574279130031984648-650220585-12776134-27942366-9786343",
+    "home_team": "Sociedade Esportiva Palmeiras",
+    "away_team": "Fortaleza EC CE",
+    "date": "21/09/2025",
+    "time": "01:00",
+    "country": "Brazil",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_-1.0_home_vs_away",
+        "best_odds": {
+          "home_handicap_-1.0_odd": {
+            "value": 1.829,
+            "source": "Tounesbet"
+          },
+          "away_handicap_1.0_odd": {
+            "value": 2.5,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9467,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "12776134-9786343",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Brazil",
+        "tournament_Tounesbet": "Série A",
+        "Tounesbet_match_id": 9786343,
+        "Tounesbet_tournament_id": 23013,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "Brazil",
+        "tournament_Clubx2": "Brasileiro Serie A",
+        "Clubx2_match_id": 12776134,
+        "Clubx2_tournament_id": 11318,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=12776134#/overview",
+        "group_id": "2574279130031984648-650220585-12776134-27942366-9786343",
+        "home_team": "Sociedade Esportiva Palmeiras",
+        "away_team": "Fortaleza EC CE",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_-1.5_home_vs_away",
+        "best_odds": {
+          "home_handicap_-1.5_odd": {
+            "value": 2.116,
+            "source": "1xbet"
+          },
+          "away_handicap_1.5_odd": {
+            "value": 2.065,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9569,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "650220585-9786343",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Brazil",
+        "tournament_1xbet": "Campeonato Brasileiro. Serie A",
+        "1xbet_match_id": 650220585,
+        "1xbet_tournament_id": 1268397,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/1268397/650220585",
+        "Tounesbet_country_name": "Brazil",
+        "tournament_Tounesbet": "Série A",
+        "Tounesbet_match_id": 9786343,
+        "Tounesbet_tournament_id": 23013,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2574279130031984648-650220585-12776134-27942366-9786343",
+        "home_team": "Sociedade Esportiva Palmeiras",
+        "away_team": "Fortaleza EC CE",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_-1.0_home_vs_away",
+        "best_odds": {
+          "home_handicap_-1.0_odd": {
+            "value": 1.829,
+            "source": "Tounesbet"
+          },
+          "away_handicap_1.0_odd": {
+            "value": 2.4,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9634,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27942366-9786343",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Brazil",
+        "tournament_Tounesbet": "Série A",
+        "Tounesbet_match_id": 9786343,
+        "Tounesbet_tournament_id": 23013,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "Brazil",
+        "tournament_Asbet": "Serie A",
+        "Asbet_match_id": 27942366,
+        "Asbet_tournament_id": 1792,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Brazil/1792/serie-a/27942366/se-palmeiras-fortaleza-ce",
+        "group_id": "2574279130031984648-650220585-12776134-27942366-9786343",
+        "home_team": "Sociedade Esportiva Palmeiras",
+        "away_team": "Fortaleza EC CE",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2574279130031984665-650221292-12776128-27947355-9786342",
+    "home_team": "Mirassol FC SP",
+    "away_team": "Esporte Clube Juventude",
+    "date": "21/09/2025",
+    "time": "20:00",
+    "country": "Brazil",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "first_half_ah_-0.25_home_vs_away",
+        "best_odds": {
+          "home_first_half_handicap_-0.25_odd": {
+            "value": 2.065,
+            "source": "Tounesbet"
+          },
+          "away_first_half_handicap_0.25_odd": {
+            "value": 2.05,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9721,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "12776128-9786342",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Brazil",
+        "tournament_Tounesbet": "Série A",
+        "Tounesbet_match_id": 9786342,
+        "Tounesbet_tournament_id": 23013,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "Brazil",
+        "tournament_Clubx2": "Brasileiro Serie A",
+        "Clubx2_match_id": 12776128,
+        "Clubx2_tournament_id": 11318,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=12776128#/overview",
+        "group_id": "2574279130031984665-650221292-12776128-27947355-9786342",
+        "home_team": "Mirassol FC SP",
+        "away_team": "Esporte Clube Juventude",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "home_under_1.5_vs_home_over_1.5",
+        "best_odds": {
+          "home_under_1.5_odd": {
+            "value": 1.93,
+            "source": "1xbet"
+          },
+          "home_over_1.5_odd": {
+            "value": 2.159,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9813,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "650221292-9786342",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Brazil",
+        "tournament_1xbet": "Campeonato Brasileiro. Serie A",
+        "1xbet_match_id": 650221292,
+        "1xbet_tournament_id": 1268397,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/1268397/650221292",
+        "Tounesbet_country_name": "Brazil",
+        "tournament_Tounesbet": "Série A",
+        "Tounesbet_match_id": 9786342,
+        "Tounesbet_tournament_id": 23013,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2574279130031984665-650221292-12776128-27947355-9786342",
+        "home_team": "Mirassol FC SP",
+        "away_team": "Esporte Clube Juventude",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "first_half_ah_-0.25_home_vs_away",
+        "best_odds": {
+          "home_first_half_handicap_-0.25_odd": {
+            "value": 2.065,
+            "source": "Tounesbet"
+          },
+          "away_first_half_handicap_0.25_odd": {
+            "value": 2.0,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9843,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27947355-9786342",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Brazil",
+        "tournament_Tounesbet": "Série A",
+        "Tounesbet_match_id": 9786342,
+        "Tounesbet_tournament_id": 23013,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "Brazil",
+        "tournament_Asbet": "Serie A",
+        "Asbet_match_id": 27947355,
+        "Asbet_tournament_id": 1792,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Brazil/1792/serie-a/27947355/mirassol-fc-ec-juventude-rs",
+        "group_id": "2574279130031984665-650221292-12776128-27947355-9786342",
+        "home_team": "Mirassol FC SP",
+        "away_team": "Esporte Clube Juventude",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2574279130031984668-650221304-12776126-27949396-9786341",
+    "home_team": "Regatas Flamengo RJ",
+    "away_team": "CR Vasco da Gama RJ",
+    "date": "21/09/2025",
+    "time": "21:30",
+    "country": "Brazil",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_-1.5_home_vs_away",
+        "best_odds": {
+          "home_handicap_-1.5_odd": {
+            "value": 2.044,
+            "source": "1xbet"
+          },
+          "away_handicap_1.5_odd": {
+            "value": 2.147,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.955,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "650221304-9786341",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Brazil",
+        "tournament_1xbet": "Campeonato Brasileiro. Serie A",
+        "1xbet_match_id": 650221304,
+        "1xbet_tournament_id": 1268397,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/1268397/650221304",
+        "Tounesbet_country_name": "Brazil",
+        "tournament_Tounesbet": "Série A",
+        "Tounesbet_match_id": 9786341,
+        "Tounesbet_tournament_id": 23013,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2574279130031984668-650221304-12776126-27949396-9786341",
+        "home_team": "Regatas Flamengo RJ",
+        "away_team": "CR Vasco da Gama RJ",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "first_half_under_1.0_vs_first_half_over_1.0",
+        "best_odds": {
+          "first_half_under_1.0_odd": {
+            "value": 2.15,
+            "source": "Clubx2"
+          },
+          "first_half_over_1.0_odd": {
+            "value": 2.017,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9609,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "12776126-9786341",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Brazil",
+        "tournament_Clubx2": "Brasileiro Serie A",
+        "Clubx2_match_id": 12776126,
+        "Clubx2_tournament_id": 11318,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=12776126#/overview",
+        "Tounesbet_country_name": "Brazil",
+        "tournament_Tounesbet": "Série A",
+        "Tounesbet_match_id": 9786341,
+        "Tounesbet_tournament_id": 23013,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2574279130031984668-650221304-12776126-27949396-9786341",
+        "home_team": "Regatas Flamengo RJ",
+        "away_team": "CR Vasco da Gama RJ",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "first_half_ah_-0.75_home_vs_away",
+        "best_odds": {
+          "home_first_half_handicap_-0.75_odd": {
+            "value": 2.537,
+            "source": "Tounesbet"
+          },
+          "away_first_half_handicap_0.75_odd": {
+            "value": 1.73,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9722,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27949396-9786341",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Brazil",
+        "tournament_Tounesbet": "Série A",
+        "Tounesbet_match_id": 9786341,
+        "Tounesbet_tournament_id": 23013,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "Brazil",
+        "tournament_Asbet": "Serie A",
+        "Asbet_match_id": 27949396,
+        "Asbet_tournament_id": 1792,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Brazil/1792/serie-a/27949396/regatas-flamengo-rj-cr-vasco-da-gama",
+        "group_id": "2574279130031984668-650221304-12776126-27949396-9786341",
+        "home_team": "Regatas Flamengo RJ",
+        "away_team": "CR Vasco da Gama RJ",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "under_3.5_vs_over_3.5",
+        "best_odds": {
+          "under_3.5_odd": {
+            "value": 1.41,
+            "source": "Jibibet"
+          },
+          "over_3.5_odd": {
+            "value": 3.54,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9917,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2574279130031984668-9786341",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "Brazil",
+        "tournament_Jibibet": "Brasileiro Serie A",
+        "Jibibet_match_id": 2574279130031984668,
+        "Jibibet_tournament_id": 1669818812230406144,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "Brazil",
+        "tournament_Tounesbet": "Série A",
+        "Tounesbet_match_id": 9786341,
+        "Tounesbet_tournament_id": 23013,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2574279130031984668-650221304-12776126-27949396-9786341",
+        "home_team": "Regatas Flamengo RJ",
+        "away_team": "CR Vasco da Gama RJ",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2574292808173236226-650221298-12776137-27949397-9786345",
+    "home_team": "Sport Club do Recife",
+    "away_team": "Corinthians Paulista",
+    "date": "21/09/2025",
+    "time": "21:30",
+    "country": "Brazil",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_0.0_home_vs_away",
+        "best_odds": {
+          "home_handicap_0.0_odd": {
+            "value": 2.265,
+            "source": "Tounesbet"
+          },
+          "away_handicap_0.0_odd": {
+            "value": 1.9524,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9537,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "12776137-9786345",
+        "misvalue_source": "1xbet",
+        "Tounesbet_country_name": "Brazil",
+        "tournament_Tounesbet": "Série A",
+        "Tounesbet_match_id": 9786345,
+        "Tounesbet_tournament_id": 23013,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "Brazil",
+        "tournament_Clubx2": "Brasileiro Serie A",
+        "Clubx2_match_id": 12776137,
+        "Clubx2_tournament_id": 11318,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=12776137#/overview",
+        "group_id": "2574292808173236226-650221298-12776137-27949397-9786345",
+        "home_team": "Sport Club do Recife",
+        "away_team": "Corinthians Paulista",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_0.0_home_vs_away",
+        "best_odds": {
+          "home_handicap_0.0_odd": {
+            "value": 2.265,
+            "source": "Tounesbet"
+          },
+          "away_handicap_0.0_odd": {
+            "value": 1.92,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.9623,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "650221298-9786345",
+        "misvalue_source": "1xbet",
+        "Tounesbet_country_name": "Brazil",
+        "tournament_Tounesbet": "Série A",
+        "Tounesbet_match_id": 9786345,
+        "Tounesbet_tournament_id": 23013,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "1xbet_country_name": "Brazil",
+        "tournament_1xbet": "Campeonato Brasileiro. Serie A",
+        "1xbet_match_id": 650221298,
+        "1xbet_tournament_id": 1268397,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/1268397/650221298",
+        "group_id": "2574292808173236226-650221298-12776137-27949397-9786345",
+        "home_team": "Sport Club do Recife",
+        "away_team": "Corinthians Paulista",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_0.25_home_vs_away",
+        "best_odds": {
+          "home_handicap_0.25_odd": {
+            "value": 1.888,
+            "source": "Tounesbet"
+          },
+          "away_handicap_-0.25_odd": {
+            "value": 2.28,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9683,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27949397-9786345",
+        "misvalue_source": "1xbet",
+        "Tounesbet_country_name": "Brazil",
+        "tournament_Tounesbet": "Série A",
+        "Tounesbet_match_id": 9786345,
+        "Tounesbet_tournament_id": 23013,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "Brazil",
+        "tournament_Asbet": "Serie A",
+        "Asbet_match_id": 27949397,
+        "Asbet_tournament_id": 1792,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Brazil/1792/serie-a/27949397/sport-recife-corinthians-sp",
+        "group_id": "2574292808173236226-650221298-12776137-27949397-9786345",
+        "home_team": "Sport Club do Recife",
+        "away_team": "Corinthians Paulista",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2574279130031984670-650221295-12776139-27949395-9786352",
+    "home_team": "Sport Club Internacional",
+    "away_team": "Gremio FB Porto Alegrense RS",
+    "date": "21/09/2025",
+    "time": "21:30",
+    "country": "Brazil",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 1.853,
+            "source": "1xbet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 2.383,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9593,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "650221295-9786352",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Brazil",
+        "tournament_1xbet": "Campeonato Brasileiro. Serie A",
+        "1xbet_match_id": 650221295,
+        "1xbet_tournament_id": 1268397,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/1268397/650221295",
+        "Tounesbet_country_name": "Brazil",
+        "tournament_Tounesbet": "Série A",
+        "Tounesbet_match_id": 9786352,
+        "Tounesbet_tournament_id": 23013,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2574279130031984670-650221295-12776139-27949395-9786352",
+        "home_team": "Sport Club Internacional",
+        "away_team": "Gremio FB Porto Alegrense RS",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_-1.0_home_vs_away",
+        "best_odds": {
+          "home_handicap_-1.0_odd": {
+            "value": 2.47,
+            "source": "Asbet"
+          },
+          "away_handicap_1.0_odd": {
+            "value": 1.793,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9626,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27949395-9786352",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Brazil",
+        "tournament_Asbet": "Serie A",
+        "Asbet_match_id": 27949395,
+        "Asbet_tournament_id": 1792,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Brazil/1792/serie-a/27949395/sc-internacional-gremio-fb-porto-alegrense",
+        "Tounesbet_country_name": "Brazil",
+        "tournament_Tounesbet": "Série A",
+        "Tounesbet_match_id": 9786352,
+        "Tounesbet_tournament_id": 23013,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2574279130031984670-650221295-12776139-27949395-9786352",
+        "home_team": "Sport Club Internacional",
+        "away_team": "Gremio FB Porto Alegrense RS",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_-0.75_home_vs_away",
+        "best_odds": {
+          "home_handicap_-0.75_odd": {
+            "value": 2.419,
+            "source": "Tounesbet"
+          },
+          "away_handicap_0.75_odd": {
+            "value": 1.8,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9689,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "12776139-9786352",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Brazil",
+        "tournament_Tounesbet": "Série A",
+        "Tounesbet_match_id": 9786352,
+        "Tounesbet_tournament_id": 23013,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "Brazil",
+        "tournament_Clubx2": "Brasileiro Serie A",
+        "Clubx2_match_id": 12776139,
+        "Clubx2_tournament_id": 11318,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=12776139#/overview",
+        "group_id": "2574279130031984670-650221295-12776139-27949395-9786352",
+        "home_team": "Sport Club Internacional",
+        "away_team": "Gremio FB Porto Alegrense RS",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 1.8,
+            "source": "Jibibet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 2.383,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9752,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2574279130031984670-9786352",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "Brazil",
+        "tournament_Jibibet": "Brasileiro Serie A",
+        "Jibibet_match_id": 2574279130031984670,
+        "Jibibet_tournament_id": 1669818812230406144,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "Brazil",
+        "tournament_Tounesbet": "Série A",
+        "Tounesbet_match_id": 9786352,
+        "Tounesbet_tournament_id": 23013,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2574279130031984670-650221295-12776139-27949395-9786352",
+        "home_team": "Sport Club Internacional",
+        "away_team": "Gremio FB Porto Alegrense RS",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2574292808173236229-650221289-10418407-12776131-27949767",
+    "home_team": "Cruzeiro Esporte Clube",
+    "away_team": "Red Bull Bragantino SP",
+    "date": "22/09/2025",
+    "time": "00:30",
+    "country": "Brazil",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 1.805,
+            "source": "Tounesbet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 2.5,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.954,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "12776131-10418407",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Brazil",
+        "tournament_Tounesbet": "Série A",
+        "Tounesbet_match_id": 10418407,
+        "Tounesbet_tournament_id": 23013,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "Brazil",
+        "tournament_Clubx2": "Brasileiro Serie A",
+        "Clubx2_match_id": 12776131,
+        "Clubx2_tournament_id": 11318,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=12776131#/overview",
+        "group_id": "2574292808173236229-650221289-10418407-12776131-27949767",
+        "home_team": "Cruzeiro Esporte Clube",
+        "away_team": "Red Bull Bragantino SP",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2",
+        "best_odds": {
+          "1_odd": {
+            "value": 1.805,
+            "source": "Tounesbet"
+          },
+          "X2_odd": {
+            "value": 2.488,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.9559,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "650221289-10418407",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Brazil",
+        "tournament_Tounesbet": "Série A",
+        "Tounesbet_match_id": 10418407,
+        "Tounesbet_tournament_id": 23013,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "1xbet_country_name": "Brazil",
+        "tournament_1xbet": "Campeonato Brasileiro. Serie A",
+        "1xbet_match_id": 650221289,
+        "1xbet_tournament_id": 1268397,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/1268397/650221289",
+        "group_id": "2574292808173236229-650221289-10418407-12776131-27949767",
+        "home_team": "Cruzeiro Esporte Clube",
+        "away_team": "Red Bull Bragantino SP",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2",
+        "best_odds": {
+          "1_odd": {
+            "value": 1.805,
+            "source": "Tounesbet"
+          },
+          "X2_odd": {
+            "value": 2.45,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9622,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27949767-10418407",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Brazil",
+        "tournament_Tounesbet": "Série A",
+        "Tounesbet_match_id": 10418407,
+        "Tounesbet_tournament_id": 23013,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "Brazil",
+        "tournament_Asbet": "Serie A",
+        "Asbet_match_id": 27949767,
+        "Asbet_tournament_id": 1792,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Brazil/1792/serie-a/27949767/cruzeiro-ec-rb-bragantino",
+        "group_id": "2574292808173236229-650221289-10418407-12776131-27949767",
+        "home_team": "Cruzeiro Esporte Clube",
+        "away_team": "Red Bull Bragantino SP",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2",
+        "best_odds": {
+          "1_odd": {
+            "value": 1.805,
+            "source": "Tounesbet"
+          },
+          "X2_odd": {
+            "value": 2.42,
+            "source": "Jibibet"
+          }
+        },
+        "arbitrage_percentage": 0.9672,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2574292808173236229-10418407",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Brazil",
+        "tournament_Tounesbet": "Série A",
+        "Tounesbet_match_id": 10418407,
+        "Tounesbet_tournament_id": 23013,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Jibibet_country_name": "Brazil",
+        "tournament_Jibibet": "Brasileiro Serie A",
+        "Jibibet_match_id": 2574292808173236229,
+        "Jibibet_tournament_id": 1669818812230406144,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "group_id": "2574292808173236229-650221289-10418407-12776131-27949767",
+        "home_team": "Cruzeiro Esporte Clube",
+        "away_team": "Red Bull Bragantino SP",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2574292808173236268-650221301-12776140-27949768-9786344",
+    "home_team": "Santos FC SP",
+    "away_team": "Sao Paulo FC SP",
+    "date": "22/09/2025",
+    "time": "00:30",
+    "country": "Brazil",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.52,
+            "source": "1xbet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.852,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9368,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "650221301-9786344",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Brazil",
+        "tournament_1xbet": "Campeonato Brasileiro. Serie A",
+        "1xbet_match_id": 650221301,
+        "1xbet_tournament_id": 1268397,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/1268397/650221301",
+        "Tounesbet_country_name": "Brazil",
+        "tournament_Tounesbet": "Série A",
+        "Tounesbet_match_id": 9786344,
+        "Tounesbet_tournament_id": 23013,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2574292808173236268-650221301-12776140-27949768-9786344",
+        "home_team": "Santos FC SP",
+        "away_team": "Sao Paulo FC SP",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.44,
+            "source": "Jibibet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.852,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9498,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2574292808173236268-9786344",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "Brazil",
+        "tournament_Jibibet": "Brasileiro Serie A",
+        "Jibibet_match_id": 2574292808173236268,
+        "Jibibet_tournament_id": 1669818812230406144,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "Brazil",
+        "tournament_Tounesbet": "Série A",
+        "Tounesbet_match_id": 9786344,
+        "Tounesbet_tournament_id": 23013,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2574292808173236268-650221301-12776140-27949768-9786344",
+        "home_team": "Santos FC SP",
+        "away_team": "Sao Paulo FC SP",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.4,
+            "source": "Clubx2"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.852,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9566,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "12776140-9786344",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Brazil",
+        "tournament_Clubx2": "Brasileiro Serie A",
+        "Clubx2_match_id": 12776140,
+        "Clubx2_tournament_id": 11318,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=12776140#/overview",
+        "Tounesbet_country_name": "Brazil",
+        "tournament_Tounesbet": "Série A",
+        "Tounesbet_match_id": 9786344,
+        "Tounesbet_tournament_id": 23013,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2574292808173236268-650221301-12776140-27949768-9786344",
+        "home_team": "Santos FC SP",
+        "away_team": "Sao Paulo FC SP",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.35,
+            "source": "Asbet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.852,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9655,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27949768-9786344",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Brazil",
+        "tournament_Asbet": "Serie A",
+        "Asbet_match_id": 27949768,
+        "Asbet_tournament_id": 1792,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Brazil/1792/serie-a/27949768/santos-sp-sao-paulo-fc",
+        "Tounesbet_country_name": "Brazil",
+        "tournament_Tounesbet": "Série A",
+        "Tounesbet_match_id": 9786344,
+        "Tounesbet_tournament_id": 23013,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2574292808173236268-650221301-12776140-27949768-9786344",
+        "home_team": "Santos FC SP",
+        "away_team": "Sao Paulo FC SP",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "11261467-13919293",
+    "home_team": "Brasil de Pelotas",
+    "away_team": "SC Gaucho",
+    "date": "18/09/2025",
+    "time": "00:30",
+    "country": "Brazil",
+    "all_sources": [
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "first_half_under_0.5_vs_first_half_over_0.5",
+        "best_odds": {
+          "first_half_under_0.5_odd": {
+            "value": 3.292,
+            "source": "Tounesbet"
+          },
+          "first_half_over_0.5_odd": {
+            "value": 1.4546,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9912,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13919293-11261467",
+        "Tounesbet_country_name": "Brazil",
+        "tournament_Tounesbet": "Gaucho Cup",
+        "Tounesbet_match_id": 11261467,
+        "Tounesbet_tournament_id": 22992,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "Brazil",
+        "tournament_Clubx2": "Copa Fgf",
+        "Clubx2_match_id": 13919293,
+        "Clubx2_tournament_id": 8402,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13919293#/overview",
+        "group_id": "11261467-13919293",
+        "home_team": "Brasil de Pelotas",
+        "away_team": "SC Gaucho",
+        "activity_duration": "1 hour"
+      }
+    ]
+  }
+]

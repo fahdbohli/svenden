@@ -1,0 +1,47 @@
+[
+    {
+        "tournament_name": "Cup",
+        "tournament_id": "18356",
+        "matches": [
+            {
+                "match_id": 27588619,
+                "date": "15/07/2025",
+                "time": "16:00",
+                "home_team": "FC Dordoi Bishkek",
+                "away_team": "Alay Osh FC",
+                "both_noscore_odd": 2.21,
+                "both_score_odd": 1.59,
+                "under_3.0_odd": 1.61,
+                "over_3.0_odd": 2.17,
+                "under_2.0_odd": 3.1,
+                "over_2.0_odd": 1.32,
+                "away_handicap_0.75_odd": 1.38,
+                "home_handicap_-0.75_odd": 2.8,
+                "away_handicap_0.25_odd": 1.67,
+                "home_handicap_-0.25_odd": 2.07,
+                "away_handicap_0.5_odd": 1.53,
+                "home_handicap_-0.5_odd": 2.35,
+                "away_handicap_-0.75_odd": 3.1,
+                "home_handicap_0.75_odd": 1.32,
+                "away_handicap_-0.25_odd": 2.23,
+                "home_handicap_0.25_odd": 1.58,
+                "away_handicap_-0.5_odd": 2.52,
+                "home_handicap_0.5_odd": 1.46,
+                "X2_odd": 1.52,
+                "1X_odd": 1.45,
+                "12_odd": 1.28,
+                "under_2.5_odd": 2.02,
+                "over_2.5_odd": 1.7,
+                "away_handicap_0.0_odd": 1.94,
+                "home_handicap_0.0_odd": 1.76,
+                "2_odd": 2.58,
+                "1_odd": 2.37,
+                "draw_odd": 3.45,
+                "over_3.5_odd": 2.7,
+                "under_3.5_odd": 1.4,
+                "home_handicap_-1.0_odd": 3.65,
+                "away_handicap_1.0_odd": 1.24
+            }
+        ]
+    }
+]

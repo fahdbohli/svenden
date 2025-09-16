@@ -1,0 +1,33 @@
+[
+  {
+    "match_info": {
+      "home_team": "Augnablik Kopavogur",
+      "away_team": "Arbair",
+      "date": "10/07/2025",
+      "time": "20:15",
+      "sources": [
+        "1xbet",
+        "Asbet",
+        "Clubx2",
+        "Tounesbet"
+      ],
+      "country": "Iceland",
+      "tournament_1xbet": null,
+      "tournament_Asbet": null,
+      "tournament_Clubx2": null,
+      "tournament_Tounesbet": null
+    },
+    "complementary_set": "two_vs_1x",
+    "best_odds": {
+      "2_odd": {
+        "value": 18.7,
+        "source": "Tounesbet"
+      },
+      "1X_odd": {
+        "value": 1.062,
+        "source": "1xbet"
+      }
+    },
+    "arbitrage_percentage": 0.9951
+  }
+]

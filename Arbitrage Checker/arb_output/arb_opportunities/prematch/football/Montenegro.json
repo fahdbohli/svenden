@@ -1,0 +1,46 @@
+[
+  {
+    "group_id": "11254583-13236964",
+    "home_team": "FK Decic Tuzi",
+    "away_team": "Sutjeska",
+    "date": "17/09/2025",
+    "time": "18:00",
+    "country": "Montenegro",
+    "all_sources": [
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "first_half_under_0.5_vs_first_half_over_0.5",
+        "best_odds": {
+          "first_half_under_0.5_odd": {
+            "value": 2.4,
+            "source": "Clubx2"
+          },
+          "first_half_over_0.5_odd": {
+            "value": 1.781,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9781,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13236964-11254583",
+        "Clubx2_country_name": "Montenegro",
+        "tournament_Clubx2": "1. CFL",
+        "Clubx2_match_id": 13236964,
+        "Clubx2_tournament_id": 4624,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13236964#/overview",
+        "Tounesbet_country_name": "Montenegro",
+        "tournament_Tounesbet": "First League",
+        "Tounesbet_match_id": 11254583,
+        "Tounesbet_tournament_id": 23888,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "11254583-13236964",
+        "home_team": "FK Decic Tuzi",
+        "away_team": "Sutjeska",
+        "activity_duration": "1 hour"
+      }
+    ]
+  }
+]

@@ -1,0 +1,2225 @@
+[
+  {
+    "group_id": "2578348753970929700-653688983-11191970-13651791-27997732",
+    "home_team": "FC Kilmarnock",
+    "away_team": "St Mirren FC",
+    "date": "19/09/2025",
+    "time": "19:45",
+    "country": "Scotland",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.37,
+            "source": "1xbet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.888,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9516,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653688983-11191970",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Scotland",
+        "tournament_1xbet": "League Cup",
+        "1xbet_match_id": 653688983,
+        "1xbet_tournament_id": 120443,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/120443/653688983",
+        "Tounesbet_country_name": "Scotland",
+        "tournament_Tounesbet": "League Cup",
+        "Tounesbet_match_id": 11191970,
+        "Tounesbet_tournament_id": 135765,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578348753970929700-653688983-11191970-13651791-27997732",
+        "home_team": "FC Kilmarnock",
+        "away_team": "St Mirren FC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "second_half_under_1.5_vs_second_half_over_1.5",
+        "best_odds": {
+          "second_half_under_1.5_odd": {
+            "value": 1.947,
+            "source": "Tounesbet"
+          },
+          "second_half_over_1.5_odd": {
+            "value": 2.27,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9541,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27997732-11191970",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Scotland",
+        "tournament_Tounesbet": "League Cup",
+        "Tounesbet_match_id": 11191970,
+        "Tounesbet_tournament_id": 135765,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "Scotland",
+        "tournament_Asbet": "Scottish League Cup",
+        "Asbet_match_id": 27997732,
+        "Asbet_tournament_id": 2974,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Scotland/2974/scottish-league-cup/27997732/fc-kilmarnock-st-mirren-fc",
+        "group_id": "2578348753970929700-653688983-11191970-13651791-27997732",
+        "home_team": "FC Kilmarnock",
+        "away_team": "St Mirren FC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.3,
+            "source": "Clubx2"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.888,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9644,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13651791-11191970",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Scotland",
+        "tournament_Clubx2": "League Cup",
+        "Clubx2_match_id": 13651791,
+        "Clubx2_tournament_id": 9449,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13651791#/overview",
+        "Tounesbet_country_name": "Scotland",
+        "tournament_Tounesbet": "League Cup",
+        "Tounesbet_match_id": 11191970,
+        "Tounesbet_tournament_id": 135765,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578348753970929700-653688983-11191970-13651791-27997732",
+        "home_team": "FC Kilmarnock",
+        "away_team": "St Mirren FC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.3,
+            "source": "Jibibet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.888,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9644,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2578348753970929700-11191970",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "Scotland",
+        "tournament_Jibibet": "League Cup",
+        "Jibibet_match_id": 2578348753970929700,
+        "Jibibet_tournament_id": 1678477947864072192,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "Scotland",
+        "tournament_Tounesbet": "League Cup",
+        "Tounesbet_match_id": 11191970,
+        "Tounesbet_tournament_id": 135765,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578348753970929700-653688983-11191970-13651791-27997732",
+        "home_team": "FC Kilmarnock",
+        "away_team": "St Mirren FC",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2578639114719072301-653688989-11191967-13651788-28003435",
+    "home_team": "FC Aberdeen",
+    "away_team": "FC Motherwell",
+    "date": "20/09/2025",
+    "time": "15:00",
+    "country": "Scotland",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "second_half_under_1.5_vs_second_half_over_1.5",
+        "best_odds": {
+          "second_half_under_1.5_odd": {
+            "value": 1.935,
+            "source": "Tounesbet"
+          },
+          "second_half_over_1.5_odd": {
+            "value": 2.21,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9693,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "28003435-11191967",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Scotland",
+        "tournament_Tounesbet": "League Cup",
+        "Tounesbet_match_id": 11191967,
+        "Tounesbet_tournament_id": 135765,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "Scotland",
+        "tournament_Asbet": "Scottish League Cup",
+        "Asbet_match_id": 28003435,
+        "Asbet_tournament_id": 2974,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Scotland/2974/scottish-league-cup/28003435/fc-aberdeen-fc-motherwell",
+        "group_id": "2578639114719072301-653688989-11191967-13651788-28003435",
+        "home_team": "FC Aberdeen",
+        "away_team": "FC Motherwell",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "second_half_under_1.5_vs_second_half_over_1.5",
+        "best_odds": {
+          "second_half_under_1.5_odd": {
+            "value": 1.935,
+            "source": "Tounesbet"
+          },
+          "second_half_over_1.5_odd": {
+            "value": 2.2,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9713,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13651788-11191967",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Scotland",
+        "tournament_Tounesbet": "League Cup",
+        "Tounesbet_match_id": 11191967,
+        "Tounesbet_tournament_id": 135765,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "Scotland",
+        "tournament_Clubx2": "League Cup",
+        "Clubx2_match_id": 13651788,
+        "Clubx2_tournament_id": 9449,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13651788#/overview",
+        "group_id": "2578639114719072301-653688989-11191967-13651788-28003435",
+        "home_team": "FC Aberdeen",
+        "away_team": "FC Motherwell",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "home_under_1.5_vs_home_over_1.5",
+        "best_odds": {
+          "home_under_1.5_odd": {
+            "value": 1.958,
+            "source": "Tounesbet"
+          },
+          "home_over_1.5_odd": {
+            "value": 2.11,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.9847,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653688989-11191967",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Scotland",
+        "tournament_Tounesbet": "League Cup",
+        "Tounesbet_match_id": 11191967,
+        "Tounesbet_tournament_id": 135765,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "1xbet_country_name": "Scotland",
+        "tournament_1xbet": "League Cup",
+        "1xbet_match_id": 653688989,
+        "1xbet_tournament_id": 120443,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/120443/653688989",
+        "group_id": "2578639114719072301-653688989-11191967-13651788-28003435",
+        "home_team": "FC Aberdeen",
+        "away_team": "FC Motherwell",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2578682979798884385-653688986-11191973-13651790-28003992",
+    "home_team": "Glasgow Rangers",
+    "away_team": "Hibernian Edinburgh FC",
+    "date": "20/09/2025",
+    "time": "17:45",
+    "country": "Scotland",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 1.958,
+            "source": "Tounesbet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 2.2,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9653,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13651790-11191973",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Scotland",
+        "tournament_Tounesbet": "League Cup",
+        "Tounesbet_match_id": 11191973,
+        "Tounesbet_tournament_id": 135765,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "Scotland",
+        "tournament_Clubx2": "League Cup",
+        "Clubx2_match_id": 13651790,
+        "Clubx2_tournament_id": 9449,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13651790#/overview",
+        "group_id": "2578682979798884385-653688986-11191973-13651790-28003992",
+        "home_team": "Glasgow Rangers",
+        "away_team": "Hibernian Edinburgh FC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "first_half_under_1.0_vs_first_half_over_1.0",
+        "best_odds": {
+          "first_half_under_1.0_odd": {
+            "value": 2.45,
+            "source": "Asbet"
+          },
+          "first_half_over_1.0_odd": {
+            "value": 1.793,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9659,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "28003992-11191973",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Scotland",
+        "tournament_Asbet": "Scottish League Cup",
+        "Asbet_match_id": 28003992,
+        "Asbet_tournament_id": 2974,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Scotland/2974/scottish-league-cup/28003992/glasgow-rangers-hibernian-edinburgh-fc",
+        "Tounesbet_country_name": "Scotland",
+        "tournament_Tounesbet": "League Cup",
+        "Tounesbet_match_id": 11191973,
+        "Tounesbet_tournament_id": 135765,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578682979798884385-653688986-11191973-13651790-28003992",
+        "home_team": "Glasgow Rangers",
+        "away_team": "Hibernian Edinburgh FC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2",
+        "best_odds": {
+          "1_odd": {
+            "value": 1.958,
+            "source": "Tounesbet"
+          },
+          "X2_odd": {
+            "value": 2.17,
+            "source": "Jibibet"
+          }
+        },
+        "arbitrage_percentage": 0.9716,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2578682979798884385-11191973",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Scotland",
+        "tournament_Tounesbet": "League Cup",
+        "Tounesbet_match_id": 11191973,
+        "Tounesbet_tournament_id": 135765,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Jibibet_country_name": "Scotland",
+        "tournament_Jibibet": "League Cup",
+        "Jibibet_match_id": 2578682979798884385,
+        "Jibibet_tournament_id": 1678477947864072192,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "group_id": "2578682979798884385-653688986-11191973-13651790-28003992",
+        "home_team": "Glasgow Rangers",
+        "away_team": "Hibernian Edinburgh FC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_-1.0_home_vs_away",
+        "best_odds": {
+          "home_handicap_-1.0_odd": {
+            "value": 2.11,
+            "source": "1xbet"
+          },
+          "away_handicap_1.0_odd": {
+            "value": 2.006,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9724,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653688986-11191973",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Scotland",
+        "tournament_1xbet": "League Cup",
+        "1xbet_match_id": 653688986,
+        "1xbet_tournament_id": 120443,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/120443/653688986",
+        "Tounesbet_country_name": "Scotland",
+        "tournament_Tounesbet": "League Cup",
+        "Tounesbet_match_id": 11191973,
+        "Tounesbet_tournament_id": 135765,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578682979798884385-653688986-11191973-13651790-28003992",
+        "home_team": "Glasgow Rangers",
+        "away_team": "Hibernian Edinburgh FC",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2579011262381961264-653689350-11191969-13651789-28010392",
+    "home_team": "Partick Thistle FC",
+    "away_team": "Celtic FC",
+    "date": "21/09/2025",
+    "time": "15:30",
+    "country": "Scotland",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_1.75_home_vs_away",
+        "best_odds": {
+          "home_handicap_1.75_odd": {
+            "value": 2.37,
+            "source": "Asbet"
+          },
+          "away_handicap_-1.75_odd": {
+            "value": 1.888,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9516,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "28010392-11191969",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Scotland",
+        "tournament_Asbet": "Scottish League Cup",
+        "Asbet_match_id": 28010392,
+        "Asbet_tournament_id": 2974,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Scotland/2974/scottish-league-cup/28010392/partick-thistle-fc-celtic-fc",
+        "Tounesbet_country_name": "Scotland",
+        "tournament_Tounesbet": "League Cup",
+        "Tounesbet_match_id": 11191969,
+        "Tounesbet_tournament_id": 135765,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579011262381961264-653689350-11191969-13651789-28010392",
+        "home_team": "Partick Thistle FC",
+        "away_team": "Celtic FC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_2.5_home_vs_away",
+        "best_odds": {
+          "home_handicap_2.5_odd": {
+            "value": 1.947,
+            "source": "Tounesbet"
+          },
+          "away_handicap_-2.5_odd": {
+            "value": 2.21,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.9661,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653689350-11191969",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Scotland",
+        "tournament_Tounesbet": "League Cup",
+        "Tounesbet_match_id": 11191969,
+        "Tounesbet_tournament_id": 135765,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "1xbet_country_name": "Scotland",
+        "tournament_1xbet": "League Cup",
+        "1xbet_match_id": 653689350,
+        "1xbet_tournament_id": 120443,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/120443/653689350",
+        "group_id": "2579011262381961264-653689350-11191969-13651789-28010392",
+        "home_team": "Partick Thistle FC",
+        "away_team": "Celtic FC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_2.5_home_vs_away",
+        "best_odds": {
+          "home_handicap_2.5_odd": {
+            "value": 1.947,
+            "source": "Tounesbet"
+          },
+          "away_handicap_-2.5_odd": {
+            "value": 2.2,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9682,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13651789-11191969",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Scotland",
+        "tournament_Tounesbet": "League Cup",
+        "Tounesbet_match_id": 11191969,
+        "Tounesbet_tournament_id": 135765,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "Scotland",
+        "tournament_Clubx2": "League Cup",
+        "Clubx2_match_id": 13651789,
+        "Clubx2_tournament_id": 9449,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13651789#/overview",
+        "group_id": "2579011262381961264-653689350-11191969-13651789-28010392",
+        "home_team": "Partick Thistle FC",
+        "away_team": "Celtic FC",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2578687063792689168-653354796-10688441-13038976-27966169",
+    "home_team": "Alloa Athletic FC",
+    "away_team": "Cove Rangers FC",
+    "date": "20/09/2025",
+    "time": "15:00",
+    "country": "Scotland",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_-0.75_home_vs_away",
+        "best_odds": {
+          "home_handicap_-0.75_odd": {
+            "value": 2.4,
+            "source": "Clubx2"
+          },
+          "away_handicap_0.75_odd": {
+            "value": 1.829,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9634,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13038976-10688441",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Scotland",
+        "tournament_Clubx2": "League One",
+        "Clubx2_match_id": 13038976,
+        "Clubx2_tournament_id": 2964,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13038976#/overview",
+        "Tounesbet_country_name": "Scotland",
+        "tournament_Tounesbet": "Scotland League One",
+        "Tounesbet_match_id": 10688441,
+        "Tounesbet_tournament_id": 113402,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578687063792689168-653354796-10688441-13038976-27966169",
+        "home_team": "Alloa Athletic FC",
+        "away_team": "Cove Rangers FC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_-0.75_home_vs_away",
+        "best_odds": {
+          "home_handicap_-0.75_odd": {
+            "value": 2.39,
+            "source": "Asbet"
+          },
+          "away_handicap_0.75_odd": {
+            "value": 1.829,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9652,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27966169-10688441",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Scotland",
+        "tournament_Asbet": "League One",
+        "Asbet_match_id": 27966169,
+        "Asbet_tournament_id": 550,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Scotland/550/league-one/27966169/alloa-athletic-fc-cove-rangers-fc",
+        "Tounesbet_country_name": "Scotland",
+        "tournament_Tounesbet": "Scotland League One",
+        "Tounesbet_match_id": 10688441,
+        "Tounesbet_tournament_id": 113402,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578687063792689168-653354796-10688441-13038976-27966169",
+        "home_team": "Alloa Athletic FC",
+        "away_team": "Cove Rangers FC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.06,
+            "source": "Jibibet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 2.065,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9697,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2578687063792689168-10688441",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "Scotland",
+        "tournament_Jibibet": "League 1",
+        "Jibibet_match_id": 2578687063792689168,
+        "Jibibet_tournament_id": 1669818880119410688,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "Scotland",
+        "tournament_Tounesbet": "Scotland League One",
+        "Tounesbet_match_id": 10688441,
+        "Tounesbet_tournament_id": 113402,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578687063792689168-653354796-10688441-13038976-27966169",
+        "home_team": "Alloa Athletic FC",
+        "away_team": "Cove Rangers FC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.04,
+            "source": "1xbet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 2.065,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9745,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653354796-10688441",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Scotland",
+        "tournament_1xbet": "League One",
+        "1xbet_match_id": 653354796,
+        "1xbet_tournament_id": 281719,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/281719/653354796",
+        "Tounesbet_country_name": "Scotland",
+        "tournament_Tounesbet": "Scotland League One",
+        "Tounesbet_match_id": 10688441,
+        "Tounesbet_tournament_id": 113402,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578687063792689168-653354796-10688441-13038976-27966169",
+        "home_team": "Alloa Athletic FC",
+        "away_team": "Cove Rangers FC",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2578685252767715373-653354802-10688442-13038984-27966168",
+    "home_team": "East Fife FC",
+    "away_team": "Montrose FC",
+    "date": "20/09/2025",
+    "time": "15:00",
+    "country": "Scotland",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "first_half_under_1.0_vs_first_half_over_1.0",
+        "best_odds": {
+          "first_half_under_1.0_odd": {
+            "value": 2.2,
+            "source": "Clubx2"
+          },
+          "first_half_over_1.0_odd": {
+            "value": 2.006,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.953,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13038984-10688442",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Scotland",
+        "tournament_Clubx2": "League One",
+        "Clubx2_match_id": 13038984,
+        "Clubx2_tournament_id": 2964,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13038984#/overview",
+        "Tounesbet_country_name": "Scotland",
+        "tournament_Tounesbet": "Scotland League One",
+        "Tounesbet_match_id": 10688442,
+        "Tounesbet_tournament_id": 113402,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578685252767715373-653354802-10688442-13038984-27966168",
+        "home_team": "East Fife FC",
+        "away_team": "Montrose FC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_-1.0_home_vs_away",
+        "best_odds": {
+          "home_handicap_-1.0_odd": {
+            "value": 2.3,
+            "source": "Asbet"
+          },
+          "away_handicap_1.0_odd": {
+            "value": 1.911,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9581,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27966168-10688442",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Scotland",
+        "tournament_Asbet": "League One",
+        "Asbet_match_id": 27966168,
+        "Asbet_tournament_id": 550,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Scotland/550/league-one/27966168/east-fife-fc-montrose-fc",
+        "Tounesbet_country_name": "Scotland",
+        "tournament_Tounesbet": "Scotland League One",
+        "Tounesbet_match_id": 10688442,
+        "Tounesbet_tournament_id": 113402,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578685252767715373-653354802-10688442-13038984-27966168",
+        "home_team": "East Fife FC",
+        "away_team": "Montrose FC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_-1.0_home_vs_away",
+        "best_odds": {
+          "home_handicap_-1.0_odd": {
+            "value": 2.26,
+            "source": "1xbet"
+          },
+          "away_handicap_1.0_odd": {
+            "value": 1.911,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9658,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653354802-10688442",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Scotland",
+        "tournament_1xbet": "League One",
+        "1xbet_match_id": 653354802,
+        "1xbet_tournament_id": 281719,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/281719/653354802",
+        "Tounesbet_country_name": "Scotland",
+        "tournament_Tounesbet": "Scotland League One",
+        "Tounesbet_match_id": 10688442,
+        "Tounesbet_tournament_id": 113402,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578685252767715373-653354802-10688442-13038984-27966168",
+        "home_team": "East Fife FC",
+        "away_team": "Montrose FC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 1.71,
+            "source": "Jibibet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 2.442,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9943,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2578685252767715373-10688442",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "Scotland",
+        "tournament_Jibibet": "League 1",
+        "Jibibet_match_id": 2578685252767715373,
+        "Jibibet_tournament_id": 1669818880119410688,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "Scotland",
+        "tournament_Tounesbet": "Scotland League One",
+        "Tounesbet_match_id": 10688442,
+        "Tounesbet_tournament_id": 113402,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578685252767715373-653354802-10688442-13038984-27966168",
+        "home_team": "East Fife FC",
+        "away_team": "Montrose FC",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2578685252767715366-653354793-10688447-13038972-27966167",
+    "home_team": "Kelty Hearts FC",
+    "away_team": "Hamilton Academical FC",
+    "date": "20/09/2025",
+    "time": "15:00",
+    "country": "Scotland",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "home_under_0.5_vs_home_over_0.5",
+        "best_odds": {
+          "home_under_0.5_odd": {
+            "value": 2.2858,
+            "source": "Clubx2"
+          },
+          "home_over_0.5_odd": {
+            "value": 1.899,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9641,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13038972-10688447",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Scotland",
+        "tournament_Clubx2": "League One",
+        "Clubx2_match_id": 13038972,
+        "Clubx2_tournament_id": 2964,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13038972#/overview",
+        "Tounesbet_country_name": "Scotland",
+        "tournament_Tounesbet": "Scotland League One",
+        "Tounesbet_match_id": 10688447,
+        "Tounesbet_tournament_id": 113402,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578685252767715366-653354793-10688447-13038972-27966167",
+        "home_team": "Kelty Hearts FC",
+        "away_team": "Hamilton Academical FC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_1.5_home_vs_away",
+        "best_odds": {
+          "home_handicap_1.5_odd": {
+            "value": 1.793,
+            "source": "Tounesbet"
+          },
+          "away_handicap_-1.5_odd": {
+            "value": 2.42,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.9709,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653354793-10688447",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Scotland",
+        "tournament_Tounesbet": "Scotland League One",
+        "Tounesbet_match_id": 10688447,
+        "Tounesbet_tournament_id": 113402,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "1xbet_country_name": "Scotland",
+        "tournament_1xbet": "League One",
+        "1xbet_match_id": 653354793,
+        "1xbet_tournament_id": 281719,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/281719/653354793",
+        "group_id": "2578685252767715366-653354793-10688447-13038972-27966167",
+        "home_team": "Kelty Hearts FC",
+        "away_team": "Hamilton Academical FC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_0.5_home_vs_away",
+        "best_odds": {
+          "home_handicap_0.5_odd": {
+            "value": 2.4,
+            "source": "Asbet"
+          },
+          "away_handicap_-0.5_odd": {
+            "value": 1.793,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9744,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27966167-10688447",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Scotland",
+        "tournament_Asbet": "League One",
+        "Asbet_match_id": 27966167,
+        "Asbet_tournament_id": 550,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Scotland/550/league-one/27966167/kelty-hearts-fc-hamilton-academical-fc",
+        "Tounesbet_country_name": "Scotland",
+        "tournament_Tounesbet": "Scotland League One",
+        "Tounesbet_match_id": 10688447,
+        "Tounesbet_tournament_id": 113402,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578685252767715366-653354793-10688447-13038972-27966167",
+        "home_team": "Kelty Hearts FC",
+        "away_team": "Hamilton Academical FC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "awaywin_handicap_vs_1x",
+        "best_odds": {
+          "away_handicap_-0.5_odd": {
+            "value": 1.793,
+            "source": "Tounesbet"
+          },
+          "1X_odd": {
+            "value": 2.31,
+            "source": "Jibibet"
+          }
+        },
+        "arbitrage_percentage": 0.9906,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2578685252767715366-10688447",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Scotland",
+        "tournament_Tounesbet": "Scotland League One",
+        "Tounesbet_match_id": 10688447,
+        "Tounesbet_tournament_id": 113402,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Jibibet_country_name": "Scotland",
+        "tournament_Jibibet": "League 1",
+        "Jibibet_match_id": 2578685252767715366,
+        "Jibibet_tournament_id": 1669818880119410688,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "group_id": "2578685252767715366-653354793-10688447-13038972-27966167",
+        "home_team": "Kelty Hearts FC",
+        "away_team": "Hamilton Academical FC",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2578685252767715370-653354799-10688452-13038974-27966165",
+    "home_team": "Stenhousemuir FC",
+    "away_team": "Peterhead FC",
+    "date": "20/09/2025",
+    "time": "15:00",
+    "country": "Scotland",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_0.25_home_vs_away",
+        "best_odds": {
+          "home_handicap_0.25_odd": {
+            "value": 1.829,
+            "source": "Tounesbet"
+          },
+          "away_handicap_-0.25_odd": {
+            "value": 2.44,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9566,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27966165-10688452",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Scotland",
+        "tournament_Tounesbet": "Scotland League One",
+        "Tounesbet_match_id": 10688452,
+        "Tounesbet_tournament_id": 113402,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "Scotland",
+        "tournament_Asbet": "League One",
+        "Asbet_match_id": 27966165,
+        "Asbet_tournament_id": 550,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Scotland/550/league-one/27966165/stenhousemuir-fc-peterhead-fc",
+        "group_id": "2578685252767715370-653354799-10688452-13038974-27966165",
+        "home_team": "Stenhousemuir FC",
+        "away_team": "Peterhead FC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "second_half_under_1.5_vs_second_half_over_1.5",
+        "best_odds": {
+          "second_half_under_1.5_odd": {
+            "value": 2.053,
+            "source": "Tounesbet"
+          },
+          "second_half_over_1.5_odd": {
+            "value": 2.1,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9633,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13038974-10688452",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Scotland",
+        "tournament_Tounesbet": "Scotland League One",
+        "Tounesbet_match_id": 10688452,
+        "Tounesbet_tournament_id": 113402,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "Scotland",
+        "tournament_Clubx2": "League One",
+        "Clubx2_match_id": 13038974,
+        "Clubx2_tournament_id": 2964,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13038974#/overview",
+        "group_id": "2578685252767715370-653354799-10688452-13038974-27966165",
+        "home_team": "Stenhousemuir FC",
+        "away_team": "Peterhead FC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "both_score",
+        "best_odds": {
+          "both_score_odd": {
+            "value": 2.029,
+            "source": "Tounesbet"
+          },
+          "both_noscore_odd": {
+            "value": 2.124,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.9637,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653354799-10688452",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Scotland",
+        "tournament_Tounesbet": "Scotland League One",
+        "Tounesbet_match_id": 10688452,
+        "Tounesbet_tournament_id": 113402,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "1xbet_country_name": "Scotland",
+        "tournament_1xbet": "League One",
+        "1xbet_match_id": 653354799,
+        "1xbet_tournament_id": 281719,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/281719/653354799",
+        "group_id": "2578685252767715370-653354799-10688452-13038974-27966165",
+        "home_team": "Stenhousemuir FC",
+        "away_team": "Peterhead FC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.28,
+            "source": "Jibibet"
+          },
+          "X2_odd": {
+            "value": 1.852,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9786,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2578685252767715370-10688452",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "Scotland",
+        "tournament_Jibibet": "League 1",
+        "Jibibet_match_id": 2578685252767715370,
+        "Jibibet_tournament_id": 1669818880119410688,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "Scotland",
+        "tournament_Tounesbet": "Scotland League One",
+        "Tounesbet_match_id": 10688452,
+        "Tounesbet_tournament_id": 113402,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578685252767715370-653354799-10688452-13038974-27966165",
+        "home_team": "Stenhousemuir FC",
+        "away_team": "Peterhead FC",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2578691268985102367-653354772-10688451-13039069-27980839",
+    "home_team": "Clyde FC",
+    "away_team": "Edinburgh City FC",
+    "date": "20/09/2025",
+    "time": "15:00",
+    "country": "Scotland",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "first_half_under_1.0_vs_first_half_over_1.0",
+        "best_odds": {
+          "first_half_under_1.0_odd": {
+            "value": 2.23,
+            "source": "Asbet"
+          },
+          "first_half_over_1.0_odd": {
+            "value": 1.947,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.962,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27980839-10688451",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Scotland",
+        "tournament_Asbet": "League Two",
+        "Asbet_match_id": 27980839,
+        "Asbet_tournament_id": 551,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Scotland/551/league-two/27980839/clyde-fc-edinburgh-city-fc",
+        "Tounesbet_country_name": "Scotland",
+        "tournament_Tounesbet": "Scotland League Two",
+        "Tounesbet_match_id": 10688451,
+        "Tounesbet_tournament_id": 25840,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578691268985102367-653354772-10688451-13039069-27980839",
+        "home_team": "Clyde FC",
+        "away_team": "Edinburgh City FC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.22,
+            "source": "1xbet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.947,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9641,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653354772-10688451",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Scotland",
+        "tournament_1xbet": "League Two",
+        "1xbet_match_id": 653354772,
+        "1xbet_tournament_id": 281717,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/281717/653354772",
+        "Tounesbet_country_name": "Scotland",
+        "tournament_Tounesbet": "Scotland League Two",
+        "Tounesbet_match_id": 10688451,
+        "Tounesbet_tournament_id": 25840,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578691268985102367-653354772-10688451-13039069-27980839",
+        "home_team": "Clyde FC",
+        "away_team": "Edinburgh City FC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.2,
+            "source": "Clubx2"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.947,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9682,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13039069-10688451",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Scotland",
+        "tournament_Clubx2": "League Two",
+        "Clubx2_match_id": 13039069,
+        "Clubx2_tournament_id": 2963,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13039069#/overview",
+        "Tounesbet_country_name": "Scotland",
+        "tournament_Tounesbet": "Scotland League Two",
+        "Tounesbet_match_id": 10688451,
+        "Tounesbet_tournament_id": 25840,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578691268985102367-653354772-10688451-13039069-27980839",
+        "home_team": "Clyde FC",
+        "away_team": "Edinburgh City FC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.16,
+            "source": "Jibibet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.947,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9766,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2578691268985102367-10688451",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "Scotland",
+        "tournament_Jibibet": "League 2",
+        "Jibibet_match_id": 2578691268985102367,
+        "Jibibet_tournament_id": 1669818878785622016,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "Scotland",
+        "tournament_Tounesbet": "Scotland League Two",
+        "Tounesbet_match_id": 10688451,
+        "Tounesbet_tournament_id": 25840,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578691268985102367-653354772-10688451-13039069-27980839",
+        "home_team": "Clyde FC",
+        "away_team": "Edinburgh City FC",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2578694383805272081-653354778-10688443-27980838",
+    "home_team": "East Kilbride FC",
+    "away_team": "Dumbarton FC",
+    "date": "20/09/2025",
+    "time": "15:00",
+    "country": "Scotland",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "both_score",
+        "best_odds": {
+          "both_score_odd": {
+            "value": 1.852,
+            "source": "Tounesbet"
+          },
+          "both_noscore_odd": {
+            "value": 2.39,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9584,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27980838-10688443",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Scotland",
+        "tournament_Tounesbet": "Scotland League Two",
+        "Tounesbet_match_id": 10688443,
+        "Tounesbet_tournament_id": 25840,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "Scotland",
+        "tournament_Asbet": "League Two",
+        "Asbet_match_id": 27980838,
+        "Asbet_tournament_id": 551,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Scotland/551/league-two/27980838/east-kilbride-fc-dumbarton-fc",
+        "group_id": "2578694383805272081-653354778-10688443-27980838",
+        "home_team": "East Kilbride FC",
+        "away_team": "Dumbarton FC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "both_score",
+        "best_odds": {
+          "both_score_odd": {
+            "value": 1.852,
+            "source": "Tounesbet"
+          },
+          "both_noscore_odd": {
+            "value": 2.364,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.963,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653354778-10688443",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Scotland",
+        "tournament_Tounesbet": "Scotland League Two",
+        "Tounesbet_match_id": 10688443,
+        "Tounesbet_tournament_id": 25840,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "1xbet_country_name": "Scotland",
+        "tournament_1xbet": "League Two",
+        "1xbet_match_id": 653354778,
+        "1xbet_tournament_id": 281717,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/281717/653354778",
+        "group_id": "2578694383805272081-653354778-10688443-27980838",
+        "home_team": "East Kilbride FC",
+        "away_team": "Dumbarton FC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2",
+        "best_odds": {
+          "1_odd": {
+            "value": 1.888,
+            "source": "Tounesbet"
+          },
+          "X2_odd": {
+            "value": 2.25,
+            "source": "Jibibet"
+          }
+        },
+        "arbitrage_percentage": 0.9741,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2578694383805272081-10688443",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Scotland",
+        "tournament_Tounesbet": "Scotland League Two",
+        "Tounesbet_match_id": 10688443,
+        "Tounesbet_tournament_id": 25840,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Jibibet_country_name": "Scotland",
+        "tournament_Jibibet": "League 2",
+        "Jibibet_match_id": 2578694383805272081,
+        "Jibibet_tournament_id": 1669818878785622016,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "group_id": "2578694383805272081-653354778-10688443-27980838",
+        "home_team": "East Kilbride FC",
+        "away_team": "Dumbarton FC",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2578691268985102373-653354769-10688444-13039056-27980837",
+    "home_team": "Forfar Athletic FC",
+    "away_team": "Annan Athletic FC",
+    "date": "20/09/2025",
+    "time": "15:00",
+    "country": "Scotland",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "first_half_under_1.0_vs_first_half_over_1.0",
+        "best_odds": {
+          "first_half_under_1.0_odd": {
+            "value": 2.2,
+            "source": "Clubx2"
+          },
+          "first_half_over_1.0_odd": {
+            "value": 1.982,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9591,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13039056-10688444",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Scotland",
+        "tournament_Clubx2": "League Two",
+        "Clubx2_match_id": 13039056,
+        "Clubx2_tournament_id": 2963,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13039056#/overview",
+        "Tounesbet_country_name": "Scotland",
+        "tournament_Tounesbet": "Scotland League Two",
+        "Tounesbet_match_id": 10688444,
+        "Tounesbet_tournament_id": 25840,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578691268985102373-653354769-10688444-13039056-27980837",
+        "home_team": "Forfar Athletic FC",
+        "away_team": "Annan Athletic FC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "first_half_under_1.0_vs_first_half_over_1.0",
+        "best_odds": {
+          "first_half_under_1.0_odd": {
+            "value": 2.15,
+            "source": "Asbet"
+          },
+          "first_half_over_1.0_odd": {
+            "value": 1.982,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9697,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27980837-10688444",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Scotland",
+        "tournament_Asbet": "League Two",
+        "Asbet_match_id": 27980837,
+        "Asbet_tournament_id": 551,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Scotland/551/league-two/27980837/forfar-athletic-fc-annan-athletic-fc",
+        "Tounesbet_country_name": "Scotland",
+        "tournament_Tounesbet": "Scotland League Two",
+        "Tounesbet_match_id": 10688444,
+        "Tounesbet_tournament_id": 25840,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578691268985102373-653354769-10688444-13039056-27980837",
+        "home_team": "Forfar Athletic FC",
+        "away_team": "Annan Athletic FC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "both_score",
+        "best_odds": {
+          "both_score_odd": {
+            "value": 1.958,
+            "source": "Tounesbet"
+          },
+          "both_noscore_odd": {
+            "value": 2.156,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.9745,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653354769-10688444",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Scotland",
+        "tournament_Tounesbet": "Scotland League Two",
+        "Tounesbet_match_id": 10688444,
+        "Tounesbet_tournament_id": 25840,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "1xbet_country_name": "Scotland",
+        "tournament_1xbet": "League Two",
+        "1xbet_match_id": 653354769,
+        "1xbet_tournament_id": 281717,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/281717/653354769",
+        "group_id": "2578691268985102373-653354769-10688444-13039056-27980837",
+        "home_team": "Forfar Athletic FC",
+        "away_team": "Annan Athletic FC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 1.87,
+            "source": "Jibibet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 2.242,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9808,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2578691268985102373-10688444",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "Scotland",
+        "tournament_Jibibet": "League 2",
+        "Jibibet_match_id": 2578691268985102373,
+        "Jibibet_tournament_id": 1669818878785622016,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "Scotland",
+        "tournament_Tounesbet": "Scotland League Two",
+        "Tounesbet_match_id": 10688444,
+        "Tounesbet_tournament_id": 25840,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578691268985102373-653354769-10688444-13039056-27980837",
+        "home_team": "Forfar Athletic FC",
+        "away_team": "Annan Athletic FC",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2578694383805272086-653354775-10688450-13039074-27980836",
+    "home_team": "Spartans FC",
+    "away_team": "Stirling Albion FC",
+    "date": "20/09/2025",
+    "time": "15:00",
+    "country": "Scotland",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "first_half_under_1.0_vs_first_half_over_1.0",
+        "best_odds": {
+          "first_half_under_1.0_odd": {
+            "value": 2.15,
+            "source": "Asbet"
+          },
+          "first_half_over_1.0_odd": {
+            "value": 2.006,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9636,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27980836-10688450",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Scotland",
+        "tournament_Asbet": "League Two",
+        "Asbet_match_id": 27980836,
+        "Asbet_tournament_id": 551,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Scotland/551/league-two/27980836/spartans-fc-stirling-albion-fc",
+        "Tounesbet_country_name": "Scotland",
+        "tournament_Tounesbet": "Scotland League Two",
+        "Tounesbet_match_id": 10688450,
+        "Tounesbet_tournament_id": 25840,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578694383805272086-653354775-10688450-13039074-27980836",
+        "home_team": "Spartans FC",
+        "away_team": "Stirling Albion FC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_-1.5_home_vs_away",
+        "best_odds": {
+          "home_handicap_-1.5_odd": {
+            "value": 2.28,
+            "source": "1xbet"
+          },
+          "away_handicap_1.5_odd": {
+            "value": 1.852,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9786,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653354775-10688450",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Scotland",
+        "tournament_1xbet": "League Two",
+        "1xbet_match_id": 653354775,
+        "1xbet_tournament_id": 281717,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/281717/653354775",
+        "Tounesbet_country_name": "Scotland",
+        "tournament_Tounesbet": "Scotland League Two",
+        "Tounesbet_match_id": 10688450,
+        "Tounesbet_tournament_id": 25840,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578694383805272086-653354775-10688450-13039074-27980836",
+        "home_team": "Spartans FC",
+        "away_team": "Stirling Albion FC",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2578691268985102364-653354781-10688446-13039058-27980835",
+    "home_team": "Stranraer FC",
+    "away_team": "Elgin City FC",
+    "date": "20/09/2025",
+    "time": "15:00",
+    "country": "Scotland",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_0.75_home_vs_away",
+        "best_odds": {
+          "home_handicap_0.75_odd": {
+            "value": 1.793,
+            "source": "Tounesbet"
+          },
+          "away_handicap_-0.75_odd": {
+            "value": 2.44,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9676,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27980835-10688446",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Scotland",
+        "tournament_Tounesbet": "Scotland League Two",
+        "Tounesbet_match_id": 10688446,
+        "Tounesbet_tournament_id": 25840,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "Scotland",
+        "tournament_Asbet": "League Two",
+        "Asbet_match_id": 27980835,
+        "Asbet_tournament_id": 551,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Scotland/551/league-two/27980835/stranraer-fc-elgin-city-fc",
+        "group_id": "2578691268985102364-653354781-10688446-13039058-27980835",
+        "home_team": "Stranraer FC",
+        "away_team": "Elgin City FC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "first_half_ah_0.0_home_vs_away",
+        "best_odds": {
+          "home_first_half_handicap_0.0_odd": {
+            "value": 2.2,
+            "source": "Clubx2"
+          },
+          "away_first_half_handicap_0.0_odd": {
+            "value": 1.947,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9682,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13039058-10688446",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Scotland",
+        "tournament_Clubx2": "League Two",
+        "Clubx2_match_id": 13039058,
+        "Clubx2_tournament_id": 2963,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13039058#/overview",
+        "Tounesbet_country_name": "Scotland",
+        "tournament_Tounesbet": "Scotland League Two",
+        "Tounesbet_match_id": 10688446,
+        "Tounesbet_tournament_id": 25840,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578691268985102364-653354781-10688446-13039058-27980835",
+        "home_team": "Stranraer FC",
+        "away_team": "Elgin City FC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "two_vs_1x_handicap",
+        "best_odds": {
+          "2_odd": {
+            "value": 2.12,
+            "source": "1xbet"
+          },
+          "home_handicap_0.5_odd": {
+            "value": 2.006,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9702,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653354781-10688446",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Scotland",
+        "tournament_1xbet": "League Two",
+        "1xbet_match_id": 653354781,
+        "1xbet_tournament_id": 281717,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/281717/653354781",
+        "Tounesbet_country_name": "Scotland",
+        "tournament_Tounesbet": "Scotland League Two",
+        "Tounesbet_match_id": 10688446,
+        "Tounesbet_tournament_id": 25840,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578691268985102364-653354781-10688446-13039058-27980835",
+        "home_team": "Stranraer FC",
+        "away_team": "Elgin City FC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "two_vs_1x_handicap",
+        "best_odds": {
+          "2_odd": {
+            "value": 2.1,
+            "source": "Jibibet"
+          },
+          "home_handicap_0.5_odd": {
+            "value": 2.006,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9747,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2578691268985102364-10688446",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "Scotland",
+        "tournament_Jibibet": "League 2",
+        "Jibibet_match_id": 2578691268985102364,
+        "Jibibet_tournament_id": 1669818878785622016,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "Scotland",
+        "tournament_Tounesbet": "Scotland League Two",
+        "Tounesbet_match_id": 10688446,
+        "Tounesbet_tournament_id": 25840,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578691268985102364-653354781-10688446-13039058-27980835",
+        "home_team": "Stranraer FC",
+        "away_team": "Elgin City FC",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2578639114719072303-650043158-11191928-13721663-27910131",
+    "home_team": "FC Dundee",
+    "away_team": "Livingston FC",
+    "date": "20/09/2025",
+    "time": "15:00",
+    "country": "Scotland",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "two_vs_1x",
+        "best_odds": {
+          "2_odd": {
+            "value": 2.59,
+            "source": "1xbet"
+          },
+          "1X_odd": {
+            "value": 1.805,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9401,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "650043158-11191928",
+        "misvalue_source": "1xbet",
+        "1xbet_country_name": "Scotland",
+        "tournament_1xbet": "Premier League",
+        "1xbet_match_id": 650043158,
+        "1xbet_tournament_id": 13521,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/13521/650043158",
+        "Tounesbet_country_name": "Scotland",
+        "tournament_Tounesbet": "Scotland Premiership",
+        "Tounesbet_match_id": 11191928,
+        "Tounesbet_tournament_id": 25844,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578639114719072303-650043158-11191928-13721663-27910131",
+        "home_team": "FC Dundee",
+        "away_team": "Livingston FC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "two_vs_1x",
+        "best_odds": {
+          "2_odd": {
+            "value": 2.52,
+            "source": "Jibibet"
+          },
+          "1X_odd": {
+            "value": 1.805,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9508,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2578639114719072303-11191928",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "Scotland",
+        "tournament_Jibibet": "Premiership",
+        "Jibibet_match_id": 2578639114719072303,
+        "Jibibet_tournament_id": 1669818876008992768,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "Scotland",
+        "tournament_Tounesbet": "Scotland Premiership",
+        "Tounesbet_match_id": 11191928,
+        "Tounesbet_tournament_id": 25844,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578639114719072303-650043158-11191928-13721663-27910131",
+        "home_team": "FC Dundee",
+        "away_team": "Livingston FC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "two_vs_1x",
+        "best_odds": {
+          "2_odd": {
+            "value": 2.5,
+            "source": "Clubx2"
+          },
+          "1X_odd": {
+            "value": 1.805,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.954,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13721663-11191928",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Scotland",
+        "tournament_Clubx2": "Premiership",
+        "Clubx2_match_id": 13721663,
+        "Clubx2_tournament_id": 3023,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13721663#/overview",
+        "Tounesbet_country_name": "Scotland",
+        "tournament_Tounesbet": "Scotland Premiership",
+        "Tounesbet_match_id": 11191928,
+        "Tounesbet_tournament_id": 25844,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578639114719072303-650043158-11191928-13721663-27910131",
+        "home_team": "FC Dundee",
+        "away_team": "Livingston FC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "two_vs_1x",
+        "best_odds": {
+          "2_odd": {
+            "value": 2.46,
+            "source": "Asbet"
+          },
+          "1X_odd": {
+            "value": 1.805,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9605,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27910131-11191928",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Scotland",
+        "tournament_Asbet": "Scottish Premiership",
+        "Asbet_match_id": 27910131,
+        "Asbet_tournament_id": 555,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Scotland/555/scottish-premiership/27910131/fc-dundee-livingston-fc",
+        "Tounesbet_country_name": "Scotland",
+        "tournament_Tounesbet": "Scotland Premiership",
+        "Tounesbet_match_id": 11191928,
+        "Tounesbet_tournament_id": 25844,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578639114719072303-650043158-11191928-13721663-27910131",
+        "home_team": "FC Dundee",
+        "away_team": "Livingston FC",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "653215088-11275141-13038043-27960412",
+    "home_team": "St. Johnstone FC",
+    "away_team": "Dunfermline Athletic FC",
+    "date": "19/09/2025",
+    "time": "19:45",
+    "country": "Scotland",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "away_under_0.5_vs_away_over_0.5",
+        "best_odds": {
+          "away_under_0.5_odd": {
+            "value": 2.1,
+            "source": "1xbet"
+          },
+          "away_over_0.5_odd": {
+            "value": 2.029,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.969,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653215088-11275141",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Scotland",
+        "tournament_1xbet": "Championship",
+        "1xbet_match_id": 653215088,
+        "1xbet_tournament_id": 281713,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/281713/653215088",
+        "Tounesbet_country_name": "Scotland",
+        "tournament_Tounesbet": "Scotland Championship",
+        "Tounesbet_match_id": 11275141,
+        "Tounesbet_tournament_id": 25830,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653215088-11275141-13038043-27960412",
+        "home_team": "St. Johnstone FC",
+        "away_team": "Dunfermline Athletic FC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_-1.0_home_vs_away",
+        "best_odds": {
+          "home_handicap_-1.0_odd": {
+            "value": 2.17,
+            "source": "Asbet"
+          },
+          "away_handicap_1.0_odd": {
+            "value": 1.947,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9744,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27960412-11275141",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Scotland",
+        "tournament_Asbet": "Scottish Championship",
+        "Asbet_match_id": 27960412,
+        "Asbet_tournament_id": 552,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Scotland/552/scottish-championship/27960412/st-johnstone-fc-dunfermline-athletic-fc",
+        "Tounesbet_country_name": "Scotland",
+        "tournament_Tounesbet": "Scotland Championship",
+        "Tounesbet_match_id": 11275141,
+        "Tounesbet_tournament_id": 25830,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653215088-11275141-13038043-27960412",
+        "home_team": "St. Johnstone FC",
+        "away_team": "Dunfermline Athletic FC",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "653290433-11281104-13038021-27966173",
+    "home_team": "Airdrieonians FC",
+    "away_team": "Raith Rovers",
+    "date": "20/09/2025",
+    "time": "15:00",
+    "country": "Scotland",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "first_half_ah_0.0_home_vs_away",
+        "best_odds": {
+          "home_first_half_handicap_0.0_odd": {
+            "value": 2.45,
+            "source": "Asbet"
+          },
+          "away_first_half_handicap_0.0_odd": {
+            "value": 1.793,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9659,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27966173-11281104",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Scotland",
+        "tournament_Asbet": "Scottish Championship",
+        "Asbet_match_id": 27966173,
+        "Asbet_tournament_id": 552,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Scotland/552/scottish-championship/27966173/airdrieonians-fc-raith-rovers",
+        "Tounesbet_country_name": "Scotland",
+        "tournament_Tounesbet": "Scotland Championship",
+        "Tounesbet_match_id": 11281104,
+        "Tounesbet_tournament_id": 25830,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653290433-11281104-13038021-27966173",
+        "home_team": "Airdrieonians FC",
+        "away_team": "Raith Rovers",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "first_half_under_1.0_vs_first_half_over_1.0",
+        "best_odds": {
+          "first_half_under_1.0_odd": {
+            "value": 1.95,
+            "source": "Clubx2"
+          },
+          "first_half_over_1.0_odd": {
+            "value": 2.206,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9661,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13038021-11281104",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Scotland",
+        "tournament_Clubx2": "Championship",
+        "Clubx2_match_id": 13038021,
+        "Clubx2_tournament_id": 2962,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13038021#/overview",
+        "Tounesbet_country_name": "Scotland",
+        "tournament_Tounesbet": "Scotland Championship",
+        "Tounesbet_match_id": 11281104,
+        "Tounesbet_tournament_id": 25830,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653290433-11281104-13038021-27966173",
+        "home_team": "Airdrieonians FC",
+        "away_team": "Raith Rovers",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_0.75_home_vs_away",
+        "best_odds": {
+          "home_handicap_0.75_odd": {
+            "value": 1.911,
+            "source": "Tounesbet"
+          },
+          "away_handicap_-0.75_odd": {
+            "value": 2.24,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.9697,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653290433-11281104",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Scotland",
+        "tournament_Tounesbet": "Scotland Championship",
+        "Tounesbet_match_id": 11281104,
+        "Tounesbet_tournament_id": 25830,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "1xbet_country_name": "Scotland",
+        "tournament_1xbet": "Championship",
+        "1xbet_match_id": 653290433,
+        "1xbet_tournament_id": 281713,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/281713/653290433",
+        "group_id": "653290433-11281104-13038021-27966173",
+        "home_team": "Airdrieonians FC",
+        "away_team": "Raith Rovers",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "653291373-11281082-13038026-27966172",
+    "home_team": "Arbroath FC",
+    "away_team": "Greenock Morton FC",
+    "date": "20/09/2025",
+    "time": "15:00",
+    "country": "Scotland",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "first_half_ah_0.0_home_vs_away",
+        "best_odds": {
+          "home_first_half_handicap_0.0_odd": {
+            "value": 1.97,
+            "source": "Tounesbet"
+          },
+          "away_first_half_handicap_0.0_odd": {
+            "value": 2.17,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9684,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27966172-11281082",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Scotland",
+        "tournament_Tounesbet": "Scotland Championship",
+        "Tounesbet_match_id": 11281082,
+        "Tounesbet_tournament_id": 25830,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "Scotland",
+        "tournament_Asbet": "Scottish Championship",
+        "Asbet_match_id": 27966172,
+        "Asbet_tournament_id": 552,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Scotland/552/scottish-championship/27966172/arbroath-fc-greenock-morton-fc",
+        "group_id": "653291373-11281082-13038026-27966172",
+        "home_team": "Arbroath FC",
+        "away_team": "Greenock Morton FC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.1667,
+            "source": "Clubx2"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.947,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9751,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13038026-11281082",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Scotland",
+        "tournament_Clubx2": "Championship",
+        "Clubx2_match_id": 13038026,
+        "Clubx2_tournament_id": 2962,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13038026#/overview",
+        "Tounesbet_country_name": "Scotland",
+        "tournament_Tounesbet": "Scotland Championship",
+        "Tounesbet_match_id": 11281082,
+        "Tounesbet_tournament_id": 25830,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653291373-11281082-13038026-27966172",
+        "home_team": "Arbroath FC",
+        "away_team": "Greenock Morton FC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.16,
+            "source": "1xbet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.947,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9766,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653291373-11281082",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Scotland",
+        "tournament_1xbet": "Championship",
+        "1xbet_match_id": 653291373,
+        "1xbet_tournament_id": 281713,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/281713/653291373",
+        "Tounesbet_country_name": "Scotland",
+        "tournament_Tounesbet": "Scotland Championship",
+        "Tounesbet_match_id": 11281082,
+        "Tounesbet_tournament_id": 25830,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653291373-11281082-13038026-27966172",
+        "home_team": "Arbroath FC",
+        "away_team": "Greenock Morton FC",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "653291370-11281089-13038025-27966170",
+    "home_team": "Ross County FC",
+    "away_team": "Queens Park FC",
+    "date": "20/09/2025",
+    "time": "15:00",
+    "country": "Scotland",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "away_under_0.5_vs_away_over_0.5",
+        "best_odds": {
+          "away_under_0.5_odd": {
+            "value": 2.2,
+            "source": "1xbet"
+          },
+          "away_over_0.5_odd": {
+            "value": 1.958,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9653,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653291370-11281089",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Scotland",
+        "tournament_1xbet": "Championship",
+        "1xbet_match_id": 653291370,
+        "1xbet_tournament_id": 281713,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/281713/653291370",
+        "Tounesbet_country_name": "Scotland",
+        "tournament_Tounesbet": "Scotland Championship",
+        "Tounesbet_match_id": 11281089,
+        "Tounesbet_tournament_id": 25830,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653291370-11281089-13038025-27966170",
+        "home_team": "Ross County FC",
+        "away_team": "Queens Park FC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "first_half_under_1.0_vs_first_half_over_1.0",
+        "best_odds": {
+          "first_half_under_1.0_odd": {
+            "value": 2.2,
+            "source": "Clubx2"
+          },
+          "first_half_over_1.0_odd": {
+            "value": 1.958,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9653,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13038025-11281089",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Scotland",
+        "tournament_Clubx2": "Championship",
+        "Clubx2_match_id": 13038025,
+        "Clubx2_tournament_id": 2962,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13038025#/overview",
+        "Tounesbet_country_name": "Scotland",
+        "tournament_Tounesbet": "Scotland Championship",
+        "Tounesbet_match_id": 11281089,
+        "Tounesbet_tournament_id": 25830,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653291370-11281089-13038025-27966170",
+        "home_team": "Ross County FC",
+        "away_team": "Queens Park FC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "home_under_1.5_vs_home_over_1.5",
+        "best_odds": {
+          "home_under_1.5_odd": {
+            "value": 2.35,
+            "source": "Asbet"
+          },
+          "home_over_1.5_odd": {
+            "value": 1.852,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9655,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27966170-11281089",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Scotland",
+        "tournament_Asbet": "Scottish Championship",
+        "Asbet_match_id": 27966170,
+        "Asbet_tournament_id": 552,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Scotland/552/scottish-championship/27966170/ross-county-fc-queens-park-fc",
+        "Tounesbet_country_name": "Scotland",
+        "tournament_Tounesbet": "Scotland Championship",
+        "Tounesbet_match_id": 11281089,
+        "Tounesbet_tournament_id": 25830,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653291370-11281089-13038025-27966170",
+        "home_team": "Ross County FC",
+        "away_team": "Queens Park FC",
+        "activity_duration": "1 hour"
+      }
+    ]
+  }
+]

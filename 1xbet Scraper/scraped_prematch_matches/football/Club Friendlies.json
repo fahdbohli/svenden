@@ -1,0 +1,42 @@
+[
+    {
+        "last_updated": "2025-09-16T13:28:36.345198+01:00"
+    },
+    {
+        "tournament_id": 67559,
+        "tournament_name": "Club Friendlies",
+        "matches": [
+            {
+                "match_id": 654050279,
+                "date": "17/09/2025",
+                "time": "03:00",
+                "home_team": "San Diego",
+                "away_team": "Tijuana",
+                "1_odd": 1.72,
+                "draw_odd": 4,
+                "2_odd": 3.92,
+                "1X_odd": 1.24,
+                "12_odd": 1.17,
+                "X2_odd": 1.72,
+                "both_score_odd": 1.53,
+                "both_noscore_odd": 2.431,
+                "over_2.0_odd": 1.22,
+                "over_2.5_odd": 1.57,
+                "over_3.0_odd": 1.99,
+                "over_3.5_odd": 2.57,
+                "under_2.0_odd": 3.64,
+                "under_2.5_odd": 2.19,
+                "under_3.0_odd": 1.69,
+                "under_3.5_odd": 1.42,
+                "home_handicap_0.0_odd": 1.45,
+                "away_handicap_0.0_odd": 2.49,
+                "home_handicap_-0.75_odd": 1.9,
+                "away_handicap_0.75_odd": 1.9,
+                "home_over_1.5_odd": 1.76,
+                "home_under_1.5_odd": 1.91,
+                "away_over_1.0_odd": 1.6,
+                "away_under_1.0_odd": 2.14
+            }
+        ]
+    }
+]

@@ -1,0 +1,486 @@
+[
+  {
+    "group_id": "2579297816363012137-653787073-11292185-13908531-27991791",
+    "home_team": "Gualaceo Sporting Club",
+    "away_team": "CD Independiente Juniors",
+    "date": "16/09/2025",
+    "time": "21:30",
+    "country": "Ecuador",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_-1.0_home_vs_away",
+        "best_odds": {
+          "home_handicap_-1.0_odd": {
+            "value": 2.84,
+            "source": "1xbet"
+          },
+          "away_handicap_1.0_odd": {
+            "value": 1.911,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.8754,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653787073-11292185",
+        "misvalue_source": "1xbet",
+        "1xbet_country_name": "Ecuador",
+        "tournament_1xbet": "Serie B",
+        "1xbet_match_id": 653787073,
+        "1xbet_tournament_id": 876673,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/876673/653787073",
+        "Tounesbet_country_name": "Ecuador",
+        "tournament_Tounesbet": "Serie B",
+        "Tounesbet_match_id": 11292185,
+        "Tounesbet_tournament_id": 22222,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579297816363012137-653787073-11292185-13908531-27991791",
+        "home_team": "Gualaceo Sporting Club",
+        "away_team": "CD Independiente Juniors",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "first_half_ah_-0.25_home_vs_away",
+        "best_odds": {
+          "home_first_half_handicap_-0.25_odd": {
+            "value": 2.324,
+            "source": "Tounesbet"
+          },
+          "away_first_half_handicap_0.25_odd": {
+            "value": 2.02,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9253,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27991791-11292185",
+        "misvalue_source": "1xbet",
+        "Tounesbet_country_name": "Ecuador",
+        "tournament_Tounesbet": "Serie B",
+        "Tounesbet_match_id": 11292185,
+        "Tounesbet_tournament_id": 22222,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "Ecuador",
+        "tournament_Asbet": "Serie B",
+        "Asbet_match_id": 27991791,
+        "Asbet_tournament_id": 10714,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Ecuador/10714/serie-b/27991791/gualaceo-sc-independiente-juniors",
+        "group_id": "2579297816363012137-653787073-11292185-13908531-27991791",
+        "home_team": "Gualaceo Sporting Club",
+        "away_team": "CD Independiente Juniors",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2",
+        "best_odds": {
+          "1_odd": {
+            "value": 1.69,
+            "source": "Jibibet"
+          },
+          "X2_odd": {
+            "value": 2.478,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9953,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2579297816363012137-11292185",
+        "misvalue_source": "1xbet",
+        "Jibibet_country_name": "Ecuador",
+        "tournament_Jibibet": "Serie B",
+        "Jibibet_match_id": 2579297816363012137,
+        "Jibibet_tournament_id": 1670075025983672320,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "Ecuador",
+        "tournament_Tounesbet": "Serie B",
+        "Tounesbet_match_id": 11292185,
+        "Tounesbet_tournament_id": 22222,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579297816363012137-653787073-11292185-13908531-27991791",
+        "home_team": "Gualaceo Sporting Club",
+        "away_team": "CD Independiente Juniors",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2579463871584669705-653763558-11290046-13919140-27996820",
+    "home_team": "San Antonio Cotacachi",
+    "away_team": "Club Leones Del Norte",
+    "date": "17/09/2025",
+    "time": "21:30",
+    "country": "Ecuador",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_-0.25_home_vs_away",
+        "best_odds": {
+          "home_handicap_-0.25_odd": {
+            "value": 2.11,
+            "source": "1xbet"
+          },
+          "away_handicap_0.25_odd": {
+            "value": 2.029,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9668,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653763558-11290046",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Ecuador",
+        "tournament_1xbet": "Serie B",
+        "1xbet_match_id": 653763558,
+        "1xbet_tournament_id": 876673,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/876673/653763558",
+        "Tounesbet_country_name": "Ecuador",
+        "tournament_Tounesbet": "Serie B",
+        "Tounesbet_match_id": 11290046,
+        "Tounesbet_tournament_id": 22222,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579463871584669705-653763558-11290046-13919140-27996820",
+        "home_team": "San Antonio Cotacachi",
+        "away_team": "Club Leones Del Norte",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_-0.25_home_vs_away",
+        "best_odds": {
+          "home_handicap_-0.25_odd": {
+            "value": 2.05,
+            "source": "Asbet"
+          },
+          "away_handicap_0.25_odd": {
+            "value": 2.029,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9807,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27996820-11290046",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Ecuador",
+        "tournament_Asbet": "Serie B",
+        "Asbet_match_id": 27996820,
+        "Asbet_tournament_id": 10714,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Ecuador/10714/serie-b/27996820/el-san-antonio-fc-cd-leones-del-norte",
+        "Tounesbet_country_name": "Ecuador",
+        "tournament_Tounesbet": "Serie B",
+        "Tounesbet_match_id": 11290046,
+        "Tounesbet_tournament_id": 22222,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579463871584669705-653763558-11290046-13919140-27996820",
+        "home_team": "San Antonio Cotacachi",
+        "away_team": "Club Leones Del Norte",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "first_half_under_0.5_vs_first_half_over_0.5",
+        "best_odds": {
+          "first_half_under_0.5_odd": {
+            "value": 2.2,
+            "source": "Clubx2"
+          },
+          "first_half_over_0.5_odd": {
+            "value": 1.899,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9811,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13919140-11290046",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Ecuador",
+        "tournament_Clubx2": "LigaPro Primera B",
+        "Clubx2_match_id": 13919140,
+        "Clubx2_tournament_id": 4884,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13919140#/overview",
+        "Tounesbet_country_name": "Ecuador",
+        "tournament_Tounesbet": "Serie B",
+        "Tounesbet_match_id": 11290046,
+        "Tounesbet_tournament_id": 22222,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579463871584669705-653763558-11290046-13919140-27996820",
+        "home_team": "San Antonio Cotacachi",
+        "away_team": "Club Leones Del Norte",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2579290006426357786-653787076-11291896-13908465",
+    "home_team": "Cumbaya FC",
+    "away_team": "22 de Julio FC",
+    "date": "16/09/2025",
+    "time": "21:30",
+    "country": "Ecuador",
+    "all_sources": [
+      "1xbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_-1.0_home_vs_away",
+        "best_odds": {
+          "home_handicap_-1.0_odd": {
+            "value": 2.375,
+            "source": "1xbet"
+          },
+          "away_handicap_1.0_odd": {
+            "value": 2.124,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.8919,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653787076-11291896",
+        "misvalue_source": "1xbet",
+        "1xbet_country_name": "Ecuador",
+        "tournament_1xbet": "Serie B",
+        "1xbet_match_id": 653787076,
+        "1xbet_tournament_id": 876673,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/876673/653787076",
+        "Tounesbet_country_name": "Ecuador",
+        "tournament_Tounesbet": "Serie B",
+        "Tounesbet_match_id": 11291896,
+        "Tounesbet_tournament_id": 22222,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579290006426357786-653787076-11291896-13908465",
+        "home_team": "Cumbaya FC",
+        "away_team": "22 de Julio FC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2",
+        "best_odds": {
+          "1_odd": {
+            "value": 1.852,
+            "source": "Tounesbet"
+          },
+          "X2_odd": {
+            "value": 2.18,
+            "source": "Jibibet"
+          }
+        },
+        "arbitrage_percentage": 0.9987,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2579290006426357786-11291896",
+        "misvalue_source": "1xbet",
+        "Tounesbet_country_name": "Ecuador",
+        "tournament_Tounesbet": "Serie B",
+        "Tounesbet_match_id": 11291896,
+        "Tounesbet_tournament_id": 22222,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Jibibet_country_name": "Ecuador",
+        "tournament_Jibibet": "Serie B",
+        "Jibibet_match_id": 2579290006426357786,
+        "Jibibet_tournament_id": 1670075025983672320,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "group_id": "2579290006426357786-653787076-11291896-13908465",
+        "home_team": "Cumbaya FC",
+        "away_team": "22 de Julio FC",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2579512125223473197-11297776-13972841-28020758",
+    "home_team": "9 de Octubre FC",
+    "away_team": "Guayaquil City FC",
+    "date": "17/09/2025",
+    "time": "16:00",
+    "country": "Ecuador",
+    "all_sources": [
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "under_2.5_vs_over_2.5",
+        "best_odds": {
+          "under_2.5_odd": {
+            "value": 1.852,
+            "source": "Tounesbet"
+          },
+          "over_2.5_odd": {
+            "value": 2.33,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9691,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "28020758-11297776",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Ecuador",
+        "tournament_Tounesbet": "Serie B",
+        "Tounesbet_match_id": 11297776,
+        "Tounesbet_tournament_id": 22222,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "Ecuador",
+        "tournament_Asbet": "Serie B",
+        "Asbet_match_id": 28020758,
+        "Asbet_tournament_id": 10714,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Ecuador/10714/serie-b/28020758/de-octubre-guayaquil-city-fc",
+        "group_id": "2579512125223473197-11297776-13972841-28020758",
+        "home_team": "9 de Octubre FC",
+        "away_team": "Guayaquil City FC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "under_2.5_vs_over_2.5",
+        "best_odds": {
+          "under_2.5_odd": {
+            "value": 1.852,
+            "source": "Tounesbet"
+          },
+          "over_2.5_odd": {
+            "value": 2.24,
+            "source": "Jibibet"
+          }
+        },
+        "arbitrage_percentage": 0.9864,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2579512125223473197-11297776",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Ecuador",
+        "tournament_Tounesbet": "Serie B",
+        "Tounesbet_match_id": 11297776,
+        "Tounesbet_tournament_id": 22222,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Jibibet_country_name": "Ecuador",
+        "tournament_Jibibet": "Serie B",
+        "Jibibet_match_id": 2579512125223473197,
+        "Jibibet_tournament_id": 1670075025983672320,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "group_id": "2579512125223473197-11297776-13972841-28020758",
+        "home_team": "9 de Octubre FC",
+        "away_team": "Guayaquil City FC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "under_2.5_vs_over_2.5",
+        "best_odds": {
+          "under_2.5_odd": {
+            "value": 1.852,
+            "source": "Tounesbet"
+          },
+          "over_2.5_odd": {
+            "value": 2.2,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9945,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13972841-11297776",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Ecuador",
+        "tournament_Tounesbet": "Serie B",
+        "Tounesbet_match_id": 11297776,
+        "Tounesbet_tournament_id": 22222,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "Ecuador",
+        "tournament_Clubx2": "LigaPro Primera B",
+        "Clubx2_match_id": 13972841,
+        "Clubx2_tournament_id": 4884,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13972841#/overview",
+        "group_id": "2579512125223473197-11297776-13972841-28020758",
+        "home_team": "9 de Octubre FC",
+        "away_team": "Guayaquil City FC",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2579089213689565210-12778740-9568643",
+    "home_team": "Mushuc Runa SC",
+    "away_team": "CSD Independiente del Valle",
+    "date": "20/09/2025",
+    "time": "20:00",
+    "country": "Ecuador",
+    "all_sources": [
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "two_vs_1x_handicap",
+        "best_odds": {
+          "2_odd": {
+            "value": 2.26,
+            "source": "Jibibet"
+          },
+          "home_handicap_0.5_odd": {
+            "value": 1.911,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9658,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2579089213689565210-9568643",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "Ecuador",
+        "tournament_Jibibet": "LigaPro Primera A",
+        "Jibibet_match_id": 2579089213689565210,
+        "Jibibet_tournament_id": 1669818948838887424,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "Ecuador",
+        "tournament_Tounesbet": "Serie A",
+        "Tounesbet_match_id": 9568643,
+        "Tounesbet_tournament_id": 47890,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579089213689565210-12778740-9568643",
+        "home_team": "Mushuc Runa SC",
+        "away_team": "CSD Independiente del Valle",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "second_half_under_1.5_vs_second_half_over_1.5",
+        "best_odds": {
+          "second_half_under_1.5_odd": {
+            "value": 2.041,
+            "source": "Tounesbet"
+          },
+          "second_half_over_1.5_odd": {
+            "value": 2.1,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9661,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "12778740-9568643",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Ecuador",
+        "tournament_Tounesbet": "Serie A",
+        "Tounesbet_match_id": 9568643,
+        "Tounesbet_tournament_id": 47890,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "Ecuador",
+        "tournament_Clubx2": "LigaPro Primera A",
+        "Clubx2_match_id": 12778740,
+        "Clubx2_tournament_id": 4564,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=12778740#/overview",
+        "group_id": "2579089213689565210-12778740-9568643",
+        "home_team": "Mushuc Runa SC",
+        "away_team": "CSD Independiente del Valle",
+        "activity_duration": "1 hour"
+      }
+    ]
+  }
+]

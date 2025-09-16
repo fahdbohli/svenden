@@ -1,0 +1,26 @@
+[
+    {
+        "last_updated": "2025-09-16T20:53:10.889378+01:00"
+    },
+    {
+        "tournament_id": 9693,
+        "tournament_name": "Jordan 1st Division",
+        "matches": [
+            {
+                "match_id": 13914541,
+                "date": "17/09/2025",
+                "time": "15:00",
+                "home_team": "AL Arabi",
+                "away_team": "Sama",
+                "1_odd": 2.4546,
+                "draw_odd": 2.75,
+                "2_odd": 2.8,
+                "1X_odd": 1.35,
+                "12_odd": 1.3334,
+                "X2_odd": 1.4167,
+                "over_2.5_odd": 2.2,
+                "under_2.5_odd": 1.5556
+            }
+        ]
+    }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "group_id": "2579588112430805024-11301172-13964260",
+    "home_team": "Meg & Centre FC",
+    "away_team": "FC Real Bengaluru",
+    "date": "17/09/2025",
+    "time": "06:30",
+    "country": "India",
+    "all_sources": [
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "one_vs_x2",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.006,
+            "source": "Tounesbet"
+          },
+          "X2_odd": {
+            "value": 2.0,
+            "source": "Jibibet"
+          }
+        },
+        "arbitrage_percentage": 0.9985,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2579588112430805024-11301172",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "India",
+        "tournament_Tounesbet": "Bangalore - Super Division",
+        "Tounesbet_match_id": 11301172,
+        "Tounesbet_tournament_id": 21445,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Jibibet_country_name": "India",
+        "tournament_Jibibet": "Bangalore Super Division",
+        "Jibibet_match_id": 2579588112430805024,
+        "Jibibet_tournament_id": 1962858140299038720,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "group_id": "2579588112430805024-11301172-13964260",
+        "home_team": "Meg & Centre FC",
+        "away_team": "FC Real Bengaluru",
+        "activity_duration": "1 hour"
+      }
+    ]
+  }
+]

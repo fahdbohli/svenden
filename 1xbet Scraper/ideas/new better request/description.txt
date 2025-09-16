@@ -1,0 +1,2 @@
+GET /LineFeed/GetSportsShortZip is etter at getting the match general details and ids (because the old one is limited at 50 match per league)
+https://aistudio.google.com/prompts/1Rtn-Y2HcNHGOdeug88e2cNnQqGxhfl7b

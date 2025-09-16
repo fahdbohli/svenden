@@ -1,0 +1,1350 @@
+[
+  {
+    "group_id": "2577410762196791308-652652684-11255656-13909266-28007173",
+    "home_team": "Millonarios FC",
+    "away_team": "Envigado FC",
+    "date": "17/09/2025",
+    "time": "02:10",
+    "country": "Colombia",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_-1.0_home_vs_away",
+        "best_odds": {
+          "home_handicap_-1.0_odd": {
+            "value": 2.36,
+            "source": "Tounesbet"
+          },
+          "away_handicap_1.0_odd": {
+            "value": 2.07,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.9068,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "652652684-11255656",
+        "misvalue_source": "1xbet",
+        "Tounesbet_country_name": "Colombia",
+        "tournament_Tounesbet": "Copa Colombia",
+        "Tounesbet_match_id": 11255656,
+        "Tounesbet_tournament_id": 25730,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "1xbet_country_name": "Colombia",
+        "tournament_1xbet": "Copa Colombia",
+        "1xbet_match_id": 652652684,
+        "1xbet_tournament_id": 150983,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/150983/652652684",
+        "group_id": "2577410762196791308-652652684-11255656-13909266-28007173",
+        "home_team": "Millonarios FC",
+        "away_team": "Envigado FC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "second_half_under_1.5_vs_second_half_over_1.5",
+        "best_odds": {
+          "second_half_under_1.5_odd": {
+            "value": 1.899,
+            "source": "Tounesbet"
+          },
+          "second_half_over_1.5_odd": {
+            "value": 2.2858,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9641,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13909266-11255656",
+        "misvalue_source": "1xbet",
+        "Tounesbet_country_name": "Colombia",
+        "tournament_Tounesbet": "Copa Colombia",
+        "Tounesbet_match_id": 11255656,
+        "Tounesbet_tournament_id": 25730,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "Colombia",
+        "tournament_Clubx2": "Copa Colombia",
+        "Clubx2_match_id": 13909266,
+        "Clubx2_tournament_id": 4663,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13909266#/overview",
+        "group_id": "2577410762196791308-652652684-11255656-13909266-28007173",
+        "home_team": "Millonarios FC",
+        "away_team": "Envigado FC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "first_half_ah_-0.25_home_vs_away",
+        "best_odds": {
+          "home_first_half_handicap_-0.25_odd": {
+            "value": 1.76,
+            "source": "Asbet"
+          },
+          "away_first_half_handicap_0.25_odd": {
+            "value": 2.478,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9717,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "28007173-11255656",
+        "misvalue_source": "1xbet",
+        "Asbet_country_name": "Colombia",
+        "tournament_Asbet": "Copa Colombia",
+        "Asbet_match_id": 28007173,
+        "Asbet_tournament_id": 1818,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Colombia/1818/copa-colombia/28007173/millonarios-fc-envigado-fc",
+        "Tounesbet_country_name": "Colombia",
+        "tournament_Tounesbet": "Copa Colombia",
+        "Tounesbet_match_id": 11255656,
+        "Tounesbet_tournament_id": 25730,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2577410762196791308-652652684-11255656-13909266-28007173",
+        "home_team": "Millonarios FC",
+        "away_team": "Envigado FC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_-1.0_home_vs_away",
+        "best_odds": {
+          "home_handicap_-1.0_odd": {
+            "value": 2.0,
+            "source": "Clubx2"
+          },
+          "away_handicap_1.0_odd": {
+            "value": 2.07,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.9831,
+        "arbitrage_sources": "1xbet, Clubx2",
+        "unique_id": "652652684-13909266",
+        "misvalue_source": "1xbet",
+        "Clubx2_country_name": "Colombia",
+        "tournament_Clubx2": "Copa Colombia",
+        "Clubx2_match_id": 13909266,
+        "Clubx2_tournament_id": 4663,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13909266#/overview",
+        "1xbet_country_name": "Colombia",
+        "tournament_1xbet": "Copa Colombia",
+        "1xbet_match_id": 652652684,
+        "1xbet_tournament_id": 150983,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/150983/652652684",
+        "group_id": "2577410762196791308-652652684-11255656-13909266-28007173",
+        "home_team": "Millonarios FC",
+        "away_team": "Envigado FC",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2",
+        "best_odds": {
+          "1_odd": {
+            "value": 1.805,
+            "source": "Tounesbet"
+          },
+          "X2_odd": {
+            "value": 2.3,
+            "source": "Jibibet"
+          }
+        },
+        "arbitrage_percentage": 0.9888,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2577410762196791308-11255656",
+        "misvalue_source": "1xbet",
+        "Tounesbet_country_name": "Colombia",
+        "tournament_Tounesbet": "Copa Colombia",
+        "Tounesbet_match_id": 11255656,
+        "Tounesbet_tournament_id": 25730,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Jibibet_country_name": "Colombia",
+        "tournament_Jibibet": "Copa Colombia",
+        "Jibibet_match_id": 2577410762196791308,
+        "Jibibet_tournament_id": 1669819189159923712,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "group_id": "2577410762196791308-652652684-11255656-13909266-28007173",
+        "home_team": "Millonarios FC",
+        "away_team": "Envigado FC",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2578816873202327560-653709276-11254526-13765730-27949659",
+    "home_team": "America de Cali",
+    "away_team": "Atletico Bucaramanga",
+    "date": "17/09/2025",
+    "time": "00:00",
+    "country": "Colombia",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_0.0_home_vs_away",
+        "best_odds": {
+          "home_handicap_0.0_odd": {
+            "value": 1.97,
+            "source": "Tounesbet"
+          },
+          "away_handicap_0.0_odd": {
+            "value": 2.49,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.9092,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653709276-11254526",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Colombia",
+        "tournament_Tounesbet": "Primera A",
+        "Tounesbet_match_id": 11254526,
+        "Tounesbet_tournament_id": 25525,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "1xbet_country_name": "Colombia",
+        "tournament_1xbet": "Categoria Primera A",
+        "1xbet_match_id": 653709276,
+        "1xbet_tournament_id": 214147,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/214147/653709276",
+        "group_id": "2578816873202327560-653709276-11254526-13765730-27949659",
+        "home_team": "America de Cali",
+        "away_team": "Atletico Bucaramanga",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "first_half_ah_0.0_home_vs_away",
+        "best_odds": {
+          "home_first_half_handicap_0.0_odd": {
+            "value": 2.029,
+            "source": "Tounesbet"
+          },
+          "away_first_half_handicap_0.0_odd": {
+            "value": 2.17,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9537,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27949659-11254526",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Colombia",
+        "tournament_Tounesbet": "Primera A",
+        "Tounesbet_match_id": 11254526,
+        "Tounesbet_tournament_id": 25525,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "Colombia",
+        "tournament_Asbet": "Primera A",
+        "Asbet_match_id": 27949659,
+        "Asbet_tournament_id": 1815,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Colombia/1815/primera-a/27949659/america-de-cali-atletico-bucaramanga",
+        "group_id": "2578816873202327560-653709276-11254526-13765730-27949659",
+        "home_team": "America de Cali",
+        "away_team": "Atletico Bucaramanga",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.4,
+            "source": "Clubx2"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.829,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9634,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13765730-11254526",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Colombia",
+        "tournament_Clubx2": "Primera A",
+        "Clubx2_match_id": 13765730,
+        "Clubx2_tournament_id": 3857,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13765730#/overview",
+        "Tounesbet_country_name": "Colombia",
+        "tournament_Tounesbet": "Primera A",
+        "Tounesbet_match_id": 11254526,
+        "Tounesbet_tournament_id": 25525,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578816873202327560-653709276-11254526-13765730-27949659",
+        "home_team": "America de Cali",
+        "away_team": "Atletico Bucaramanga",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.38,
+            "source": "Jibibet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.829,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9669,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2578816873202327560-11254526",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "Colombia",
+        "tournament_Jibibet": "Primera A, Clausura",
+        "Jibibet_match_id": 2578816873202327560,
+        "Jibibet_tournament_id": 1669818997316653056,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "Colombia",
+        "tournament_Tounesbet": "Primera A",
+        "Tounesbet_match_id": 11254526,
+        "Tounesbet_tournament_id": 25525,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578816873202327560-653709276-11254526-13765730-27949659",
+        "home_team": "America de Cali",
+        "away_team": "Atletico Bucaramanga",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2579068340077207588-653652187-11289365-13196220-27969040",
+    "home_team": "Atletico Bucaramanga",
+    "away_team": "Deportes Tolima",
+    "date": "20/09/2025",
+    "time": "00:00",
+    "country": "Colombia",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_0.25_home_vs_away",
+        "best_odds": {
+          "home_handicap_0.25_odd": {
+            "value": 1.888,
+            "source": "Tounesbet"
+          },
+          "away_handicap_-0.25_odd": {
+            "value": 2.36,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.9534,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653652187-11289365",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Colombia",
+        "tournament_Tounesbet": "Primera A",
+        "Tounesbet_match_id": 11289365,
+        "Tounesbet_tournament_id": 25525,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "1xbet_country_name": "Colombia",
+        "tournament_1xbet": "Categoria Primera A",
+        "1xbet_match_id": 653652187,
+        "1xbet_tournament_id": 214147,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/214147/653652187",
+        "group_id": "2579068340077207588-653652187-11289365-13196220-27969040",
+        "home_team": "Atletico Bucaramanga",
+        "away_team": "Deportes Tolima",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_0.25_home_vs_away",
+        "best_odds": {
+          "home_handicap_0.25_odd": {
+            "value": 1.888,
+            "source": "Tounesbet"
+          },
+          "away_handicap_-0.25_odd": {
+            "value": 2.3,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9644,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27969040-11289365",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Colombia",
+        "tournament_Tounesbet": "Primera A",
+        "Tounesbet_match_id": 11289365,
+        "Tounesbet_tournament_id": 25525,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "Colombia",
+        "tournament_Asbet": "Primera A",
+        "Asbet_match_id": 27969040,
+        "Asbet_tournament_id": 1815,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Colombia/1815/primera-a/27969040/atletico-bucaramanga-deportes-tolima",
+        "group_id": "2579068340077207588-653652187-11289365-13196220-27969040",
+        "home_team": "Atletico Bucaramanga",
+        "away_team": "Deportes Tolima",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "both_score",
+        "best_odds": {
+          "both_score_odd": {
+            "value": 2.2,
+            "source": "Clubx2"
+          },
+          "both_noscore_odd": {
+            "value": 1.958,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9653,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13196220-11289365",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Colombia",
+        "tournament_Clubx2": "Primera A",
+        "Clubx2_match_id": 13196220,
+        "Clubx2_tournament_id": 3857,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13196220#/overview",
+        "Tounesbet_country_name": "Colombia",
+        "tournament_Tounesbet": "Primera A",
+        "Tounesbet_match_id": 11289365,
+        "Tounesbet_tournament_id": 25525,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579068340077207588-653652187-11289365-13196220-27969040",
+        "home_team": "Atletico Bucaramanga",
+        "away_team": "Deportes Tolima",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2579068340077207571-653909977-11289255-13196224-27969583",
+    "home_team": "America de Cali",
+    "away_team": "CD Once Caldas",
+    "date": "20/09/2025",
+    "time": "02:10",
+    "country": "Colombia",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_-0.75_home_vs_away",
+        "best_odds": {
+          "home_handicap_-0.75_odd": {
+            "value": 2.15,
+            "source": "Asbet"
+          },
+          "away_handicap_0.75_odd": {
+            "value": 2.006,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9636,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27969583-11289255",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Colombia",
+        "tournament_Asbet": "Primera A",
+        "Asbet_match_id": 27969583,
+        "Asbet_tournament_id": 1815,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Colombia/1815/primera-a/27969583/america-de-cali-once-caldas",
+        "Tounesbet_country_name": "Colombia",
+        "tournament_Tounesbet": "Primera A",
+        "Tounesbet_match_id": 11289255,
+        "Tounesbet_tournament_id": 25525,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579068340077207571-653909977-11289255-13196224-27969583",
+        "home_team": "America de Cali",
+        "away_team": "CD Once Caldas",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 1.87,
+            "source": "1xbet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 2.324,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9651,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653909977-11289255",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Colombia",
+        "tournament_1xbet": "Categoria Primera A",
+        "1xbet_match_id": 653909977,
+        "1xbet_tournament_id": 214147,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/214147/653909977",
+        "Tounesbet_country_name": "Colombia",
+        "tournament_Tounesbet": "Primera A",
+        "Tounesbet_match_id": 11289255,
+        "Tounesbet_tournament_id": 25525,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579068340077207571-653909977-11289255-13196224-27969583",
+        "home_team": "America de Cali",
+        "away_team": "CD Once Caldas",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "first_half_under_0.5_vs_first_half_over_0.5",
+        "best_odds": {
+          "first_half_under_0.5_odd": {
+            "value": 2.4,
+            "source": "Clubx2"
+          },
+          "first_half_over_0.5_odd": {
+            "value": 1.793,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9744,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13196224-11289255",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Colombia",
+        "tournament_Clubx2": "Primera A",
+        "Clubx2_match_id": 13196224,
+        "Clubx2_tournament_id": 3857,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13196224#/overview",
+        "Tounesbet_country_name": "Colombia",
+        "tournament_Tounesbet": "Primera A",
+        "Tounesbet_match_id": 11289255,
+        "Tounesbet_tournament_id": 25525,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579068340077207571-653909977-11289255-13196224-27969583",
+        "home_team": "America de Cali",
+        "away_team": "CD Once Caldas",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 1.83,
+            "source": "Jibibet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 2.324,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9767,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2579068340077207571-11289255",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "Colombia",
+        "tournament_Jibibet": "Primera A, Clausura",
+        "Jibibet_match_id": 2579068340077207571,
+        "Jibibet_tournament_id": 1669818997316653056,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "Colombia",
+        "tournament_Tounesbet": "Primera A",
+        "Tounesbet_match_id": 11289255,
+        "Tounesbet_tournament_id": 25525,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579068340077207571-653909977-11289255-13196224-27969583",
+        "home_team": "America de Cali",
+        "away_team": "CD Once Caldas",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2578793856325783575-653407043-11283965-13196179-27974352",
+    "home_team": "Envigado FC",
+    "away_team": "Alianza FC Valledupar",
+    "date": "20/09/2025",
+    "time": "20:00",
+    "country": "Colombia",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "first_half_under_0.5_vs_first_half_over_0.5",
+        "best_odds": {
+          "first_half_under_0.5_odd": {
+            "value": 2.44,
+            "source": "Asbet"
+          },
+          "first_half_over_0.5_odd": {
+            "value": 1.793,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9676,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27974352-11283965",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Colombia",
+        "tournament_Asbet": "Primera A",
+        "Asbet_match_id": 27974352,
+        "Asbet_tournament_id": 1815,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Colombia/1815/primera-a/27974352/envigado-fc-alianza-valledupar",
+        "Tounesbet_country_name": "Colombia",
+        "tournament_Tounesbet": "Primera A",
+        "Tounesbet_match_id": 11283965,
+        "Tounesbet_tournament_id": 25525,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578793856325783575-653407043-11283965-13196179-27974352",
+        "home_team": "Envigado FC",
+        "away_team": "Alianza FC Valledupar",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_0.25_home_vs_away",
+        "best_odds": {
+          "home_handicap_0.25_odd": {
+            "value": 1.793,
+            "source": "Tounesbet"
+          },
+          "away_handicap_-0.25_odd": {
+            "value": 2.39,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.9761,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653407043-11283965",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Colombia",
+        "tournament_Tounesbet": "Primera A",
+        "Tounesbet_match_id": 11283965,
+        "Tounesbet_tournament_id": 25525,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "1xbet_country_name": "Colombia",
+        "tournament_1xbet": "Categoria Primera A",
+        "1xbet_match_id": 653407043,
+        "1xbet_tournament_id": 214147,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/214147/653407043",
+        "group_id": "2578793856325783575-653407043-11283965-13196179-27974352",
+        "home_team": "Envigado FC",
+        "away_team": "Alianza FC Valledupar",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2",
+        "best_odds": {
+          "1_odd": {
+            "value": 3.068,
+            "source": "Tounesbet"
+          },
+          "X2_odd": {
+            "value": 1.49,
+            "source": "Jibibet"
+          }
+        },
+        "arbitrage_percentage": 0.9971,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2578793856325783575-11283965",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Colombia",
+        "tournament_Tounesbet": "Primera A",
+        "Tounesbet_match_id": 11283965,
+        "Tounesbet_tournament_id": 25525,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Jibibet_country_name": "Colombia",
+        "tournament_Jibibet": "Primera A, Clausura",
+        "Jibibet_match_id": 2578793856325783575,
+        "Jibibet_tournament_id": 1669818997316653056,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "group_id": "2578793856325783575-653407043-11283965-13196179-27974352",
+        "home_team": "Envigado FC",
+        "away_team": "Alianza FC Valledupar",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2579070694113546272-653656715-11289618-13196206-27976704",
+    "home_team": "Deportivo Pasto",
+    "away_team": "Club Independiente Santa Fe",
+    "date": "21/09/2025",
+    "time": "00:20",
+    "country": "Colombia",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "first_half_under_0.5_vs_first_half_over_0.5",
+        "best_odds": {
+          "first_half_under_0.5_odd": {
+            "value": 2.2858,
+            "source": "Clubx2"
+          },
+          "first_half_over_0.5_odd": {
+            "value": 1.923,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9575,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13196206-11289618",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Colombia",
+        "tournament_Clubx2": "Primera A",
+        "Clubx2_match_id": 13196206,
+        "Clubx2_tournament_id": 3857,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13196206#/overview",
+        "Tounesbet_country_name": "Colombia",
+        "tournament_Tounesbet": "Primera A",
+        "Tounesbet_match_id": 11289618,
+        "Tounesbet_tournament_id": 25525,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579070694113546272-653656715-11289618-13196206-27976704",
+        "home_team": "Deportivo Pasto",
+        "away_team": "Club Independiente Santa Fe",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "first_half_under_0.5_vs_first_half_over_0.5",
+        "best_odds": {
+          "first_half_under_0.5_odd": {
+            "value": 2.25,
+            "source": "Asbet"
+          },
+          "first_half_over_0.5_odd": {
+            "value": 1.923,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9645,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27976704-11289618",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Colombia",
+        "tournament_Asbet": "Primera A",
+        "Asbet_match_id": 27976704,
+        "Asbet_tournament_id": 1815,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Colombia/1815/primera-a/27976704/deportivo-pasto-independiente-santa-fe",
+        "Tounesbet_country_name": "Colombia",
+        "tournament_Tounesbet": "Primera A",
+        "Tounesbet_match_id": 11289618,
+        "Tounesbet_tournament_id": 25525,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579070694113546272-653656715-11289618-13196206-27976704",
+        "home_team": "Deportivo Pasto",
+        "away_team": "Club Independiente Santa Fe",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_0.0_home_vs_away",
+        "best_odds": {
+          "home_handicap_0.0_odd": {
+            "value": 2.09,
+            "source": "1xbet"
+          },
+          "away_handicap_0.0_odd": {
+            "value": 2.029,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9713,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653656715-11289618",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Colombia",
+        "tournament_1xbet": "Categoria Primera A",
+        "1xbet_match_id": 653656715,
+        "1xbet_tournament_id": 214147,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/214147/653656715",
+        "Tounesbet_country_name": "Colombia",
+        "tournament_Tounesbet": "Primera A",
+        "Tounesbet_match_id": 11289618,
+        "Tounesbet_tournament_id": 25525,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579070694113546272-653656715-11289618-13196206-27976704",
+        "home_team": "Deportivo Pasto",
+        "away_team": "Club Independiente Santa Fe",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "under_1.5_vs_over_1.5",
+        "best_odds": {
+          "under_1.5_odd": {
+            "value": 2.32,
+            "source": "Jibibet"
+          },
+          "over_1.5_odd": {
+            "value": 1.805,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9851,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2579070694113546272-11289618",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "Colombia",
+        "tournament_Jibibet": "Primera A, Clausura",
+        "Jibibet_match_id": 2579070694113546272,
+        "Jibibet_tournament_id": 1669818997316653056,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "Colombia",
+        "tournament_Tounesbet": "Primera A",
+        "Tounesbet_match_id": 11289618,
+        "Tounesbet_tournament_id": 25525,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579070694113546272-653656715-11289618-13196206-27976704",
+        "home_team": "Deportivo Pasto",
+        "away_team": "Club Independiente Santa Fe",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2579074482350207009-653656721-11289723-13196187-27976994",
+    "home_team": "La Equidad Seguros",
+    "away_team": "Deportivo Cali",
+    "date": "21/09/2025",
+    "time": "02:30",
+    "country": "Colombia",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.37,
+            "source": "1xbet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.888,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9516,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653656721-11289723",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Colombia",
+        "tournament_1xbet": "Categoria Primera A",
+        "1xbet_match_id": 653656721,
+        "1xbet_tournament_id": 214147,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/214147/653656721",
+        "Tounesbet_country_name": "Colombia",
+        "tournament_Tounesbet": "Primera A",
+        "Tounesbet_match_id": 11289723,
+        "Tounesbet_tournament_id": 25525,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579074482350207009-653656721-11289723-13196187-27976994",
+        "home_team": "La Equidad Seguros",
+        "away_team": "Deportivo Cali",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.34,
+            "source": "Jibibet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.888,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.957,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2579074482350207009-11289723",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "Colombia",
+        "tournament_Jibibet": "Primera A, Clausura",
+        "Jibibet_match_id": 2579074482350207009,
+        "Jibibet_tournament_id": 1669818997316653056,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "Colombia",
+        "tournament_Tounesbet": "Primera A",
+        "Tounesbet_match_id": 11289723,
+        "Tounesbet_tournament_id": 25525,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579074482350207009-653656721-11289723-13196187-27976994",
+        "home_team": "La Equidad Seguros",
+        "away_team": "Deportivo Cali",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "away_under_0.5_vs_away_over_0.5",
+        "best_odds": {
+          "away_under_0.5_odd": {
+            "value": 2.44,
+            "source": "Asbet"
+          },
+          "away_over_0.5_odd": {
+            "value": 1.805,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9639,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27976994-11289723",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Colombia",
+        "tournament_Asbet": "Primera A",
+        "Asbet_match_id": 27976994,
+        "Asbet_tournament_id": 1815,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Colombia/1815/primera-a/27976994/la-equidad-seguros-deportivo-cali",
+        "Tounesbet_country_name": "Colombia",
+        "tournament_Tounesbet": "Primera A",
+        "Tounesbet_match_id": 11289723,
+        "Tounesbet_tournament_id": 25525,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579074482350207009-653656721-11289723-13196187-27976994",
+        "home_team": "La Equidad Seguros",
+        "away_team": "Deportivo Cali",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.3,
+            "source": "Clubx2"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.888,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9644,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13196187-11289723",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Colombia",
+        "tournament_Clubx2": "Primera A",
+        "Clubx2_match_id": 13196187,
+        "Clubx2_tournament_id": 3857,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13196187#/overview",
+        "Tounesbet_country_name": "Colombia",
+        "tournament_Tounesbet": "Primera A",
+        "Tounesbet_match_id": 11289723,
+        "Tounesbet_tournament_id": 25525,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579074482350207009-653656721-11289723-13196187-27976994",
+        "home_team": "La Equidad Seguros",
+        "away_team": "Deportivo Cali",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2579074482350207007-653656724-11289580-13196229-27982045",
+    "home_team": "Millonarios FC",
+    "away_team": "Fortaleza Zipaquira",
+    "date": "21/09/2025",
+    "time": "20:00",
+    "country": "Colombia",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_-1.0_home_vs_away",
+        "best_odds": {
+          "home_handicap_-1.0_odd": {
+            "value": 2.21,
+            "source": "1xbet"
+          },
+          "away_handicap_1.0_odd": {
+            "value": 1.947,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9661,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653656724-11289580",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Colombia",
+        "tournament_1xbet": "Categoria Primera A",
+        "1xbet_match_id": 653656724,
+        "1xbet_tournament_id": 214147,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/214147/653656724",
+        "Tounesbet_country_name": "Colombia",
+        "tournament_Tounesbet": "Primera A",
+        "Tounesbet_match_id": 11289580,
+        "Tounesbet_tournament_id": 25525,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579074482350207007-653656724-11289580-13196229-27982045",
+        "home_team": "Millonarios FC",
+        "away_team": "Fortaleza Zipaquira",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_-1.0_home_vs_away",
+        "best_odds": {
+          "home_handicap_-1.0_odd": {
+            "value": 2.21,
+            "source": "Asbet"
+          },
+          "away_handicap_1.0_odd": {
+            "value": 1.947,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9661,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27982045-11289580",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Colombia",
+        "tournament_Asbet": "Primera A",
+        "Asbet_match_id": 27982045,
+        "Asbet_tournament_id": 1815,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Colombia/1815/primera-a/27982045/millonarios-fc-fortaleza-ceif",
+        "Tounesbet_country_name": "Colombia",
+        "tournament_Tounesbet": "Primera A",
+        "Tounesbet_match_id": 11289580,
+        "Tounesbet_tournament_id": 25525,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579074482350207007-653656724-11289580-13196229-27982045",
+        "home_team": "Millonarios FC",
+        "away_team": "Fortaleza Zipaquira",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2",
+        "best_odds": {
+          "1_odd": {
+            "value": 1.958,
+            "source": "Tounesbet"
+          },
+          "X2_odd": {
+            "value": 2.17,
+            "source": "Jibibet"
+          }
+        },
+        "arbitrage_percentage": 0.9716,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2579074482350207007-11289580",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Colombia",
+        "tournament_Tounesbet": "Primera A",
+        "Tounesbet_match_id": 11289580,
+        "Tounesbet_tournament_id": 25525,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Jibibet_country_name": "Colombia",
+        "tournament_Jibibet": "Primera A, Clausura",
+        "Jibibet_match_id": 2579074482350207007,
+        "Jibibet_tournament_id": 1669818997316653056,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "group_id": "2579074482350207007-653656724-11289580-13196229-27982045",
+        "home_team": "Millonarios FC",
+        "away_team": "Fortaleza Zipaquira",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "both_score",
+        "best_odds": {
+          "both_score_odd": {
+            "value": 2.2,
+            "source": "Clubx2"
+          },
+          "both_noscore_odd": {
+            "value": 1.899,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9811,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13196229-11289580",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Colombia",
+        "tournament_Clubx2": "Primera A",
+        "Clubx2_match_id": 13196229,
+        "Clubx2_tournament_id": 3857,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13196229#/overview",
+        "Tounesbet_country_name": "Colombia",
+        "tournament_Tounesbet": "Primera A",
+        "Tounesbet_match_id": 11289580,
+        "Tounesbet_tournament_id": 25525,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579074482350207007-653656724-11289580-13196229-27982045",
+        "home_team": "Millonarios FC",
+        "away_team": "Fortaleza Zipaquira",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2579147573881348145-653656730-11289735-13196155-27984269",
+    "home_team": "Independiente Medellin",
+    "away_team": "Atletico Junior Barranquilla",
+    "date": "22/09/2025",
+    "time": "00:20",
+    "country": "Colombia",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "away_under_0.5_vs_away_over_0.5",
+        "best_odds": {
+          "away_under_0.5_odd": {
+            "value": 2.37,
+            "source": "Asbet"
+          },
+          "away_over_0.5_odd": {
+            "value": 1.852,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9619,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27984269-11289735",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Colombia",
+        "tournament_Asbet": "Primera A",
+        "Asbet_match_id": 27984269,
+        "Asbet_tournament_id": 1815,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Colombia/1815/primera-a/27984269/independiente-medellin-atletico-junior-barranquilla",
+        "Tounesbet_country_name": "Colombia",
+        "tournament_Tounesbet": "Primera A",
+        "Tounesbet_match_id": 11289735,
+        "Tounesbet_tournament_id": 25525,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579147573881348145-653656730-11289735-13196155-27984269",
+        "home_team": "Independiente Medellin",
+        "away_team": "Atletico Junior Barranquilla",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 1.89,
+            "source": "1xbet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 2.301,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9637,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653656730-11289735",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Colombia",
+        "tournament_1xbet": "Categoria Primera A",
+        "1xbet_match_id": 653656730,
+        "1xbet_tournament_id": 214147,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/214147/653656730",
+        "Tounesbet_country_name": "Colombia",
+        "tournament_Tounesbet": "Primera A",
+        "Tounesbet_match_id": 11289735,
+        "Tounesbet_tournament_id": 25525,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579147573881348145-653656730-11289735-13196155-27984269",
+        "home_team": "Independiente Medellin",
+        "away_team": "Atletico Junior Barranquilla",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "second_half_under_1.5_vs_second_half_over_1.5",
+        "best_odds": {
+          "second_half_under_1.5_odd": {
+            "value": 1.876,
+            "source": "Tounesbet"
+          },
+          "second_half_over_1.5_odd": {
+            "value": 2.2858,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9705,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13196155-11289735",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Colombia",
+        "tournament_Tounesbet": "Primera A",
+        "Tounesbet_match_id": 11289735,
+        "Tounesbet_tournament_id": 25525,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "Colombia",
+        "tournament_Clubx2": "Primera A",
+        "Clubx2_match_id": 13196155,
+        "Clubx2_tournament_id": 3857,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13196155#/overview",
+        "group_id": "2579147573881348145-653656730-11289735-13196155-27984269",
+        "home_team": "Independiente Medellin",
+        "away_team": "Atletico Junior Barranquilla",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 1.84,
+            "source": "Jibibet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 2.301,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9781,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2579147573881348145-11289735",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "Colombia",
+        "tournament_Jibibet": "Primera A, Clausura",
+        "Jibibet_match_id": 2579147573881348145,
+        "Jibibet_tournament_id": 1669818997316653056,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "Colombia",
+        "tournament_Tounesbet": "Primera A",
+        "Tounesbet_match_id": 11289735,
+        "Tounesbet_tournament_id": 25525,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579147573881348145-653656730-11289735-13196155-27984269",
+        "home_team": "Independiente Medellin",
+        "away_team": "Atletico Junior Barranquilla",
+        "activity_duration": "1 hour"
+      }
+    ]
+  },
+  {
+    "group_id": "2579176594136502294-653714252-11290043-13196259-27984498",
+    "home_team": "Boyaca Chico FC",
+    "away_team": "CS Deportivo Pereira",
+    "date": "22/09/2025",
+    "time": "02:30",
+    "country": "Colombia",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "first_half_under_0.5_vs_first_half_over_0.5",
+        "best_odds": {
+          "first_half_under_0.5_odd": {
+            "value": 2.4,
+            "source": "Clubx2"
+          },
+          "first_half_over_0.5_odd": {
+            "value": 1.84,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9601,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13196259-11290043",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Colombia",
+        "tournament_Clubx2": "Primera A",
+        "Clubx2_match_id": 13196259,
+        "Clubx2_tournament_id": 3857,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13196259#/overview",
+        "Tounesbet_country_name": "Colombia",
+        "tournament_Tounesbet": "Primera A",
+        "Tounesbet_match_id": 11290043,
+        "Tounesbet_tournament_id": 25525,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579176594136502294-653714252-11290043-13196259-27984498",
+        "home_team": "Boyaca Chico FC",
+        "away_team": "CS Deportivo Pereira",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "first_half_under_0.5_vs_first_half_over_0.5",
+        "best_odds": {
+          "first_half_under_0.5_odd": {
+            "value": 2.37,
+            "source": "Asbet"
+          },
+          "first_half_over_0.5_odd": {
+            "value": 1.84,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9654,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27984498-11290043",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Colombia",
+        "tournament_Asbet": "Primera A",
+        "Asbet_match_id": 27984498,
+        "Asbet_tournament_id": 1815,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Colombia/1815/primera-a/27984498/boyaca-chico-deportivo-pereira",
+        "Tounesbet_country_name": "Colombia",
+        "tournament_Tounesbet": "Primera A",
+        "Tounesbet_match_id": 11290043,
+        "Tounesbet_tournament_id": 25525,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579176594136502294-653714252-11290043-13196259-27984498",
+        "home_team": "Boyaca Chico FC",
+        "away_team": "CS Deportivo Pereira",
+        "activity_duration": "1 hour"
+      },
+      {
+        "complementary_set": "ah_0.0_home_vs_away",
+        "best_odds": {
+          "home_handicap_0.0_odd": {
+            "value": 2.183,
+            "source": "Tounesbet"
+          },
+          "away_handicap_0.0_odd": {
+            "value": 1.93,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.9762,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653714252-11290043",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Colombia",
+        "tournament_Tounesbet": "Primera A",
+        "Tounesbet_match_id": 11290043,
+        "Tounesbet_tournament_id": 25525,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "1xbet_country_name": "Colombia",
+        "tournament_1xbet": "Categoria Primera A",
+        "1xbet_match_id": 653714252,
+        "1xbet_tournament_id": 214147,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/214147/653714252",
+        "group_id": "2579176594136502294-653714252-11290043-13196259-27984498",
+        "home_team": "Boyaca Chico FC",
+        "away_team": "CS Deportivo Pereira",
+        "activity_duration": "1 hour"
+      }
+    ]
+  }
+]

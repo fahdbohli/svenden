@@ -1,0 +1,73 @@
+[
+    {
+        "last_updated": "2025-09-16T20:53:11.827927+01:00"
+    },
+    {
+        "tournament_id": 11379,
+        "tournament_name": "LFF Cup",
+        "matches": [
+            {
+                "match_id": 13733552,
+                "date": "17/09/2025",
+                "time": "16:30",
+                "home_team": "Dziugas",
+                "away_team": "FC Hegelmann Litauen Kaunas",
+                "1_odd": 3.5,
+                "draw_odd": 3.3334,
+                "2_odd": 1.9091,
+                "1X_odd": 1.6667,
+                "12_odd": 1.25,
+                "X2_odd": 1.25,
+                "over_2.5_odd": 2.1,
+                "under_2.5_odd": 1.6,
+                "first_half_over_0.5_odd": 1.4,
+                "first_half_under_0.5_odd": 2.5455
+            }
+        ]
+    },
+    {
+        "tournament_id": 4988,
+        "tournament_name": "A Lyga",
+        "matches": [
+            {
+                "match_id": 13239097,
+                "date": "19/09/2025",
+                "time": "17:30",
+                "home_team": "Dfk Dainava Alytus",
+                "away_team": "FA Siauliai",
+                "1_odd": 3.25,
+                "draw_odd": 3.4,
+                "2_odd": 2.0,
+                "1X_odd": 1.6364,
+                "12_odd": 1.25,
+                "X2_odd": 1.2667,
+                "home_handicap_0.5_odd": 1.75,
+                "away_handicap_-0.5_odd": 1.95,
+                "over_2.0_odd": 1.4546,
+                "under_2.0_odd": 2.5455,
+                "over_2.25_odd": 1.6667,
+                "under_2.25_odd": 2.1,
+                "over_2.75_odd": 2.1,
+                "under_2.75_odd": 1.6667,
+                "over_3.0_odd": 2.5455,
+                "under_3.0_odd": 1.4546,
+                "over_2.5_odd": 1.8334,
+                "under_2.5_odd": 1.8334,
+                "both_score_odd": 1.75,
+                "both_noscore_odd": 1.9334,
+                "home_first_half_handicap_0.5_odd": 1.4546,
+                "away_first_half_handicap_-0.5_odd": 2.5455,
+                "first_half_over_1.5_odd": 2.7143,
+                "first_half_under_1.5_odd": 1.4,
+                "home_first_half_over_0.5_odd": 2.2858,
+                "home_first_half_under_0.5_odd": 1.5556,
+                "away_first_half_over_0.5_odd": 1.8334,
+                "away_first_half_under_0.5_odd": 1.8334,
+                "home_score_both_halves_odd": 4.5,
+                "home_noscore_both_halves_odd": 1.1539,
+                "away_score_both_halves_odd": 3.0,
+                "away_noscore_both_halves_odd": 1.3334
+            }
+        ]
+    }
+]

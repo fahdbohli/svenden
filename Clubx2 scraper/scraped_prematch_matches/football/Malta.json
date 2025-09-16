@@ -1,0 +1,41 @@
+[
+    {
+        "last_updated": "2025-09-16T20:53:12.274046+01:00"
+    },
+    {
+        "tournament_id": 3342,
+        "tournament_name": "Premier League",
+        "matches": [
+            {
+                "match_id": 13898955,
+                "date": "17/09/2025",
+                "time": "17:45",
+                "home_team": "Marsaxlokk FC",
+                "away_team": "Gzira United",
+                "1_odd": 2.2858,
+                "draw_odd": 3.1429,
+                "2_odd": 2.6667,
+                "1X_odd": 1.3637,
+                "12_odd": 1.2728,
+                "X2_odd": 1.4706,
+                "over_2.5_odd": 1.95,
+                "under_2.5_odd": 1.7
+            },
+            {
+                "match_id": 13898959,
+                "date": "17/09/2025",
+                "time": "20:00",
+                "home_team": "Mosta FC",
+                "away_team": "Hibernians",
+                "1_odd": 3.1,
+                "draw_odd": 3.25,
+                "2_odd": 2.0,
+                "1X_odd": 1.5715,
+                "12_odd": 1.2728,
+                "X2_odd": 1.2858,
+                "over_2.5_odd": 1.9,
+                "under_2.5_odd": 1.75
+            }
+        ]
+    }
+]

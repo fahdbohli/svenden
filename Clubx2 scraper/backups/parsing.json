@@ -1,0 +1,196 @@
+{
+    "markets": {
+        "1x2": {
+            "id": 1,
+            "structure": "regular",
+            "market_names": [
+                "1x2"
+            ],
+            "odds": {
+                "1": {
+                    "names": [
+                        "1"
+                    ],
+                    "export_name": "1_odd"
+                },
+                "X": {
+                    "names": [
+                        "X",
+                        "N"
+                    ],
+                    "export_name": "draw_odd"
+                },
+                "2": {
+                    "names": [
+                        "2"
+                    ],
+                    "export_name": "2_odd"
+                }
+            }
+        },
+        "double_chance": {
+            "id": 10,
+            "structure": "regular",
+            "market_names": [
+                "double chance"
+            ],
+            "odds": {
+                "1X": {
+                    "names": [
+                        "1X",
+                        "1 OR DRAW"
+                    ],
+                    "export_name": "1X_odd"
+                },
+                "12": {
+                    "names": [
+                        "12",
+                        "1 OR 2"
+                    ],
+                    "export_name": "12_odd"
+                },
+                "X2": {
+                    "names": [
+                        "X2",
+                        "DRAW OR 2"
+                    ],
+                    "export_name": "X2_odd"
+                }
+            }
+        },
+        "both_teams_score": {
+            "id": 29,
+            "structure": "regular",
+            "market_names": [
+                "gg/ng"
+            ],
+            "odds": {
+                "GG": {
+                    "names": [
+                        "GG"
+                    ],
+                    "export_name": "both_score_odd"
+                },
+                "NG": {
+                    "names": [
+                        "NG"
+                    ],
+                    "export_name": "both_noscore_odd"
+                }
+            }
+        },
+        "total": {
+            "id": 18,
+            "structure": "total",
+            "market_names": [
+                "total"
+            ],
+            "odds": {
+                "over": {
+                    "names": [
+                        "over",
+                        "plus"
+                    ],
+                    "export_name": "over_{sv}_odd"
+                },
+                "under": {
+                    "names": [
+                        "under",
+                        "moins"
+                    ],
+                    "export_name": "under_{sv}_odd"
+                }
+            }
+        },
+        "home_total": {
+            "id": 19,
+            "structure": "total",
+            "market_names": [
+                "1 total"
+            ],
+            "odds": {
+                "over": {
+                    "names": [
+                        "over",
+                        "plus"
+                    ],
+                    "export_name": "home_over_{sv}_odd"
+                },
+                "under": {
+                    "names": [
+                        "under",
+                        "moins"
+                    ],
+                    "export_name": "home_under_{sv}_odd"
+                }
+            }
+        },
+        "away_total": {
+            "id": 20,
+            "structure": "total",
+            "market_names": [
+                "2 total"
+            ],
+            "odds": {
+                "over": {
+                    "names": [
+                        "over",
+                        "plus"
+                    ],
+                    "export_name": "away_over_{sv}_odd"
+                },
+                "under": {
+                    "names": [
+                        "under",
+                        "moins"
+                    ],
+                    "export_name": "away_under_{sv}_odd"
+                }
+            }
+        },
+        "handicap": {
+            "id": 16,
+            "structure": "handicap",
+            "market_names": [
+                "handicap"
+            ],
+            "odds": {
+                "home": {
+                    "names": [
+                        "1"
+                    ],
+                    "export_name": "home_handicap_{sv}_odd"
+                },
+                "away": {
+                    "names": [
+                        "2"
+                    ],
+                    "export_name": "away_handicap_{sv}_odd"
+                }
+            }
+        },
+        "1st_half_total": {
+            "id": 68,
+            "structure": "total",
+            "market_names": [
+                "1st half - total"
+            ],
+            "odds": {
+                "over": {
+                    "names": [
+                        "over",
+                        "plus"
+                    ],
+                    "export_name": "first_half_over_{sv}_odd"
+                },
+                "under": {
+                    "names": [
+                        "under",
+                        "moins"
+                    ],
+                    "export_name": "first_half_under_{sv}_odd"
+                }
+            }
+        }
+    }
+}

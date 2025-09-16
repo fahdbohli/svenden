@@ -1,0 +1,245 @@
+add a new functionality in the code named SCRAPE_BY_ID that can be either True or False, if False the code will act the same exact way, if True the new functionality will be used only if scrape by country is also True.
+So if the scrape by country is True and the new option scrape by id is also True, then :
+- the code will use a new parsing file for odds extraction named "single_match_parsing.json" instead of the parsing.json the code already uses (they are both stored in the same folder)
+- the code will make this request for each country id (the number after the category\ in the request) : POST /Sport/{sport id}/Category/{coutry id}?DateDay=all_days&BetRangeFilter=0&Page_number=1&Tournament_per_page=50
+- the code will extract the general match details from that request response ( date, time, home and away teams names, match id, tournaments ids, .....etc) using the same parsing logic the original code uses for these informations.
+- after getting the general match details, the code will make a request for each obtained match id : POST /Match/MatchOddsGrouped?matchId={match_id}
+- from each match id request the code will get its odds from parsing the response with this function : "def parse_single_match_odds(html: str, config: dict) -> dict:
+    """
+    Parses single match odds from an HTML string based on a provided configuration.
+    
+    This function is designed to be highly customizable through the config file.
+    It identifies markets by their titles and then uses specific strategies for
+    'regular', 'total' (Over/Under), and 'handicap' odds.
+    """
+    if not config:
+        print("Error: Parsing cannot proceed without a valid configuration.")
+        return {}
+
+    soup = BeautifulSoup(html, 'html.parser')
+    odds = {}
+
+    def norm_val(v):
+        """Normalize a string value to a float."""
+        try:
+            return float(v.replace(',', '.').strip())
+        except (ValueError, TypeError, AttributeError):
+            return None
+
+    def norm_text(text):
+        """Normalize text to lowercase, remove accents, and strip whitespace."""
+        if not text:
+            return ""
+        s = unicodedata.normalize('NFKD', text.lower()).encode('ascii', 'ignore').decode('utf-8')
+        return ' '.join(s.replace("'", "").replace("-", " ").strip().split())
+
+    # --- Main Loop through all market rows ---
+    for row in soup.select('.divOddRow'):
+        market_name_elem = row.select_one('.oddName span')
+        if not market_name_elem:
+            continue
+
+        market_title = market_name_elem.get_text(strip=True)
+        norm_title = norm_text(market_title)
+        market_processed = False
+
+        # 1. Process REGULAR odds (e.g., Winner, Correct Score)
+        for market_config in config.get('regular', []):
+            if norm_title in market_config['market_titles']:
+                outcome_map = market_config['outcomes']
+                for mo in row.select('.match-odd[data-isactive="True"]'):
+                    label_elem = mo.select_one('.outcome-label-multirow')
+                    val_elem = mo.select_one('.quoteValue')
+                    if label_elem and val_elem and val_elem.has_attr('data-oddvaluedecimal'):
+                        label = label_elem.get_text(strip=True)
+                        if label in outcome_map:
+                            output_key = outcome_map[label]
+                            odds[output_key] = norm_val(val_elem['data-oddvaluedecimal'])
+                market_processed = True
+                break
+        if market_processed:
+            continue
+
+        # 2. Process LINE-BASED odds (Total and Handicap)
+        for market_type in ['total', 'handicap']:
+            if market_processed: break
+            for market_config in config.get(market_type, []):
+                if norm_title in market_config['market_titles']:
+                    prefix = market_config['prefix']
+                    for odds_table in row.select('.divOddsTable'):
+                        line_elem = odds_table.select_one('.divOddSpecial label')
+                        if not line_elem:
+                            continue
+
+                        # --- MODIFICATION START ---
+                        # Normalize the line number to ensure it's always a float string (e.g., "22" -> "22.0")
+                        line_raw = line_elem.get_text(strip=True)
+                        try:
+                            # Handle both comma and dot decimals, then convert to float and back to string
+                            line_val = float(line_raw.replace(',', '.'))
+                            line = str(line_val)
+                        except (ValueError, TypeError):
+                            # If the line is not a valid number (e.g., empty or text), skip this line's odds
+                            continue
+                        # --- MODIFICATION END ---
+                        
+                        for odd_div in odds_table.select('.divOdd.has-specialBet-col'):
+                            mo = odd_div.select_one('.match-odd[data-isactive="True"]')
+                            if not mo: continue
+                            
+                            label_elem = mo.select_one('label')
+                            val_elem = mo.select_one('.quoteValue')
+
+                            if not (label_elem and val_elem and val_elem.has_attr('data-oddvaluedecimal')):
+                                continue
+
+                            label = label_elem.get_text(strip=True).lower()
+                            value = norm_val(val_elem['data-oddvaluedecimal'])
+
+                            if market_type == 'total' and label in ['over', 'under']:
+                                output_key = f"{prefix}_{label}_{line}_odd"
+                                odds[output_key] = value
+                            elif market_type == 'handicap' and label in ['1', '2']:
+                                output_key = f"{prefix}_{label}_{line}_odd"
+                                odds[output_key] = value
+
+                    market_processed = True
+                    break
+    
+    return odds"
+- here is my new single match parsing file : "{
+  "regular": [
+    {
+      "market_titles": ["12"],
+      "outcomes": {
+        "1": "winner_1_odd",
+        "2": "winner_2_odd"
+      }
+    },
+    {
+      "market_titles": ["score correct"],
+      "outcomes": {
+        "2-0": "correct_score_2_0_odd",
+        "2-1": "correct_score_2_1_odd",
+        "0-2": "correct_score_0_2_odd",
+        "1-2": "correct_score_1_2_odd"
+      }
+    },
+    {
+      "market_titles": ["gagnant 1ere periode domicile / exterieur"],
+      "outcomes": {
+        "1": "winner_set1_1_odd",
+        "2": "winner_set1_2_odd"
+      }
+    },
+    {
+      "market_titles": ["gagnant 2eme periode domicile / exterieur"],
+      "outcomes": {
+        "1": "winner_set2_1_odd",
+        "2": "winner_set2_2_odd"
+      }
+    },
+    {
+      "market_titles": ["1ere periode impaire / paire"],
+      "outcomes": {
+        "Even": "set1_total_games_even_odd",
+        "Odd": "set1_total_games_odd_odd"
+      }
+    },
+    {
+      "market_titles": ["2eme periode impaire / paire"],
+      "outcomes": {
+        "Even": "set2_total_games_even_odd",
+        "Odd": "set2_total_games_odd_odd"
+      }
+    },
+    {
+      "market_titles": ["score correct 1ere periode"],
+      "outcomes": {
+        "0-6": "set1_correct_score_0_6_odd",
+        "1-6": "set1_correct_score_1_6_odd",
+        "2-6": "set1_correct_score_2_6_odd",
+        "3-6": "set1_correct_score_3_6_odd",
+        "4-6": "set1_correct_score_4_6_odd",
+        "5-7": "set1_correct_score_5_7_odd",
+        "6-0": "set1_correct_score_6_0_odd",
+        "6-1": "set1_correct_score_6_1_odd",
+        "6-2": "set1_correct_score_6_2_odd",
+        "6-3": "set1_correct_score_6_3_odd",
+        "6-4": "set1_correct_score_6_4_odd",
+        "6-7": "set1_correct_score_6_7_odd",
+        "7-5": "set1_correct_score_7_5_odd",
+        "7-6": "set1_correct_score_7_6_odd"
+      }
+    },
+    {
+      "market_titles": ["score correct 2eme periode"],
+      "outcomes": {
+        "0-6": "set2_correct_score_0_6_odd",
+        "1-6": "set2_correct_score_1_6_odd",
+        "2-6": "set2_correct_score_2_6_odd",
+        "3-6": "set2_correct_score_3_6_odd",
+        "4-6": "set2_correct_score_4_6_odd",
+        "5-7": "set2_correct_score_5_7_odd",
+        "6-0": "set2_correct_score_6_0_odd",
+        "6-1": "set2_correct_score_6_1_odd",
+        "6-2": "set2_correct_score_6_2_odd",
+        "6-3": "set2_correct_score_6_3_odd",
+        "6-4": "set2_correct_score_6_4_odd",
+        "6-7": "set2_correct_score_6_7_odd",
+        "7-5": "set2_correct_score_7_5_odd",
+        "7-6": "set2_correct_score_7_6_odd"
+      }
+    }
+  ],
+  "total": [
+    {
+      "market_titles": ["under/over jeu"],
+      "prefix": "total_games"
+    },
+    {
+      "market_titles": ["under / over 1ere periode"],
+      "prefix": "set1_total_games"
+    },
+    {
+      "market_titles": ["under/over 2eme periode"],
+      "prefix": "set2_total_games"
+    },
+    {
+      "market_titles": ["under / over - equipe a domicile"],
+      "prefix": "player1_total_games"
+    },
+    {
+      "market_titles": ["under / over -equipe exterieure"],
+      "prefix": "player2_total_games"
+    },
+    {
+      "market_titles": ["under / over 1 1st periode - equipe a domicile"],
+      "prefix": "set1_player1_total_games"
+    },
+    {
+      "market_titles": ["under / over 2nd periode - equipe a domicile"],
+      "prefix": "set2_player1_total_games"
+    },
+    {
+      "market_titles": ["under / over 1st periode - equipe a l'exterieur"],
+      "prefix": "set1_player2_total_games"
+    },
+    {
+      "market_titles": ["under / over 2nd periode - equipe a l'exterieur"],
+      "prefix": "set2_player2_total_games"
+    }
+  ],
+  "handicap": [
+    {
+      "market_titles": ["asian handicap jeux"],
+      "prefix": "handicap_games"
+    }
+  ]
+}"
+it will be stored in the same path as the other parsing.json file
+- add an option named TARGET in the default configuration where it can be set to either "all" or a single match_id or a lsit of match ids, this will tell the code to either scrape all the available ids when the target is set to "all" or scrape a single match when one the target is one match id or many specific matches when the traget is set to a list of match ids. the target option will only act when the scrape by id is activated (which means scrape by country must also be True)
+- the scrape by id can be overwritten in parser argument by activating it using --scrape-by-id
+- the target can be overwritten and set by parser argument : --target which will be followed by the values i explained before
+- this change is additive and does not change the current logic of the code, don t change anything not related to my request
+- tell which lines or functions i need to add or modify 
