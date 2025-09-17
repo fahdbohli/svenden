@@ -1,0 +1,581 @@
+[
+  {
+    "group_id": "2578346096585740310-653044410-10659922-27974094",
+    "home_team": "Ferencvarosi Budapest",
+    "away_team": "Diosgyori VTK",
+    "date": "19/09/2025",
+    "time": "19:00",
+    "country": "Hungary",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "first_half_ah_-0.5_home_vs_away",
+        "best_odds": {
+          "home_first_half_handicap_-0.5_odd": {
+            "value": 1.888,
+            "source": "Tounesbet"
+          },
+          "away_first_half_handicap_0.5_odd": {
+            "value": 2.33,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9588,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27974094-10659922",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Hungary",
+        "tournament_Tounesbet": "Liga NB1",
+        "Tounesbet_match_id": 10659922,
+        "Tounesbet_tournament_id": 21327,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "Hungary",
+        "tournament_Asbet": "NB I",
+        "Asbet_match_id": 27974094,
+        "Asbet_tournament_id": 1893,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Hungary/1893/nb-i/27974094/ferencvarosi-tc-diosgyori-vtk",
+        "group_id": "2578346096585740310-653044410-10659922-27974094",
+        "home_team": "Ferencvarosi Budapest",
+        "away_team": "Diosgyori VTK",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "both_score",
+        "best_odds": {
+          "both_score_odd": {
+            "value": 2.124,
+            "source": "Tounesbet"
+          },
+          "both_noscore_odd": {
+            "value": 1.96,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.981,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653044410-10659922",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Hungary",
+        "tournament_Tounesbet": "Liga NB1",
+        "Tounesbet_match_id": 10659922,
+        "Tounesbet_tournament_id": 21327,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "1xbet_country_name": "Hungary",
+        "tournament_1xbet": "NB I",
+        "1xbet_match_id": 653044410,
+        "1xbet_tournament_id": 30213,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/30213/653044410",
+        "group_id": "2578346096585740310-653044410-10659922-27974094",
+        "home_team": "Ferencvarosi Budapest",
+        "away_team": "Diosgyori VTK",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "under_3.5_vs_over_3.5",
+        "best_odds": {
+          "under_3.5_odd": {
+            "value": 1.82,
+            "source": "Jibibet"
+          },
+          "over_3.5_odd": {
+            "value": 2.242,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9955,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2578346096585740310-10659922",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "Hungary",
+        "tournament_Jibibet": "NB I",
+        "Jibibet_match_id": 2578346096585740310,
+        "Jibibet_tournament_id": 1669818977968328704,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "Hungary",
+        "tournament_Tounesbet": "Liga NB1",
+        "Tounesbet_match_id": 10659922,
+        "Tounesbet_tournament_id": 21327,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578346096585740310-653044410-10659922-27974094",
+        "home_team": "Ferencvarosi Budapest",
+        "away_team": "Diosgyori VTK",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "2578679039552262170-653334889-10659926-13003837-27980840",
+    "home_team": "Nyiregyhaza Spartacus FC",
+    "away_team": "Paksi SE",
+    "date": "20/09/2025",
+    "time": "15:00",
+    "country": "Hungary",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_1.0_home_vs_away",
+        "best_odds": {
+          "home_handicap_1.0_odd": {
+            "value": 1.911,
+            "source": "Tounesbet"
+          },
+          "away_handicap_-1.0_odd": {
+            "value": 2.46,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.9298,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653334889-10659926",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Hungary",
+        "tournament_Tounesbet": "Liga NB1",
+        "Tounesbet_match_id": 10659926,
+        "Tounesbet_tournament_id": 21327,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "1xbet_country_name": "Hungary",
+        "tournament_1xbet": "NB I",
+        "1xbet_match_id": 653334889,
+        "1xbet_tournament_id": 30213,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/30213/653334889",
+        "group_id": "2578679039552262170-653334889-10659926-13003837-27980840",
+        "home_team": "Nyiregyhaza Spartacus FC",
+        "away_team": "Paksi SE",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "under_3.5_vs_over_3.5",
+        "best_odds": {
+          "under_3.5_odd": {
+            "value": 1.852,
+            "source": "Tounesbet"
+          },
+          "over_3.5_odd": {
+            "value": 2.34,
+            "source": "Jibibet"
+          }
+        },
+        "arbitrage_percentage": 0.9673,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2578679039552262170-10659926",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Hungary",
+        "tournament_Tounesbet": "Liga NB1",
+        "Tounesbet_match_id": 10659926,
+        "Tounesbet_tournament_id": 21327,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Jibibet_country_name": "Hungary",
+        "tournament_Jibibet": "NB I",
+        "Jibibet_match_id": 2578679039552262170,
+        "Jibibet_tournament_id": 1669818977968328704,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "group_id": "2578679039552262170-653334889-10659926-13003837-27980840",
+        "home_team": "Nyiregyhaza Spartacus FC",
+        "away_team": "Paksi SE",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "under_3.5_vs_over_3.5",
+        "best_odds": {
+          "under_3.5_odd": {
+            "value": 1.852,
+            "source": "Tounesbet"
+          },
+          "over_3.5_odd": {
+            "value": 2.3334,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9685,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13003837-10659926",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Hungary",
+        "tournament_Tounesbet": "Liga NB1",
+        "Tounesbet_match_id": 10659926,
+        "Tounesbet_tournament_id": 21327,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "Hungary",
+        "tournament_Clubx2": "NB I",
+        "Clubx2_match_id": 13003837,
+        "Clubx2_tournament_id": 3062,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13003837#/overview",
+        "group_id": "2578679039552262170-653334889-10659926-13003837-27980840",
+        "home_team": "Nyiregyhaza Spartacus FC",
+        "away_team": "Paksi SE",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "ah_0.25_home_vs_away",
+        "best_odds": {
+          "home_handicap_0.25_odd": {
+            "value": 2.37,
+            "source": "Asbet"
+          },
+          "away_handicap_-0.25_odd": {
+            "value": 1.829,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9687,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27980840-10659926",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Hungary",
+        "tournament_Asbet": "NB I",
+        "Asbet_match_id": 27980840,
+        "Asbet_tournament_id": 1893,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Hungary/1893/nb-i/27980840/nyiregyhaza-spartacus-paksi-se",
+        "Tounesbet_country_name": "Hungary",
+        "tournament_Tounesbet": "Liga NB1",
+        "Tounesbet_match_id": 10659926,
+        "Tounesbet_tournament_id": 21327,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578679039552262170-653334889-10659926-13003837-27980840",
+        "home_team": "Nyiregyhaza Spartacus FC",
+        "away_team": "Paksi SE",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "2578679039552262169-653334886-10659924-13003836-27981331",
+    "home_team": "Kazincbarcikai BSC",
+    "away_team": "Ujpest FC Budapest",
+    "date": "20/09/2025",
+    "time": "17:00",
+    "country": "Hungary",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "first_half_under_1.0_vs_first_half_over_1.0",
+        "best_odds": {
+          "first_half_under_1.0_odd": {
+            "value": 2.2,
+            "source": "Asbet"
+          },
+          "first_half_over_1.0_odd": {
+            "value": 1.935,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9713,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27981331-10659924",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Hungary",
+        "tournament_Asbet": "NB I",
+        "Asbet_match_id": 27981331,
+        "Asbet_tournament_id": 1893,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Hungary/1893/nb-i/27981331/kazincbarcikai-bsc-ujpest-fc",
+        "Tounesbet_country_name": "Hungary",
+        "tournament_Tounesbet": "Liga NB1",
+        "Tounesbet_match_id": 10659924,
+        "Tounesbet_tournament_id": 21327,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578679039552262169-653334886-10659924-13003836-27981331",
+        "home_team": "Kazincbarcikai BSC",
+        "away_team": "Ujpest FC Budapest",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "ah_0.25_home_vs_away",
+        "best_odds": {
+          "home_handicap_0.25_odd": {
+            "value": 2.17,
+            "source": "1xbet"
+          },
+          "away_handicap_-0.25_odd": {
+            "value": 1.947,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9744,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653334886-10659924",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Hungary",
+        "tournament_1xbet": "NB I",
+        "1xbet_match_id": 653334886,
+        "1xbet_tournament_id": 30213,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/30213/653334886",
+        "Tounesbet_country_name": "Hungary",
+        "tournament_Tounesbet": "Liga NB1",
+        "Tounesbet_match_id": 10659924,
+        "Tounesbet_tournament_id": 21327,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578679039552262169-653334886-10659924-13003836-27981331",
+        "home_team": "Kazincbarcikai BSC",
+        "away_team": "Ujpest FC Budapest",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "two_vs_1x_handicap",
+        "best_odds": {
+          "2_odd": {
+            "value": 1.8667,
+            "source": "Clubx2"
+          },
+          "home_handicap_0.5_odd": {
+            "value": 2.265,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9772,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13003836-10659924",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Hungary",
+        "tournament_Clubx2": "NB I",
+        "Clubx2_match_id": 13003836,
+        "Clubx2_tournament_id": 3062,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13003836#/overview",
+        "Tounesbet_country_name": "Hungary",
+        "tournament_Tounesbet": "Liga NB1",
+        "Tounesbet_match_id": 10659924,
+        "Tounesbet_tournament_id": 21327,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578679039552262169-653334886-10659924-13003836-27981331",
+        "home_team": "Kazincbarcikai BSC",
+        "away_team": "Ujpest FC Budapest",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "two_vs_1x_handicap",
+        "best_odds": {
+          "2_odd": {
+            "value": 1.84,
+            "source": "Jibibet"
+          },
+          "home_handicap_0.5_odd": {
+            "value": 2.265,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.985,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2578679039552262169-10659924",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "Hungary",
+        "tournament_Jibibet": "NB I",
+        "Jibibet_match_id": 2578679039552262169,
+        "Jibibet_tournament_id": 1669818977968328704,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "Hungary",
+        "tournament_Tounesbet": "Liga NB1",
+        "Tounesbet_match_id": 10659924,
+        "Tounesbet_tournament_id": 21327,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578679039552262169-653334886-10659924-13003836-27981331",
+        "home_team": "Kazincbarcikai BSC",
+        "away_team": "Ujpest FC Budapest",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "2578718194856505366-653357622-10659887-27981903",
+    "home_team": "Puskas Akademia FC Felcsut",
+    "away_team": "Gyor ETO FC",
+    "date": "20/09/2025",
+    "time": "19:15",
+    "country": "Hungary",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_-1.0_home_vs_away",
+        "best_odds": {
+          "home_handicap_-1.0_odd": {
+            "value": 2.43,
+            "source": "1xbet"
+          },
+          "away_handicap_1.0_odd": {
+            "value": 1.852,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9515,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653357622-10659887",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Hungary",
+        "tournament_1xbet": "NB I",
+        "1xbet_match_id": 653357622,
+        "1xbet_tournament_id": 30213,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/30213/653357622",
+        "Tounesbet_country_name": "Hungary",
+        "tournament_Tounesbet": "Liga NB1",
+        "Tounesbet_match_id": 10659887,
+        "Tounesbet_tournament_id": 21327,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578718194856505366-653357622-10659887-27981903",
+        "home_team": "Puskas Akademia FC Felcsut",
+        "away_team": "Gyor ETO FC",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "first_half_ah_0.0_home_vs_away",
+        "best_odds": {
+          "home_first_half_handicap_0.0_odd": {
+            "value": 1.829,
+            "source": "Tounesbet"
+          },
+          "away_first_half_handicap_0.0_odd": {
+            "value": 2.4,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9634,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27981903-10659887",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Hungary",
+        "tournament_Tounesbet": "Liga NB1",
+        "Tounesbet_match_id": 10659887,
+        "Tounesbet_tournament_id": 21327,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "Hungary",
+        "tournament_Asbet": "NB I",
+        "Asbet_match_id": 27981903,
+        "Asbet_tournament_id": 1893,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Hungary/1893/nb-i/27981903/puskas-academy-gyor-eto-fc",
+        "group_id": "2578718194856505366-653357622-10659887-27981903",
+        "home_team": "Puskas Akademia FC Felcsut",
+        "away_team": "Gyor ETO FC",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 1.78,
+            "source": "Jibibet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 2.383,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9814,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2578718194856505366-10659887",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "Hungary",
+        "tournament_Jibibet": "NB I",
+        "Jibibet_match_id": 2578718194856505366,
+        "Jibibet_tournament_id": 1669818977968328704,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "Hungary",
+        "tournament_Tounesbet": "Liga NB1",
+        "Tounesbet_match_id": 10659887,
+        "Tounesbet_tournament_id": 21327,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578718194856505366-653357622-10659887-27981903",
+        "home_team": "Puskas Akademia FC Felcsut",
+        "away_team": "Gyor ETO FC",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "2579040911099039778-653613872-10659923-13003838-27989327",
+    "home_team": "Kisvarda Master Good",
+    "away_team": "Debreceni VSC",
+    "date": "21/09/2025",
+    "time": "16:45",
+    "country": "Hungary",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "second_half_under_1.5_vs_second_half_over_1.5",
+        "best_odds": {
+          "second_half_under_1.5_odd": {
+            "value": 2.147,
+            "source": "Tounesbet"
+          },
+          "second_half_over_1.5_odd": {
+            "value": 1.95,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9786,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13003838-10659923",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Hungary",
+        "tournament_Tounesbet": "Liga NB1",
+        "Tounesbet_match_id": 10659923,
+        "Tounesbet_tournament_id": 21327,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "Hungary",
+        "tournament_Clubx2": "NB I",
+        "Clubx2_match_id": 13003838,
+        "Clubx2_tournament_id": 3062,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13003838#/overview",
+        "group_id": "2579040911099039778-653613872-10659923-13003838-27989327",
+        "home_team": "Kisvarda Master Good",
+        "away_team": "Debreceni VSC",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "first_half_under_1.0_vs_first_half_over_1.0",
+        "best_odds": {
+          "first_half_under_1.0_odd": {
+            "value": 2.12,
+            "source": "Asbet"
+          },
+          "first_half_over_1.0_odd": {
+            "value": 1.958,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9824,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27989327-10659923",
+        "misvalue_source": "1xbet",
+        "Asbet_country_name": "Hungary",
+        "tournament_Asbet": "NB I",
+        "Asbet_match_id": 27989327,
+        "Asbet_tournament_id": 1893,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Hungary/1893/nb-i/27989327/kisvarda-master-good-debreceni-vsc",
+        "Tounesbet_country_name": "Hungary",
+        "tournament_Tounesbet": "Liga NB1",
+        "Tounesbet_match_id": 10659923,
+        "Tounesbet_tournament_id": 21327,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579040911099039778-653613872-10659923-13003838-27989327",
+        "home_team": "Kisvarda Master Good",
+        "away_team": "Debreceni VSC",
+        "activity_duration": "25 hours"
+      }
+    ]
+  }
+]

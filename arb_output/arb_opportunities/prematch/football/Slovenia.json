@@ -1,0 +1,1110 @@
+[
+  {
+    "group_id": "2579652517973602305-654023608-11264193-13919245",
+    "home_team": "NK Svoboda Ljubljana",
+    "away_team": "NK Ziri",
+    "date": "17/09/2025",
+    "time": "16:00",
+    "country": "Slovenia",
+    "all_sources": [
+      "1xbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_0.0_home_vs_away",
+        "best_odds": {
+          "home_handicap_0.0_odd": {
+            "value": 1.79,
+            "source": "1xbet"
+          },
+          "away_handicap_0.0_odd": {
+            "value": 2.36,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9824,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "654023608-11264193",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Slovenia",
+        "tournament_1xbet": "3. SNL",
+        "1xbet_match_id": 654023608,
+        "1xbet_tournament_id": 169701,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/169701/654023608",
+        "Tounesbet_country_name": "Slovenia",
+        "tournament_Tounesbet": "3. Liga",
+        "Tounesbet_match_id": 11264193,
+        "Tounesbet_tournament_id": 21792,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579652517973602305-654023608-11264193-13919245",
+        "home_team": "NK Svoboda Ljubljana",
+        "away_team": "NK Ziri",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "one_vs_x2",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.24,
+            "source": "Jibibet"
+          },
+          "X2_odd": {
+            "value": 1.829,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9932,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2579652517973602305-11264193",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "Slovenia",
+        "tournament_Jibibet": "3. Liga",
+        "Jibibet_match_id": 2579652517973602305,
+        "Jibibet_tournament_id": 2473439339804233762,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "Slovenia",
+        "tournament_Tounesbet": "3. Liga",
+        "Tounesbet_match_id": 11264193,
+        "Tounesbet_tournament_id": 21792,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579652517973602305-654023608-11264193-13919245",
+        "home_team": "NK Svoboda Ljubljana",
+        "away_team": "NK Ziri",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "654063300-11294380-13933679",
+    "home_team": "NK Race",
+    "away_team": "Rojko Dobrovce",
+    "date": "17/09/2025",
+    "time": "15:30",
+    "country": "Slovenia",
+    "all_sources": [
+      "1xbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_-1.5_home_vs_away",
+        "best_odds": {
+          "home_handicap_-1.5_odd": {
+            "value": 2.49,
+            "source": "1xbet"
+          },
+          "away_handicap_1.5_odd": {
+            "value": 1.793,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9593,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "654063300-11294380",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Slovenia",
+        "tournament_1xbet": "Slovenian Cup",
+        "1xbet_match_id": 654063300,
+        "1xbet_tournament_id": 7006,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/7006/654063300",
+        "Tounesbet_country_name": "Slovenia",
+        "tournament_Tounesbet": "Cup",
+        "Tounesbet_match_id": 11294380,
+        "Tounesbet_tournament_id": 21794,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "654063300-11294380-13933679",
+        "home_team": "NK Race",
+        "away_team": "Rojko Dobrovce",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "under_3.5_vs_over_3.5",
+        "best_odds": {
+          "under_3.5_odd": {
+            "value": 1.805,
+            "source": "Tounesbet"
+          },
+          "over_3.5_odd": {
+            "value": 2.3,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9888,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13933679-11294380",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Slovenia",
+        "tournament_Tounesbet": "Cup",
+        "Tounesbet_match_id": 11294380,
+        "Tounesbet_tournament_id": 21794,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "Slovenia",
+        "tournament_Clubx2": "Slovenia Cup",
+        "Clubx2_match_id": 13933679,
+        "Clubx2_tournament_id": 4424,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13933679#/overview",
+        "group_id": "654063300-11294380-13933679",
+        "home_team": "NK Race",
+        "away_team": "Rojko Dobrovce",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "652533452-11258805",
+    "home_team": "Roltek Dob",
+    "away_team": "Domzale",
+    "date": "17/09/2025",
+    "time": "15:30",
+    "country": "Slovenia",
+    "all_sources": [
+      "1xbet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "both_score",
+        "best_odds": {
+          "both_score_odd": {
+            "value": 1.958,
+            "source": "Tounesbet"
+          },
+          "both_noscore_odd": {
+            "value": 2.288,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.9478,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "652533452-11258805",
+        "Tounesbet_country_name": "Slovenia",
+        "tournament_Tounesbet": "Cup",
+        "Tounesbet_match_id": 11258805,
+        "Tounesbet_tournament_id": 21794,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "1xbet_country_name": "Slovenia",
+        "tournament_1xbet": "Slovenian Cup",
+        "1xbet_match_id": 652533452,
+        "1xbet_tournament_id": 7006,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/7006/652533452",
+        "group_id": "652533452-11258805",
+        "home_team": "Roltek Dob",
+        "away_team": "Domzale",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "654063297-11300827-13954436",
+    "home_team": "NK Sencur",
+    "away_team": "NK Triglav Kranj",
+    "date": "17/09/2025",
+    "time": "18:00",
+    "country": "Slovenia",
+    "all_sources": [
+      "1xbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_1.0_home_vs_away",
+        "best_odds": {
+          "home_handicap_1.0_odd": {
+            "value": 2.49,
+            "source": "1xbet"
+          },
+          "away_handicap_-1.0_odd": {
+            "value": 1.793,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9593,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "654063297-11300827",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Slovenia",
+        "tournament_1xbet": "Slovenian Cup",
+        "1xbet_match_id": 654063297,
+        "1xbet_tournament_id": 7006,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/7006/654063297",
+        "Tounesbet_country_name": "Slovenia",
+        "tournament_Tounesbet": "Cup",
+        "Tounesbet_match_id": 11300827,
+        "Tounesbet_tournament_id": 21794,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "654063297-11300827-13954436",
+        "home_team": "NK Sencur",
+        "away_team": "NK Triglav Kranj",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "ah_1.5_home_vs_away",
+        "best_odds": {
+          "home_handicap_1.5_odd": {
+            "value": 1.85,
+            "source": "Clubx2"
+          },
+          "away_handicap_-1.5_odd": {
+            "value": 2.265,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.982,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13954436-11300827",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Slovenia",
+        "tournament_Clubx2": "Slovenia Cup",
+        "Clubx2_match_id": 13954436,
+        "Clubx2_tournament_id": 4424,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13954436#/overview",
+        "Tounesbet_country_name": "Slovenia",
+        "tournament_Tounesbet": "Cup",
+        "Tounesbet_match_id": 11300827,
+        "Tounesbet_tournament_id": 21794,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "654063297-11300827-13954436",
+        "home_team": "NK Sencur",
+        "away_team": "NK Triglav Kranj",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "654063294-11294383",
+    "home_team": "ND Gorica",
+    "away_team": "ND Primorje",
+    "date": "17/09/2025",
+    "time": "19:00",
+    "country": "Slovenia",
+    "all_sources": [
+      "1xbet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_0.25_home_vs_away",
+        "best_odds": {
+          "home_handicap_0.25_odd": {
+            "value": 2.38,
+            "source": "1xbet"
+          },
+          "away_handicap_-0.25_odd": {
+            "value": 1.852,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9601,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "654063294-11294383",
+        "1xbet_country_name": "Slovenia",
+        "tournament_1xbet": "Slovenian Cup",
+        "1xbet_match_id": 654063294,
+        "1xbet_tournament_id": 7006,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/7006/654063294",
+        "Tounesbet_country_name": "Slovenia",
+        "tournament_Tounesbet": "Cup",
+        "Tounesbet_match_id": 11294383,
+        "Tounesbet_tournament_id": 21794,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "654063294-11294383",
+        "home_team": "ND Gorica",
+        "away_team": "ND Primorje",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "2579783178575294476-653876094-10726360-13940493",
+    "home_team": "NK Brinje Grosuplje",
+    "away_team": "ND Dravinja",
+    "date": "19/09/2025",
+    "time": "18:00",
+    "country": "Slovenia",
+    "all_sources": [
+      "1xbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "first_half_under_1.5_vs_first_half_over_1.5",
+        "best_odds": {
+          "first_half_under_1.5_odd": {
+            "value": 1.84,
+            "source": "Tounesbet"
+          },
+          "first_half_over_1.5_odd": {
+            "value": 2.2,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.998,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13940493-10726360",
+        "Tounesbet_country_name": "Slovenia",
+        "tournament_Tounesbet": "2. Liga",
+        "Tounesbet_match_id": 10726360,
+        "Tounesbet_tournament_id": 21791,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "Slovenia",
+        "tournament_Clubx2": "2nd Liga",
+        "Clubx2_match_id": 13940493,
+        "Clubx2_tournament_id": 5042,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13940493#/overview",
+        "group_id": "2579783178575294476-653876094-10726360-13940493",
+        "home_team": "NK Brinje Grosuplje",
+        "away_team": "ND Dravinja",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "2579757471174365201-653876851-10726359",
+    "home_team": "NK Triglav Kranj",
+    "away_team": "Krka Novo Mesto",
+    "date": "20/09/2025",
+    "time": "17:00",
+    "country": "Slovenia",
+    "all_sources": [
+      "1xbet",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "under_2.5_vs_over_2.5",
+        "best_odds": {
+          "under_2.5_odd": {
+            "value": 2.14,
+            "source": "Jibibet"
+          },
+          "over_2.5_odd": {
+            "value": 1.899,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9939,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2579757471174365201-10726359",
+        "Jibibet_country_name": "Slovenia",
+        "tournament_Jibibet": "2. Liga",
+        "Jibibet_match_id": 2579757471174365201,
+        "Jibibet_tournament_id": 1672649281179471872,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "Slovenia",
+        "tournament_Tounesbet": "2. Liga",
+        "Tounesbet_match_id": 10726359,
+        "Tounesbet_tournament_id": 21791,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579757471174365201-653876851-10726359",
+        "home_team": "NK Triglav Kranj",
+        "away_team": "Krka Novo Mesto",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "2578989808231780401-653578604-10717549-13086580-28017234",
+    "home_team": "NK Aluminij Kidricevo",
+    "away_team": "NK Maribor",
+    "date": "19/09/2025",
+    "time": "16:30",
+    "country": "Slovenia",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_1.25_home_vs_away",
+        "best_odds": {
+          "home_handicap_1.25_odd": {
+            "value": 1.793,
+            "source": "Tounesbet"
+          },
+          "away_handicap_-1.25_odd": {
+            "value": 2.5,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9577,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "28017234-10717549",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Slovenia",
+        "tournament_Tounesbet": "Prva Liga",
+        "Tounesbet_match_id": 10717549,
+        "Tounesbet_tournament_id": 21785,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "Slovenia",
+        "tournament_Asbet": "1.SNL",
+        "Asbet_match_id": 28017234,
+        "Asbet_tournament_id": 2981,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Slovenia/2981/snl/28017234/nk-aluminij-kidricevo-nk-maribor",
+        "group_id": "2578989808231780401-653578604-10717549-13086580-28017234",
+        "home_team": "NK Aluminij Kidricevo",
+        "away_team": "NK Maribor",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "first_half_under_1.0_vs_first_half_over_1.0",
+        "best_odds": {
+          "first_half_under_1.0_odd": {
+            "value": 2.2,
+            "source": "Clubx2"
+          },
+          "first_half_over_1.0_odd": {
+            "value": 1.982,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9591,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13086580-10717549",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Slovenia",
+        "tournament_Clubx2": "PrvaLiga",
+        "Clubx2_match_id": 13086580,
+        "Clubx2_tournament_id": 3161,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13086580#/overview",
+        "Tounesbet_country_name": "Slovenia",
+        "tournament_Tounesbet": "Prva Liga",
+        "Tounesbet_match_id": 10717549,
+        "Tounesbet_tournament_id": 21785,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578989808231780401-653578604-10717549-13086580-28017234",
+        "home_team": "NK Aluminij Kidricevo",
+        "away_team": "NK Maribor",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "away_under_1.5_vs_away_over_1.5",
+        "best_odds": {
+          "away_under_1.5_odd": {
+            "value": 2.2,
+            "source": "1xbet"
+          },
+          "away_over_1.5_odd": {
+            "value": 1.958,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9653,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653578604-10717549",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Slovenia",
+        "tournament_1xbet": "League 1",
+        "1xbet_match_id": 653578604,
+        "1xbet_tournament_id": 30049,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/30049/653578604",
+        "Tounesbet_country_name": "Slovenia",
+        "tournament_Tounesbet": "Prva Liga",
+        "Tounesbet_match_id": 10717549,
+        "Tounesbet_tournament_id": 21785,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578989808231780401-653578604-10717549-13086580-28017234",
+        "home_team": "NK Aluminij Kidricevo",
+        "away_team": "NK Maribor",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "awaywin_handicap_vs_1x",
+        "best_odds": {
+          "away_handicap_-0.5_odd": {
+            "value": 1.97,
+            "source": "Tounesbet"
+          },
+          "1X_odd": {
+            "value": 2.12,
+            "source": "Jibibet"
+          }
+        },
+        "arbitrage_percentage": 0.9793,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2578989808231780401-10717549",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Slovenia",
+        "tournament_Tounesbet": "Prva Liga",
+        "Tounesbet_match_id": 10717549,
+        "Tounesbet_tournament_id": 21785,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Jibibet_country_name": "Slovenia",
+        "tournament_Jibibet": "PrvaLiga",
+        "Jibibet_match_id": 2578989808231780401,
+        "Jibibet_tournament_id": 1669818906325422080,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "group_id": "2578989808231780401-653578604-10717549-13086580-28017234",
+        "home_team": "NK Aluminij Kidricevo",
+        "away_team": "NK Maribor",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "2579070694113546286-653667243-10717548-13086562-28024588",
+    "home_team": "NK Olimpija Ljubljana",
+    "away_team": "Bravo Ljubljana",
+    "date": "20/09/2025",
+    "time": "16:30",
+    "country": "Slovenia",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_-1.0_home_vs_away",
+        "best_odds": {
+          "home_handicap_-1.0_odd": {
+            "value": 2.38,
+            "source": "1xbet"
+          },
+          "away_handicap_1.0_odd": {
+            "value": 1.888,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9498,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653667243-10717548",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Slovenia",
+        "tournament_1xbet": "League 1",
+        "1xbet_match_id": 653667243,
+        "1xbet_tournament_id": 30049,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/30049/653667243",
+        "Tounesbet_country_name": "Slovenia",
+        "tournament_Tounesbet": "Prva Liga",
+        "Tounesbet_match_id": 10717548,
+        "Tounesbet_tournament_id": 21785,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579070694113546286-653667243-10717548-13086562-28024588",
+        "home_team": "NK Olimpija Ljubljana",
+        "away_team": "Bravo Ljubljana",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "first_half_ah_-0.5_home_vs_away",
+        "best_odds": {
+          "home_first_half_handicap_-0.5_odd": {
+            "value": 2.2858,
+            "source": "Clubx2"
+          },
+          "away_first_half_handicap_0.5_odd": {
+            "value": 1.888,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9671,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13086562-10717548",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Slovenia",
+        "tournament_Clubx2": "PrvaLiga",
+        "Clubx2_match_id": 13086562,
+        "Clubx2_tournament_id": 3161,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13086562#/overview",
+        "Tounesbet_country_name": "Slovenia",
+        "tournament_Tounesbet": "Prva Liga",
+        "Tounesbet_match_id": 10717548,
+        "Tounesbet_tournament_id": 21785,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579070694113546286-653667243-10717548-13086562-28024588",
+        "home_team": "NK Olimpija Ljubljana",
+        "away_team": "Bravo Ljubljana",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "ah_-1.0_home_vs_away",
+        "best_odds": {
+          "home_handicap_-1.0_odd": {
+            "value": 2.26,
+            "source": "Asbet"
+          },
+          "away_handicap_1.0_odd": {
+            "value": 1.888,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9721,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "28024588-10717548",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Slovenia",
+        "tournament_Asbet": "1.SNL",
+        "Asbet_match_id": 28024588,
+        "Asbet_tournament_id": 2981,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Slovenia/2981/snl/28024588/nk-olimpija-ljubljana-nk-bravo",
+        "Tounesbet_country_name": "Slovenia",
+        "tournament_Tounesbet": "Prva Liga",
+        "Tounesbet_match_id": 10717548,
+        "Tounesbet_tournament_id": 21785,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579070694113546286-653667243-10717548-13086562-28024588",
+        "home_team": "NK Olimpija Ljubljana",
+        "away_team": "Bravo Ljubljana",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "one_vs_x2",
+        "best_odds": {
+          "1_odd": {
+            "value": 1.74,
+            "source": "Jibibet"
+          },
+          "X2_odd": {
+            "value": 2.478,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9783,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2579070694113546286-10717548",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "Slovenia",
+        "tournament_Jibibet": "PrvaLiga",
+        "Jibibet_match_id": 2579070694113546286,
+        "Jibibet_tournament_id": 1669818906325422080,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "Slovenia",
+        "tournament_Tounesbet": "Prva Liga",
+        "Tounesbet_match_id": 10717548,
+        "Tounesbet_tournament_id": 21785,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579070694113546286-653667243-10717548-13086562-28024588",
+        "home_team": "NK Olimpija Ljubljana",
+        "away_team": "Bravo Ljubljana",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "2579070694113546283-653667246-10717550-13086571-28025238",
+    "home_team": "NK Domzale",
+    "away_team": "Luka Koper",
+    "date": "20/09/2025",
+    "time": "19:15",
+    "country": "Slovenia",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "two_vs_1x_handicap",
+        "best_odds": {
+          "2_odd": {
+            "value": 1.888,
+            "source": "Tounesbet"
+          },
+          "home_handicap_0.5_odd": {
+            "value": 2.33,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9588,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "28025238-10717550",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Slovenia",
+        "tournament_Tounesbet": "Prva Liga",
+        "Tounesbet_match_id": 10717550,
+        "Tounesbet_tournament_id": 21785,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "Slovenia",
+        "tournament_Asbet": "1.SNL",
+        "Asbet_match_id": 28025238,
+        "Asbet_tournament_id": 2981,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Slovenia/2981/snl/28025238/nk-domzale-fc-koper",
+        "group_id": "2579070694113546283-653667246-10717550-13086571-28025238",
+        "home_team": "NK Domzale",
+        "away_team": "Luka Koper",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "ah_1.0_home_vs_away",
+        "best_odds": {
+          "home_handicap_1.0_odd": {
+            "value": 2.124,
+            "source": "Tounesbet"
+          },
+          "away_handicap_-1.0_odd": {
+            "value": 2.04,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.961,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653667246-10717550",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Slovenia",
+        "tournament_Tounesbet": "Prva Liga",
+        "Tounesbet_match_id": 10717550,
+        "Tounesbet_tournament_id": 21785,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "1xbet_country_name": "Slovenia",
+        "tournament_1xbet": "League 1",
+        "1xbet_match_id": 653667246,
+        "1xbet_tournament_id": 30049,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/30049/653667246",
+        "group_id": "2579070694113546283-653667246-10717550-13086571-28025238",
+        "home_team": "NK Domzale",
+        "away_team": "Luka Koper",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "two_vs_1x_handicap",
+        "best_odds": {
+          "2_odd": {
+            "value": 1.888,
+            "source": "Tounesbet"
+          },
+          "home_handicap_0.5_odd": {
+            "value": 2.2858,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9671,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13086571-10717550",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Slovenia",
+        "tournament_Tounesbet": "Prva Liga",
+        "Tounesbet_match_id": 10717550,
+        "Tounesbet_tournament_id": 21785,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "Slovenia",
+        "tournament_Clubx2": "PrvaLiga",
+        "Clubx2_match_id": 13086571,
+        "Clubx2_tournament_id": 3161,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13086571#/overview",
+        "group_id": "2579070694113546283-653667246-10717550-13086571-28025238",
+        "home_team": "NK Domzale",
+        "away_team": "Luka Koper",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "two_vs_1x",
+        "best_odds": {
+          "2_odd": {
+            "value": 1.888,
+            "source": "Tounesbet"
+          },
+          "1X_odd": {
+            "value": 2.26,
+            "source": "Jibibet"
+          }
+        },
+        "arbitrage_percentage": 0.9721,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2579070694113546283-10717550",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Slovenia",
+        "tournament_Tounesbet": "Prva Liga",
+        "Tounesbet_match_id": 10717550,
+        "Tounesbet_tournament_id": 21785,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Jibibet_country_name": "Slovenia",
+        "tournament_Jibibet": "PrvaLiga",
+        "Jibibet_match_id": 2579070694113546283,
+        "Jibibet_tournament_id": 1669818906325422080,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "group_id": "2579070694113546283-653667246-10717550-13086571-28025238",
+        "home_team": "NK Domzale",
+        "away_team": "Luka Koper",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "2578989808231780391-653578601-10717551-13086565",
+    "home_team": "Mura Murska Sobota",
+    "away_team": "NK Radomlje",
+    "date": "21/09/2025",
+    "time": "14:00",
+    "country": "Slovenia",
+    "all_sources": [
+      "1xbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "both_score",
+        "best_odds": {
+          "both_score_odd": {
+            "value": 1.958,
+            "source": "Tounesbet"
+          },
+          "both_noscore_odd": {
+            "value": 2.229,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.9594,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653578601-10717551",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Slovenia",
+        "tournament_Tounesbet": "Prva Liga",
+        "Tounesbet_match_id": 10717551,
+        "Tounesbet_tournament_id": 21785,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "1xbet_country_name": "Slovenia",
+        "tournament_1xbet": "League 1",
+        "1xbet_match_id": 653578601,
+        "1xbet_tournament_id": 30049,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/30049/653578601",
+        "group_id": "2578989808231780391-653578601-10717551-13086565",
+        "home_team": "Mura Murska Sobota",
+        "away_team": "NK Radomlje",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "both_score",
+        "best_odds": {
+          "both_score_odd": {
+            "value": 1.958,
+            "source": "Tounesbet"
+          },
+          "both_noscore_odd": {
+            "value": 2.2,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9653,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13086565-10717551",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Slovenia",
+        "tournament_Tounesbet": "Prva Liga",
+        "Tounesbet_match_id": 10717551,
+        "Tounesbet_tournament_id": 21785,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "Slovenia",
+        "tournament_Clubx2": "PrvaLiga",
+        "Clubx2_match_id": 13086565,
+        "Clubx2_tournament_id": 3161,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13086565#/overview",
+        "group_id": "2578989808231780391-653578601-10717551-13086565",
+        "home_team": "Mura Murska Sobota",
+        "away_team": "NK Radomlje",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 1.89,
+            "source": "Jibibet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 2.242,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9751,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2578989808231780391-10717551",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "Slovenia",
+        "tournament_Jibibet": "PrvaLiga",
+        "Jibibet_match_id": 2578989808231780391,
+        "Jibibet_tournament_id": 1669818906325422080,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "Slovenia",
+        "tournament_Tounesbet": "Prva Liga",
+        "Tounesbet_match_id": 10717551,
+        "Tounesbet_tournament_id": 21785,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578989808231780391-653578601-10717551-13086565",
+        "home_team": "Mura Murska Sobota",
+        "away_team": "NK Radomlje",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "2579188298912247829-653722162-11291757",
+    "home_team": "Primorje Ajdovscina",
+    "away_team": "NK CM Celje",
+    "date": "21/09/2025",
+    "time": "19:15",
+    "country": "Slovenia",
+    "all_sources": [
+      "1xbet",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "home_under_0.5_vs_home_over_0.5",
+        "best_odds": {
+          "home_under_0.5_odd": {
+            "value": 2.48,
+            "source": "1xbet"
+          },
+          "home_over_0.5_odd": {
+            "value": 1.805,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9572,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653722162-11291757",
+        "misvalue_source": "1xbet",
+        "1xbet_country_name": "Slovenia",
+        "tournament_1xbet": "League 1",
+        "1xbet_match_id": 653722162,
+        "1xbet_tournament_id": 30049,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/30049/653722162",
+        "Tounesbet_country_name": "Slovenia",
+        "tournament_Tounesbet": "Prva Liga",
+        "Tounesbet_match_id": 11291757,
+        "Tounesbet_tournament_id": 21785,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579188298912247829-653722162-11291757",
+        "home_team": "Primorje Ajdovscina",
+        "away_team": "NK CM Celje",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "under_3.5_vs_over_3.5",
+        "best_odds": {
+          "under_3.5_odd": {
+            "value": 2.029,
+            "source": "Tounesbet"
+          },
+          "over_3.5_odd": {
+            "value": 2.02,
+            "source": "Jibibet"
+          }
+        },
+        "arbitrage_percentage": 0.9879,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2579188298912247829-11291757",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Slovenia",
+        "tournament_Tounesbet": "Prva Liga",
+        "Tounesbet_match_id": 11291757,
+        "Tounesbet_tournament_id": 21785,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Jibibet_country_name": "Slovenia",
+        "tournament_Jibibet": "PrvaLiga",
+        "Jibibet_match_id": 2579188298912247829,
+        "Jibibet_tournament_id": 1669818906325422080,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "group_id": "2579188298912247829-653722162-11291757",
+        "home_team": "Primorje Ajdovscina",
+        "away_team": "NK CM Celje",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "2579752594478080035-10726357",
+    "home_team": "Slovan Ljubljana",
+    "away_team": "NK Rudar Velenje",
+    "date": "21/09/2025",
+    "time": "15:00",
+    "country": "Slovenia",
+    "all_sources": [
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "one_vs_x2",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.34,
+            "source": "Jibibet"
+          },
+          "X2_odd": {
+            "value": 1.805,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9814,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2579752594478080035-10726357",
+        "Jibibet_country_name": "Slovenia",
+        "tournament_Jibibet": "2. Liga",
+        "Jibibet_match_id": 2579752594478080035,
+        "Jibibet_tournament_id": 1672649281179471872,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "Slovenia",
+        "tournament_Tounesbet": "2. Liga",
+        "Tounesbet_match_id": 10726357,
+        "Tounesbet_tournament_id": 21791,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579752594478080035-10726357",
+        "home_team": "Slovan Ljubljana",
+        "away_team": "NK Rudar Velenje",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "2579752594478080027-10726358",
+    "home_team": "Tabor Sezana",
+    "away_team": "Ilirija Ljubljana",
+    "date": "21/09/2025",
+    "time": "15:00",
+    "country": "Slovenia",
+    "all_sources": [
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "one_vs_x2",
+        "best_odds": {
+          "1_odd": {
+            "value": 1.852,
+            "source": "Tounesbet"
+          },
+          "X2_odd": {
+            "value": 2.4,
+            "source": "Jibibet"
+          }
+        },
+        "arbitrage_percentage": 0.9566,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2579752594478080027-10726358",
+        "Tounesbet_country_name": "Slovenia",
+        "tournament_Tounesbet": "2. Liga",
+        "Tounesbet_match_id": 10726358,
+        "Tounesbet_tournament_id": 21791,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Jibibet_country_name": "Slovenia",
+        "tournament_Jibibet": "2. Liga",
+        "Jibibet_match_id": 2579752594478080027,
+        "Jibibet_tournament_id": 1672649281179471872,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "group_id": "2579752594478080027-10726358",
+        "home_team": "Tabor Sezana",
+        "away_team": "Ilirija Ljubljana",
+        "activity_duration": "25 hours"
+      }
+    ]
+  }
+]

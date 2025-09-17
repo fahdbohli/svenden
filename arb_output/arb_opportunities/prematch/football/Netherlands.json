@@ -1,0 +1,2702 @@
+[
+  {
+    "group_id": "653902371-11275984-13588490",
+    "home_team": "GVVV Veenendaal",
+    "away_team": "Spakenburg",
+    "date": "20/09/2025",
+    "time": "13:30",
+    "country": "Netherlands",
+    "all_sources": [
+      "1xbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "first_half_under_1.5_vs_first_half_over_1.5",
+        "best_odds": {
+          "first_half_under_1.5_odd": {
+            "value": 1.982,
+            "source": "Tounesbet"
+          },
+          "first_half_over_1.5_odd": {
+            "value": 2.05,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9923,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13588490-11275984",
+        "Tounesbet_country_name": "Netherlands",
+        "tournament_Tounesbet": "Tweede Divisie",
+        "Tounesbet_match_id": 11275984,
+        "Tounesbet_tournament_id": 21954,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "Netherlands",
+        "tournament_Clubx2": "Tweede Divisie",
+        "Clubx2_match_id": 13588490,
+        "Clubx2_tournament_id": 3738,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13588490#/overview",
+        "group_id": "653902371-11275984-13588490",
+        "home_team": "GVVV Veenendaal",
+        "away_team": "Spakenburg",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "653947931-11276032-13892105",
+    "home_team": "IJsselmeervogels",
+    "away_team": "De Treffers",
+    "date": "20/09/2025",
+    "time": "14:00",
+    "country": "Netherlands",
+    "all_sources": [
+      "1xbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "first_half_under_1.5_vs_first_half_over_1.5",
+        "best_odds": {
+          "first_half_under_1.5_odd": {
+            "value": 1.793,
+            "source": "Tounesbet"
+          },
+          "first_half_over_1.5_odd": {
+            "value": 2.2858,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9952,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13892105-11276032",
+        "Tounesbet_country_name": "Netherlands",
+        "tournament_Tounesbet": "Tweede Divisie",
+        "Tounesbet_match_id": 11276032,
+        "Tounesbet_tournament_id": 21954,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "Netherlands",
+        "tournament_Clubx2": "Tweede Divisie",
+        "Clubx2_match_id": 13892105,
+        "Clubx2_tournament_id": 3738,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13892105#/overview",
+        "group_id": "653947931-11276032-13892105",
+        "home_team": "IJsselmeervogels",
+        "away_team": "De Treffers",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "2578639114719072296-653267122-10671115-13051026-28003375",
+    "home_team": "ADO Den Haag",
+    "away_team": "Almere City FC",
+    "date": "19/09/2025",
+    "time": "19:00",
+    "country": "Netherlands",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 1.9,
+            "source": "1xbet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 2.36,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.95,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653267122-10671115",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Netherlands",
+        "tournament_1xbet": "Eerste Divisie",
+        "1xbet_match_id": 653267122,
+        "1xbet_tournament_id": 2018747,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/2018747/653267122",
+        "Tounesbet_country_name": "Netherlands",
+        "tournament_Tounesbet": "Eerste Divisie",
+        "Tounesbet_match_id": 10671115,
+        "Tounesbet_tournament_id": 110212,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578639114719072296-653267122-10671115-13051026-28003375",
+        "home_team": "ADO Den Haag",
+        "away_team": "Almere City FC",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "first_half_under_1.0_vs_first_half_over_1.0",
+        "best_odds": {
+          "first_half_under_1.0_odd": {
+            "value": 2.5455,
+            "source": "Clubx2"
+          },
+          "first_half_over_1.0_odd": {
+            "value": 1.793,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9506,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13051026-10671115",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Netherlands",
+        "tournament_Clubx2": "Eerste Divisie",
+        "Clubx2_match_id": 13051026,
+        "Clubx2_tournament_id": 3066,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13051026#/overview",
+        "Tounesbet_country_name": "Netherlands",
+        "tournament_Tounesbet": "Eerste Divisie",
+        "Tounesbet_match_id": 10671115,
+        "Tounesbet_tournament_id": 110212,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578639114719072296-653267122-10671115-13051026-28003375",
+        "home_team": "ADO Den Haag",
+        "away_team": "Almere City FC",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "ah_-0.25_home_vs_away",
+        "best_odds": {
+          "home_handicap_-0.25_odd": {
+            "value": 1.888,
+            "source": "Tounesbet"
+          },
+          "away_handicap_0.25_odd": {
+            "value": 2.3,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9644,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "28003375-10671115",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Netherlands",
+        "tournament_Tounesbet": "Eerste Divisie",
+        "Tounesbet_match_id": 10671115,
+        "Tounesbet_tournament_id": 110212,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "Netherlands",
+        "tournament_Asbet": "Eerste Divisie",
+        "Asbet_match_id": 28003375,
+        "Asbet_tournament_id": 1958,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Netherlands/1958/eerste-divisie/28003375/ado-den-haag-almere-city-fc",
+        "group_id": "2578639114719072296-653267122-10671115-13051026-28003375",
+        "home_team": "ADO Den Haag",
+        "away_team": "Almere City FC",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "under_3.5_vs_over_3.5",
+        "best_odds": {
+          "under_3.5_odd": {
+            "value": 1.852,
+            "source": "Tounesbet"
+          },
+          "over_3.5_odd": {
+            "value": 2.34,
+            "source": "Jibibet"
+          }
+        },
+        "arbitrage_percentage": 0.9673,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2578639114719072296-10671115",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Netherlands",
+        "tournament_Tounesbet": "Eerste Divisie",
+        "Tounesbet_match_id": 10671115,
+        "Tounesbet_tournament_id": 110212,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Jibibet_country_name": "Netherlands",
+        "tournament_Jibibet": "Eerste Divisie",
+        "Jibibet_match_id": 2578639114719072296,
+        "Jibibet_tournament_id": 1669819008171511808,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "group_id": "2578639114719072296-653267122-10671115-13051026-28003375",
+        "home_team": "ADO Den Haag",
+        "away_team": "Almere City FC",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "2578639114719072298-653267119-10670988-13051027-28003377",
+    "home_team": "FC Eindhoven",
+    "away_team": "TOP Oss",
+    "date": "19/09/2025",
+    "time": "19:00",
+    "country": "Netherlands",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "one_vs_x2",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.36,
+            "source": "Tounesbet"
+          },
+          "X2_odd": {
+            "value": 1.95,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.9365,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653267119-10670988",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Netherlands",
+        "tournament_Tounesbet": "Eerste Divisie",
+        "Tounesbet_match_id": 10670988,
+        "Tounesbet_tournament_id": 110212,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "1xbet_country_name": "Netherlands",
+        "tournament_1xbet": "Eerste Divisie",
+        "1xbet_match_id": 653267119,
+        "1xbet_tournament_id": 2018747,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/2018747/653267119",
+        "group_id": "2578639114719072298-653267119-10670988-13051027-28003377",
+        "home_team": "FC Eindhoven",
+        "away_team": "TOP Oss",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "first_half_ah_0.0_home_vs_away",
+        "best_odds": {
+          "home_first_half_handicap_0.0_odd": {
+            "value": 1.852,
+            "source": "Tounesbet"
+          },
+          "away_first_half_handicap_0.0_odd": {
+            "value": 2.5,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.94,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "28003377-10670988",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Netherlands",
+        "tournament_Tounesbet": "Eerste Divisie",
+        "Tounesbet_match_id": 10670988,
+        "Tounesbet_tournament_id": 110212,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "Netherlands",
+        "tournament_Asbet": "Eerste Divisie",
+        "Asbet_match_id": 28003377,
+        "Asbet_tournament_id": 1958,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Netherlands/1958/eerste-divisie/28003377/fc-eindhoven-top-oss",
+        "group_id": "2578639114719072298-653267119-10670988-13051027-28003377",
+        "home_team": "FC Eindhoven",
+        "away_team": "TOP Oss",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "ah_-0.25_home_vs_away",
+        "best_odds": {
+          "home_handicap_-0.25_odd": {
+            "value": 2.006,
+            "source": "Tounesbet"
+          },
+          "away_handicap_0.25_odd": {
+            "value": 2.2,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.953,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13051027-10670988",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Netherlands",
+        "tournament_Tounesbet": "Eerste Divisie",
+        "Tounesbet_match_id": 10670988,
+        "Tounesbet_tournament_id": 110212,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "Netherlands",
+        "tournament_Clubx2": "Eerste Divisie",
+        "Clubx2_match_id": 13051027,
+        "Clubx2_tournament_id": 3066,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13051027#/overview",
+        "group_id": "2578639114719072298-653267119-10670988-13051027-28003377",
+        "home_team": "FC Eindhoven",
+        "away_team": "TOP Oss",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "one_vs_x2",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.36,
+            "source": "Tounesbet"
+          },
+          "X2_odd": {
+            "value": 1.79,
+            "source": "Jibibet"
+          }
+        },
+        "arbitrage_percentage": 0.9824,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2578639114719072298-10670988",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Netherlands",
+        "tournament_Tounesbet": "Eerste Divisie",
+        "Tounesbet_match_id": 10670988,
+        "Tounesbet_tournament_id": 110212,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Jibibet_country_name": "Netherlands",
+        "tournament_Jibibet": "Eerste Divisie",
+        "Jibibet_match_id": 2578639114719072298,
+        "Jibibet_tournament_id": 1669819008171511808,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "group_id": "2578639114719072298-653267119-10670988-13051027-28003377",
+        "home_team": "FC Eindhoven",
+        "away_team": "TOP Oss",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "2578642498025037827-653267128-10671118-13051025-28003376",
+    "home_team": "FC Emmen",
+    "away_team": "FC Dordrecht",
+    "date": "19/09/2025",
+    "time": "19:00",
+    "country": "Netherlands",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.5455,
+            "source": "Clubx2"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.829,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9396,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13051025-10671118",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Netherlands",
+        "tournament_Clubx2": "Eerste Divisie",
+        "Clubx2_match_id": 13051025,
+        "Clubx2_tournament_id": 3066,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13051025#/overview",
+        "Tounesbet_country_name": "Netherlands",
+        "tournament_Tounesbet": "Eerste Divisie",
+        "Tounesbet_match_id": 10671118,
+        "Tounesbet_tournament_id": 110212,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578642498025037827-653267128-10671118-13051025-28003376",
+        "home_team": "FC Emmen",
+        "away_team": "FC Dordrecht",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.5,
+            "source": "1xbet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.829,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9467,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653267128-10671118",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Netherlands",
+        "tournament_1xbet": "Eerste Divisie",
+        "1xbet_match_id": 653267128,
+        "1xbet_tournament_id": 2018747,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/2018747/653267128",
+        "Tounesbet_country_name": "Netherlands",
+        "tournament_Tounesbet": "Eerste Divisie",
+        "Tounesbet_match_id": 10671118,
+        "Tounesbet_tournament_id": 110212,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578642498025037827-653267128-10671118-13051025-28003376",
+        "home_team": "FC Emmen",
+        "away_team": "FC Dordrecht",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.5,
+            "source": "Jibibet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.829,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9467,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2578642498025037827-10671118",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "Netherlands",
+        "tournament_Jibibet": "Eerste Divisie",
+        "Jibibet_match_id": 2578642498025037827,
+        "Jibibet_tournament_id": 1669819008171511808,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "Netherlands",
+        "tournament_Tounesbet": "Eerste Divisie",
+        "Tounesbet_match_id": 10671118,
+        "Tounesbet_tournament_id": 110212,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578642498025037827-653267128-10671118-13051025-28003376",
+        "home_team": "FC Emmen",
+        "away_team": "FC Dordrecht",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.41,
+            "source": "Asbet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.829,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9617,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "28003376-10671118",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Netherlands",
+        "tournament_Asbet": "Eerste Divisie",
+        "Asbet_match_id": 28003376,
+        "Asbet_tournament_id": 1958,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Netherlands/1958/eerste-divisie/28003376/emmen-fc-dordrecht",
+        "Tounesbet_country_name": "Netherlands",
+        "tournament_Tounesbet": "Eerste Divisie",
+        "Tounesbet_match_id": 10671118,
+        "Tounesbet_tournament_id": 110212,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578642498025037827-653267128-10671118-13051025-28003376",
+        "home_team": "FC Emmen",
+        "away_team": "FC Dordrecht",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "2578642498025037828-653267115-10670977-13051029-28003378",
+    "home_team": "Roda JC Kerkrade",
+    "away_team": "RKC Waalwijk",
+    "date": "19/09/2025",
+    "time": "19:00",
+    "country": "Netherlands",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "both_score",
+        "best_odds": {
+          "both_score_odd": {
+            "value": 2.029,
+            "source": "Tounesbet"
+          },
+          "both_noscore_odd": {
+            "value": 2.37,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9148,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "28003378-10670977",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Netherlands",
+        "tournament_Tounesbet": "Eerste Divisie",
+        "Tounesbet_match_id": 10670977,
+        "Tounesbet_tournament_id": 110212,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "Netherlands",
+        "tournament_Asbet": "Eerste Divisie",
+        "Asbet_match_id": 28003378,
+        "Asbet_tournament_id": 1958,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Netherlands/1958/eerste-divisie/28003378/roda-jc-kerkrade-waalwijk",
+        "group_id": "2578642498025037828-653267115-10670977-13051029-28003378",
+        "home_team": "Roda JC Kerkrade",
+        "away_team": "RKC Waalwijk",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "both_score",
+        "best_odds": {
+          "both_score_odd": {
+            "value": 2.029,
+            "source": "Tounesbet"
+          },
+          "both_noscore_odd": {
+            "value": 2.2858,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9303,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13051029-10670977",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Netherlands",
+        "tournament_Tounesbet": "Eerste Divisie",
+        "Tounesbet_match_id": 10670977,
+        "Tounesbet_tournament_id": 110212,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "Netherlands",
+        "tournament_Clubx2": "Eerste Divisie",
+        "Clubx2_match_id": 13051029,
+        "Clubx2_tournament_id": 3066,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13051029#/overview",
+        "group_id": "2578642498025037828-653267115-10670977-13051029-28003378",
+        "home_team": "Roda JC Kerkrade",
+        "away_team": "RKC Waalwijk",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "both_score",
+        "best_odds": {
+          "both_score_odd": {
+            "value": 2.029,
+            "source": "Tounesbet"
+          },
+          "both_noscore_odd": {
+            "value": 2.167,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.9543,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653267115-10670977",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Netherlands",
+        "tournament_Tounesbet": "Eerste Divisie",
+        "Tounesbet_match_id": 10670977,
+        "Tounesbet_tournament_id": 110212,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "1xbet_country_name": "Netherlands",
+        "tournament_1xbet": "Eerste Divisie",
+        "1xbet_match_id": 653267115,
+        "1xbet_tournament_id": 2018747,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/2018747/653267115",
+        "group_id": "2578642498025037828-653267115-10670977-13051029-28003378",
+        "home_team": "Roda JC Kerkrade",
+        "away_team": "RKC Waalwijk",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 1.82,
+            "source": "Jibibet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 2.442,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.959,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2578642498025037828-10670977",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "Netherlands",
+        "tournament_Jibibet": "Eerste Divisie",
+        "Jibibet_match_id": 2578642498025037828,
+        "Jibibet_tournament_id": 1669819008171511808,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "Netherlands",
+        "tournament_Tounesbet": "Eerste Divisie",
+        "Tounesbet_match_id": 10670977,
+        "Tounesbet_tournament_id": 110212,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578642498025037828-653267115-10670977-13051029-28003378",
+        "home_team": "Roda JC Kerkrade",
+        "away_team": "RKC Waalwijk",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "2579347336174112804-653820431-10670971-13051032",
+    "home_team": "Vitesse Arnhem",
+    "away_team": "Helmond Sport (Res.)",
+    "date": "20/09/2025",
+    "time": "19:00",
+    "country": "Netherlands",
+    "all_sources": [
+      "1xbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "home_under_0.5_vs_home_over_0.5",
+        "best_odds": {
+          "home_under_0.5_odd": {
+            "value": 2.5455,
+            "source": "Clubx2"
+          },
+          "home_over_0.5_odd": {
+            "value": 2.029,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.8857,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13051032-10670971",
+        "misvalue_source": "Clubx2",
+        "Clubx2_country_name": "Netherlands",
+        "tournament_Clubx2": "Eerste Divisie",
+        "Clubx2_match_id": 13051032,
+        "Clubx2_tournament_id": 3066,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13051032#/overview",
+        "Tounesbet_country_name": "Netherlands",
+        "tournament_Tounesbet": "Eerste Divisie",
+        "Tounesbet_match_id": 10670971,
+        "Tounesbet_tournament_id": 110212,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579347336174112804-653820431-10670971-13051032",
+        "home_team": "Vitesse Arnhem",
+        "away_team": "Helmond Sport (Res.)",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "ah_1.0_home_vs_away",
+        "best_odds": {
+          "home_handicap_1.0_odd": {
+            "value": 2.76,
+            "source": "1xbet"
+          },
+          "away_handicap_-1.0_odd": {
+            "value": 1.829,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9091,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653820431-10670971",
+        "misvalue_source": "Clubx2",
+        "1xbet_country_name": "Netherlands",
+        "tournament_1xbet": "Eerste Divisie",
+        "1xbet_match_id": 653820431,
+        "1xbet_tournament_id": 2018747,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/2018747/653820431",
+        "Tounesbet_country_name": "Netherlands",
+        "tournament_Tounesbet": "Eerste Divisie",
+        "Tounesbet_match_id": 10670971,
+        "Tounesbet_tournament_id": 110212,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579347336174112804-653820431-10670971-13051032",
+        "home_team": "Vitesse Arnhem",
+        "away_team": "Helmond Sport (Res.)",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "ah_1.0_home_vs_away",
+        "best_odds": {
+          "home_handicap_1.0_odd": {
+            "value": 2.76,
+            "source": "1xbet"
+          },
+          "away_handicap_-1.0_odd": {
+            "value": 1.8,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9179,
+        "arbitrage_sources": "1xbet, Clubx2",
+        "unique_id": "653820431-13051032",
+        "misvalue_source": "Clubx2",
+        "1xbet_country_name": "Netherlands",
+        "tournament_1xbet": "Eerste Divisie",
+        "1xbet_match_id": 653820431,
+        "1xbet_tournament_id": 2018747,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/2018747/653820431",
+        "Clubx2_country_name": "Netherlands",
+        "tournament_Clubx2": "Eerste Divisie",
+        "Clubx2_match_id": 13051032,
+        "Clubx2_tournament_id": 3066,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13051032#/overview",
+        "group_id": "2579347336174112804-653820431-10670971-13051032",
+        "home_team": "Vitesse Arnhem",
+        "away_team": "Helmond Sport (Res.)",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "under_3.5_vs_over_3.5",
+        "best_odds": {
+          "under_3.5_odd": {
+            "value": 1.852,
+            "source": "Tounesbet"
+          },
+          "over_3.5_odd": {
+            "value": 2.3,
+            "source": "Jibibet"
+          }
+        },
+        "arbitrage_percentage": 0.9747,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2579347336174112804-10670971",
+        "misvalue_source": "1xbet",
+        "Tounesbet_country_name": "Netherlands",
+        "tournament_Tounesbet": "Eerste Divisie",
+        "Tounesbet_match_id": 10670971,
+        "Tounesbet_tournament_id": 110212,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Jibibet_country_name": "Netherlands",
+        "tournament_Jibibet": "Eerste Divisie",
+        "Jibibet_match_id": 2579347336174112804,
+        "Jibibet_tournament_id": 1669819008171511808,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "group_id": "2579347336174112804-653820431-10670971-13051032",
+        "home_team": "Vitesse Arnhem",
+        "away_team": "Helmond Sport (Res.)",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "2579215851274244145-653731369-10671128-13051033-28013694",
+    "home_team": "VVV-Venlo",
+    "away_team": "MVV Maastricht",
+    "date": "21/09/2025",
+    "time": "15:45",
+    "country": "Netherlands",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "home_under_1.5_vs_home_over_1.5",
+        "best_odds": {
+          "home_under_1.5_odd": {
+            "value": 2.2858,
+            "source": "Clubx2"
+          },
+          "home_over_1.5_odd": {
+            "value": 2.029,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9303,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13051033-10671128",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Netherlands",
+        "tournament_Clubx2": "Eerste Divisie",
+        "Clubx2_match_id": 13051033,
+        "Clubx2_tournament_id": 3066,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13051033#/overview",
+        "Tounesbet_country_name": "Netherlands",
+        "tournament_Tounesbet": "Eerste Divisie",
+        "Tounesbet_match_id": 10671128,
+        "Tounesbet_tournament_id": 110212,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579215851274244145-653731369-10671128-13051033-28013694",
+        "home_team": "VVV-Venlo",
+        "away_team": "MVV Maastricht",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "home_under_1.5_vs_home_over_1.5",
+        "best_odds": {
+          "home_under_1.5_odd": {
+            "value": 2.25,
+            "source": "Asbet"
+          },
+          "home_over_1.5_odd": {
+            "value": 2.029,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9373,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "28013694-10671128",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Netherlands",
+        "tournament_Asbet": "Eerste Divisie",
+        "Asbet_match_id": 28013694,
+        "Asbet_tournament_id": 1958,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Netherlands/1958/eerste-divisie/28013694/vvv-venlo-mvv-maastricht",
+        "Tounesbet_country_name": "Netherlands",
+        "tournament_Tounesbet": "Eerste Divisie",
+        "Tounesbet_match_id": 10671128,
+        "Tounesbet_tournament_id": 110212,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579215851274244145-653731369-10671128-13051033-28013694",
+        "home_team": "VVV-Venlo",
+        "away_team": "MVV Maastricht",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "ah_-0.25_home_vs_away",
+        "best_odds": {
+          "home_handicap_-0.25_odd": {
+            "value": 1.852,
+            "source": "Tounesbet"
+          },
+          "away_handicap_0.25_odd": {
+            "value": 2.38,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.9601,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653731369-10671128",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Netherlands",
+        "tournament_Tounesbet": "Eerste Divisie",
+        "Tounesbet_match_id": 10671128,
+        "Tounesbet_tournament_id": 110212,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "1xbet_country_name": "Netherlands",
+        "tournament_1xbet": "Eerste Divisie",
+        "1xbet_match_id": 653731369,
+        "1xbet_tournament_id": 2018747,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/2018747/653731369",
+        "group_id": "2579215851274244145-653731369-10671128-13051033-28013694",
+        "home_team": "VVV-Venlo",
+        "away_team": "MVV Maastricht",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 1.76,
+            "source": "Jibibet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 2.419,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9816,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2579215851274244145-10671128",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "Netherlands",
+        "tournament_Jibibet": "Eerste Divisie",
+        "Jibibet_match_id": 2579215851274244145,
+        "Jibibet_tournament_id": 1669819008171511808,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "Netherlands",
+        "tournament_Tounesbet": "Eerste Divisie",
+        "Tounesbet_match_id": 10671128,
+        "Tounesbet_tournament_id": 110212,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579215851274244145-653731369-10671128-13051033-28013694",
+        "home_team": "VVV-Venlo",
+        "away_team": "MVV Maastricht",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "2578639114719072289-653264375-10671112-13024727-27926877",
+    "home_team": "Feyenoord Rotterdam",
+    "away_team": "Fortuna Sittard",
+    "date": "17/09/2025",
+    "time": "19:00",
+    "country": "Netherlands",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "under_3.5_vs_over_3.5",
+        "best_odds": {
+          "under_3.5_odd": {
+            "value": 1.958,
+            "source": "Tounesbet"
+          },
+          "over_3.5_odd": {
+            "value": 2.206,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.964,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653264375-10671112",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Netherlands",
+        "tournament_Tounesbet": "Ellis Park",
+        "Tounesbet_match_id": 10671112,
+        "Tounesbet_tournament_id": 21941,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "1xbet_country_name": "Netherlands",
+        "tournament_1xbet": "Eredivisie",
+        "1xbet_match_id": 653264375,
+        "1xbet_tournament_id": 2018750,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/2018750/653264375",
+        "group_id": "2578639114719072289-653264375-10671112-13024727-27926877",
+        "home_team": "Feyenoord Rotterdam",
+        "away_team": "Fortuna Sittard",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "ah_-2.0_home_vs_away",
+        "best_odds": {
+          "home_handicap_-2.0_odd": {
+            "value": 2.35,
+            "source": "Asbet"
+          },
+          "away_handicap_2.0_odd": {
+            "value": 1.852,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9655,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27926877-10671112",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Netherlands",
+        "tournament_Asbet": "Eredivisie",
+        "Asbet_match_id": 27926877,
+        "Asbet_tournament_id": 1957,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Netherlands/1957/eredivisie/27926877/feyenoord-rotterdam-fortuna-sittard",
+        "Tounesbet_country_name": "Netherlands",
+        "tournament_Tounesbet": "Ellis Park",
+        "Tounesbet_match_id": 10671112,
+        "Tounesbet_tournament_id": 21941,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578639114719072289-653264375-10671112-13024727-27926877",
+        "home_team": "Feyenoord Rotterdam",
+        "away_team": "Fortuna Sittard",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "under_3.5_vs_over_3.5",
+        "best_odds": {
+          "under_3.5_odd": {
+            "value": 1.958,
+            "source": "Tounesbet"
+          },
+          "over_3.5_odd": {
+            "value": 2.18,
+            "source": "Jibibet"
+          }
+        },
+        "arbitrage_percentage": 0.9694,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2578639114719072289-10671112",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Netherlands",
+        "tournament_Tounesbet": "Ellis Park",
+        "Tounesbet_match_id": 10671112,
+        "Tounesbet_tournament_id": 21941,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Jibibet_country_name": "Netherlands",
+        "tournament_Jibibet": "Eredivisie",
+        "Jibibet_match_id": 2578639114719072289,
+        "Jibibet_tournament_id": 1669818857990262784,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "group_id": "2578639114719072289-653264375-10671112-13024727-27926877",
+        "home_team": "Feyenoord Rotterdam",
+        "away_team": "Fortuna Sittard",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "first_half_ah_-0.75_home_vs_away",
+        "best_odds": {
+          "home_first_half_handicap_-0.75_odd": {
+            "value": 1.95,
+            "source": "Clubx2"
+          },
+          "away_first_half_handicap_0.75_odd": {
+            "value": 2.147,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9786,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13024727-10671112",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Netherlands",
+        "tournament_Clubx2": "Eredivisie",
+        "Clubx2_match_id": 13024727,
+        "Clubx2_tournament_id": 3065,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13024727#/overview",
+        "Tounesbet_country_name": "Netherlands",
+        "tournament_Tounesbet": "Ellis Park",
+        "Tounesbet_match_id": 10671112,
+        "Tounesbet_tournament_id": 21941,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578639114719072289-653264375-10671112-13024727-27926877",
+        "home_team": "Feyenoord Rotterdam",
+        "away_team": "Fortuna Sittard",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "2573866106485870603-649714242-10671113-13024736-27908322",
+    "home_team": "Sparta Rotterdam",
+    "away_team": "FC Twente Enschede",
+    "date": "19/09/2025",
+    "time": "19:00",
+    "country": "Netherlands",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "two_vs_1x_handicap",
+        "best_odds": {
+          "2_odd": {
+            "value": 2.42,
+            "source": "Jibibet"
+          },
+          "home_handicap_0.5_odd": {
+            "value": 1.888,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9429,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2573866106485870603-10671113",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "Netherlands",
+        "tournament_Jibibet": "Eredivisie",
+        "Jibibet_match_id": 2573866106485870603,
+        "Jibibet_tournament_id": 1669818857990262784,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "Netherlands",
+        "tournament_Tounesbet": "Ellis Park",
+        "Tounesbet_match_id": 10671113,
+        "Tounesbet_tournament_id": 21941,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2573866106485870603-649714242-10671113-13024736-27908322",
+        "home_team": "Sparta Rotterdam",
+        "away_team": "FC Twente Enschede",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "two_vs_1x_handicap",
+        "best_odds": {
+          "2_odd": {
+            "value": 2.404,
+            "source": "1xbet"
+          },
+          "home_handicap_0.5_odd": {
+            "value": 1.888,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9456,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "649714242-10671113",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Netherlands",
+        "tournament_1xbet": "Eredivisie",
+        "1xbet_match_id": 649714242,
+        "1xbet_tournament_id": 2018750,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/2018750/649714242",
+        "Tounesbet_country_name": "Netherlands",
+        "tournament_Tounesbet": "Ellis Park",
+        "Tounesbet_match_id": 10671113,
+        "Tounesbet_tournament_id": 21941,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2573866106485870603-649714242-10671113-13024736-27908322",
+        "home_team": "Sparta Rotterdam",
+        "away_team": "FC Twente Enschede",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "two_vs_1x_handicap",
+        "best_odds": {
+          "2_odd": {
+            "value": 3.009,
+            "source": "Tounesbet"
+          },
+          "home_handicap_0.5_odd": {
+            "value": 1.6,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9573,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27908322-10671113",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Netherlands",
+        "tournament_Tounesbet": "Ellis Park",
+        "Tounesbet_match_id": 10671113,
+        "Tounesbet_tournament_id": 21941,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "Netherlands",
+        "tournament_Asbet": "Eredivisie",
+        "Asbet_match_id": 27908322,
+        "Asbet_tournament_id": 1957,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Netherlands/1957/eredivisie/27908322/sparta-rotterdam-twente",
+        "group_id": "2573866106485870603-649714242-10671113-13024736-27908322",
+        "home_team": "Sparta Rotterdam",
+        "away_team": "FC Twente Enschede",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "two_vs_1x_handicap",
+        "best_odds": {
+          "2_odd": {
+            "value": 2.3334,
+            "source": "Clubx2"
+          },
+          "home_handicap_0.5_odd": {
+            "value": 1.888,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9582,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13024736-10671113",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Netherlands",
+        "tournament_Clubx2": "Eredivisie",
+        "Clubx2_match_id": 13024736,
+        "Clubx2_tournament_id": 3065,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13024736#/overview",
+        "Tounesbet_country_name": "Netherlands",
+        "tournament_Tounesbet": "Ellis Park",
+        "Tounesbet_match_id": 10671113,
+        "Tounesbet_tournament_id": 21941,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2573866106485870603-649714242-10671113-13024736-27908322",
+        "home_team": "Sparta Rotterdam",
+        "away_team": "FC Twente Enschede",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "2573871105337073664-649714236-10671117-13024735-27908324",
+    "home_team": "FC Volendam",
+    "away_team": "Excelsior Rotterdam",
+    "date": "20/09/2025",
+    "time": "15:30",
+    "country": "Netherlands",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_0.0_home_vs_away",
+        "best_odds": {
+          "home_handicap_0.0_odd": {
+            "value": 2.065,
+            "source": "Tounesbet"
+          },
+          "away_handicap_0.0_odd": {
+            "value": 2.096,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.9614,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "649714236-10671117",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Netherlands",
+        "tournament_Tounesbet": "Ellis Park",
+        "Tounesbet_match_id": 10671117,
+        "Tounesbet_tournament_id": 21941,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "1xbet_country_name": "Netherlands",
+        "tournament_1xbet": "Eredivisie",
+        "1xbet_match_id": 649714236,
+        "1xbet_tournament_id": 2018750,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/2018750/649714236",
+        "group_id": "2573871105337073664-649714236-10671117-13024735-27908324",
+        "home_team": "FC Volendam",
+        "away_team": "Excelsior Rotterdam",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "ah_0.25_home_vs_away",
+        "best_odds": {
+          "home_handicap_0.25_odd": {
+            "value": 1.852,
+            "source": "Tounesbet"
+          },
+          "away_handicap_-0.25_odd": {
+            "value": 2.35,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9655,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27908324-10671117",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Netherlands",
+        "tournament_Tounesbet": "Ellis Park",
+        "Tounesbet_match_id": 10671117,
+        "Tounesbet_tournament_id": 21941,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "Netherlands",
+        "tournament_Asbet": "Eredivisie",
+        "Asbet_match_id": 27908324,
+        "Asbet_tournament_id": 1957,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Netherlands/1957/eredivisie/27908324/fc-volendam-sbv-excelsior",
+        "group_id": "2573871105337073664-649714236-10671117-13024735-27908324",
+        "home_team": "FC Volendam",
+        "away_team": "Excelsior Rotterdam",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "away_under_1.5_vs_away_over_1.5",
+        "best_odds": {
+          "away_under_1.5_odd": {
+            "value": 2.029,
+            "source": "Tounesbet"
+          },
+          "away_over_1.5_odd": {
+            "value": 2.05,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9807,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13024735-10671117",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Netherlands",
+        "tournament_Tounesbet": "Ellis Park",
+        "Tounesbet_match_id": 10671117,
+        "Tounesbet_tournament_id": 21941,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "Netherlands",
+        "tournament_Clubx2": "Eredivisie",
+        "Clubx2_match_id": 13024735,
+        "Clubx2_tournament_id": 3065,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13024735#/overview",
+        "group_id": "2573871105337073664-649714236-10671117-13024735-27908324",
+        "home_team": "FC Volendam",
+        "away_team": "Excelsior Rotterdam",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "2573866106485870605-649714245-10671119-13024738-27908325",
+    "home_team": "FC Groningen",
+    "away_team": "SC Telstar",
+    "date": "20/09/2025",
+    "time": "17:45",
+    "country": "Netherlands",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "one_vs_x2",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.029,
+            "source": "Tounesbet"
+          },
+          "X2_odd": {
+            "value": 2.129,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.9626,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "649714245-10671119",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Netherlands",
+        "tournament_Tounesbet": "Ellis Park",
+        "Tounesbet_match_id": 10671119,
+        "Tounesbet_tournament_id": 21941,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "1xbet_country_name": "Netherlands",
+        "tournament_1xbet": "Eredivisie",
+        "1xbet_match_id": 649714245,
+        "1xbet_tournament_id": 2018750,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/2018750/649714245",
+        "group_id": "2573866106485870605-649714245-10671119-13024738-27908325",
+        "home_team": "FC Groningen",
+        "away_team": "SC Telstar",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "away_under_0.5_vs_away_over_0.5",
+        "best_odds": {
+          "away_under_0.5_odd": {
+            "value": 2.42,
+            "source": "Asbet"
+          },
+          "away_over_0.5_odd": {
+            "value": 1.805,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9672,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27908325-10671119",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Netherlands",
+        "tournament_Asbet": "Eredivisie",
+        "Asbet_match_id": 27908325,
+        "Asbet_tournament_id": 1957,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Netherlands/1957/eredivisie/27908325/groningen-sc-telstar",
+        "Tounesbet_country_name": "Netherlands",
+        "tournament_Tounesbet": "Ellis Park",
+        "Tounesbet_match_id": 10671119,
+        "Tounesbet_tournament_id": 21941,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2573866106485870605-649714245-10671119-13024738-27908325",
+        "home_team": "FC Groningen",
+        "away_team": "SC Telstar",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "away_under_0.5_vs_away_over_0.5",
+        "best_odds": {
+          "away_under_0.5_odd": {
+            "value": 2.4,
+            "source": "Clubx2"
+          },
+          "away_over_0.5_odd": {
+            "value": 1.805,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9707,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13024738-10671119",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Netherlands",
+        "tournament_Clubx2": "Eredivisie",
+        "Clubx2_match_id": 13024738,
+        "Clubx2_tournament_id": 3065,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13024738#/overview",
+        "Tounesbet_country_name": "Netherlands",
+        "tournament_Tounesbet": "Ellis Park",
+        "Tounesbet_match_id": 10671119,
+        "Tounesbet_tournament_id": 21941,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2573866106485870605-649714245-10671119-13024738-27908325",
+        "home_team": "FC Groningen",
+        "away_team": "SC Telstar",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "one_vs_x2",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.029,
+            "source": "Tounesbet"
+          },
+          "X2_odd": {
+            "value": 2.09,
+            "source": "Jibibet"
+          }
+        },
+        "arbitrage_percentage": 0.9713,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2573866106485870605-10671119",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Netherlands",
+        "tournament_Tounesbet": "Ellis Park",
+        "Tounesbet_match_id": 10671119,
+        "Tounesbet_tournament_id": 21941,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Jibibet_country_name": "Netherlands",
+        "tournament_Jibibet": "Eredivisie",
+        "Jibibet_match_id": 2573866106485870605,
+        "Jibibet_tournament_id": 1669818857990262784,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "group_id": "2573866106485870605-649714245-10671119-13024738-27908325",
+        "home_team": "FC Groningen",
+        "away_team": "SC Telstar",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "2573866106485870602-649714229-10671120-13024741-27908327",
+    "home_team": "Fortuna Sittard",
+    "away_team": "FC Utrecht",
+    "date": "20/09/2025",
+    "time": "19:00",
+    "country": "Netherlands",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "first_half_ah_0.25_home_vs_away",
+        "best_odds": {
+          "home_first_half_handicap_0.25_odd": {
+            "value": 2.088,
+            "source": "Tounesbet"
+          },
+          "away_first_half_handicap_-0.25_odd": {
+            "value": 2.02,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.974,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27908327-10671120",
+        "misvalue_source": "Asbet",
+        "Tounesbet_country_name": "Netherlands",
+        "tournament_Tounesbet": "Ellis Park",
+        "Tounesbet_match_id": 10671120,
+        "Tounesbet_tournament_id": 21941,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "Netherlands",
+        "tournament_Asbet": "Eredivisie",
+        "Asbet_match_id": 27908327,
+        "Asbet_tournament_id": 1957,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Netherlands/1957/eredivisie/27908327/fortuna-sittard-utrecht",
+        "group_id": "2573866106485870602-649714229-10671120-13024741-27908327",
+        "home_team": "Fortuna Sittard",
+        "away_team": "FC Utrecht",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "second_half_under_1.5_vs_second_half_over_1.5",
+        "best_odds": {
+          "second_half_under_1.5_odd": {
+            "value": 2.135,
+            "source": "Tounesbet"
+          },
+          "second_half_over_1.5_odd": {
+            "value": 1.95,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9812,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13024741-10671120",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Netherlands",
+        "tournament_Tounesbet": "Ellis Park",
+        "Tounesbet_match_id": 10671120,
+        "Tounesbet_tournament_id": 21941,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "Netherlands",
+        "tournament_Clubx2": "Eredivisie",
+        "Clubx2_match_id": 13024741,
+        "Clubx2_tournament_id": 3065,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13024741#/overview",
+        "group_id": "2573866106485870602-649714229-10671120-13024741-27908327",
+        "home_team": "Fortuna Sittard",
+        "away_team": "FC Utrecht",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "away_under_1.5_vs_away_over_1.5",
+        "best_odds": {
+          "away_under_1.5_odd": {
+            "value": 1.94,
+            "source": "1xbet"
+          },
+          "away_over_1.5_odd": {
+            "value": 2.124,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9863,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "649714229-10671120",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Netherlands",
+        "tournament_1xbet": "Eredivisie",
+        "1xbet_match_id": 649714229,
+        "1xbet_tournament_id": 2018750,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/2018750/649714229",
+        "Tounesbet_country_name": "Netherlands",
+        "tournament_Tounesbet": "Ellis Park",
+        "Tounesbet_match_id": 10671120,
+        "Tounesbet_tournament_id": 21941,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2573866106485870602-649714229-10671120-13024741-27908327",
+        "home_team": "Fortuna Sittard",
+        "away_team": "FC Utrecht",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "2573866106481676320-649711649-10671123-13024747-27908311",
+    "home_team": "NAC Breda",
+    "away_team": "Heracles Almelo",
+    "date": "20/09/2025",
+    "time": "20:00",
+    "country": "Netherlands",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_0.0_home_vs_away",
+        "best_odds": {
+          "home_handicap_0.0_odd": {
+            "value": 1.793,
+            "source": "Tounesbet"
+          },
+          "away_handicap_0.0_odd": {
+            "value": 2.7,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.9281,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "649711649-10671123",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Netherlands",
+        "tournament_Tounesbet": "Ellis Park",
+        "Tounesbet_match_id": 10671123,
+        "Tounesbet_tournament_id": 21941,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "1xbet_country_name": "Netherlands",
+        "tournament_1xbet": "Eredivisie",
+        "1xbet_match_id": 649711649,
+        "1xbet_tournament_id": 2018750,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/2018750/649711649",
+        "group_id": "2573866106481676320-649711649-10671123-13024747-27908311",
+        "home_team": "NAC Breda",
+        "away_team": "Heracles Almelo",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "first_half_ah_-0.5_home_vs_away",
+        "best_odds": {
+          "home_first_half_handicap_-0.5_odd": {
+            "value": 2.5455,
+            "source": "Clubx2"
+          },
+          "away_first_half_handicap_0.5_odd": {
+            "value": 1.793,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9506,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13024747-10671123",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Netherlands",
+        "tournament_Clubx2": "Eredivisie",
+        "Clubx2_match_id": 13024747,
+        "Clubx2_tournament_id": 3065,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13024747#/overview",
+        "Tounesbet_country_name": "Netherlands",
+        "tournament_Tounesbet": "Ellis Park",
+        "Tounesbet_match_id": 10671123,
+        "Tounesbet_tournament_id": 21941,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2573866106481676320-649711649-10671123-13024747-27908311",
+        "home_team": "NAC Breda",
+        "away_team": "Heracles Almelo",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "first_half_ah_-0.5_home_vs_away",
+        "best_odds": {
+          "home_first_half_handicap_-0.5_odd": {
+            "value": 2.52,
+            "source": "Asbet"
+          },
+          "away_first_half_handicap_0.5_odd": {
+            "value": 1.793,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9545,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27908311-10671123",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Netherlands",
+        "tournament_Asbet": "Eredivisie",
+        "Asbet_match_id": 27908311,
+        "Asbet_tournament_id": 1957,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Netherlands/1957/eredivisie/27908311/nac-breda-heracles-almelo",
+        "Tounesbet_country_name": "Netherlands",
+        "tournament_Tounesbet": "Ellis Park",
+        "Tounesbet_match_id": 10671123,
+        "Tounesbet_tournament_id": 21941,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2573866106481676320-649711649-10671123-13024747-27908311",
+        "home_team": "NAC Breda",
+        "away_team": "Heracles Almelo",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.08,
+            "source": "Jibibet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 2.029,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9736,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2573866106481676320-10671123",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "Netherlands",
+        "tournament_Jibibet": "Eredivisie",
+        "Jibibet_match_id": 2573866106481676320,
+        "Jibibet_tournament_id": 1669818857990262784,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "Netherlands",
+        "tournament_Tounesbet": "Ellis Park",
+        "Tounesbet_match_id": 10671123,
+        "Tounesbet_tournament_id": 21941,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2573866106481676320-649711649-10671123-13024747-27908311",
+        "home_team": "NAC Breda",
+        "away_team": "Heracles Almelo",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "2573866106485870595-649714223-10671124-13024739-27908326",
+    "home_team": "PEC Zwolle",
+    "away_team": "Go Ahead Eagles Deventer",
+    "date": "21/09/2025",
+    "time": "11:15",
+    "country": "Netherlands",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "under_3.5_vs_over_3.5",
+        "best_odds": {
+          "under_3.5_odd": {
+            "value": 1.852,
+            "source": "Tounesbet"
+          },
+          "over_3.5_odd": {
+            "value": 2.36,
+            "source": "Jibibet"
+          }
+        },
+        "arbitrage_percentage": 0.9637,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2573866106485870595-10671124",
+        "misvalue_source": "1xbet",
+        "Tounesbet_country_name": "Netherlands",
+        "tournament_Tounesbet": "Ellis Park",
+        "Tounesbet_match_id": 10671124,
+        "Tounesbet_tournament_id": 21941,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Jibibet_country_name": "Netherlands",
+        "tournament_Jibibet": "Eredivisie",
+        "Jibibet_match_id": 2573866106485870595,
+        "Jibibet_tournament_id": 1669818857990262784,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "group_id": "2573866106485870595-649714223-10671124-13024739-27908326",
+        "home_team": "PEC Zwolle",
+        "away_team": "Go Ahead Eagles Deventer",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "ah_0.0_home_vs_away",
+        "best_odds": {
+          "home_handicap_0.0_odd": {
+            "value": 2.183,
+            "source": "Tounesbet"
+          },
+          "away_handicap_0.0_odd": {
+            "value": 1.972,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.9652,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "649714223-10671124",
+        "misvalue_source": "1xbet",
+        "Tounesbet_country_name": "Netherlands",
+        "tournament_Tounesbet": "Ellis Park",
+        "Tounesbet_match_id": 10671124,
+        "Tounesbet_tournament_id": 21941,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "1xbet_country_name": "Netherlands",
+        "tournament_1xbet": "Eredivisie",
+        "1xbet_match_id": 649714223,
+        "1xbet_tournament_id": 2018750,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/2018750/649714223",
+        "group_id": "2573866106485870595-649714223-10671124-13024739-27908326",
+        "home_team": "PEC Zwolle",
+        "away_team": "Go Ahead Eagles Deventer",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "under_3.5_vs_over_3.5",
+        "best_odds": {
+          "under_3.5_odd": {
+            "value": 1.852,
+            "source": "Tounesbet"
+          },
+          "over_3.5_odd": {
+            "value": 2.35,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9655,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27908326-10671124",
+        "misvalue_source": "1xbet",
+        "Tounesbet_country_name": "Netherlands",
+        "tournament_Tounesbet": "Ellis Park",
+        "Tounesbet_match_id": 10671124,
+        "Tounesbet_tournament_id": 21941,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "Netherlands",
+        "tournament_Asbet": "Eredivisie",
+        "Asbet_match_id": 27908326,
+        "Asbet_tournament_id": 1957,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Netherlands/1957/eredivisie/27908326/pec-zwolle-go-ahead-eagles-deventer",
+        "group_id": "2573866106485870595-649714223-10671124-13024739-27908326",
+        "home_team": "PEC Zwolle",
+        "away_team": "Go Ahead Eagles Deventer",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "under_3.5_vs_over_3.5",
+        "best_odds": {
+          "under_3.5_odd": {
+            "value": 1.852,
+            "source": "Tounesbet"
+          },
+          "over_3.5_odd": {
+            "value": 2.3334,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9685,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13024739-10671124",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Netherlands",
+        "tournament_Tounesbet": "Ellis Park",
+        "Tounesbet_match_id": 10671124,
+        "Tounesbet_tournament_id": 21941,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "Netherlands",
+        "tournament_Clubx2": "Eredivisie",
+        "Clubx2_match_id": 13024739,
+        "Clubx2_tournament_id": 3065,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13024739#/overview",
+        "group_id": "2573866106485870595-649714223-10671124-13024739-27908326",
+        "home_team": "PEC Zwolle",
+        "away_team": "Go Ahead Eagles Deventer",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "2573866106485870596-649714220-10671125-13024750-27908310",
+    "home_team": "SC Heerenveen",
+    "away_team": "NEC Nijmegen",
+    "date": "21/09/2025",
+    "time": "13:30",
+    "country": "Netherlands",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.54,
+            "source": "Jibibet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.793,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9514,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2573866106485870596-10671125",
+        "misvalue_source": "1xbet",
+        "Jibibet_country_name": "Netherlands",
+        "tournament_Jibibet": "Eredivisie",
+        "Jibibet_match_id": 2573866106485870596,
+        "Jibibet_tournament_id": 1669818857990262784,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "Netherlands",
+        "tournament_Tounesbet": "Ellis Park",
+        "Tounesbet_match_id": 10671125,
+        "Tounesbet_tournament_id": 21941,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2573866106485870596-649714220-10671125-13024750-27908310",
+        "home_team": "SC Heerenveen",
+        "away_team": "NEC Nijmegen",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.532,
+            "source": "1xbet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.793,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9527,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "649714220-10671125",
+        "misvalue_source": "1xbet",
+        "1xbet_country_name": "Netherlands",
+        "tournament_1xbet": "Eredivisie",
+        "1xbet_match_id": 649714220,
+        "1xbet_tournament_id": 2018750,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/2018750/649714220",
+        "Tounesbet_country_name": "Netherlands",
+        "tournament_Tounesbet": "Ellis Park",
+        "Tounesbet_match_id": 10671125,
+        "Tounesbet_tournament_id": 21941,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2573866106485870596-649714220-10671125-13024750-27908310",
+        "home_team": "SC Heerenveen",
+        "away_team": "NEC Nijmegen",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "first_half_ah_0.25_home_vs_away",
+        "best_odds": {
+          "home_first_half_handicap_0.25_odd": {
+            "value": 1.829,
+            "source": "Tounesbet"
+          },
+          "away_first_half_handicap_-0.25_odd": {
+            "value": 2.37,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9687,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27908310-10671125",
+        "misvalue_source": "1xbet",
+        "Tounesbet_country_name": "Netherlands",
+        "tournament_Tounesbet": "Ellis Park",
+        "Tounesbet_match_id": 10671125,
+        "Tounesbet_tournament_id": 21941,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "Netherlands",
+        "tournament_Asbet": "Eredivisie",
+        "Asbet_match_id": 27908310,
+        "Asbet_tournament_id": 1957,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Netherlands/1957/eredivisie/27908310/heerenveen-nec-nijmegen",
+        "group_id": "2573866106485870596-649714220-10671125-13024750-27908310",
+        "home_team": "SC Heerenveen",
+        "away_team": "NEC Nijmegen",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.4286,
+            "source": "Clubx2"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.793,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9695,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13024750-10671125",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Netherlands",
+        "tournament_Clubx2": "Eredivisie",
+        "Clubx2_match_id": 13024750,
+        "Clubx2_tournament_id": 3065,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13024750#/overview",
+        "Tounesbet_country_name": "Netherlands",
+        "tournament_Tounesbet": "Ellis Park",
+        "Tounesbet_match_id": 10671125,
+        "Tounesbet_tournament_id": 21941,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2573866106485870596-649714220-10671125-13024750-27908310",
+        "home_team": "SC Heerenveen",
+        "away_team": "NEC Nijmegen",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "2573866106485870604-649714226-10671126-13024762-27908328",
+    "home_team": "PSV Eindhoven",
+    "away_team": "Ajax Amsterdam",
+    "date": "21/09/2025",
+    "time": "13:30",
+    "country": "Netherlands",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "one_vs_x2",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.029,
+            "source": "Tounesbet"
+          },
+          "X2_odd": {
+            "value": 2.159,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.956,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "649714226-10671126",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Netherlands",
+        "tournament_Tounesbet": "Ellis Park",
+        "Tounesbet_match_id": 10671126,
+        "Tounesbet_tournament_id": 21941,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "1xbet_country_name": "Netherlands",
+        "tournament_1xbet": "Eredivisie",
+        "1xbet_match_id": 649714226,
+        "1xbet_tournament_id": 2018750,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/2018750/649714226",
+        "group_id": "2573866106485870604-649714226-10671126-13024762-27908328",
+        "home_team": "PSV Eindhoven",
+        "away_team": "Ajax Amsterdam",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "ah_-1.25_home_vs_away",
+        "best_odds": {
+          "home_handicap_-1.25_odd": {
+            "value": 2.5,
+            "source": "Asbet"
+          },
+          "away_handicap_1.25_odd": {
+            "value": 1.793,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9577,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27908328-10671126",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Netherlands",
+        "tournament_Asbet": "Eredivisie",
+        "Asbet_match_id": 27908328,
+        "Asbet_tournament_id": 1957,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Netherlands/1957/eredivisie/27908328/psv-eindhoven-ajax-amsterdam",
+        "Tounesbet_country_name": "Netherlands",
+        "tournament_Tounesbet": "Ellis Park",
+        "Tounesbet_match_id": 10671126,
+        "Tounesbet_tournament_id": 21941,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2573866106485870604-649714226-10671126-13024762-27908328",
+        "home_team": "PSV Eindhoven",
+        "away_team": "Ajax Amsterdam",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "one_vs_x2",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.029,
+            "source": "Tounesbet"
+          },
+          "X2_odd": {
+            "value": 2.08,
+            "source": "Jibibet"
+          }
+        },
+        "arbitrage_percentage": 0.9736,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2573866106485870604-10671126",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Netherlands",
+        "tournament_Tounesbet": "Ellis Park",
+        "Tounesbet_match_id": 10671126,
+        "Tounesbet_tournament_id": 21941,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Jibibet_country_name": "Netherlands",
+        "tournament_Jibibet": "Eredivisie",
+        "Jibibet_match_id": 2573866106485870604,
+        "Jibibet_tournament_id": 1669818857990262784,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "group_id": "2573866106485870604-649714226-10671126-13024762-27908328",
+        "home_team": "PSV Eindhoven",
+        "away_team": "Ajax Amsterdam",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "first_half_ah_-0.5_home_vs_away",
+        "best_odds": {
+          "home_first_half_handicap_-0.5_odd": {
+            "value": 2.596,
+            "source": "Tounesbet"
+          },
+          "away_first_half_handicap_0.5_odd": {
+            "value": 1.6667,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9852,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13024762-10671126",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Netherlands",
+        "tournament_Tounesbet": "Ellis Park",
+        "Tounesbet_match_id": 10671126,
+        "Tounesbet_tournament_id": 21941,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "Netherlands",
+        "tournament_Clubx2": "Eredivisie",
+        "Clubx2_match_id": 13024762,
+        "Clubx2_tournament_id": 3065,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13024762#/overview",
+        "group_id": "2573866106485870604-649714226-10671126-13024762-27908328",
+        "home_team": "PSV Eindhoven",
+        "away_team": "Ajax Amsterdam",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "2573866106485870592-649714239-10671127-13024760-27908323",
+    "home_team": "AZ Alkmaar",
+    "away_team": "Feyenoord Rotterdam",
+    "date": "21/09/2025",
+    "time": "15:45",
+    "country": "Netherlands",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "home_under_1.5_vs_home_over_1.5",
+        "best_odds": {
+          "home_under_1.5_odd": {
+            "value": 2.124,
+            "source": "Tounesbet"
+          },
+          "home_over_1.5_odd": {
+            "value": 1.99,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.9733,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "649714239-10671127",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Netherlands",
+        "tournament_Tounesbet": "Ellis Park",
+        "Tounesbet_match_id": 10671127,
+        "Tounesbet_tournament_id": 21941,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "1xbet_country_name": "Netherlands",
+        "tournament_1xbet": "Eredivisie",
+        "1xbet_match_id": 649714239,
+        "1xbet_tournament_id": 2018750,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/2018750/649714239",
+        "group_id": "2573866106485870592-649714239-10671127-13024760-27908323",
+        "home_team": "AZ Alkmaar",
+        "away_team": "Feyenoord Rotterdam",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "home_under_1.5_vs_home_over_1.5",
+        "best_odds": {
+          "home_under_1.5_odd": {
+            "value": 2.124,
+            "source": "Tounesbet"
+          },
+          "home_over_1.5_odd": {
+            "value": 1.99,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9733,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27908323-10671127",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Netherlands",
+        "tournament_Tounesbet": "Ellis Park",
+        "Tounesbet_match_id": 10671127,
+        "Tounesbet_tournament_id": 21941,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "Netherlands",
+        "tournament_Asbet": "Eredivisie",
+        "Asbet_match_id": 27908323,
+        "Asbet_tournament_id": 1957,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Netherlands/1957/eredivisie/27908323/az-alkmaar-feyenoord-rotterdam",
+        "group_id": "2573866106485870592-649714239-10671127-13024760-27908323",
+        "home_team": "AZ Alkmaar",
+        "away_team": "Feyenoord Rotterdam",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "away_under_1.5_vs_away_over_1.5",
+        "best_odds": {
+          "away_under_1.5_odd": {
+            "value": 1.899,
+            "source": "Tounesbet"
+          },
+          "away_over_1.5_odd": {
+            "value": 2.2,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9811,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13024760-10671127",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Netherlands",
+        "tournament_Tounesbet": "Ellis Park",
+        "Tounesbet_match_id": 10671127,
+        "Tounesbet_tournament_id": 21941,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "Netherlands",
+        "tournament_Clubx2": "Eredivisie",
+        "Clubx2_match_id": 13024760,
+        "Clubx2_tournament_id": 3065,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13024760#/overview",
+        "group_id": "2573866106485870592-649714239-10671127-13024760-27908323",
+        "home_team": "AZ Alkmaar",
+        "away_team": "Feyenoord Rotterdam",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "2578642498025037826-10671114-28003379",
+    "home_team": "Willem II Tilburg",
+    "away_team": "Jong Ajax Amsterdam",
+    "date": "19/09/2025",
+    "time": "19:00",
+    "country": "Netherlands",
+    "all_sources": [
+      "Asbet",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "home_under_1.5_vs_home_over_1.5",
+        "best_odds": {
+          "home_under_1.5_odd": {
+            "value": 2.25,
+            "source": "Asbet"
+          },
+          "home_over_1.5_odd": {
+            "value": 1.899,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.971,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "28003379-10671114",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Netherlands",
+        "tournament_Asbet": "Eerste Divisie",
+        "Asbet_match_id": 28003379,
+        "Asbet_tournament_id": 1958,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Netherlands/1958/eerste-divisie/28003379/willem-ii-tilburg-jong-ajax-amsterdam",
+        "Tounesbet_country_name": "Netherlands",
+        "tournament_Tounesbet": "Eerste Divisie",
+        "Tounesbet_match_id": 10671114,
+        "Tounesbet_tournament_id": 110212,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578642498025037826-10671114-28003379",
+        "home_team": "Willem II Tilburg",
+        "away_team": "Jong Ajax Amsterdam",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "under_3.5_vs_over_3.5",
+        "best_odds": {
+          "under_3.5_odd": {
+            "value": 1.852,
+            "source": "Tounesbet"
+          },
+          "over_3.5_odd": {
+            "value": 2.28,
+            "source": "Jibibet"
+          }
+        },
+        "arbitrage_percentage": 0.9786,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2578642498025037826-10671114",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Netherlands",
+        "tournament_Tounesbet": "Eerste Divisie",
+        "Tounesbet_match_id": 10671114,
+        "Tounesbet_tournament_id": 110212,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Jibibet_country_name": "Netherlands",
+        "tournament_Jibibet": "Eerste Divisie",
+        "Jibibet_match_id": 2578642498025037826,
+        "Jibibet_tournament_id": 1669819008171511808,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "group_id": "2578642498025037826-10671114-28003379",
+        "home_team": "Willem II Tilburg",
+        "away_team": "Jong Ajax Amsterdam",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "2579425693435834394-10671131-13051034-28016522",
+    "home_team": "AZ Alkmaar (Res.)",
+    "away_team": "De Graafschap",
+    "date": "22/09/2025",
+    "time": "19:00",
+    "country": "Netherlands",
+    "all_sources": [
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.38,
+            "source": "Jibibet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.852,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9601,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2579425693435834394-10671131",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "Netherlands",
+        "tournament_Jibibet": "Eerste Divisie",
+        "Jibibet_match_id": 2579425693435834394,
+        "Jibibet_tournament_id": 1669819008171511808,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "Netherlands",
+        "tournament_Tounesbet": "Eerste Divisie",
+        "Tounesbet_match_id": 10671131,
+        "Tounesbet_tournament_id": 110212,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579425693435834394-10671131-13051034-28016522",
+        "home_team": "AZ Alkmaar (Res.)",
+        "away_team": "De Graafschap",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "first_half_ah_0.25_home_vs_away",
+        "best_odds": {
+          "home_first_half_handicap_0.25_odd": {
+            "value": 1.793,
+            "source": "Tounesbet"
+          },
+          "away_first_half_handicap_-0.25_odd": {
+            "value": 2.44,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9676,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "28016522-10671131",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Netherlands",
+        "tournament_Tounesbet": "Eerste Divisie",
+        "Tounesbet_match_id": 10671131,
+        "Tounesbet_tournament_id": 110212,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "Netherlands",
+        "tournament_Asbet": "Eerste Divisie",
+        "Asbet_match_id": 28016522,
+        "Asbet_tournament_id": 1958,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Netherlands/1958/eerste-divisie/28016522/jong-az-alkmaar-de-graafschap",
+        "group_id": "2579425693435834394-10671131-13051034-28016522",
+        "home_team": "AZ Alkmaar (Res.)",
+        "away_team": "De Graafschap",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.3,
+            "source": "Clubx2"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.852,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9747,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13051034-10671131",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Netherlands",
+        "tournament_Clubx2": "Eerste Divisie",
+        "Clubx2_match_id": 13051034,
+        "Clubx2_tournament_id": 3066,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13051034#/overview",
+        "Tounesbet_country_name": "Netherlands",
+        "tournament_Tounesbet": "Eerste Divisie",
+        "Tounesbet_match_id": 10671131,
+        "Tounesbet_tournament_id": 110212,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579425693435834394-10671131-13051034-28016522",
+        "home_team": "AZ Alkmaar (Res.)",
+        "away_team": "De Graafschap",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "2579425693435834393-10670964-13051040-28016523",
+    "home_team": "PSV Eindhoven (Res.)",
+    "away_team": "FC Den Bosch",
+    "date": "22/09/2025",
+    "time": "19:00",
+    "country": "Netherlands",
+    "all_sources": [
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_-0.75_home_vs_away",
+        "best_odds": {
+          "home_handicap_-0.75_odd": {
+            "value": 2.4,
+            "source": "Clubx2"
+          },
+          "away_handicap_0.75_odd": {
+            "value": 1.911,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.94,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13051040-10670964",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Netherlands",
+        "tournament_Clubx2": "Eerste Divisie",
+        "Clubx2_match_id": 13051040,
+        "Clubx2_tournament_id": 3066,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13051040#/overview",
+        "Tounesbet_country_name": "Netherlands",
+        "tournament_Tounesbet": "Eerste Divisie",
+        "Tounesbet_match_id": 10670964,
+        "Tounesbet_tournament_id": 110212,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579425693435834393-10670964-13051040-28016523",
+        "home_team": "PSV Eindhoven (Res.)",
+        "away_team": "FC Den Bosch",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "ah_-0.75_home_vs_away",
+        "best_odds": {
+          "home_handicap_-0.75_odd": {
+            "value": 2.39,
+            "source": "Asbet"
+          },
+          "away_handicap_0.75_odd": {
+            "value": 1.911,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9417,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "28016523-10670964",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Netherlands",
+        "tournament_Asbet": "Eerste Divisie",
+        "Asbet_match_id": 28016523,
+        "Asbet_tournament_id": 1958,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Netherlands/1958/eerste-divisie/28016523/jong-psv-eindhoven-fc-den-bosch",
+        "Tounesbet_country_name": "Netherlands",
+        "tournament_Tounesbet": "Eerste Divisie",
+        "Tounesbet_match_id": 10670964,
+        "Tounesbet_tournament_id": 110212,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579425693435834393-10670964-13051040-28016523",
+        "home_team": "PSV Eindhoven (Res.)",
+        "away_team": "FC Den Bosch",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "one_vs_x2",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.04,
+            "source": "Jibibet"
+          },
+          "X2_odd": {
+            "value": 2.124,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.961,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2579425693435834393-10670964",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "Netherlands",
+        "tournament_Jibibet": "Eerste Divisie",
+        "Jibibet_match_id": 2579425693435834393,
+        "Jibibet_tournament_id": 1669819008171511808,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "Netherlands",
+        "tournament_Tounesbet": "Eerste Divisie",
+        "Tounesbet_match_id": 10670964,
+        "Tounesbet_tournament_id": 110212,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579425693435834393-10670964-13051040-28016523",
+        "home_team": "PSV Eindhoven (Res.)",
+        "away_team": "FC Den Bosch",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "2579425693435834395-10671129-13051030-28016521",
+    "home_team": "FC Utrecht (Res.)",
+    "away_team": "SC Cambuur Leeuwarden",
+    "date": "22/09/2025",
+    "time": "19:00",
+    "country": "Netherlands",
+    "all_sources": [
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "home_under_0.5_vs_home_over_0.5",
+        "best_odds": {
+          "home_under_0.5_odd": {
+            "value": 2.5455,
+            "source": "Clubx2"
+          },
+          "home_over_0.5_odd": {
+            "value": 1.899,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9194,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13051030-10671129",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Netherlands",
+        "tournament_Clubx2": "Eerste Divisie",
+        "Clubx2_match_id": 13051030,
+        "Clubx2_tournament_id": 3066,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13051030#/overview",
+        "Tounesbet_country_name": "Netherlands",
+        "tournament_Tounesbet": "Eerste Divisie",
+        "Tounesbet_match_id": 10671129,
+        "Tounesbet_tournament_id": 110212,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579425693435834395-10671129-13051030-28016521",
+        "home_team": "FC Utrecht (Res.)",
+        "away_team": "SC Cambuur Leeuwarden",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "home_under_0.5_vs_home_over_0.5",
+        "best_odds": {
+          "home_under_0.5_odd": {
+            "value": 2.52,
+            "source": "Asbet"
+          },
+          "home_over_0.5_odd": {
+            "value": 1.899,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9234,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "28016521-10671129",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Netherlands",
+        "tournament_Asbet": "Eerste Divisie",
+        "Asbet_match_id": 28016521,
+        "Asbet_tournament_id": 1958,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Netherlands/1958/eerste-divisie/28016521/jong-fc-utrecht-sc-cambuur-leeuwarden",
+        "Tounesbet_country_name": "Netherlands",
+        "tournament_Tounesbet": "Eerste Divisie",
+        "Tounesbet_match_id": 10671129,
+        "Tounesbet_tournament_id": 110212,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579425693435834395-10671129-13051030-28016521",
+        "home_team": "FC Utrecht (Res.)",
+        "away_team": "SC Cambuur Leeuwarden",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "two_vs_1x_handicap",
+        "best_odds": {
+          "2_odd": {
+            "value": 1.48,
+            "source": "Jibibet"
+          },
+          "home_handicap_0.5_odd": {
+            "value": 3.15,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9931,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2579425693435834395-10671129",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "Netherlands",
+        "tournament_Jibibet": "Eerste Divisie",
+        "Jibibet_match_id": 2579425693435834395,
+        "Jibibet_tournament_id": 1669819008171511808,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "Netherlands",
+        "tournament_Tounesbet": "Eerste Divisie",
+        "Tounesbet_match_id": 10671129,
+        "Tounesbet_tournament_id": 110212,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579425693435834395-10671129-13051030-28016521",
+        "home_team": "FC Utrecht (Res.)",
+        "away_team": "SC Cambuur Leeuwarden",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "11275983-13878383",
+    "home_team": "Excelsior Maassluis",
+    "away_team": "Jong Sparta Rotterdam",
+    "date": "20/09/2025",
+    "time": "13:30",
+    "country": "Netherlands",
+    "all_sources": [
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "first_half_under_1.5_vs_first_half_over_1.5",
+        "best_odds": {
+          "first_half_under_1.5_odd": {
+            "value": 1.75,
+            "source": "Clubx2"
+          },
+          "first_half_over_1.5_odd": {
+            "value": 2.395,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.989,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13878383-11275983",
+        "Clubx2_country_name": "Netherlands",
+        "tournament_Clubx2": "Tweede Divisie",
+        "Clubx2_match_id": 13878383,
+        "Clubx2_tournament_id": 3738,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13878383#/overview",
+        "Tounesbet_country_name": "Netherlands",
+        "tournament_Tounesbet": "Tweede Divisie",
+        "Tounesbet_match_id": 11275983,
+        "Tounesbet_tournament_id": 21954,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "11275983-13878383",
+        "home_team": "Excelsior Maassluis",
+        "away_team": "Jong Sparta Rotterdam",
+        "activity_duration": "25 hours"
+      }
+    ]
+  }
+]

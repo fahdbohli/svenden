@@ -1,0 +1,94 @@
+[
+  {
+    "group_id": "2579414456136249378-653868227-11149157-13723338",
+    "home_team": "Al-Nasr Dubai CSC",
+    "away_team": "Shabab Al-Ahli Dubai FC",
+    "date": "20/09/2025",
+    "time": "17:15",
+    "country": "Emirates",
+    "all_sources": [
+      "1xbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "first_half_under_1.0_vs_first_half_over_1.0",
+        "best_odds": {
+          "first_half_under_1.0_odd": {
+            "value": 2.1,
+            "source": "Clubx2"
+          },
+          "first_half_over_1.0_odd": {
+            "value": 2.029,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.969,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13723338-11149157",
+        "misvalue_source": "Jibibet",
+        "Clubx2_country_name": "Emirates",
+        "tournament_Clubx2": "Arabian Gulf League",
+        "Clubx2_match_id": 13723338,
+        "Clubx2_tournament_id": 3098,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13723338#/overview",
+        "Tounesbet_country_name": "Emirates",
+        "tournament_Tounesbet": "Premier League",
+        "Tounesbet_match_id": 11149157,
+        "Tounesbet_tournament_id": 45113,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579414456136249378-653868227-11149157-13723338",
+        "home_team": "Al-Nasr Dubai CSC",
+        "away_team": "Shabab Al-Ahli Dubai FC",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "2579731132996263971-11149172-13723334",
+    "home_team": "Al Wahda FC (UAE)",
+    "away_team": "AL Dhafra SSC",
+    "date": "19/09/2025",
+    "time": "14:30",
+    "country": "Emirates",
+    "all_sources": [
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "first_half_under_1.5_vs_first_half_over_1.5",
+        "best_odds": {
+          "first_half_under_1.5_odd": {
+            "value": 1.9,
+            "source": "Clubx2"
+          },
+          "first_half_over_1.5_odd": {
+            "value": 2.23,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9747,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13723334-11149172",
+        "Clubx2_country_name": "Emirates",
+        "tournament_Clubx2": "Arabian Gulf League",
+        "Clubx2_match_id": 13723334,
+        "Clubx2_tournament_id": 3098,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13723334#/overview",
+        "Tounesbet_country_name": "Emirates",
+        "tournament_Tounesbet": "Premier League",
+        "Tounesbet_match_id": 11149172,
+        "Tounesbet_tournament_id": 45113,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579731132996263971-11149172-13723334",
+        "home_team": "Al Wahda FC (UAE)",
+        "away_team": "AL Dhafra SSC",
+        "activity_duration": "25 hours"
+      }
+    ]
+  }
+]

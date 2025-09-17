@@ -1,0 +1,33 @@
+{
+  "football": {
+    "prematch": {
+  "output_dir": "./arb_output/arb_opportunities",
+      "source_directories": [
+        { "name": "1xbet", "path": "./scrapers/1xbet Scraper/scraped_prematch_matches/football" },
+        { "name": "Tounesbet", "path": "./scrapers/TounesBet Scraper/scraped_prematch_matches/football" },
+        { "name": "Asbet", "path": "./scrapers/AsBet Scraper/scraped_prematch_matches/football" },
+        { "name": "Clubx2", "path": "./scrapers/Clubx2 scraper/scraped_prematch_matches/football" },
+        { "name": "Jibibet", "path": "./scrapers/JibiBet scraper/scraped_prematch_matches/football" }
+      ],
+      "strong_threshold": [0.65, 0.75, 0.9, 0.55],
+      "moderate_threshold": [0.4, 0.4, 0.3, 0.5],
+      "gatekeeper_threshold": 0.35,
+      "time_diff_tolerance": 60,
+      "day_diff_tolerance": 0
+    },
+    "live": {
+  "output_dir": "./arb_output/arb_opportunities",
+      "source_directories": [
+        { "name": "1xbet", "path": "./scrapers/1xbet Scraper/scraped_live_matches/football" },
+        { "name": "Clubx2", "path": "./scrapers/Clubx2 scraper/scraped_live_matches/football" },
+        { "name": "Tounesbet", "path": "./scrapers/TounesBet Scraper/scraped_live_matches/football" },
+        { "name": "Asbet", "path": "./scrapers/AsBet Scraper/scraped_live_matches/football" }
+      ],
+      "strong_threshold": [0.7, 0.8, 0.9, 0.5],
+      "moderate_threshold": [0.45, 0.4, 0.35, 0.55],
+      "gatekeeper_threshold": 0.35,
+      "time_diff_tolerance": 30,
+      "day_diff_tolerance": 0
+    }
+  }
+}

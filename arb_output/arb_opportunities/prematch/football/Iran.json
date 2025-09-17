@@ -1,0 +1,296 @@
+[
+  {
+    "group_id": "2579658826278113287-654041424-11254532-13919288-27996444",
+    "home_team": "Ario Eslamshahr",
+    "away_team": "Mes Shahr Babak FC",
+    "date": "17/09/2025",
+    "time": "15:00",
+    "country": "Iran",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 1.93,
+            "source": "Asbet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 2.147,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9839,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27996444-11254532",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Iran",
+        "tournament_Asbet": "Azadegan League",
+        "Asbet_match_id": 27996444,
+        "Asbet_tournament_id": 11116,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Iran/11116/azadegan-league/27996444/ario-eslamshahr-mes-shahr-babak-fc",
+        "Tounesbet_country_name": "Iran",
+        "tournament_Tounesbet": "Azadegan League",
+        "Tounesbet_match_id": 11254532,
+        "Tounesbet_tournament_id": 23677,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579658826278113287-654041424-11254532-13919288-27996444",
+        "home_team": "Ario Eslamshahr",
+        "away_team": "Mes Shahr Babak FC",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 1.92,
+            "source": "1xbet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 2.147,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9866,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "654041424-11254532",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Iran",
+        "tournament_1xbet": "Azadegan League",
+        "1xbet_match_id": 654041424,
+        "1xbet_tournament_id": 54221,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/54221/654041424",
+        "Tounesbet_country_name": "Iran",
+        "tournament_Tounesbet": "Azadegan League",
+        "Tounesbet_match_id": 11254532,
+        "Tounesbet_tournament_id": 23677,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579658826278113287-654041424-11254532-13919288-27996444",
+        "home_team": "Ario Eslamshahr",
+        "away_team": "Mes Shahr Babak FC",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 1.91,
+            "source": "Jibibet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 2.147,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9893,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2579658826278113287-11254532",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "Iran",
+        "tournament_Jibibet": "Azadegan League",
+        "Jibibet_match_id": 2579658826278113287,
+        "Jibibet_tournament_id": 1672996660583845888,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "Iran",
+        "tournament_Tounesbet": "Azadegan League",
+        "Tounesbet_match_id": 11254532,
+        "Tounesbet_tournament_id": 23677,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579658826278113287-654041424-11254532-13919288-27996444",
+        "home_team": "Ario Eslamshahr",
+        "away_team": "Mes Shahr Babak FC",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 1.9091,
+            "source": "Clubx2"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 2.147,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9896,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13919288-11254532",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Iran",
+        "tournament_Clubx2": "Azadegan League",
+        "Clubx2_match_id": 13919288,
+        "Clubx2_tournament_id": 3448,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13919288#/overview",
+        "Tounesbet_country_name": "Iran",
+        "tournament_Tounesbet": "Azadegan League",
+        "Tounesbet_match_id": 11254532,
+        "Tounesbet_tournament_id": 23677,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579658826278113287-654041424-11254532-13919288-27996444",
+        "home_team": "Ario Eslamshahr",
+        "away_team": "Mes Shahr Babak FC",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "654041421-11254561",
+    "home_team": "Fard Alborz",
+    "away_team": "Mes Soongoun Varzaghan",
+    "date": "17/09/2025",
+    "time": "15:00",
+    "country": "Iran",
+    "all_sources": [
+      "1xbet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_-0.25_home_vs_away",
+        "best_odds": {
+          "home_handicap_-0.25_odd": {
+            "value": 1.83,
+            "source": "1xbet"
+          },
+          "away_handicap_0.25_odd": {
+            "value": 2.324,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9767,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "654041421-11254561",
+        "1xbet_country_name": "Iran",
+        "tournament_1xbet": "Azadegan League",
+        "1xbet_match_id": 654041421,
+        "1xbet_tournament_id": 54221,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/54221/654041421",
+        "Tounesbet_country_name": "Iran",
+        "tournament_Tounesbet": "Azadegan League",
+        "Tounesbet_match_id": 11254561,
+        "Tounesbet_tournament_id": 23677,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "654041421-11254561",
+        "home_team": "Fard Alborz",
+        "away_team": "Mes Soongoun Varzaghan",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "654041427-11254562-13919308-27996442",
+    "home_team": "Saipa Shomal",
+    "away_team": "Niroye Zamini Tehran",
+    "date": "17/09/2025",
+    "time": "15:00",
+    "country": "Iran",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_-0.75_home_vs_away",
+        "best_odds": {
+          "home_handicap_-0.75_odd": {
+            "value": 1.909,
+            "source": "1xbet"
+          },
+          "away_handicap_0.75_odd": {
+            "value": 2.242,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9699,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "654041427-11254562",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Iran",
+        "tournament_1xbet": "Azadegan League",
+        "1xbet_match_id": 654041427,
+        "1xbet_tournament_id": 54221,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/54221/654041427",
+        "Tounesbet_country_name": "Iran",
+        "tournament_Tounesbet": "Azadegan League",
+        "Tounesbet_match_id": 11254562,
+        "Tounesbet_tournament_id": 23677,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "654041427-11254562-13919308-27996442",
+        "home_team": "Saipa Shomal",
+        "away_team": "Niroye Zamini Tehran",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "first_half_ah_-0.25_home_vs_away",
+        "best_odds": {
+          "home_first_half_handicap_-0.25_odd": {
+            "value": 2.183,
+            "source": "Tounesbet"
+          },
+          "away_first_half_handicap_0.25_odd": {
+            "value": 1.9,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9844,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27996442-11254562",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Iran",
+        "tournament_Tounesbet": "Azadegan League",
+        "Tounesbet_match_id": 11254562,
+        "Tounesbet_tournament_id": 23677,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "Iran",
+        "tournament_Asbet": "Azadegan League",
+        "Asbet_match_id": 27996442,
+        "Asbet_tournament_id": 11116,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Iran/11116/azadegan-league/27996442/saipa-karaj-niroye-zamini",
+        "group_id": "654041427-11254562-13919308-27996442",
+        "home_team": "Saipa Shomal",
+        "away_team": "Niroye Zamini Tehran",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "first_half_under_0.5_vs_first_half_over_0.5",
+        "best_odds": {
+          "first_half_under_0.5_odd": {
+            "value": 2.1,
+            "source": "Clubx2"
+          },
+          "first_half_over_0.5_odd": {
+            "value": 1.958,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9869,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13919308-11254562",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Iran",
+        "tournament_Clubx2": "Azadegan League",
+        "Clubx2_match_id": 13919308,
+        "Clubx2_tournament_id": 3448,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13919308#/overview",
+        "Tounesbet_country_name": "Iran",
+        "tournament_Tounesbet": "Azadegan League",
+        "Tounesbet_match_id": 11254562,
+        "Tounesbet_tournament_id": 23677,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "654041427-11254562-13919308-27996442",
+        "home_team": "Saipa Shomal",
+        "away_team": "Niroye Zamini Tehran",
+        "activity_duration": "25 hours"
+      }
+    ]
+  }
+]

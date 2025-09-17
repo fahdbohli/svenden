@@ -1,0 +1,155 @@
+[
+  {
+    "group_id": "650192055-13768962",
+    "home_team": "FC Metalist Kharkiv",
+    "away_team": "LNZ Cherkasy",
+    "date": "17/09/2025",
+    "time": "11:00",
+    "country": "Ukraine",
+    "all_sources": [
+      "1xbet",
+      "Clubx2"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_1.5_home_vs_away",
+        "best_odds": {
+          "home_handicap_1.5_odd": {
+            "value": 2.0,
+            "source": "Clubx2"
+          },
+          "away_handicap_-1.5_odd": {
+            "value": 2.27,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.9405,
+        "arbitrage_sources": "1xbet, Clubx2",
+        "unique_id": "650192055-13768962",
+        "Clubx2_country_name": "Ukraine",
+        "tournament_Clubx2": "Ukraine Cup",
+        "Clubx2_match_id": 13768962,
+        "Clubx2_tournament_id": 4970,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13768962#/overview",
+        "1xbet_country_name": "Ukraine",
+        "tournament_1xbet": "Ukraine Cup",
+        "1xbet_match_id": 650192055,
+        "1xbet_tournament_id": 120009,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/120009/650192055",
+        "group_id": "650192055-13768962",
+        "home_team": "FC Metalist Kharkiv",
+        "away_team": "LNZ Cherkasy",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "650194306-11201370-13768958-28008465",
+    "home_team": "FC Oleksandriya",
+    "away_team": "FC  Dynamo Kiev",
+    "date": "17/09/2025",
+    "time": "16:00",
+    "country": "Ukraine",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "away_under_1.5_vs_away_over_1.5",
+        "best_odds": {
+          "away_under_1.5_odd": {
+            "value": 2.24,
+            "source": "1xbet"
+          },
+          "away_over_1.5_odd": {
+            "value": 2.029,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9393,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "650194306-11201370",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Ukraine",
+        "tournament_1xbet": "Ukraine Cup",
+        "1xbet_match_id": 650194306,
+        "1xbet_tournament_id": 120009,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/120009/650194306",
+        "Tounesbet_country_name": "Ukraine",
+        "tournament_Tounesbet": "Ukraine Cup",
+        "Tounesbet_match_id": 11201370,
+        "Tounesbet_tournament_id": 23609,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "650194306-11201370-13768958-28008465",
+        "home_team": "FC Oleksandriya",
+        "away_team": "FC  Dynamo Kiev",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "ah_1.5_home_vs_away",
+        "best_odds": {
+          "home_handicap_1.5_odd": {
+            "value": 1.829,
+            "source": "Tounesbet"
+          },
+          "away_handicap_-1.5_odd": {
+            "value": 2.39,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9652,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "28008465-11201370",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Ukraine",
+        "tournament_Tounesbet": "Ukraine Cup",
+        "Tounesbet_match_id": 11201370,
+        "Tounesbet_tournament_id": 23609,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "Ukraine",
+        "tournament_Asbet": "VBET Ukrainian Cup",
+        "Asbet_match_id": 28008465,
+        "Asbet_tournament_id": 3017,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Ukraine/3017/vbet-ukrainian-cup/28008465/fc-oleksandriya-dynamo-kyiv",
+        "group_id": "650194306-11201370-13768958-28008465",
+        "home_team": "FC Oleksandriya",
+        "away_team": "FC  Dynamo Kiev",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "ah_1.5_home_vs_away",
+        "best_odds": {
+          "home_handicap_1.5_odd": {
+            "value": 1.829,
+            "source": "Tounesbet"
+          },
+          "away_handicap_-1.5_odd": {
+            "value": 2.3,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9815,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13768958-11201370",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Ukraine",
+        "tournament_Tounesbet": "Ukraine Cup",
+        "Tounesbet_match_id": 11201370,
+        "Tounesbet_tournament_id": 23609,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "Ukraine",
+        "tournament_Clubx2": "Ukraine Cup",
+        "Clubx2_match_id": 13768958,
+        "Clubx2_tournament_id": 4970,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13768958#/overview",
+        "group_id": "650194306-11201370-13768958-28008465",
+        "home_team": "FC Oleksandriya",
+        "away_team": "FC  Dynamo Kiev",
+        "activity_duration": "25 hours"
+      }
+    ]
+  }
+]

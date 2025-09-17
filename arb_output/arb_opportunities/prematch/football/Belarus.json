@@ -1,0 +1,47 @@
+[
+  {
+    "group_id": "653974107-12755883-9824251",
+    "home_team": "Naftan Novopolotsk",
+    "away_team": "FC Molodechno",
+    "date": "19/09/2025",
+    "time": "14:30",
+    "country": "Belarus",
+    "all_sources": [
+      "1xbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "one_vs_x2",
+        "best_odds": {
+          "1_odd": {
+            "value": 1.75,
+            "source": "Clubx2"
+          },
+          "X2_odd": {
+            "value": 2.45,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.9796,
+        "arbitrage_sources": "1xbet, Clubx2",
+        "unique_id": "653974107-12755883",
+        "Clubx2_country_name": "Belarus",
+        "tournament_Clubx2": "Vysshaya Liga",
+        "Clubx2_match_id": 12755883,
+        "Clubx2_tournament_id": 5285,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=12755883#/overview",
+        "1xbet_country_name": "Belarus",
+        "tournament_1xbet": "Premier League",
+        "1xbet_match_id": 653974107,
+        "1xbet_tournament_id": 1015483,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/1015483/653974107",
+        "group_id": "653974107-12755883-9824251",
+        "home_team": "Naftan Novopolotsk",
+        "away_team": "FC Molodechno",
+        "activity_duration": "25 hours"
+      }
+    ]
+  }
+]

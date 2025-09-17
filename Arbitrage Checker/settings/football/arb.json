@@ -1,7 +1,0 @@
-{
-  "MISVALUE_DETECTION_METHOD": "comparaison",
-  "comment_1": "Options: 'comparaison' (multiple odds comparaison) or 'appearance' (investigate the misvalue source at the appearance of an arb).",
-
-  "APPEARANCE_INVESTIGATION_LOGGING": true,
-  "comment_2": "If true and method is 'appearance', logs the investigation details to the misvalue_source_log directory."
-}

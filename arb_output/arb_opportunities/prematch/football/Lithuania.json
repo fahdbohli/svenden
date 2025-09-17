@@ -1,0 +1,143 @@
+[
+  {
+    "group_id": "2579712309345783852-654028023-11254535-13733552-27926873",
+    "home_team": "Dziugas Telsiai",
+    "away_team": "FC Hegelmann Litauen Kaunas",
+    "date": "17/09/2025",
+    "time": "16:30",
+    "country": "Lithuania",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "two_vs_1x_handicap",
+        "best_odds": {
+          "2_odd": {
+            "value": 1.97,
+            "source": "Asbet"
+          },
+          "home_handicap_0.5_odd": {
+            "value": 2.183,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9657,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27926873-11254535",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Lithuania",
+        "tournament_Asbet": "LFF Cup",
+        "Asbet_match_id": 27926873,
+        "Asbet_tournament_id": 1946,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Lithuania/1946/lff-cup/27926873/dziugas-telsiai-fc-hegelmann",
+        "Tounesbet_country_name": "Lithuania",
+        "tournament_Tounesbet": "Lithuanian Cup",
+        "Tounesbet_match_id": 11254535,
+        "Tounesbet_tournament_id": 22036,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579712309345783852-654028023-11254535-13733552-27926873",
+        "home_team": "Dziugas Telsiai",
+        "away_team": "FC Hegelmann Litauen Kaunas",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "two_vs_1x_handicap",
+        "best_odds": {
+          "2_odd": {
+            "value": 1.91,
+            "source": "Jibibet"
+          },
+          "home_handicap_0.5_odd": {
+            "value": 2.183,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9816,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2579712309345783852-11254535",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "Lithuania",
+        "tournament_Jibibet": "LFF Cup",
+        "Jibibet_match_id": 2579712309345783852,
+        "Jibibet_tournament_id": 1733924292053307392,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "Lithuania",
+        "tournament_Tounesbet": "Lithuanian Cup",
+        "Tounesbet_match_id": 11254535,
+        "Tounesbet_tournament_id": 22036,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579712309345783852-654028023-11254535-13733552-27926873",
+        "home_team": "Dziugas Telsiai",
+        "away_team": "FC Hegelmann Litauen Kaunas",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "two_vs_1x_handicap",
+        "best_odds": {
+          "2_odd": {
+            "value": 1.9091,
+            "source": "Clubx2"
+          },
+          "home_handicap_0.5_odd": {
+            "value": 2.183,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9819,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13733552-11254535",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Lithuania",
+        "tournament_Clubx2": "LFF Cup",
+        "Clubx2_match_id": 13733552,
+        "Clubx2_tournament_id": 11379,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13733552#/overview",
+        "Tounesbet_country_name": "Lithuania",
+        "tournament_Tounesbet": "Lithuanian Cup",
+        "Tounesbet_match_id": 11254535,
+        "Tounesbet_tournament_id": 22036,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579712309345783852-654028023-11254535-13733552-27926873",
+        "home_team": "Dziugas Telsiai",
+        "away_team": "FC Hegelmann Litauen Kaunas",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "awaywin_handicap_vs_1x",
+        "best_odds": {
+          "away_handicap_-0.5_odd": {
+            "value": 2.301,
+            "source": "Tounesbet"
+          },
+          "1X_odd": {
+            "value": 1.79,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.9933,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "654028023-11254535",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Lithuania",
+        "tournament_Tounesbet": "Lithuanian Cup",
+        "Tounesbet_match_id": 11254535,
+        "Tounesbet_tournament_id": 22036,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "1xbet_country_name": "Lithuania",
+        "tournament_1xbet": "Lithuanian Cup",
+        "1xbet_match_id": 654028023,
+        "1xbet_tournament_id": 119193,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/119193/654028023",
+        "group_id": "2579712309345783852-654028023-11254535-13733552-27926873",
+        "home_team": "Dziugas Telsiai",
+        "away_team": "FC Hegelmann Litauen Kaunas",
+        "activity_duration": "25 hours"
+      }
+    ]
+  }
+]

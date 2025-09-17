@@ -1,0 +1,96 @@
+[
+  {
+    "group_id": "2579338672805650473-653843489-11288284-13805598",
+    "home_team": "CS Constantine",
+    "away_team": "ASO Chlef",
+    "date": "19/09/2025",
+    "time": "17:45",
+    "country": "Algeria",
+    "all_sources": [
+      "1xbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "first_half_under_0.5_vs_first_half_over_0.5",
+        "best_odds": {
+          "first_half_under_0.5_odd": {
+            "value": 2.3,
+            "source": "Clubx2"
+          },
+          "first_half_over_0.5_odd": {
+            "value": 1.852,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9747,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13805598-11288284",
+        "misvalue_source": "Clubx2",
+        "Clubx2_country_name": "Algeria",
+        "tournament_Clubx2": "Ligue 1",
+        "Clubx2_match_id": 13805598,
+        "Clubx2_tournament_id": 2939,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13805598#/overview",
+        "Tounesbet_country_name": "Algeria",
+        "tournament_Tounesbet": "Ligue 1",
+        "Tounesbet_match_id": 11288284,
+        "Tounesbet_tournament_id": 22207,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579338672805650473-653843489-11288284-13805598",
+        "home_team": "CS Constantine",
+        "away_team": "ASO Chlef",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "2579548135336587295-653854123-11276201-13805604",
+    "home_team": "USM Khenchela",
+    "away_team": "Ben Aknoun",
+    "date": "20/09/2025",
+    "time": "16:00",
+    "country": "Algeria",
+    "all_sources": [
+      "1xbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "first_half_under_0.5_vs_first_half_over_0.5",
+        "best_odds": {
+          "first_half_under_0.5_odd": {
+            "value": 2.3,
+            "source": "Clubx2"
+          },
+          "first_half_over_0.5_odd": {
+            "value": 1.793,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9925,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13805604-11276201",
+        "misvalue_source": "Clubx2",
+        "Clubx2_country_name": "Algeria",
+        "tournament_Clubx2": "Ligue 1",
+        "Clubx2_match_id": 13805604,
+        "Clubx2_tournament_id": 2939,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13805604#/overview",
+        "Tounesbet_country_name": "Algeria",
+        "tournament_Tounesbet": "Ligue 1",
+        "Tounesbet_match_id": 11276201,
+        "Tounesbet_tournament_id": 22207,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579548135336587295-653854123-11276201-13805604",
+        "home_team": "USM Khenchela",
+        "away_team": "Ben Aknoun",
+        "activity_duration": "25 hours"
+      }
+    ]
+  }
+]

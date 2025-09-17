@@ -1,0 +1,188 @@
+[
+  {
+    "group_id": "2579652517973602339-653845212-11294887-13259033",
+    "home_team": "Bala Town FC",
+    "away_team": "Briton Ferry",
+    "date": "19/09/2025",
+    "time": "19:45",
+    "country": "Wales",
+    "all_sources": [
+      "1xbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "first_half_under_1.0_vs_first_half_over_1.0",
+        "best_odds": {
+          "first_half_under_1.0_odd": {
+            "value": 2.2858,
+            "source": "Clubx2"
+          },
+          "first_half_over_1.0_odd": {
+            "value": 1.888,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9671,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13259033-11294887",
+        "misvalue_source": "Jibibet",
+        "Clubx2_country_name": "Wales",
+        "tournament_Clubx2": "Wales Premier League ",
+        "Clubx2_match_id": 13259033,
+        "Clubx2_tournament_id": 3078,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13259033#/overview",
+        "Tounesbet_country_name": "Wales",
+        "tournament_Tounesbet": "Premier League",
+        "Tounesbet_match_id": 11294887,
+        "Tounesbet_tournament_id": 25463,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579652517973602339-653845212-11294887-13259033",
+        "home_team": "Bala Town FC",
+        "away_team": "Briton Ferry",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "653845215-11294888-13259045",
+    "home_team": "Flint Town United",
+    "away_team": "Barry Town United FC",
+    "date": "20/09/2025",
+    "time": "14:30",
+    "country": "Wales",
+    "all_sources": [
+      "1xbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "second_half_under_1.5_vs_second_half_over_1.5",
+        "best_odds": {
+          "second_half_under_1.5_odd": {
+            "value": 2.05,
+            "source": "Clubx2"
+          },
+          "second_half_over_1.5_odd": {
+            "value": 2.017,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9836,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13259045-11294888",
+        "Clubx2_country_name": "Wales",
+        "tournament_Clubx2": "Wales Premier League ",
+        "Clubx2_match_id": 13259045,
+        "Clubx2_tournament_id": 3078,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13259045#/overview",
+        "Tounesbet_country_name": "Wales",
+        "tournament_Tounesbet": "Premier League",
+        "Tounesbet_match_id": 11294888,
+        "Tounesbet_tournament_id": 25463,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653845215-11294888-13259045",
+        "home_team": "Flint Town United",
+        "away_team": "Barry Town United FC",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "2579691233643470878-654057611-11300244-13259036",
+    "home_team": "Haverfordwest County AFC",
+    "away_team": "Connah's Quay Nomads FC",
+    "date": "20/09/2025",
+    "time": "14:30",
+    "country": "Wales",
+    "all_sources": [
+      "1xbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "second_half_under_1.5_vs_second_half_over_1.5",
+        "best_odds": {
+          "second_half_under_1.5_odd": {
+            "value": 2.053,
+            "source": "Tounesbet"
+          },
+          "second_half_over_1.5_odd": {
+            "value": 2.05,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9749,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13259036-11300244",
+        "misvalue_source": "1xbet",
+        "Tounesbet_country_name": "Wales",
+        "tournament_Tounesbet": "Premier League",
+        "Tounesbet_match_id": 11300244,
+        "Tounesbet_tournament_id": 25463,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "Wales",
+        "tournament_Clubx2": "Wales Premier League ",
+        "Clubx2_match_id": 13259036,
+        "Clubx2_tournament_id": 3078,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13259036#/overview",
+        "group_id": "2579691233643470878-654057611-11300244-13259036",
+        "home_team": "Haverfordwest County AFC",
+        "away_team": "Connah's Quay Nomads FC",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "2579534379793657877-653945961-11297436-13259038",
+    "home_team": "Caernarfon Town FC",
+    "away_team": "Pen-y-Bont FC",
+    "date": "20/09/2025",
+    "time": "17:15",
+    "country": "Wales",
+    "all_sources": [
+      "1xbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "first_half_under_1.0_vs_first_half_over_1.0",
+        "best_odds": {
+          "first_half_under_1.0_odd": {
+            "value": 2.1,
+            "source": "Clubx2"
+          },
+          "first_half_over_1.0_odd": {
+            "value": 1.958,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9869,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13259038-11297436",
+        "misvalue_source": "Jibibet",
+        "Clubx2_country_name": "Wales",
+        "tournament_Clubx2": "Wales Premier League ",
+        "Clubx2_match_id": 13259038,
+        "Clubx2_tournament_id": 3078,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13259038#/overview",
+        "Tounesbet_country_name": "Wales",
+        "tournament_Tounesbet": "Premier League",
+        "Tounesbet_match_id": 11297436,
+        "Tounesbet_tournament_id": 25463,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579534379793657877-653945961-11297436-13259038",
+        "home_team": "Caernarfon Town FC",
+        "away_team": "Pen-y-Bont FC",
+        "activity_duration": "25 hours"
+      }
+    ]
+  }
+]

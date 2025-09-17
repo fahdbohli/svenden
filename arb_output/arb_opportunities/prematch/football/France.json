@@ -1,0 +1,3015 @@
+[
+  {
+    "group_id": "653024210-11268710-13340376-27997825",
+    "home_team": "Aubagne FC",
+    "away_team": "FC Versailles 78",
+    "date": "19/09/2025",
+    "time": "18:30",
+    "country": "France",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "second_half_under_1.5_vs_second_half_over_1.5",
+        "best_odds": {
+          "second_half_under_1.5_odd": {
+            "value": 1.793,
+            "source": "Tounesbet"
+          },
+          "second_half_over_1.5_odd": {
+            "value": 2.4,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9744,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13340376-11268710",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "France",
+        "tournament_Tounesbet": "National 1",
+        "Tounesbet_match_id": 11268710,
+        "Tounesbet_tournament_id": 22375,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "France",
+        "tournament_Clubx2": "National",
+        "Clubx2_match_id": 13340376,
+        "Clubx2_tournament_id": 3671,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13340376#/overview",
+        "group_id": "653024210-11268710-13340376-27997825",
+        "home_team": "Aubagne FC",
+        "away_team": "FC Versailles 78",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "first_half_ah_0.0_home_vs_away",
+        "best_odds": {
+          "home_first_half_handicap_0.0_odd": {
+            "value": 1.86,
+            "source": "Asbet"
+          },
+          "away_first_half_handicap_0.0_odd": {
+            "value": 2.265,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9791,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27997825-11268710",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "France",
+        "tournament_Asbet": "National",
+        "Asbet_match_id": 27997825,
+        "Asbet_tournament_id": 554,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/France/554/national/27997825/aubagne-fc-fc-versailles",
+        "Tounesbet_country_name": "France",
+        "tournament_Tounesbet": "National 1",
+        "Tounesbet_match_id": 11268710,
+        "Tounesbet_tournament_id": 22375,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653024210-11268710-13340376-27997825",
+        "home_team": "Aubagne FC",
+        "away_team": "FC Versailles 78",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "ah_0.0_home_vs_away",
+        "best_odds": {
+          "home_handicap_0.0_odd": {
+            "value": 1.86,
+            "source": "1xbet"
+          },
+          "away_handicap_0.0_odd": {
+            "value": 2.242,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9837,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653024210-11268710",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "France",
+        "tournament_1xbet": "National",
+        "1xbet_match_id": 653024210,
+        "1xbet_tournament_id": 1692148,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/1692148/653024210",
+        "Tounesbet_country_name": "France",
+        "tournament_Tounesbet": "National 1",
+        "Tounesbet_match_id": 11268710,
+        "Tounesbet_tournament_id": 22375,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653024210-11268710-13340376-27997825",
+        "home_team": "Aubagne FC",
+        "away_team": "FC Versailles 78",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "653024207-11268706-13340375",
+    "home_team": "Bourg-en-Bresse Peronnas 01",
+    "away_team": "Quevillaise-Rouen Metropole",
+    "date": "19/09/2025",
+    "time": "18:30",
+    "country": "France",
+    "all_sources": [
+      "1xbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_-0.25_home_vs_away",
+        "best_odds": {
+          "home_handicap_-0.25_odd": {
+            "value": 2.242,
+            "source": "Tounesbet"
+          },
+          "away_handicap_0.25_odd": {
+            "value": 1.9,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9723,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13340375-11268706",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "France",
+        "tournament_Tounesbet": "National 1",
+        "Tounesbet_match_id": 11268706,
+        "Tounesbet_tournament_id": 22375,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "France",
+        "tournament_Clubx2": "National",
+        "Clubx2_match_id": 13340375,
+        "Clubx2_tournament_id": 3671,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13340375#/overview",
+        "group_id": "653024207-11268706-13340375",
+        "home_team": "Bourg-en-Bresse Peronnas 01",
+        "away_team": "Quevillaise-Rouen Metropole",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "ah_-0.25_home_vs_away",
+        "best_odds": {
+          "home_handicap_-0.25_odd": {
+            "value": 2.242,
+            "source": "Tounesbet"
+          },
+          "away_handicap_0.25_odd": {
+            "value": 1.84,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.9895,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653024207-11268706",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "France",
+        "tournament_Tounesbet": "National 1",
+        "Tounesbet_match_id": 11268706,
+        "Tounesbet_tournament_id": 22375,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "1xbet_country_name": "France",
+        "tournament_1xbet": "National",
+        "1xbet_match_id": 653024207,
+        "1xbet_tournament_id": 1692148,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/1692148/653024207",
+        "group_id": "653024207-11268706-13340375",
+        "home_team": "Bourg-en-Bresse Peronnas 01",
+        "away_team": "Quevillaise-Rouen Metropole",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "653024219-11268708-13340384",
+    "home_team": "Concarneau",
+    "away_team": "Fleury 91",
+    "date": "19/09/2025",
+    "time": "18:30",
+    "country": "France",
+    "all_sources": [
+      "1xbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "one_vs_x2",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.5,
+            "source": "Clubx2"
+          },
+          "X2_odd": {
+            "value": 1.805,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.954,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13340384-11268708",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "France",
+        "tournament_Clubx2": "National",
+        "Clubx2_match_id": 13340384,
+        "Clubx2_tournament_id": 3671,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13340384#/overview",
+        "Tounesbet_country_name": "France",
+        "tournament_Tounesbet": "National 1",
+        "Tounesbet_match_id": 11268708,
+        "Tounesbet_tournament_id": 22375,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653024219-11268708-13340384",
+        "home_team": "Concarneau",
+        "away_team": "Fleury 91",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "one_vs_x2",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.42,
+            "source": "1xbet"
+          },
+          "X2_odd": {
+            "value": 1.805,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9672,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653024219-11268708",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "France",
+        "tournament_1xbet": "National",
+        "1xbet_match_id": 653024219,
+        "1xbet_tournament_id": 1692148,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/1692148/653024219",
+        "Tounesbet_country_name": "France",
+        "tournament_Tounesbet": "National 1",
+        "Tounesbet_match_id": 11268708,
+        "Tounesbet_tournament_id": 22375,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653024219-11268708-13340384",
+        "home_team": "Concarneau",
+        "away_team": "Fleury 91",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "653025044-11268600-13340382-27997820",
+    "home_team": "FC Rouen 1899",
+    "away_team": "Orleans",
+    "date": "19/09/2025",
+    "time": "18:30",
+    "country": "France",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "second_half_under_1.5_vs_second_half_over_1.5",
+        "best_odds": {
+          "second_half_under_1.5_odd": {
+            "value": 1.852,
+            "source": "Tounesbet"
+          },
+          "second_half_over_1.5_odd": {
+            "value": 2.4,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9566,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13340382-11268600",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "France",
+        "tournament_Tounesbet": "National 1",
+        "Tounesbet_match_id": 11268600,
+        "Tounesbet_tournament_id": 22375,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "France",
+        "tournament_Clubx2": "National",
+        "Clubx2_match_id": 13340382,
+        "Clubx2_tournament_id": 3671,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13340382#/overview",
+        "group_id": "653025044-11268600-13340382-27997820",
+        "home_team": "FC Rouen 1899",
+        "away_team": "Orleans",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "one_vs_x2",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.37,
+            "source": "1xbet"
+          },
+          "X2_odd": {
+            "value": 1.852,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9619,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653025044-11268600",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "France",
+        "tournament_1xbet": "National",
+        "1xbet_match_id": 653025044,
+        "1xbet_tournament_id": 1692148,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/1692148/653025044",
+        "Tounesbet_country_name": "France",
+        "tournament_Tounesbet": "National 1",
+        "Tounesbet_match_id": 11268600,
+        "Tounesbet_tournament_id": 22375,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653025044-11268600-13340382-27997820",
+        "home_team": "FC Rouen 1899",
+        "away_team": "Orleans",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "first_half_ah_0.0_home_vs_away",
+        "best_odds": {
+          "home_first_half_handicap_0.0_odd": {
+            "value": 2.029,
+            "source": "Tounesbet"
+          },
+          "away_first_half_handicap_0.0_odd": {
+            "value": 2.07,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9759,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27997820-11268600",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "France",
+        "tournament_Tounesbet": "National 1",
+        "Tounesbet_match_id": 11268600,
+        "Tounesbet_tournament_id": 22375,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "France",
+        "tournament_Asbet": "National",
+        "Asbet_match_id": 27997820,
+        "Asbet_tournament_id": 554,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/France/554/national/27997820/fc-rouen--orleans",
+        "group_id": "653025044-11268600-13340382-27997820",
+        "home_team": "FC Rouen 1899",
+        "away_team": "Orleans",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "653025041-11268705-13340381",
+    "home_team": "Stade Briochin",
+    "away_team": "Le Puy Foot",
+    "date": "19/09/2025",
+    "time": "18:30",
+    "country": "France",
+    "all_sources": [
+      "1xbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "second_half_under_1.5_vs_second_half_over_1.5",
+        "best_odds": {
+          "second_half_under_1.5_odd": {
+            "value": 1.805,
+            "source": "Tounesbet"
+          },
+          "second_half_over_1.5_odd": {
+            "value": 2.5455,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9469,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13340381-11268705",
+        "Tounesbet_country_name": "France",
+        "tournament_Tounesbet": "National 1",
+        "Tounesbet_match_id": 11268705,
+        "Tounesbet_tournament_id": 22375,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "France",
+        "tournament_Clubx2": "National",
+        "Clubx2_match_id": 13340381,
+        "Clubx2_tournament_id": 3671,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13340381#/overview",
+        "group_id": "653025041-11268705-13340381",
+        "home_team": "Stade Briochin",
+        "away_team": "Le Puy Foot",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "ah_0.0_home_vs_away",
+        "best_odds": {
+          "home_handicap_0.0_odd": {
+            "value": 2.36,
+            "source": "Tounesbet"
+          },
+          "away_handicap_0.0_odd": {
+            "value": 1.8,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.9793,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653025041-11268705",
+        "Tounesbet_country_name": "France",
+        "tournament_Tounesbet": "National 1",
+        "Tounesbet_match_id": 11268705,
+        "Tounesbet_tournament_id": 22375,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "1xbet_country_name": "France",
+        "tournament_1xbet": "National",
+        "1xbet_match_id": 653025041,
+        "1xbet_tournament_id": 1692148,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/1692148/653025041",
+        "group_id": "653025041-11268705-13340381",
+        "home_team": "Stade Briochin",
+        "away_team": "Le Puy Foot",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "653025038-11268713-13340383",
+    "home_team": "FC Villefranche-Beaujolais",
+    "away_team": "Sochaux-Montbeliard",
+    "date": "19/09/2025",
+    "time": "18:30",
+    "country": "France",
+    "all_sources": [
+      "1xbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_0.25_home_vs_away",
+        "best_odds": {
+          "home_handicap_0.25_odd": {
+            "value": 1.95,
+            "source": "Clubx2"
+          },
+          "away_handicap_-0.25_odd": {
+            "value": 2.124,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9836,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13340383-11268713",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "France",
+        "tournament_Clubx2": "National",
+        "Clubx2_match_id": 13340383,
+        "Clubx2_tournament_id": 3671,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13340383#/overview",
+        "Tounesbet_country_name": "France",
+        "tournament_Tounesbet": "National 1",
+        "Tounesbet_match_id": 11268713,
+        "Tounesbet_tournament_id": 22375,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653025038-11268713-13340383",
+        "home_team": "FC Villefranche-Beaujolais",
+        "away_team": "Sochaux-Montbeliard",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "ah_0.25_home_vs_away",
+        "best_odds": {
+          "home_handicap_0.25_odd": {
+            "value": 2.36,
+            "source": "Tounesbet"
+          },
+          "away_handicap_-0.25_odd": {
+            "value": 1.76,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.9919,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653025038-11268713",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "France",
+        "tournament_Tounesbet": "National 1",
+        "Tounesbet_match_id": 11268713,
+        "Tounesbet_tournament_id": 22375,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "1xbet_country_name": "France",
+        "tournament_1xbet": "National",
+        "1xbet_match_id": 653025038,
+        "1xbet_tournament_id": 1692148,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/1692148/653025038",
+        "group_id": "653025038-11268713-13340383",
+        "home_team": "FC Villefranche-Beaujolais",
+        "away_team": "Sochaux-Montbeliard",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "2578718194856505371-653356296-11060537-13548789-27942316",
+    "home_team": "US Boulogne",
+    "away_team": "Pau FC",
+    "date": "19/09/2025",
+    "time": "19:00",
+    "country": "France",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_0.0_home_vs_away",
+        "best_odds": {
+          "home_handicap_0.0_odd": {
+            "value": 2.301,
+            "source": "Tounesbet"
+          },
+          "away_handicap_0.0_odd": {
+            "value": 2.06,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.92,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653356296-11060537",
+        "misvalue_source": "1xbet",
+        "Tounesbet_country_name": "France",
+        "tournament_Tounesbet": "Ligue 2",
+        "Tounesbet_match_id": 11060537,
+        "Tounesbet_tournament_id": 22358,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "1xbet_country_name": "France",
+        "tournament_1xbet": "Ligue 2",
+        "1xbet_match_id": 653356296,
+        "1xbet_tournament_id": 12829,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/12829/653356296",
+        "group_id": "2578718194856505371-653356296-11060537-13548789-27942316",
+        "home_team": "US Boulogne",
+        "away_team": "Pau FC",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "first_half_ah_0.0_home_vs_away",
+        "best_odds": {
+          "home_first_half_handicap_0.0_odd": {
+            "value": 1.88,
+            "source": "Asbet"
+          },
+          "away_first_half_handicap_0.0_odd": {
+            "value": 2.36,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9556,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27942316-11060537",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "France",
+        "tournament_Asbet": "Ligue 2",
+        "Asbet_match_id": 27942316,
+        "Asbet_tournament_id": 549,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/France/549/ligue/27942316/us-boulogne-pau-fc",
+        "Tounesbet_country_name": "France",
+        "tournament_Tounesbet": "Ligue 2",
+        "Tounesbet_match_id": 11060537,
+        "Tounesbet_tournament_id": 22358,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578718194856505371-653356296-11060537-13548789-27942316",
+        "home_team": "US Boulogne",
+        "away_team": "Pau FC",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "both_score",
+        "best_odds": {
+          "both_score_odd": {
+            "value": 2.159,
+            "source": "Tounesbet"
+          },
+          "both_noscore_odd": {
+            "value": 1.95,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.976,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13548789-11060537",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "France",
+        "tournament_Tounesbet": "Ligue 2",
+        "Tounesbet_match_id": 11060537,
+        "Tounesbet_tournament_id": 22358,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "France",
+        "tournament_Clubx2": "Ligue 2",
+        "Clubx2_match_id": 13548789,
+        "Clubx2_tournament_id": 3143,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13548789#/overview",
+        "group_id": "2578718194856505371-653356296-11060537-13548789-27942316",
+        "home_team": "US Boulogne",
+        "away_team": "Pau FC",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "2578617343999619093-653248502-10749985-13120302-27942328",
+    "home_team": "Grenoble Foot 38",
+    "away_team": "Annecy FC",
+    "date": "19/09/2025",
+    "time": "19:00",
+    "country": "France",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_0.0_home_vs_away",
+        "best_odds": {
+          "home_handicap_0.0_odd": {
+            "value": 1.947,
+            "source": "Tounesbet"
+          },
+          "away_handicap_0.0_odd": {
+            "value": 2.28,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.9522,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653248502-10749985",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "France",
+        "tournament_Tounesbet": "Ligue 2",
+        "Tounesbet_match_id": 10749985,
+        "Tounesbet_tournament_id": 22358,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "1xbet_country_name": "France",
+        "tournament_1xbet": "Ligue 2",
+        "1xbet_match_id": 653248502,
+        "1xbet_tournament_id": 12829,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/12829/653248502",
+        "group_id": "2578617343999619093-653248502-10749985-13120302-27942328",
+        "home_team": "Grenoble Foot 38",
+        "away_team": "Annecy FC",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.34,
+            "source": "Jibibet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.888,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.957,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2578617343999619093-10749985",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "France",
+        "tournament_Jibibet": "Ligue 2",
+        "Jibibet_match_id": 2578617343999619093,
+        "Jibibet_tournament_id": 1669818873660182528,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "France",
+        "tournament_Tounesbet": "Ligue 2",
+        "Tounesbet_match_id": 10749985,
+        "Tounesbet_tournament_id": 22358,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578617343999619093-653248502-10749985-13120302-27942328",
+        "home_team": "Grenoble Foot 38",
+        "away_team": "Annecy FC",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.3334,
+            "source": "Clubx2"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.888,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9582,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13120302-10749985",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "France",
+        "tournament_Clubx2": "Ligue 2",
+        "Clubx2_match_id": 13120302,
+        "Clubx2_tournament_id": 3143,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13120302#/overview",
+        "Tounesbet_country_name": "France",
+        "tournament_Tounesbet": "Ligue 2",
+        "Tounesbet_match_id": 10749985,
+        "Tounesbet_tournament_id": 22358,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578617343999619093-653248502-10749985-13120302-27942328",
+        "home_team": "Grenoble Foot 38",
+        "away_team": "Annecy FC",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "ah_-0.5_home_vs_away",
+        "best_odds": {
+          "home_handicap_-0.5_odd": {
+            "value": 2.3,
+            "source": "Asbet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.888,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9644,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27942328-10749985",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "France",
+        "tournament_Asbet": "Ligue 2",
+        "Asbet_match_id": 27942328,
+        "Asbet_tournament_id": 549,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/France/549/ligue/27942328/grenoble-foot--annecy-fc",
+        "Tounesbet_country_name": "France",
+        "tournament_Tounesbet": "Ligue 2",
+        "Tounesbet_match_id": 10749985,
+        "Tounesbet_tournament_id": 22358,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578617343999619093-653248502-10749985-13120302-27942328",
+        "home_team": "Grenoble Foot 38",
+        "away_team": "Annecy FC",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "2578610068194988070-653248505-10750046-13120306-27942324",
+    "home_team": "Nancy Lorraine",
+    "away_team": "Red Star Football Club",
+    "date": "19/09/2025",
+    "time": "19:00",
+    "country": "France",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.45,
+            "source": "1xbet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.852,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9481,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653248505-10750046",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "France",
+        "tournament_1xbet": "Ligue 2",
+        "1xbet_match_id": 653248505,
+        "1xbet_tournament_id": 12829,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/12829/653248505",
+        "Tounesbet_country_name": "France",
+        "tournament_Tounesbet": "Ligue 2",
+        "Tounesbet_match_id": 10750046,
+        "Tounesbet_tournament_id": 22358,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578610068194988070-653248505-10750046-13120306-27942324",
+        "home_team": "Nancy Lorraine",
+        "away_team": "Red Star Football Club",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.4,
+            "source": "Clubx2"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.852,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9566,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13120306-10750046",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "France",
+        "tournament_Clubx2": "Ligue 2",
+        "Clubx2_match_id": 13120306,
+        "Clubx2_tournament_id": 3143,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13120306#/overview",
+        "Tounesbet_country_name": "France",
+        "tournament_Tounesbet": "Ligue 2",
+        "Tounesbet_match_id": 10750046,
+        "Tounesbet_tournament_id": 22358,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578610068194988070-653248505-10750046-13120306-27942324",
+        "home_team": "Nancy Lorraine",
+        "away_team": "Red Star Football Club",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.36,
+            "source": "Jibibet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.852,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9637,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2578610068194988070-10750046",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "France",
+        "tournament_Jibibet": "Ligue 2",
+        "Jibibet_match_id": 2578610068194988070,
+        "Jibibet_tournament_id": 1669818873660182528,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "France",
+        "tournament_Tounesbet": "Ligue 2",
+        "Tounesbet_match_id": 10750046,
+        "Tounesbet_tournament_id": 22358,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578610068194988070-653248505-10750046-13120306-27942324",
+        "home_team": "Nancy Lorraine",
+        "away_team": "Red Star Football Club",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "ah_0.25_home_vs_away",
+        "best_odds": {
+          "home_handicap_0.25_odd": {
+            "value": 1.793,
+            "source": "Tounesbet"
+          },
+          "away_handicap_-0.25_odd": {
+            "value": 2.4,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9744,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27942324-10750046",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "France",
+        "tournament_Tounesbet": "Ligue 2",
+        "Tounesbet_match_id": 10750046,
+        "Tounesbet_tournament_id": 22358,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "France",
+        "tournament_Asbet": "Ligue 2",
+        "Asbet_match_id": 27942324,
+        "Asbet_tournament_id": 549,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/France/549/ligue/27942324/nancy-lorraine-red-star-fc",
+        "group_id": "2578610068194988070-653248505-10750046-13120306-27942324",
+        "home_team": "Nancy Lorraine",
+        "away_team": "Red Star Football Club",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "2578633563020861449-653255582-10750043-13120345-27942322",
+    "home_team": "Rodez Aveyron Football",
+    "away_team": "Clermont Foot 63",
+    "date": "19/09/2025",
+    "time": "19:00",
+    "country": "France",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.14,
+            "source": "1xbet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 2.029,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9601,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653255582-10750043",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "France",
+        "tournament_1xbet": "Ligue 2",
+        "1xbet_match_id": 653255582,
+        "1xbet_tournament_id": 12829,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/12829/653255582",
+        "Tounesbet_country_name": "France",
+        "tournament_Tounesbet": "Ligue 2",
+        "Tounesbet_match_id": 10750043,
+        "Tounesbet_tournament_id": 22358,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578633563020861449-653255582-10750043-13120345-27942322",
+        "home_team": "Rodez Aveyron Football",
+        "away_team": "Clermont Foot 63",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "ah_0.0_home_vs_away",
+        "best_odds": {
+          "home_handicap_0.0_odd": {
+            "value": 1.829,
+            "source": "Tounesbet"
+          },
+          "away_handicap_0.0_odd": {
+            "value": 2.37,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9687,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27942322-10750043",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "France",
+        "tournament_Tounesbet": "Ligue 2",
+        "Tounesbet_match_id": 10750043,
+        "Tounesbet_tournament_id": 22358,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "France",
+        "tournament_Asbet": "Ligue 2",
+        "Asbet_match_id": 27942322,
+        "Asbet_tournament_id": 549,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/France/549/ligue/27942322/rodez-clermont-foot",
+        "group_id": "2578633563020861449-653255582-10750043-13120345-27942322",
+        "home_team": "Rodez Aveyron Football",
+        "away_team": "Clermont Foot 63",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.0834,
+            "source": "Clubx2"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 2.029,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9728,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13120345-10750043",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "France",
+        "tournament_Clubx2": "Ligue 2",
+        "Clubx2_match_id": 13120345,
+        "Clubx2_tournament_id": 3143,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13120345#/overview",
+        "Tounesbet_country_name": "France",
+        "tournament_Tounesbet": "Ligue 2",
+        "Tounesbet_match_id": 10750043,
+        "Tounesbet_tournament_id": 22358,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578633563020861449-653255582-10750043-13120345-27942322",
+        "home_team": "Rodez Aveyron Football",
+        "away_team": "Clermont Foot 63",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.06,
+            "source": "Jibibet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 2.029,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9783,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2578633563020861449-10750043",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "France",
+        "tournament_Jibibet": "Ligue 2",
+        "Jibibet_match_id": 2578633563020861449,
+        "Jibibet_tournament_id": 1669818873660182528,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "France",
+        "tournament_Tounesbet": "Ligue 2",
+        "Tounesbet_match_id": 10750043,
+        "Tounesbet_tournament_id": 22358,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578633563020861449-653255582-10750043-13120345-27942322",
+        "home_team": "Rodez Aveyron Football",
+        "away_team": "Clermont Foot 63",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "2578346096585740293-653044390-10750042-13120336-27942326",
+    "home_team": "Stade Lavallois Mayenne FC",
+    "away_team": "Amiens SC",
+    "date": "19/09/2025",
+    "time": "19:00",
+    "country": "France",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_-1.0_home_vs_away",
+        "best_odds": {
+          "home_handicap_-1.0_odd": {
+            "value": 2.54,
+            "source": "1xbet"
+          },
+          "away_handicap_1.0_odd": {
+            "value": 1.793,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9514,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653044390-10750042",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "France",
+        "tournament_1xbet": "Ligue 2",
+        "1xbet_match_id": 653044390,
+        "1xbet_tournament_id": 12829,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/12829/653044390",
+        "Tounesbet_country_name": "France",
+        "tournament_Tounesbet": "Ligue 2",
+        "Tounesbet_match_id": 10750042,
+        "Tounesbet_tournament_id": 22358,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578346096585740293-653044390-10750042-13120336-27942326",
+        "home_team": "Stade Lavallois Mayenne FC",
+        "away_team": "Amiens SC",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "second_half_under_1.5_vs_second_half_over_1.5",
+        "best_odds": {
+          "second_half_under_1.5_odd": {
+            "value": 1.935,
+            "source": "Tounesbet"
+          },
+          "second_half_over_1.5_odd": {
+            "value": 2.2,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9713,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13120336-10750042",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "France",
+        "tournament_Tounesbet": "Ligue 2",
+        "Tounesbet_match_id": 10750042,
+        "Tounesbet_tournament_id": 22358,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "France",
+        "tournament_Clubx2": "Ligue 2",
+        "Clubx2_match_id": 13120336,
+        "Clubx2_tournament_id": 3143,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13120336#/overview",
+        "group_id": "2578346096585740293-653044390-10750042-13120336-27942326",
+        "home_team": "Stade Lavallois Mayenne FC",
+        "away_team": "Amiens SC",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "first_half_ah_-0.5_home_vs_away",
+        "best_odds": {
+          "home_first_half_handicap_-0.5_odd": {
+            "value": 2.35,
+            "source": "Asbet"
+          },
+          "away_first_half_handicap_0.5_odd": {
+            "value": 1.829,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9723,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27942326-10750042",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "France",
+        "tournament_Asbet": "Ligue 2",
+        "Asbet_match_id": 27942326,
+        "Asbet_tournament_id": 549,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/France/549/ligue/27942326/stade-lavallois-mayenne-fc-amiens",
+        "Tounesbet_country_name": "France",
+        "tournament_Tounesbet": "Ligue 2",
+        "Tounesbet_match_id": 10750042,
+        "Tounesbet_tournament_id": 22358,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578346096585740293-653044390-10750042-13120336-27942326",
+        "home_team": "Stade Lavallois Mayenne FC",
+        "away_team": "Amiens SC",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "one_vs_x2",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.124,
+            "source": "Tounesbet"
+          },
+          "X2_odd": {
+            "value": 1.99,
+            "source": "Jibibet"
+          }
+        },
+        "arbitrage_percentage": 0.9733,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2578346096585740293-10750042",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "France",
+        "tournament_Tounesbet": "Ligue 2",
+        "Tounesbet_match_id": 10750042,
+        "Tounesbet_tournament_id": 22358,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Jibibet_country_name": "France",
+        "tournament_Jibibet": "Ligue 2",
+        "Jibibet_match_id": 2578346096585740293,
+        "Jibibet_tournament_id": 1669818873660182528,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "group_id": "2578346096585740293-653044390-10750042-13120336-27942326",
+        "home_team": "Stade Lavallois Mayenne FC",
+        "away_team": "Amiens SC",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "2578617343999619094-653248499-10750048-13120340-27942330",
+    "home_team": "USL Dunkerque",
+    "away_team": "Le Mans FC",
+    "date": "19/09/2025",
+    "time": "19:00",
+    "country": "France",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.15,
+            "source": "1xbet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 2.065,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9494,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653248499-10750048",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "France",
+        "tournament_1xbet": "Ligue 2",
+        "1xbet_match_id": 653248499,
+        "1xbet_tournament_id": 12829,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/12829/653248499",
+        "Tounesbet_country_name": "France",
+        "tournament_Tounesbet": "Ligue 2",
+        "Tounesbet_match_id": 10750048,
+        "Tounesbet_tournament_id": 22358,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578617343999619094-653248499-10750048-13120340-27942330",
+        "home_team": "USL Dunkerque",
+        "away_team": "Le Mans FC",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.08,
+            "source": "Jibibet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 2.065,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.965,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2578617343999619094-10750048",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "France",
+        "tournament_Jibibet": "Ligue 2",
+        "Jibibet_match_id": 2578617343999619094,
+        "Jibibet_tournament_id": 1669818873660182528,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "France",
+        "tournament_Tounesbet": "Ligue 2",
+        "Tounesbet_match_id": 10750048,
+        "Tounesbet_tournament_id": 22358,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578617343999619094-653248499-10750048-13120340-27942330",
+        "home_team": "USL Dunkerque",
+        "away_team": "Le Mans FC",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "first_half_ah_0.0_home_vs_away",
+        "best_odds": {
+          "home_first_half_handicap_0.0_odd": {
+            "value": 1.852,
+            "source": "Tounesbet"
+          },
+          "away_first_half_handicap_0.0_odd": {
+            "value": 2.35,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9655,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27942330-10750048",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "France",
+        "tournament_Tounesbet": "Ligue 2",
+        "Tounesbet_match_id": 10750048,
+        "Tounesbet_tournament_id": 22358,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "France",
+        "tournament_Asbet": "Ligue 2",
+        "Asbet_match_id": 27942330,
+        "Asbet_tournament_id": 549,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/France/549/ligue/27942330/usl-dunkerque-le-mans",
+        "group_id": "2578617343999619094-653248499-10750048-13120340-27942330",
+        "home_team": "USL Dunkerque",
+        "away_team": "Le Mans FC",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "second_half_under_1.5_vs_second_half_over_1.5",
+        "best_odds": {
+          "second_half_under_1.5_odd": {
+            "value": 1.876,
+            "source": "Tounesbet"
+          },
+          "second_half_over_1.5_odd": {
+            "value": 2.2858,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9705,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13120340-10750048",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "France",
+        "tournament_Tounesbet": "Ligue 2",
+        "Tounesbet_match_id": 10750048,
+        "Tounesbet_tournament_id": 22358,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "France",
+        "tournament_Clubx2": "Ligue 2",
+        "Clubx2_match_id": 13120340,
+        "Clubx2_tournament_id": 3143,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13120340#/overview",
+        "group_id": "2578617343999619094-653248499-10750048-13120340-27942330",
+        "home_team": "USL Dunkerque",
+        "away_team": "Le Mans FC",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "2579297816363012132-653787039-10750041-13120322-27949861",
+    "home_team": "Montpellier HSC",
+    "away_team": "SPC Bastia",
+    "date": "20/09/2025",
+    "time": "13:00",
+    "country": "France",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.42,
+            "source": "1xbet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.911,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9365,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653787039-10750041",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "France",
+        "tournament_1xbet": "Ligue 2",
+        "1xbet_match_id": 653787039,
+        "1xbet_tournament_id": 12829,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/12829/653787039",
+        "Tounesbet_country_name": "France",
+        "tournament_Tounesbet": "Ligue 2",
+        "Tounesbet_match_id": 10750041,
+        "Tounesbet_tournament_id": 22358,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579297816363012132-653787039-10750041-13120322-27949861",
+        "home_team": "Montpellier HSC",
+        "away_team": "SPC Bastia",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "first_half_ah_0.0_home_vs_away",
+        "best_odds": {
+          "home_first_half_handicap_0.0_odd": {
+            "value": 2.065,
+            "source": "Tounesbet"
+          },
+          "away_first_half_handicap_0.0_odd": {
+            "value": 2.12,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.956,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27949861-10750041",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "France",
+        "tournament_Tounesbet": "Ligue 2",
+        "Tounesbet_match_id": 10750041,
+        "Tounesbet_tournament_id": 22358,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "France",
+        "tournament_Asbet": "Ligue 2",
+        "Asbet_match_id": 27949861,
+        "Asbet_tournament_id": 549,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/France/549/ligue/27949861/montpellier-spc-bastia",
+        "group_id": "2579297816363012132-653787039-10750041-13120322-27949861",
+        "home_team": "Montpellier HSC",
+        "away_team": "SPC Bastia",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.3,
+            "source": "Jibibet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.911,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9581,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2579297816363012132-10750041",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "France",
+        "tournament_Jibibet": "Ligue 2",
+        "Jibibet_match_id": 2579297816363012132,
+        "Jibibet_tournament_id": 1669818873660182528,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "France",
+        "tournament_Tounesbet": "Ligue 2",
+        "Tounesbet_match_id": 10750041,
+        "Tounesbet_tournament_id": 22358,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579297816363012132-653787039-10750041-13120322-27949861",
+        "home_team": "Montpellier HSC",
+        "away_team": "SPC Bastia",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.2,
+            "source": "Clubx2"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.911,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9778,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13120322-10750041",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "France",
+        "tournament_Clubx2": "Ligue 2",
+        "Clubx2_match_id": 13120322,
+        "Clubx2_tournament_id": 3143,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13120322#/overview",
+        "Tounesbet_country_name": "France",
+        "tournament_Tounesbet": "Ligue 2",
+        "Tounesbet_match_id": 10750041,
+        "Tounesbet_tournament_id": 22358,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579297816363012132-653787039-10750041-13120322-27949861",
+        "home_team": "Montpellier HSC",
+        "away_team": "SPC Bastia",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "2579297816363012120-653787033-10750047-13120308-27949859",
+    "home_team": "ESTAC Troyes",
+    "away_team": "En Avant de Guingamp",
+    "date": "20/09/2025",
+    "time": "13:00",
+    "country": "France",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 1.95,
+            "source": "1xbet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 2.242,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9589,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653787033-10750047",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "France",
+        "tournament_1xbet": "Ligue 2",
+        "1xbet_match_id": 653787033,
+        "1xbet_tournament_id": 12829,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/12829/653787033",
+        "Tounesbet_country_name": "France",
+        "tournament_Tounesbet": "Ligue 2",
+        "Tounesbet_match_id": 10750047,
+        "Tounesbet_tournament_id": 22358,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579297816363012120-653787033-10750047-13120308-27949859",
+        "home_team": "ESTAC Troyes",
+        "away_team": "En Avant de Guingamp",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "first_half_under_1.0_vs_first_half_over_1.0",
+        "best_odds": {
+          "first_half_under_1.0_odd": {
+            "value": 1.97,
+            "source": "Asbet"
+          },
+          "first_half_over_1.0_odd": {
+            "value": 2.159,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9708,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27949859-10750047",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "France",
+        "tournament_Asbet": "Ligue 2",
+        "Asbet_match_id": 27949859,
+        "Asbet_tournament_id": 549,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/France/549/ligue/27949859/es-troyes-guingamp",
+        "Tounesbet_country_name": "France",
+        "tournament_Tounesbet": "Ligue 2",
+        "Tounesbet_match_id": 10750047,
+        "Tounesbet_tournament_id": 22358,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579297816363012120-653787033-10750047-13120308-27949859",
+        "home_team": "ESTAC Troyes",
+        "away_team": "En Avant de Guingamp",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 1.8889,
+            "source": "Clubx2"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 2.242,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9754,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13120308-10750047",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "France",
+        "tournament_Clubx2": "Ligue 2",
+        "Clubx2_match_id": 13120308,
+        "Clubx2_tournament_id": 3143,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13120308#/overview",
+        "Tounesbet_country_name": "France",
+        "tournament_Tounesbet": "Ligue 2",
+        "Tounesbet_match_id": 10750047,
+        "Tounesbet_tournament_id": 22358,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579297816363012120-653787033-10750047-13120308-27949859",
+        "home_team": "ESTAC Troyes",
+        "away_team": "En Avant de Guingamp",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 1.87,
+            "source": "Jibibet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 2.242,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9808,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2579297816363012120-10750047",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "France",
+        "tournament_Jibibet": "Ligue 2",
+        "Jibibet_match_id": 2579297816363012120,
+        "Jibibet_tournament_id": 1669818873660182528,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "France",
+        "tournament_Tounesbet": "Ligue 2",
+        "Tounesbet_match_id": 10750047,
+        "Tounesbet_tournament_id": 22358,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579297816363012120-653787033-10750047-13120308-27949859",
+        "home_team": "ESTAC Troyes",
+        "away_team": "En Avant de Guingamp",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "2579297816363012114-653787036-10750044-13120358-27949860",
+    "home_team": "AS Saint-Etienne",
+    "away_team": "Stade de Reims",
+    "date": "20/09/2025",
+    "time": "19:00",
+    "country": "France",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "one_vs_x2",
+        "best_odds": {
+          "1_odd": {
+            "value": 1.97,
+            "source": "1xbet"
+          },
+          "X2_odd": {
+            "value": 2.242,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9536,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653787036-10750044",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "France",
+        "tournament_1xbet": "Ligue 2",
+        "1xbet_match_id": 653787036,
+        "1xbet_tournament_id": 12829,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/12829/653787036",
+        "Tounesbet_country_name": "France",
+        "tournament_Tounesbet": "Ligue 2",
+        "Tounesbet_match_id": 10750044,
+        "Tounesbet_tournament_id": 22358,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579297816363012114-653787036-10750044-13120358-27949860",
+        "home_team": "AS Saint-Etienne",
+        "away_team": "Stade de Reims",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "one_vs_x2",
+        "best_odds": {
+          "1_odd": {
+            "value": 1.9334,
+            "source": "Clubx2"
+          },
+          "X2_odd": {
+            "value": 2.242,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9633,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13120358-10750044",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "France",
+        "tournament_Clubx2": "Ligue 2",
+        "Clubx2_match_id": 13120358,
+        "Clubx2_tournament_id": 3143,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13120358#/overview",
+        "Tounesbet_country_name": "France",
+        "tournament_Tounesbet": "Ligue 2",
+        "Tounesbet_match_id": 10750044,
+        "Tounesbet_tournament_id": 22358,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579297816363012114-653787036-10750044-13120358-27949860",
+        "home_team": "AS Saint-Etienne",
+        "away_team": "Stade de Reims",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "one_vs_x2",
+        "best_odds": {
+          "1_odd": {
+            "value": 1.93,
+            "source": "Jibibet"
+          },
+          "X2_odd": {
+            "value": 2.242,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9642,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2579297816363012114-10750044",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "France",
+        "tournament_Jibibet": "Ligue 2",
+        "Jibibet_match_id": 2579297816363012114,
+        "Jibibet_tournament_id": 1669818873660182528,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "France",
+        "tournament_Tounesbet": "Ligue 2",
+        "Tounesbet_match_id": 10750044,
+        "Tounesbet_tournament_id": 22358,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579297816363012114-653787036-10750044-13120358-27949860",
+        "home_team": "AS Saint-Etienne",
+        "away_team": "Stade de Reims",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "ah_-0.75_home_vs_away",
+        "best_odds": {
+          "home_handicap_-0.75_odd": {
+            "value": 2.15,
+            "source": "Asbet"
+          },
+          "away_handicap_0.75_odd": {
+            "value": 1.97,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9727,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27949860-10750044",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "France",
+        "tournament_Asbet": "Ligue 2",
+        "Asbet_match_id": 27949860,
+        "Asbet_tournament_id": 549,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/France/549/ligue/27949860/as-saint-etienne-stade-reims",
+        "Tounesbet_country_name": "France",
+        "tournament_Tounesbet": "Ligue 2",
+        "Tounesbet_match_id": 10750044,
+        "Tounesbet_tournament_id": 22358,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579297816363012114-653787036-10750044-13120358-27949860",
+        "home_team": "AS Saint-Etienne",
+        "away_team": "Stade de Reims",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "2573866106481676303-651926661-11189114-13735512-27942320",
+    "home_team": "Olympique Lyonnais",
+    "away_team": "Angers SCO",
+    "date": "19/09/2025",
+    "time": "19:45",
+    "country": "France",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "first_half_under_1.0_vs_first_half_over_1.0",
+        "best_odds": {
+          "first_half_under_1.0_odd": {
+            "value": 2.2,
+            "source": "Clubx2"
+          },
+          "first_half_over_1.0_odd": {
+            "value": 2.017,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9503,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13735512-11189114",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "France",
+        "tournament_Clubx2": "Ligue 1",
+        "Clubx2_match_id": 13735512,
+        "Clubx2_tournament_id": 2943,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13735512#/overview",
+        "Tounesbet_country_name": "France",
+        "tournament_Tounesbet": "Ligue 1",
+        "Tounesbet_match_id": 11189114,
+        "Tounesbet_tournament_id": 22359,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2573866106481676303-651926661-11189114-13735512-27942320",
+        "home_team": "Olympique Lyonnais",
+        "away_team": "Angers SCO",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "ah_-1.5_home_vs_away",
+        "best_odds": {
+          "home_handicap_-1.5_odd": {
+            "value": 2.174,
+            "source": "1xbet"
+          },
+          "away_handicap_1.5_odd": {
+            "value": 2.029,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9528,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "651926661-11189114",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "France",
+        "tournament_1xbet": "Ligue 1",
+        "1xbet_match_id": 651926661,
+        "1xbet_tournament_id": 12821,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/12821/651926661",
+        "Tounesbet_country_name": "France",
+        "tournament_Tounesbet": "Ligue 1",
+        "Tounesbet_match_id": 11189114,
+        "Tounesbet_tournament_id": 22359,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2573866106481676303-651926661-11189114-13735512-27942320",
+        "home_team": "Olympique Lyonnais",
+        "away_team": "Angers SCO",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "ah_-1.0_home_vs_away",
+        "best_odds": {
+          "home_handicap_-1.0_odd": {
+            "value": 1.852,
+            "source": "Tounesbet"
+          },
+          "away_handicap_1.0_odd": {
+            "value": 2.33,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9691,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27942320-11189114",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "France",
+        "tournament_Tounesbet": "Ligue 1",
+        "Tounesbet_match_id": 11189114,
+        "Tounesbet_tournament_id": 22359,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "France",
+        "tournament_Asbet": "Ligue 1",
+        "Asbet_match_id": 27942320,
+        "Asbet_tournament_id": 548,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/France/548/ligue/27942320/olympique-lyonnais-angers-sco",
+        "group_id": "2573866106481676303-651926661-11189114-13735512-27942320",
+        "home_team": "Olympique Lyonnais",
+        "away_team": "Angers SCO",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "2573860594197344303-651927220-11189106-13680792-27908255",
+    "home_team": "FC Nantes",
+    "away_team": "Stade Rennais",
+    "date": "20/09/2025",
+    "time": "16:00",
+    "country": "France",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "two_vs_1x_handicap",
+        "best_odds": {
+          "2_odd": {
+            "value": 2.233,
+            "source": "1xbet"
+          },
+          "home_handicap_0.5_odd": {
+            "value": 2.029,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9407,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "651927220-11189106",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "France",
+        "tournament_1xbet": "Ligue 1",
+        "1xbet_match_id": 651927220,
+        "1xbet_tournament_id": 12821,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/12821/651927220",
+        "Tounesbet_country_name": "France",
+        "tournament_Tounesbet": "Ligue 1",
+        "Tounesbet_match_id": 11189106,
+        "Tounesbet_tournament_id": 22359,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2573860594197344303-651927220-11189106-13680792-27908255",
+        "home_team": "FC Nantes",
+        "away_team": "Stade Rennais",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "second_half_under_1.5_vs_second_half_over_1.5",
+        "best_odds": {
+          "second_half_under_1.5_odd": {
+            "value": 1.935,
+            "source": "Tounesbet"
+          },
+          "second_half_over_1.5_odd": {
+            "value": 2.2858,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9543,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13680792-11189106",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "France",
+        "tournament_Tounesbet": "Ligue 1",
+        "Tounesbet_match_id": 11189106,
+        "Tounesbet_tournament_id": 22359,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "France",
+        "tournament_Clubx2": "Ligue 1",
+        "Clubx2_match_id": 13680792,
+        "Clubx2_tournament_id": 2943,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13680792#/overview",
+        "group_id": "2573860594197344303-651927220-11189106-13680792-27908255",
+        "home_team": "FC Nantes",
+        "away_team": "Stade Rennais",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "two_vs_1x_handicap",
+        "best_odds": {
+          "2_odd": {
+            "value": 2.14,
+            "source": "Jibibet"
+          },
+          "home_handicap_0.5_odd": {
+            "value": 2.029,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9601,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2573860594197344303-11189106",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "France",
+        "tournament_Jibibet": "Ligue 1",
+        "Jibibet_match_id": 2573860594197344303,
+        "Jibibet_tournament_id": 1669818844560101376,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "France",
+        "tournament_Tounesbet": "Ligue 1",
+        "Tounesbet_match_id": 11189106,
+        "Tounesbet_tournament_id": 22359,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2573860594197344303-651927220-11189106-13680792-27908255",
+        "home_team": "FC Nantes",
+        "away_team": "Stade Rennais",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "second_half_under_1.5_vs_second_half_over_1.5",
+        "best_odds": {
+          "second_half_under_1.5_odd": {
+            "value": 1.935,
+            "source": "Tounesbet"
+          },
+          "second_half_over_1.5_odd": {
+            "value": 2.2,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9713,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27908255-11189106",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "France",
+        "tournament_Tounesbet": "Ligue 1",
+        "Tounesbet_match_id": 11189106,
+        "Tounesbet_tournament_id": 22359,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "France",
+        "tournament_Asbet": "Ligue 1",
+        "Asbet_match_id": 27908255,
+        "Asbet_tournament_id": 548,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/France/548/ligue/27908255/nantes-stade-rennais",
+        "group_id": "2573860594197344303-651927220-11189106-13680792-27908255",
+        "home_team": "FC Nantes",
+        "away_team": "Stade Rennais",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "2573866106481676294-651927217-11189104-13735511-27908254",
+    "home_team": "Stade Brestois 29",
+    "away_team": "OGC Nice",
+    "date": "20/09/2025",
+    "time": "18:00",
+    "country": "France",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "two_vs_1x_handicap",
+        "best_odds": {
+          "2_odd": {
+            "value": 2.553,
+            "source": "1xbet"
+          },
+          "home_handicap_0.5_odd": {
+            "value": 1.829,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9384,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "651927217-11189104",
+        "misvalue_source": "1xbet",
+        "1xbet_country_name": "France",
+        "tournament_1xbet": "Ligue 1",
+        "1xbet_match_id": 651927217,
+        "1xbet_tournament_id": 12821,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/12821/651927217",
+        "Tounesbet_country_name": "France",
+        "tournament_Tounesbet": "Ligue 1",
+        "Tounesbet_match_id": 11189104,
+        "Tounesbet_tournament_id": 22359,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2573866106481676294-651927217-11189104-13735511-27908254",
+        "home_team": "Stade Brestois 29",
+        "away_team": "OGC Nice",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "first_half_under_1.0_vs_first_half_over_1.0",
+        "best_odds": {
+          "first_half_under_1.0_odd": {
+            "value": 2.2,
+            "source": "Clubx2"
+          },
+          "first_half_over_1.0_odd": {
+            "value": 2.006,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.953,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13735511-11189104",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "France",
+        "tournament_Clubx2": "Ligue 1",
+        "Clubx2_match_id": 13735511,
+        "Clubx2_tournament_id": 2943,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13735511#/overview",
+        "Tounesbet_country_name": "France",
+        "tournament_Tounesbet": "Ligue 1",
+        "Tounesbet_match_id": 11189104,
+        "Tounesbet_tournament_id": 22359,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2573866106481676294-651927217-11189104-13735511-27908254",
+        "home_team": "Stade Brestois 29",
+        "away_team": "OGC Nice",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "two_vs_1x_handicap",
+        "best_odds": {
+          "2_odd": {
+            "value": 2.46,
+            "source": "Jibibet"
+          },
+          "home_handicap_0.5_odd": {
+            "value": 1.829,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9533,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2573866106481676294-11189104",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "France",
+        "tournament_Jibibet": "Ligue 1",
+        "Jibibet_match_id": 2573866106481676294,
+        "Jibibet_tournament_id": 1669818844560101376,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "France",
+        "tournament_Tounesbet": "Ligue 1",
+        "Tounesbet_match_id": 11189104,
+        "Tounesbet_tournament_id": 22359,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2573866106481676294-651927217-11189104-13735511-27908254",
+        "home_team": "Stade Brestois 29",
+        "away_team": "OGC Nice",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "first_half_under_1.0_vs_first_half_over_1.0",
+        "best_odds": {
+          "first_half_under_1.0_odd": {
+            "value": 2.15,
+            "source": "Asbet"
+          },
+          "first_half_over_1.0_odd": {
+            "value": 2.006,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9636,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27908254-11189104",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "France",
+        "tournament_Asbet": "Ligue 1",
+        "Asbet_match_id": 27908254,
+        "Asbet_tournament_id": 548,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/France/548/ligue/27908254/stade-brestois-ogc-nice",
+        "Tounesbet_country_name": "France",
+        "tournament_Tounesbet": "Ligue 1",
+        "Tounesbet_match_id": 11189104,
+        "Tounesbet_tournament_id": 22359,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2573866106481676294-651927217-11189104-13735511-27908254",
+        "home_team": "Stade Brestois 29",
+        "away_team": "OGC Nice",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "2573860594197344283-651927214-11189151-13735496-27908238",
+    "home_team": "RC Lens",
+    "away_team": "LOSC Lille",
+    "date": "20/09/2025",
+    "time": "20:05",
+    "country": "France",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.573,
+            "source": "1xbet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.829,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9354,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "651927214-11189151",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "France",
+        "tournament_1xbet": "Ligue 1",
+        "1xbet_match_id": 651927214,
+        "1xbet_tournament_id": 12821,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/12821/651927214",
+        "Tounesbet_country_name": "France",
+        "tournament_Tounesbet": "Ligue 1",
+        "Tounesbet_match_id": 11189151,
+        "Tounesbet_tournament_id": 22359,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2573860594197344283-651927214-11189151-13735496-27908238",
+        "home_team": "RC Lens",
+        "away_team": "LOSC Lille",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "ah_0.0_home_vs_away",
+        "best_odds": {
+          "home_handicap_0.0_odd": {
+            "value": 1.9091,
+            "source": "Clubx2"
+          },
+          "away_handicap_0.0_odd": {
+            "value": 2.383,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9434,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13735496-11189151",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "France",
+        "tournament_Clubx2": "Ligue 1",
+        "Clubx2_match_id": 13735496,
+        "Clubx2_tournament_id": 2943,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13735496#/overview",
+        "Tounesbet_country_name": "France",
+        "tournament_Tounesbet": "Ligue 1",
+        "Tounesbet_match_id": 11189151,
+        "Tounesbet_tournament_id": 22359,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2573860594197344283-651927214-11189151-13735496-27908238",
+        "home_team": "RC Lens",
+        "away_team": "LOSC Lille",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.5,
+            "source": "Jibibet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.829,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9467,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2573860594197344283-11189151",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "France",
+        "tournament_Jibibet": "Ligue 1",
+        "Jibibet_match_id": 2573860594197344283,
+        "Jibibet_tournament_id": 1669818844560101376,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "France",
+        "tournament_Tounesbet": "Ligue 1",
+        "Tounesbet_match_id": 11189151,
+        "Tounesbet_tournament_id": 22359,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2573860594197344283-651927214-11189151-13735496-27908238",
+        "home_team": "RC Lens",
+        "away_team": "LOSC Lille",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.44,
+            "source": "Asbet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.829,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9566,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27908238-11189151",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "France",
+        "tournament_Asbet": "Ligue 1",
+        "Asbet_match_id": 27908238,
+        "Asbet_tournament_id": 548,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/France/548/ligue/27908238/lens-lille-osc",
+        "Tounesbet_country_name": "France",
+        "tournament_Tounesbet": "Ligue 1",
+        "Tounesbet_match_id": 11189151,
+        "Tounesbet_tournament_id": 22359,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2573860594197344283-651927214-11189151-13735496-27908238",
+        "home_team": "RC Lens",
+        "away_team": "LOSC Lille",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "2573860594197344301-649845964-11189109-13680793-27908251",
+    "home_team": "Paris FC",
+    "away_team": "Strasbourg Alsace",
+    "date": "21/09/2025",
+    "time": "14:00",
+    "country": "France",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "one_vs_x2",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.48,
+            "source": "1xbet"
+          },
+          "X2_odd": {
+            "value": 1.852,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9432,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "649845964-11189109",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "France",
+        "tournament_1xbet": "Ligue 1",
+        "1xbet_match_id": 649845964,
+        "1xbet_tournament_id": 12821,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/12821/649845964",
+        "Tounesbet_country_name": "France",
+        "tournament_Tounesbet": "Ligue 1",
+        "Tounesbet_match_id": 11189109,
+        "Tounesbet_tournament_id": 22359,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2573860594197344301-649845964-11189109-13680793-27908251",
+        "home_team": "Paris FC",
+        "away_team": "Strasbourg Alsace",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "one_vs_x2",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.42,
+            "source": "Jibibet"
+          },
+          "X2_odd": {
+            "value": 1.852,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9532,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2573860594197344301-11189109",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "France",
+        "tournament_Jibibet": "Ligue 1",
+        "Jibibet_match_id": 2573860594197344301,
+        "Jibibet_tournament_id": 1669818844560101376,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "France",
+        "tournament_Tounesbet": "Ligue 1",
+        "Tounesbet_match_id": 11189109,
+        "Tounesbet_tournament_id": 22359,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2573860594197344301-649845964-11189109-13680793-27908251",
+        "home_team": "Paris FC",
+        "away_team": "Strasbourg Alsace",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "first_half_under_1.0_vs_first_half_over_1.0",
+        "best_odds": {
+          "first_half_under_1.0_odd": {
+            "value": 2.15,
+            "source": "Clubx2"
+          },
+          "first_half_over_1.0_odd": {
+            "value": 2.041,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9551,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13680793-11189109",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "France",
+        "tournament_Clubx2": "Ligue 1",
+        "Clubx2_match_id": 13680793,
+        "Clubx2_tournament_id": 2943,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13680793#/overview",
+        "Tounesbet_country_name": "France",
+        "tournament_Tounesbet": "Ligue 1",
+        "Tounesbet_match_id": 11189109,
+        "Tounesbet_tournament_id": 22359,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2573860594197344301-649845964-11189109-13680793-27908251",
+        "home_team": "Paris FC",
+        "away_team": "Strasbourg Alsace",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "first_half_under_1.0_vs_first_half_over_1.0",
+        "best_odds": {
+          "first_half_under_1.0_odd": {
+            "value": 2.1,
+            "source": "Asbet"
+          },
+          "first_half_over_1.0_odd": {
+            "value": 2.041,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9661,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27908251-11189109",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "France",
+        "tournament_Asbet": "Ligue 1",
+        "Asbet_match_id": 27908251,
+        "Asbet_tournament_id": 548,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/France/548/ligue/27908251/paris-fc-strasbourg-alsace",
+        "Tounesbet_country_name": "France",
+        "tournament_Tounesbet": "Ligue 1",
+        "Tounesbet_match_id": 11189109,
+        "Tounesbet_tournament_id": 22359,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2573860594197344301-649845964-11189109-13680793-27908251",
+        "home_team": "Paris FC",
+        "away_team": "Strasbourg Alsace",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "2573860594197344291-649845976-11189108-13680794-27908249",
+    "home_team": "AS Monaco",
+    "away_team": "FC Metz",
+    "date": "21/09/2025",
+    "time": "16:15",
+    "country": "France",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "under_3.5_vs_over_3.5",
+        "best_odds": {
+          "under_3.5_odd": {
+            "value": 2.242,
+            "source": "Tounesbet"
+          },
+          "over_3.5_odd": {
+            "value": 2.045,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.935,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "649845976-11189108",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "France",
+        "tournament_Tounesbet": "Ligue 1",
+        "Tounesbet_match_id": 11189108,
+        "Tounesbet_tournament_id": 22359,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "1xbet_country_name": "France",
+        "tournament_1xbet": "Ligue 1",
+        "1xbet_match_id": 649845976,
+        "1xbet_tournament_id": 12821,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/12821/649845976",
+        "group_id": "2573860594197344291-649845976-11189108-13680794-27908249",
+        "home_team": "AS Monaco",
+        "away_team": "FC Metz",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "ah_-1.75_home_vs_away",
+        "best_odds": {
+          "home_handicap_-1.75_odd": {
+            "value": 1.9091,
+            "source": "Clubx2"
+          },
+          "away_handicap_1.75_odd": {
+            "value": 2.324,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9541,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13680794-11189108",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "France",
+        "tournament_Clubx2": "Ligue 1",
+        "Clubx2_match_id": 13680794,
+        "Clubx2_tournament_id": 2943,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13680794#/overview",
+        "Tounesbet_country_name": "France",
+        "tournament_Tounesbet": "Ligue 1",
+        "Tounesbet_match_id": 11189108,
+        "Tounesbet_tournament_id": 22359,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2573860594197344291-649845976-11189108-13680794-27908249",
+        "home_team": "AS Monaco",
+        "away_team": "FC Metz",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "first_half_ah_-1.0_home_vs_away",
+        "best_odds": {
+          "home_first_half_handicap_-1.0_odd": {
+            "value": 2.39,
+            "source": "Asbet"
+          },
+          "away_first_half_handicap_1.0_odd": {
+            "value": 1.852,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9584,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27908249-11189108",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "France",
+        "tournament_Asbet": "Ligue 1",
+        "Asbet_match_id": 27908249,
+        "Asbet_tournament_id": 548,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/France/548/ligue/27908249/as-monaco-metz",
+        "Tounesbet_country_name": "France",
+        "tournament_Tounesbet": "Ligue 1",
+        "Tounesbet_match_id": 11189108,
+        "Tounesbet_tournament_id": 22359,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2573860594197344291-649845976-11189108-13680794-27908249",
+        "home_team": "AS Monaco",
+        "away_team": "FC Metz",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "under_3.5_vs_over_3.5",
+        "best_odds": {
+          "under_3.5_odd": {
+            "value": 2.242,
+            "source": "Tounesbet"
+          },
+          "over_3.5_odd": {
+            "value": 1.94,
+            "source": "Jibibet"
+          }
+        },
+        "arbitrage_percentage": 0.9615,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2573860594197344291-11189108",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "France",
+        "tournament_Tounesbet": "Ligue 1",
+        "Tounesbet_match_id": 11189108,
+        "Tounesbet_tournament_id": 22359,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Jibibet_country_name": "France",
+        "tournament_Jibibet": "Ligue 1",
+        "Jibibet_match_id": 2573860594197344291,
+        "Jibibet_tournament_id": 1669818844560101376,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "group_id": "2573860594197344291-649845976-11189108-13680794-27908249",
+        "home_team": "AS Monaco",
+        "away_team": "FC Metz",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "2573866106481676296-649845961-11189113-13721592-27908250",
+    "home_team": "AJ Auxerre",
+    "away_team": "Toulouse FC",
+    "date": "21/09/2025",
+    "time": "16:15",
+    "country": "France",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_0.0_home_vs_away",
+        "best_odds": {
+          "home_handicap_0.0_odd": {
+            "value": 2.301,
+            "source": "Tounesbet"
+          },
+          "away_handicap_0.0_odd": {
+            "value": 1.955,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.9461,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "649845961-11189113",
+        "misvalue_source": "1xbet",
+        "Tounesbet_country_name": "France",
+        "tournament_Tounesbet": "Ligue 1",
+        "Tounesbet_match_id": 11189113,
+        "Tounesbet_tournament_id": 22359,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "1xbet_country_name": "France",
+        "tournament_1xbet": "Ligue 1",
+        "1xbet_match_id": 649845961,
+        "1xbet_tournament_id": 12821,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/12821/649845961",
+        "group_id": "2573866106481676296-649845961-11189113-13721592-27908250",
+        "home_team": "AJ Auxerre",
+        "away_team": "Toulouse FC",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "ah_0.0_home_vs_away",
+        "best_odds": {
+          "home_handicap_0.0_odd": {
+            "value": 1.9524,
+            "source": "Clubx2"
+          },
+          "away_handicap_0.0_odd": {
+            "value": 2.242,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9582,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13721592-11189113",
+        "misvalue_source": "Asbet",
+        "Clubx2_country_name": "France",
+        "tournament_Clubx2": "Ligue 1",
+        "Clubx2_match_id": 13721592,
+        "Clubx2_tournament_id": 2943,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13721592#/overview",
+        "Tounesbet_country_name": "France",
+        "tournament_Tounesbet": "Ligue 1",
+        "Tounesbet_match_id": 11189113,
+        "Tounesbet_tournament_id": 22359,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2573866106481676296-649845961-11189113-13721592-27908250",
+        "home_team": "AJ Auxerre",
+        "away_team": "Toulouse FC",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "second_half_under_1.5_vs_second_half_over_1.5",
+        "best_odds": {
+          "second_half_under_1.5_odd": {
+            "value": 1.947,
+            "source": "Tounesbet"
+          },
+          "second_half_over_1.5_odd": {
+            "value": 2.17,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9744,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27908250-11189113",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "France",
+        "tournament_Tounesbet": "Ligue 1",
+        "Tounesbet_match_id": 11189113,
+        "Tounesbet_tournament_id": 22359,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "France",
+        "tournament_Asbet": "Ligue 1",
+        "Asbet_match_id": 27908250,
+        "Asbet_tournament_id": 548,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/France/548/ligue/27908250/aj-auxerre-toulouse",
+        "group_id": "2573866106481676296-649845961-11189113-13721592-27908250",
+        "home_team": "AJ Auxerre",
+        "away_team": "Toulouse FC",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "two_vs_1x",
+        "best_odds": {
+          "2_odd": {
+            "value": 3.068,
+            "source": "Tounesbet"
+          },
+          "1X_odd": {
+            "value": 1.49,
+            "source": "Jibibet"
+          }
+        },
+        "arbitrage_percentage": 0.9971,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2573866106481676296-11189113",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "France",
+        "tournament_Tounesbet": "Ligue 1",
+        "Tounesbet_match_id": 11189113,
+        "Tounesbet_tournament_id": 22359,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Jibibet_country_name": "France",
+        "tournament_Jibibet": "Ligue 1",
+        "Jibibet_match_id": 2573866106481676296,
+        "Jibibet_tournament_id": 1669818844560101376,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "group_id": "2573866106481676296-649845961-11189113-13721592-27908250",
+        "home_team": "AJ Auxerre",
+        "away_team": "Toulouse FC",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "2573866106481676291-649845973-11189112-13680795-27908256",
+    "home_team": "Le Havre AC",
+    "away_team": "FC Lorient",
+    "date": "21/09/2025",
+    "time": "16:15",
+    "country": "France",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "one_vs_x2",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.379,
+            "source": "1xbet"
+          },
+          "X2_odd": {
+            "value": 1.958,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9311,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "649845973-11189112",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "France",
+        "tournament_1xbet": "Ligue 1",
+        "1xbet_match_id": 649845973,
+        "1xbet_tournament_id": 12821,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/12821/649845973",
+        "Tounesbet_country_name": "France",
+        "tournament_Tounesbet": "Ligue 1",
+        "Tounesbet_match_id": 11189112,
+        "Tounesbet_tournament_id": 22359,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2573866106481676291-649845973-11189112-13680795-27908256",
+        "home_team": "Le Havre AC",
+        "away_team": "FC Lorient",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "ah_-0.25_home_vs_away",
+        "best_odds": {
+          "home_handicap_-0.25_odd": {
+            "value": 2.301,
+            "source": "Tounesbet"
+          },
+          "away_handicap_0.25_odd": {
+            "value": 1.9091,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9584,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13680795-11189112",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "France",
+        "tournament_Tounesbet": "Ligue 1",
+        "Tounesbet_match_id": 11189112,
+        "Tounesbet_tournament_id": 22359,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "France",
+        "tournament_Clubx2": "Ligue 1",
+        "Clubx2_match_id": 13680795,
+        "Clubx2_tournament_id": 2943,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13680795#/overview",
+        "group_id": "2573866106481676291-649845973-11189112-13680795-27908256",
+        "home_team": "Le Havre AC",
+        "away_team": "FC Lorient",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "first_half_ah_-0.25_home_vs_away",
+        "best_odds": {
+          "home_first_half_handicap_-0.25_odd": {
+            "value": 2.25,
+            "source": "Asbet"
+          },
+          "away_first_half_handicap_0.25_odd": {
+            "value": 1.911,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9677,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27908256-11189112",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "France",
+        "tournament_Asbet": "Ligue 1",
+        "Asbet_match_id": 27908256,
+        "Asbet_tournament_id": 548,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/France/548/ligue/27908256/le-havre-lorient",
+        "Tounesbet_country_name": "France",
+        "tournament_Tounesbet": "Ligue 1",
+        "Tounesbet_match_id": 11189112,
+        "Tounesbet_tournament_id": 22359,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2573866106481676291-649845973-11189112-13680795-27908256",
+        "home_team": "Le Havre AC",
+        "away_team": "FC Lorient",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "2573860594197344296-649845447-11189111-13680796-27908252",
+    "home_team": "Olympique de Marseille",
+    "away_team": "Paris Saint-Germain",
+    "date": "21/09/2025",
+    "time": "19:45",
+    "country": "France",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "two_vs_1x_handicap",
+        "best_odds": {
+          "2_odd": {
+            "value": 2.05,
+            "source": "Clubx2"
+          },
+          "home_handicap_0.5_odd": {
+            "value": 2.183,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9459,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13680796-11189111",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "France",
+        "tournament_Clubx2": "Ligue 1",
+        "Clubx2_match_id": 13680796,
+        "Clubx2_tournament_id": 2943,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13680796#/overview",
+        "Tounesbet_country_name": "France",
+        "tournament_Tounesbet": "Ligue 1",
+        "Tounesbet_match_id": 11189111,
+        "Tounesbet_tournament_id": 22359,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2573860594197344296-649845447-11189111-13680796-27908252",
+        "home_team": "Olympique de Marseille",
+        "away_team": "Paris Saint-Germain",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "under_3.5_vs_over_3.5",
+        "best_odds": {
+          "under_3.5_odd": {
+            "value": 1.899,
+            "source": "Tounesbet"
+          },
+          "over_3.5_odd": {
+            "value": 2.375,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.9476,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "649845447-11189111",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "France",
+        "tournament_Tounesbet": "Ligue 1",
+        "Tounesbet_match_id": 11189111,
+        "Tounesbet_tournament_id": 22359,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "1xbet_country_name": "France",
+        "tournament_1xbet": "Ligue 1",
+        "1xbet_match_id": 649845447,
+        "1xbet_tournament_id": 12821,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/12821/649845447",
+        "group_id": "2573860594197344296-649845447-11189111-13680796-27908252",
+        "home_team": "Olympique de Marseille",
+        "away_team": "Paris Saint-Germain",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "two_vs_1x_handicap",
+        "best_odds": {
+          "2_odd": {
+            "value": 1.99,
+            "source": "Jibibet"
+          },
+          "home_handicap_0.5_odd": {
+            "value": 2.183,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9606,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2573860594197344296-11189111",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "France",
+        "tournament_Jibibet": "Ligue 1",
+        "Jibibet_match_id": 2573860594197344296,
+        "Jibibet_tournament_id": 1669818844560101376,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "France",
+        "tournament_Tounesbet": "Ligue 1",
+        "Tounesbet_match_id": 11189111,
+        "Tounesbet_tournament_id": 22359,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2573860594197344296-649845447-11189111-13680796-27908252",
+        "home_team": "Olympique de Marseille",
+        "away_team": "Paris Saint-Germain",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "first_half_ah_0.5_home_vs_away",
+        "best_odds": {
+          "home_first_half_handicap_0.5_odd": {
+            "value": 1.793,
+            "source": "Tounesbet"
+          },
+          "away_first_half_handicap_-0.5_odd": {
+            "value": 2.44,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9676,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27908252-11189111",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "France",
+        "tournament_Tounesbet": "Ligue 1",
+        "Tounesbet_match_id": 11189111,
+        "Tounesbet_tournament_id": 22359,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "France",
+        "tournament_Asbet": "Ligue 1",
+        "Asbet_match_id": 27908252,
+        "Asbet_tournament_id": 548,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/France/548/ligue/27908252/olympique-de-marseille-paris-saint-germain",
+        "group_id": "2573860594197344296-649845447-11189111-13680796-27908252",
+        "home_team": "Olympique de Marseille",
+        "away_team": "Paris Saint-Germain",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "11268707-13340421",
+    "home_team": "Caen",
+    "away_team": "Valenciennes",
+    "date": "19/09/2025",
+    "time": "18:30",
+    "country": "France",
+    "all_sources": [
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "second_half_under_1.5_vs_second_half_over_1.5",
+        "best_odds": {
+          "second_half_under_1.5_odd": {
+            "value": 1.817,
+            "source": "Tounesbet"
+          },
+          "second_half_over_1.5_odd": {
+            "value": 2.4,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.967,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13340421-11268707",
+        "Tounesbet_country_name": "France",
+        "tournament_Tounesbet": "National 1",
+        "Tounesbet_match_id": 11268707,
+        "Tounesbet_tournament_id": 22375,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "France",
+        "tournament_Clubx2": "National",
+        "Clubx2_match_id": 13340421,
+        "Clubx2_tournament_id": 3671,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13340421#/overview",
+        "group_id": "11268707-13340421",
+        "home_team": "Caen",
+        "away_team": "Valenciennes",
+        "activity_duration": "25 hours"
+      }
+    ]
+  }
+]

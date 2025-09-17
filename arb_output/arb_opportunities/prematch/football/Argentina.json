@@ -1,0 +1,2380 @@
+[
+  {
+    "group_id": "653486451-11254624-13939882",
+    "home_team": "Newell's Old Boys (Women)",
+    "away_team": "CA Platense (Women)",
+    "date": "18/09/2025",
+    "time": "19:00",
+    "country": "Argentina",
+    "all_sources": [
+      "1xbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "first_half_under_1.5_vs_first_half_over_1.5",
+        "best_odds": {
+          "first_half_under_1.5_odd": {
+            "value": 1.8,
+            "source": "Clubx2"
+          },
+          "first_half_over_1.5_odd": {
+            "value": 2.289,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9924,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13939882-11254624",
+        "Clubx2_country_name": "Argentina",
+        "tournament_Clubx2": "Primera Division, Women",
+        "Clubx2_match_id": 13939882,
+        "Clubx2_tournament_id": 4452,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13939882#/overview",
+        "Tounesbet_country_name": "Argentina",
+        "tournament_Tounesbet": "Argentina Championship. Women",
+        "Tounesbet_match_id": 11254624,
+        "Tounesbet_tournament_id": 47938,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653486451-11254624-13939882",
+        "home_team": "Newell's Old Boys (Women)",
+        "away_team": "CA Platense (Women)",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "2575524008787320873-650893018-10088470-27999480",
+    "home_team": "Deportivo Riestra",
+    "away_team": "Gimnasia y Esgrima La Plata",
+    "date": "19/09/2025",
+    "time": "21:00",
+    "country": "Argentina",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.23,
+            "source": "1xbet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.97,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.956,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "650893018-10088470",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Argentina",
+        "tournament_1xbet": "Primera Division",
+        "1xbet_match_id": 650893018,
+        "1xbet_tournament_id": 119599,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/119599/650893018",
+        "Tounesbet_country_name": "Argentina",
+        "tournament_Tounesbet": "Copa de la Liga Profesional",
+        "Tounesbet_match_id": 10088470,
+        "Tounesbet_tournament_id": 118195,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2575524008787320873-650893018-10088470-27999480",
+        "home_team": "Deportivo Riestra",
+        "away_team": "Gimnasia y Esgrima La Plata",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "away_under_0.5_vs_away_over_0.5",
+        "best_odds": {
+          "away_under_0.5_odd": {
+            "value": 2.06,
+            "source": "Asbet"
+          },
+          "away_over_0.5_odd": {
+            "value": 2.124,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9562,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27999480-10088470",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Argentina",
+        "tournament_Asbet": "Liga Profesional",
+        "Asbet_match_id": 27999480,
+        "Asbet_tournament_id": 1685,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Argentina/1685/liga-profesional/27999480/deportivo-riestra-gimnasia-y-esgrima-la-plata",
+        "Tounesbet_country_name": "Argentina",
+        "tournament_Tounesbet": "Copa de la Liga Profesional",
+        "Tounesbet_match_id": 10088470,
+        "Tounesbet_tournament_id": 118195,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2575524008787320873-650893018-10088470-27999480",
+        "home_team": "Deportivo Riestra",
+        "away_team": "Gimnasia y Esgrima La Plata",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.2,
+            "source": "Jibibet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.97,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9622,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2575524008787320873-10088470",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "Argentina",
+        "tournament_Jibibet": "Liga Profesional",
+        "Jibibet_match_id": 2575524008787320873,
+        "Jibibet_tournament_id": 1669819052220092416,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "Argentina",
+        "tournament_Tounesbet": "Copa de la Liga Profesional",
+        "Tounesbet_match_id": 10088470,
+        "Tounesbet_tournament_id": 118195,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2575524008787320873-650893018-10088470-27999480",
+        "home_team": "Deportivo Riestra",
+        "away_team": "Gimnasia y Esgrima La Plata",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "2575524251784318977-650893015-10088478-13788006-28000522",
+    "home_team": "Club Atletico Lanus",
+    "away_team": "CA Platense Buenos Aires",
+    "date": "20/09/2025",
+    "time": "01:15",
+    "country": "Argentina",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.14,
+            "source": "1xbet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 2.088,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9462,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "650893015-10088478",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Argentina",
+        "tournament_1xbet": "Primera Division",
+        "1xbet_match_id": 650893015,
+        "1xbet_tournament_id": 119599,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/119599/650893015",
+        "Tounesbet_country_name": "Argentina",
+        "tournament_Tounesbet": "Copa de la Liga Profesional",
+        "Tounesbet_match_id": 10088478,
+        "Tounesbet_tournament_id": 118195,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2575524251784318977-650893015-10088478-13788006-28000522",
+        "home_team": "Club Atletico Lanus",
+        "away_team": "CA Platense Buenos Aires",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "ah_-0.75_home_vs_away",
+        "best_odds": {
+          "home_handicap_-0.75_odd": {
+            "value": 2.5,
+            "source": "Asbet"
+          },
+          "away_handicap_0.75_odd": {
+            "value": 1.829,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9467,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "28000522-10088478",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Argentina",
+        "tournament_Asbet": "Liga Profesional",
+        "Asbet_match_id": 28000522,
+        "Asbet_tournament_id": 1685,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Argentina/1685/liga-profesional/28000522/ca-lanus-ca-platense-buenos-aires",
+        "Tounesbet_country_name": "Argentina",
+        "tournament_Tounesbet": "Copa de la Liga Profesional",
+        "Tounesbet_match_id": 10088478,
+        "Tounesbet_tournament_id": 118195,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2575524251784318977-650893015-10088478-13788006-28000522",
+        "home_team": "Club Atletico Lanus",
+        "away_team": "CA Platense Buenos Aires",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "ah_-0.75_home_vs_away",
+        "best_odds": {
+          "home_handicap_-0.75_odd": {
+            "value": 2.5,
+            "source": "Clubx2"
+          },
+          "away_handicap_0.75_odd": {
+            "value": 1.829,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9467,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13788006-10088478",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Argentina",
+        "tournament_Clubx2": "Superliga",
+        "Clubx2_match_id": 13788006,
+        "Clubx2_tournament_id": 3075,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13788006#/overview",
+        "Tounesbet_country_name": "Argentina",
+        "tournament_Tounesbet": "Copa de la Liga Profesional",
+        "Tounesbet_match_id": 10088478,
+        "Tounesbet_tournament_id": 118195,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2575524251784318977-650893015-10088478-13788006-28000522",
+        "home_team": "Club Atletico Lanus",
+        "away_team": "CA Platense Buenos Aires",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.08,
+            "source": "Jibibet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 2.088,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9597,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2575524251784318977-10088478",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "Argentina",
+        "tournament_Jibibet": "Liga Profesional",
+        "Jibibet_match_id": 2575524251784318977,
+        "Jibibet_tournament_id": 1669819052220092416,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "Argentina",
+        "tournament_Tounesbet": "Copa de la Liga Profesional",
+        "Tounesbet_match_id": 10088478,
+        "Tounesbet_tournament_id": 118195,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2575524251784318977-650893015-10088478-13788006-28000522",
+        "home_team": "Club Atletico Lanus",
+        "away_team": "CA Platense Buenos Aires",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "2575524251784318989-650896235-10088471-13788007-28004235",
+    "home_team": "Barracas Central",
+    "away_team": "Club Atletico Sarmiento De Junin",
+    "date": "20/09/2025",
+    "time": "18:30",
+    "country": "Argentina",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 1.99,
+            "source": "1xbet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 2.183,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9606,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "650896235-10088471",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Argentina",
+        "tournament_1xbet": "Primera Division",
+        "1xbet_match_id": 650896235,
+        "1xbet_tournament_id": 119599,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/119599/650896235",
+        "Tounesbet_country_name": "Argentina",
+        "tournament_Tounesbet": "Copa de la Liga Profesional",
+        "Tounesbet_match_id": 10088471,
+        "Tounesbet_tournament_id": 118195,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2575524251784318989-650896235-10088471-13788007-28004235",
+        "home_team": "Barracas Central",
+        "away_team": "Club Atletico Sarmiento De Junin",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "ah_-0.75_home_vs_away",
+        "best_odds": {
+          "home_handicap_-0.75_odd": {
+            "value": 2.28,
+            "source": "Asbet"
+          },
+          "away_handicap_0.75_odd": {
+            "value": 1.911,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9619,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "28004235-10088471",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Argentina",
+        "tournament_Asbet": "Liga Profesional",
+        "Asbet_match_id": 28004235,
+        "Asbet_tournament_id": 1685,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Argentina/1685/liga-profesional/28004235/barracas-central-ca-sarmiento-junin",
+        "Tounesbet_country_name": "Argentina",
+        "tournament_Tounesbet": "Copa de la Liga Profesional",
+        "Tounesbet_match_id": 10088471,
+        "Tounesbet_tournament_id": 118195,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2575524251784318989-650896235-10088471-13788007-28004235",
+        "home_team": "Barracas Central",
+        "away_team": "Club Atletico Sarmiento De Junin",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "ah_-0.75_home_vs_away",
+        "best_odds": {
+          "home_handicap_-0.75_odd": {
+            "value": 2.25,
+            "source": "Clubx2"
+          },
+          "away_handicap_0.75_odd": {
+            "value": 1.911,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9677,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13788007-10088471",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Argentina",
+        "tournament_Clubx2": "Superliga",
+        "Clubx2_match_id": 13788007,
+        "Clubx2_tournament_id": 3075,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13788007#/overview",
+        "Tounesbet_country_name": "Argentina",
+        "tournament_Tounesbet": "Copa de la Liga Profesional",
+        "Tounesbet_match_id": 10088471,
+        "Tounesbet_tournament_id": 118195,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2575524251784318989-650896235-10088471-13788007-28004235",
+        "home_team": "Barracas Central",
+        "away_team": "Club Atletico Sarmiento De Junin",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 1.96,
+            "source": "Jibibet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 2.183,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9683,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2575524251784318989-10088471",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "Argentina",
+        "tournament_Jibibet": "Liga Profesional",
+        "Jibibet_match_id": 2575524251784318989,
+        "Jibibet_tournament_id": 1669819052220092416,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "Argentina",
+        "tournament_Tounesbet": "Copa de la Liga Profesional",
+        "Tounesbet_match_id": 10088471,
+        "Tounesbet_tournament_id": 118195,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2575524251784318989-650896235-10088471-13788007-28004235",
+        "home_team": "Barracas Central",
+        "away_team": "Club Atletico Sarmiento De Junin",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "2575524251784318984-650892988-10088474-13788008",
+    "home_team": "Union de Santa Fe",
+    "away_team": "Independiente Rivadavia",
+    "date": "20/09/2025",
+    "time": "20:45",
+    "country": "Argentina",
+    "all_sources": [
+      "1xbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 1.972,
+            "source": "1xbet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 2.242,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9531,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "650892988-10088474",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Argentina",
+        "tournament_1xbet": "Primera Division",
+        "1xbet_match_id": 650892988,
+        "1xbet_tournament_id": 119599,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/119599/650892988",
+        "Tounesbet_country_name": "Argentina",
+        "tournament_Tounesbet": "Copa de la Liga Profesional",
+        "Tounesbet_match_id": 10088474,
+        "Tounesbet_tournament_id": 118195,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2575524251784318984-650892988-10088474-13788008",
+        "home_team": "Union de Santa Fe",
+        "away_team": "Independiente Rivadavia",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 1.92,
+            "source": "Jibibet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 2.242,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9669,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2575524251784318984-10088474",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "Argentina",
+        "tournament_Jibibet": "Liga Profesional",
+        "Jibibet_match_id": 2575524251784318984,
+        "Jibibet_tournament_id": 1669819052220092416,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "Argentina",
+        "tournament_Tounesbet": "Copa de la Liga Profesional",
+        "Tounesbet_match_id": 10088474,
+        "Tounesbet_tournament_id": 118195,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2575524251784318984-650892988-10088474-13788008",
+        "home_team": "Union de Santa Fe",
+        "away_team": "Independiente Rivadavia",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "ah_-0.75_home_vs_away",
+        "best_odds": {
+          "home_handicap_-0.75_odd": {
+            "value": 2.2,
+            "source": "Clubx2"
+          },
+          "away_handicap_0.75_odd": {
+            "value": 1.947,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9682,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13788008-10088474",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Argentina",
+        "tournament_Clubx2": "Superliga",
+        "Clubx2_match_id": 13788008,
+        "Clubx2_tournament_id": 3075,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13788008#/overview",
+        "Tounesbet_country_name": "Argentina",
+        "tournament_Tounesbet": "Copa de la Liga Profesional",
+        "Tounesbet_match_id": 10088474,
+        "Tounesbet_tournament_id": 118195,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2575524251784318984-650892988-10088474-13788008",
+        "home_team": "Union de Santa Fe",
+        "away_team": "Independiente Rivadavia",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "2575524008787320846-650892994-13788011-9720824",
+    "home_team": "Atletico Tucuman",
+    "away_team": "River Plate Buenos Aires",
+    "date": "21/09/2025",
+    "time": "01:15",
+    "country": "Argentina",
+    "all_sources": [
+      "1xbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_0.0_home_vs_away",
+        "best_odds": {
+          "home_handicap_0.0_odd": {
+            "value": 2.5,
+            "source": "Clubx2"
+          },
+          "away_handicap_0.0_odd": {
+            "value": 1.793,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9577,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13788011-9720824",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Argentina",
+        "tournament_Clubx2": "Superliga",
+        "Clubx2_match_id": 13788011,
+        "Clubx2_tournament_id": 3075,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13788011#/overview",
+        "Tounesbet_country_name": "Argentina",
+        "tournament_Tounesbet": "Copa de la Liga Profesional",
+        "Tounesbet_match_id": 9720824,
+        "Tounesbet_tournament_id": 118195,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2575524008787320846-650892994-13788011-9720824",
+        "home_team": "Atletico Tucuman",
+        "away_team": "River Plate Buenos Aires",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "two_vs_1x_handicap",
+        "best_odds": {
+          "2_odd": {
+            "value": 2.24,
+            "source": "Jibibet"
+          },
+          "home_handicap_0.5_odd": {
+            "value": 1.947,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.96,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2575524008787320846-9720824",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "Argentina",
+        "tournament_Jibibet": "Liga Profesional",
+        "Jibibet_match_id": 2575524008787320846,
+        "Jibibet_tournament_id": 1669819052220092416,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "Argentina",
+        "tournament_Tounesbet": "Copa de la Liga Profesional",
+        "Tounesbet_match_id": 9720824,
+        "Tounesbet_tournament_id": 118195,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2575524008787320846-650892994-13788011-9720824",
+        "home_team": "Atletico Tucuman",
+        "away_team": "River Plate Buenos Aires",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "home_under_0.5_vs_home_over_0.5",
+        "best_odds": {
+          "home_under_0.5_odd": {
+            "value": 2.37,
+            "source": "1xbet"
+          },
+          "home_over_0.5_odd": {
+            "value": 1.852,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9619,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "650892994-9720824",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Argentina",
+        "tournament_1xbet": "Primera Division",
+        "1xbet_match_id": 650892994,
+        "1xbet_tournament_id": 119599,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/119599/650892994",
+        "Tounesbet_country_name": "Argentina",
+        "tournament_Tounesbet": "Copa de la Liga Profesional",
+        "Tounesbet_match_id": 9720824,
+        "Tounesbet_tournament_id": 118195,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2575524008787320846-650892994-13788011-9720824",
+        "home_team": "Atletico Tucuman",
+        "away_team": "River Plate Buenos Aires",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "2575524251784318978-650893006-10420121-13788012",
+    "home_team": "CA Independiente Avellaneda",
+    "away_team": "CA San Lorenzo de Almagro",
+    "date": "21/09/2025",
+    "time": "18:30",
+    "country": "Argentina",
+    "all_sources": [
+      "1xbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.11,
+            "source": "1xbet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 2.065,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9582,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "650893006-10420121",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Argentina",
+        "tournament_1xbet": "Primera Division",
+        "1xbet_match_id": 650893006,
+        "1xbet_tournament_id": 119599,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/119599/650893006",
+        "Tounesbet_country_name": "Argentina",
+        "tournament_Tounesbet": "Copa de la Liga Profesional",
+        "Tounesbet_match_id": 10420121,
+        "Tounesbet_tournament_id": 118195,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2575524251784318978-650893006-10420121-13788012",
+        "home_team": "CA Independiente Avellaneda",
+        "away_team": "CA San Lorenzo de Almagro",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.08,
+            "source": "Jibibet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 2.065,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.965,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2575524251784318978-10420121",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "Argentina",
+        "tournament_Jibibet": "Liga Profesional",
+        "Jibibet_match_id": 2575524251784318978,
+        "Jibibet_tournament_id": 1669819052220092416,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "Argentina",
+        "tournament_Tounesbet": "Copa de la Liga Profesional",
+        "Tounesbet_match_id": 10420121,
+        "Tounesbet_tournament_id": 118195,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2575524251784318978-650893006-10420121-13788012",
+        "home_team": "CA Independiente Avellaneda",
+        "away_team": "CA San Lorenzo de Almagro",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "first_half_under_0.5_vs_first_half_over_0.5",
+        "best_odds": {
+          "first_half_under_0.5_odd": {
+            "value": 2.2,
+            "source": "Clubx2"
+          },
+          "first_half_over_0.5_odd": {
+            "value": 1.947,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9682,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13788012-10420121",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Argentina",
+        "tournament_Clubx2": "Superliga",
+        "Clubx2_match_id": 13788012,
+        "Clubx2_tournament_id": 3075,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13788012#/overview",
+        "Tounesbet_country_name": "Argentina",
+        "tournament_Tounesbet": "Copa de la Liga Profesional",
+        "Tounesbet_match_id": 10420121,
+        "Tounesbet_tournament_id": 118195,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2575524251784318978-650893006-10420121-13788012",
+        "home_team": "CA Independiente Avellaneda",
+        "away_team": "CA San Lorenzo de Almagro",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "2575524251784318980-650892997-10088472-13788013",
+    "home_team": "Godoy Cruz Antonio Tomba",
+    "away_team": "Instituto Atletico Central Cordoba",
+    "date": "21/09/2025",
+    "time": "20:45",
+    "country": "Argentina",
+    "all_sources": [
+      "1xbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "one_vs_x2",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.25,
+            "source": "1xbet"
+          },
+          "X2_odd": {
+            "value": 1.958,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9552,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "650892997-10088472",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Argentina",
+        "tournament_1xbet": "Primera Division",
+        "1xbet_match_id": 650892997,
+        "1xbet_tournament_id": 119599,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/119599/650892997",
+        "Tounesbet_country_name": "Argentina",
+        "tournament_Tounesbet": "Copa de la Liga Profesional",
+        "Tounesbet_match_id": 10088472,
+        "Tounesbet_tournament_id": 118195,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2575524251784318980-650892997-10088472-13788013",
+        "home_team": "Godoy Cruz Antonio Tomba",
+        "away_team": "Instituto Atletico Central Cordoba",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "first_half_ah_0.0_home_vs_away",
+        "best_odds": {
+          "home_first_half_handicap_0.0_odd": {
+            "value": 1.852,
+            "source": "Tounesbet"
+          },
+          "away_first_half_handicap_0.0_odd": {
+            "value": 2.4,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9566,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13788013-10088472",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Argentina",
+        "tournament_Tounesbet": "Copa de la Liga Profesional",
+        "Tounesbet_match_id": 10088472,
+        "Tounesbet_tournament_id": 118195,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "Argentina",
+        "tournament_Clubx2": "Superliga",
+        "Clubx2_match_id": 13788013,
+        "Clubx2_tournament_id": 3075,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13788013#/overview",
+        "group_id": "2575524251784318980-650892997-10088472-13788013",
+        "home_team": "Godoy Cruz Antonio Tomba",
+        "away_team": "Instituto Atletico Central Cordoba",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "one_vs_x2",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.596,
+            "source": "Tounesbet"
+          },
+          "X2_odd": {
+            "value": 1.72,
+            "source": "Jibibet"
+          }
+        },
+        "arbitrage_percentage": 0.9666,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2575524251784318980-10088472",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Argentina",
+        "tournament_Tounesbet": "Copa de la Liga Profesional",
+        "Tounesbet_match_id": 10088472,
+        "Tounesbet_tournament_id": 118195,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Jibibet_country_name": "Argentina",
+        "tournament_Jibibet": "Liga Profesional",
+        "Jibibet_match_id": 2575524251784318980,
+        "Jibibet_tournament_id": 1669819052220092416,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "group_id": "2575524251784318980-650892997-10088472-13788013",
+        "home_team": "Godoy Cruz Antonio Tomba",
+        "away_team": "Instituto Atletico Central Cordoba",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "2575524008787320861-652218050-13788017-9732739",
+    "home_team": "Boca Juniors",
+    "away_team": "Central Cordoba Santiago del Estero",
+    "date": "22/09/2025",
+    "time": "01:15",
+    "country": "Argentina",
+    "all_sources": [
+      "1xbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_-1.0_home_vs_away",
+        "best_odds": {
+          "home_handicap_-1.0_odd": {
+            "value": 2.32,
+            "source": "1xbet"
+          },
+          "away_handicap_1.0_odd": {
+            "value": 2.029,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9239,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "652218050-9732739",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Argentina",
+        "tournament_1xbet": "Primera Division",
+        "1xbet_match_id": 652218050,
+        "1xbet_tournament_id": 119599,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/119599/652218050",
+        "Tounesbet_country_name": "Argentina",
+        "tournament_Tounesbet": "Copa de la Liga Profesional",
+        "Tounesbet_match_id": 9732739,
+        "Tounesbet_tournament_id": 118195,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2575524008787320861-652218050-13788017-9732739",
+        "home_team": "Boca Juniors",
+        "away_team": "Central Cordoba Santiago del Estero",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 1.888,
+            "source": "Tounesbet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 2.35,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9552,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13788017-9732739",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Argentina",
+        "tournament_Tounesbet": "Copa de la Liga Profesional",
+        "Tounesbet_match_id": 9732739,
+        "Tounesbet_tournament_id": 118195,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "Argentina",
+        "tournament_Clubx2": "Superliga",
+        "Clubx2_match_id": 13788017,
+        "Clubx2_tournament_id": 3075,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13788017#/overview",
+        "group_id": "2575524008787320861-652218050-13788017-9732739",
+        "home_team": "Boca Juniors",
+        "away_team": "Central Cordoba Santiago del Estero",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "one_vs_x2",
+        "best_odds": {
+          "1_odd": {
+            "value": 1.888,
+            "source": "Tounesbet"
+          },
+          "X2_odd": {
+            "value": 2.27,
+            "source": "Jibibet"
+          }
+        },
+        "arbitrage_percentage": 0.9702,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2575524008787320861-9732739",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Argentina",
+        "tournament_Tounesbet": "Copa de la Liga Profesional",
+        "Tounesbet_match_id": 9732739,
+        "Tounesbet_tournament_id": 118195,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Jibibet_country_name": "Argentina",
+        "tournament_Jibibet": "Liga Profesional",
+        "Jibibet_match_id": 2575524008787320861,
+        "Jibibet_tournament_id": 1669819052220092416,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "group_id": "2575524008787320861-652218050-13788017-9732739",
+        "home_team": "Boca Juniors",
+        "away_team": "Central Cordoba Santiago del Estero",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "653854115-12702821-28017268-9562518",
+    "home_team": "Club Atletico Atlanta",
+    "away_team": "Club Social y Deportivo Tristan Suarez",
+    "date": "20/09/2025",
+    "time": "16:45",
+    "country": "Argentina",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "first_half_under_0.5_vs_first_half_over_0.5",
+        "best_odds": {
+          "first_half_under_0.5_odd": {
+            "value": 2.2858,
+            "source": "Clubx2"
+          },
+          "first_half_over_0.5_odd": {
+            "value": 1.899,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9641,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "12702821-9562518",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Argentina",
+        "tournament_Clubx2": "Primera Nacional",
+        "Clubx2_match_id": 12702821,
+        "Clubx2_tournament_id": 4257,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=12702821#/overview",
+        "Tounesbet_country_name": "Argentina",
+        "tournament_Tounesbet": "Primera Nacional",
+        "Tounesbet_match_id": 9562518,
+        "Tounesbet_tournament_id": 47784,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653854115-12702821-28017268-9562518",
+        "home_team": "Club Atletico Atlanta",
+        "away_team": "Club Social y Deportivo Tristan Suarez",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 1.89,
+            "source": "1xbet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 2.265,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9706,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653854115-9562518",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Argentina",
+        "tournament_1xbet": "Primera B Nacional",
+        "1xbet_match_id": 653854115,
+        "1xbet_tournament_id": 887299,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/887299/653854115",
+        "Tounesbet_country_name": "Argentina",
+        "tournament_Tounesbet": "Primera Nacional",
+        "Tounesbet_match_id": 9562518,
+        "Tounesbet_tournament_id": 47784,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653854115-12702821-28017268-9562518",
+        "home_team": "Club Atletico Atlanta",
+        "away_team": "Club Social y Deportivo Tristan Suarez",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "ah_-0.25_home_vs_away",
+        "best_odds": {
+          "home_handicap_-0.25_odd": {
+            "value": 1.888,
+            "source": "Tounesbet"
+          },
+          "away_handicap_0.25_odd": {
+            "value": 2.25,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9741,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "28017268-9562518",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Argentina",
+        "tournament_Tounesbet": "Primera Nacional",
+        "Tounesbet_match_id": 9562518,
+        "Tounesbet_tournament_id": 47784,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "Argentina",
+        "tournament_Asbet": "Primera Nacional",
+        "Asbet_match_id": 28017268,
+        "Asbet_tournament_id": 1684,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Argentina/1684/primera-nacional/28017268/ca-atlanta-tristan-suarez",
+        "group_id": "653854115-12702821-28017268-9562518",
+        "home_team": "Club Atletico Atlanta",
+        "away_team": "Club Social y Deportivo Tristan Suarez",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "653840260-12702825-28017830-9562522",
+    "home_team": "Club Almagro",
+    "away_team": "Club Ferro Carril Oeste",
+    "date": "20/09/2025",
+    "time": "18:45",
+    "country": "Argentina",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.4286,
+            "source": "Clubx2"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.852,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9517,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "12702825-9562522",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Argentina",
+        "tournament_Clubx2": "Primera Nacional",
+        "Clubx2_match_id": 12702825,
+        "Clubx2_tournament_id": 4257,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=12702825#/overview",
+        "Tounesbet_country_name": "Argentina",
+        "tournament_Tounesbet": "Primera Nacional",
+        "Tounesbet_match_id": 9562522,
+        "Tounesbet_tournament_id": 47784,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653840260-12702825-28017830-9562522",
+        "home_team": "Club Almagro",
+        "away_team": "Club Ferro Carril Oeste",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "ah_0.0_home_vs_away",
+        "best_odds": {
+          "home_handicap_0.0_odd": {
+            "value": 1.947,
+            "source": "Tounesbet"
+          },
+          "away_handicap_0.0_odd": {
+            "value": 2.25,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9581,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "28017830-9562522",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Argentina",
+        "tournament_Tounesbet": "Primera Nacional",
+        "Tounesbet_match_id": 9562522,
+        "Tounesbet_tournament_id": 47784,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "Argentina",
+        "tournament_Asbet": "Primera Nacional",
+        "Asbet_match_id": 28017830,
+        "Asbet_tournament_id": 1684,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Argentina/1684/primera-nacional/28017830/club-almagro-club-ferro-carril-oeste",
+        "group_id": "653840260-12702825-28017830-9562522",
+        "home_team": "Club Almagro",
+        "away_team": "Club Ferro Carril Oeste",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.37,
+            "source": "1xbet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.852,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9619,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653840260-9562522",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Argentina",
+        "tournament_1xbet": "Primera B Nacional",
+        "1xbet_match_id": 653840260,
+        "1xbet_tournament_id": 887299,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/887299/653840260",
+        "Tounesbet_country_name": "Argentina",
+        "tournament_Tounesbet": "Primera Nacional",
+        "Tounesbet_match_id": 9562522,
+        "Tounesbet_tournament_id": 47784,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653840260-12702825-28017830-9562522",
+        "home_team": "Club Almagro",
+        "away_team": "Club Ferro Carril Oeste",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "653840263-12702832-28017967-9562531",
+    "home_team": "Arsenal de Sarandi",
+    "away_team": "Deportivo Maipu",
+    "date": "20/09/2025",
+    "time": "19:30",
+    "country": "Argentina",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.25,
+            "source": "Clubx2"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 2.029,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9373,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "12702832-9562531",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Argentina",
+        "tournament_Clubx2": "Primera Nacional",
+        "Clubx2_match_id": 12702832,
+        "Clubx2_tournament_id": 4257,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=12702832#/overview",
+        "Tounesbet_country_name": "Argentina",
+        "tournament_Tounesbet": "Primera Nacional",
+        "Tounesbet_match_id": 9562531,
+        "Tounesbet_tournament_id": 47784,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653840263-12702832-28017967-9562531",
+        "home_team": "Arsenal de Sarandi",
+        "away_team": "Deportivo Maipu",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "ah_-0.75_home_vs_away",
+        "best_odds": {
+          "home_handicap_-0.75_odd": {
+            "value": 2.62,
+            "source": "Asbet"
+          },
+          "away_handicap_0.75_odd": {
+            "value": 1.793,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9394,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "28017967-9562531",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Argentina",
+        "tournament_Asbet": "Primera Nacional",
+        "Asbet_match_id": 28017967,
+        "Asbet_tournament_id": 1684,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Argentina/1684/primera-nacional/28017967/arsenal-de-sarandi-cd-maipu",
+        "Tounesbet_country_name": "Argentina",
+        "tournament_Tounesbet": "Primera Nacional",
+        "Tounesbet_match_id": 9562531,
+        "Tounesbet_tournament_id": 47784,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653840263-12702832-28017967-9562531",
+        "home_team": "Arsenal de Sarandi",
+        "away_team": "Deportivo Maipu",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "away_under_0.5_vs_away_over_0.5",
+        "best_odds": {
+          "away_under_0.5_odd": {
+            "value": 2.22,
+            "source": "1xbet"
+          },
+          "away_over_0.5_odd": {
+            "value": 1.958,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9612,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653840263-9562531",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Argentina",
+        "tournament_1xbet": "Primera B Nacional",
+        "1xbet_match_id": 653840263,
+        "1xbet_tournament_id": 887299,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/887299/653840263",
+        "Tounesbet_country_name": "Argentina",
+        "tournament_Tounesbet": "Primera Nacional",
+        "Tounesbet_match_id": 9562531,
+        "Tounesbet_tournament_id": 47784,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653840263-12702832-28017967-9562531",
+        "home_team": "Arsenal de Sarandi",
+        "away_team": "Deportivo Maipu",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "653843956-12702823-28017965-9562529",
+    "home_team": "CA San Miguel",
+    "away_team": "Club Atletico Patronato",
+    "date": "20/09/2025",
+    "time": "19:30",
+    "country": "Argentina",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "first_half_under_0.5_vs_first_half_over_0.5",
+        "best_odds": {
+          "first_half_under_0.5_odd": {
+            "value": 2.2858,
+            "source": "Clubx2"
+          },
+          "first_half_over_0.5_odd": {
+            "value": 1.923,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9575,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "12702823-9562529",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Argentina",
+        "tournament_Clubx2": "Primera Nacional",
+        "Clubx2_match_id": 12702823,
+        "Clubx2_tournament_id": 4257,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=12702823#/overview",
+        "Tounesbet_country_name": "Argentina",
+        "tournament_Tounesbet": "Primera Nacional",
+        "Tounesbet_match_id": 9562529,
+        "Tounesbet_tournament_id": 47784,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653843956-12702823-28017965-9562529",
+        "home_team": "CA San Miguel",
+        "away_team": "Club Atletico Patronato",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.09,
+            "source": "1xbet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 2.065,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9627,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653843956-9562529",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Argentina",
+        "tournament_1xbet": "Primera B Nacional",
+        "1xbet_match_id": 653843956,
+        "1xbet_tournament_id": 887299,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/887299/653843956",
+        "Tounesbet_country_name": "Argentina",
+        "tournament_Tounesbet": "Primera Nacional",
+        "Tounesbet_match_id": 9562529,
+        "Tounesbet_tournament_id": 47784,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653843956-12702823-28017965-9562529",
+        "home_team": "CA San Miguel",
+        "away_team": "Club Atletico Patronato",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "first_half_under_0.5_vs_first_half_over_0.5",
+        "best_odds": {
+          "first_half_under_0.5_odd": {
+            "value": 2.21,
+            "source": "Asbet"
+          },
+          "first_half_over_0.5_odd": {
+            "value": 1.923,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9725,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "28017965-9562529",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Argentina",
+        "tournament_Asbet": "Primera Nacional",
+        "Asbet_match_id": 28017965,
+        "Asbet_tournament_id": 1684,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Argentina/1684/primera-nacional/28017965/ca-san-miguel-ca-patronato",
+        "Tounesbet_country_name": "Argentina",
+        "tournament_Tounesbet": "Primera Nacional",
+        "Tounesbet_match_id": 9562529,
+        "Tounesbet_tournament_id": 47784,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653843956-12702823-28017965-9562529",
+        "home_team": "CA San Miguel",
+        "away_team": "Club Atletico Patronato",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "653840257-12702819-28017966-9562525",
+    "home_team": "CA Colegiales",
+    "away_team": "Club Gimnasia y Tiro Salta",
+    "date": "20/09/2025",
+    "time": "19:30",
+    "country": "Argentina",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_0.25_home_vs_away",
+        "best_odds": {
+          "home_handicap_0.25_odd": {
+            "value": 1.829,
+            "source": "Tounesbet"
+          },
+          "away_handicap_-0.25_odd": {
+            "value": 2.39,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9652,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "28017966-9562525",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Argentina",
+        "tournament_Tounesbet": "Primera Nacional",
+        "Tounesbet_match_id": 9562525,
+        "Tounesbet_tournament_id": 47784,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "Argentina",
+        "tournament_Asbet": "Primera Nacional",
+        "Asbet_match_id": 28017966,
+        "Asbet_tournament_id": 1684,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Argentina/1684/primera-nacional/28017966/ca-colegiales-club-gimnasia-y-tiro-salta",
+        "group_id": "653840257-12702819-28017966-9562525",
+        "home_team": "CA Colegiales",
+        "away_team": "Club Gimnasia y Tiro Salta",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "first_half_under_0.5_vs_first_half_over_0.5",
+        "best_odds": {
+          "first_half_under_0.5_odd": {
+            "value": 2.05,
+            "source": "Clubx2"
+          },
+          "first_half_over_0.5_odd": {
+            "value": 2.053,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9749,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "12702819-9562525",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Argentina",
+        "tournament_Clubx2": "Primera Nacional",
+        "Clubx2_match_id": 12702819,
+        "Clubx2_tournament_id": 4257,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=12702819#/overview",
+        "Tounesbet_country_name": "Argentina",
+        "tournament_Tounesbet": "Primera Nacional",
+        "Tounesbet_match_id": 9562525,
+        "Tounesbet_tournament_id": 47784,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653840257-12702819-28017966-9562525",
+        "home_team": "CA Colegiales",
+        "away_team": "Club Gimnasia y Tiro Salta",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "ah_0.25_home_vs_away",
+        "best_odds": {
+          "home_handicap_0.25_odd": {
+            "value": 1.829,
+            "source": "Tounesbet"
+          },
+          "away_handicap_-0.25_odd": {
+            "value": 2.32,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.9778,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653840257-9562525",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Argentina",
+        "tournament_Tounesbet": "Primera Nacional",
+        "Tounesbet_match_id": 9562525,
+        "Tounesbet_tournament_id": 47784,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "1xbet_country_name": "Argentina",
+        "tournament_1xbet": "Primera B Nacional",
+        "1xbet_match_id": 653840257,
+        "1xbet_tournament_id": 887299,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/887299/653840257",
+        "group_id": "653840257-12702819-28017966-9562525",
+        "home_team": "CA Colegiales",
+        "away_team": "Club Gimnasia y Tiro Salta",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "653845189-12702836-28018100-9562530",
+    "home_team": "Club Atletico Temperley",
+    "away_team": "Estudiantes de Buenos Aires",
+    "date": "20/09/2025",
+    "time": "20:45",
+    "country": "Argentina",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "home_under_0.5_vs_home_over_0.5",
+        "best_odds": {
+          "home_under_0.5_odd": {
+            "value": 2.55,
+            "source": "Asbet"
+          },
+          "home_over_0.5_odd": {
+            "value": 1.805,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9462,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "28018100-9562530",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Argentina",
+        "tournament_Asbet": "Primera Nacional",
+        "Asbet_match_id": 28018100,
+        "Asbet_tournament_id": 1684,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Argentina/1684/primera-nacional/28018100/ca-temperley-estudiantes-de-caseros",
+        "Tounesbet_country_name": "Argentina",
+        "tournament_Tounesbet": "Primera Nacional",
+        "Tounesbet_match_id": 9562530,
+        "Tounesbet_tournament_id": 47784,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653845189-12702836-28018100-9562530",
+        "home_team": "Club Atletico Temperley",
+        "away_team": "Estudiantes de Buenos Aires",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "home_under_0.5_vs_home_over_0.5",
+        "best_odds": {
+          "home_under_0.5_odd": {
+            "value": 2.5,
+            "source": "1xbet"
+          },
+          "home_over_0.5_odd": {
+            "value": 1.805,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.954,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653845189-9562530",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Argentina",
+        "tournament_1xbet": "Primera B Nacional",
+        "1xbet_match_id": 653845189,
+        "1xbet_tournament_id": 887299,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/887299/653845189",
+        "Tounesbet_country_name": "Argentina",
+        "tournament_Tounesbet": "Primera Nacional",
+        "Tounesbet_match_id": 9562530,
+        "Tounesbet_tournament_id": 47784,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653845189-12702836-28018100-9562530",
+        "home_team": "Club Atletico Temperley",
+        "away_team": "Estudiantes de Buenos Aires",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "home_under_0.5_vs_home_over_0.5",
+        "best_odds": {
+          "home_under_0.5_odd": {
+            "value": 2.4,
+            "source": "Clubx2"
+          },
+          "home_over_0.5_odd": {
+            "value": 1.805,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9707,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "12702836-9562530",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Argentina",
+        "tournament_Clubx2": "Primera Nacional",
+        "Clubx2_match_id": 12702836,
+        "Clubx2_tournament_id": 4257,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=12702836#/overview",
+        "Tounesbet_country_name": "Argentina",
+        "tournament_Tounesbet": "Primera Nacional",
+        "Tounesbet_match_id": 9562530,
+        "Tounesbet_tournament_id": 47784,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653845189-12702836-28018100-9562530",
+        "home_team": "Club Atletico Temperley",
+        "away_team": "Estudiantes de Buenos Aires",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "653840963-12702829-28020015-9562526",
+    "home_team": "CA Chaco For Ever",
+    "away_team": "Estudiantes de Rio Cuarto",
+    "date": "20/09/2025",
+    "time": "21:30",
+    "country": "Argentina",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.625,
+            "source": "Clubx2"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.829,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9277,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "12702829-9562526",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Argentina",
+        "tournament_Clubx2": "Primera Nacional",
+        "Clubx2_match_id": 12702829,
+        "Clubx2_tournament_id": 4257,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=12702829#/overview",
+        "Tounesbet_country_name": "Argentina",
+        "tournament_Tounesbet": "Primera Nacional",
+        "Tounesbet_match_id": 9562526,
+        "Tounesbet_tournament_id": 47784,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653840963-12702829-28020015-9562526",
+        "home_team": "CA Chaco For Ever",
+        "away_team": "Estudiantes de Rio Cuarto",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.57,
+            "source": "1xbet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.829,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9359,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653840963-9562526",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Argentina",
+        "tournament_1xbet": "Primera B Nacional",
+        "1xbet_match_id": 653840963,
+        "1xbet_tournament_id": 887299,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/887299/653840963",
+        "Tounesbet_country_name": "Argentina",
+        "tournament_Tounesbet": "Primera Nacional",
+        "Tounesbet_match_id": 9562526,
+        "Tounesbet_tournament_id": 47784,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653840963-12702829-28020015-9562526",
+        "home_team": "CA Chaco For Ever",
+        "away_team": "Estudiantes de Rio Cuarto",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.54,
+            "source": "Asbet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.829,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9404,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "28020015-9562526",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Argentina",
+        "tournament_Asbet": "Primera Nacional",
+        "Asbet_match_id": 28020015,
+        "Asbet_tournament_id": 1684,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Argentina/1684/primera-nacional/28020015/ca-chaco-for-ever-aa-estudiantes",
+        "Tounesbet_country_name": "Argentina",
+        "tournament_Tounesbet": "Primera Nacional",
+        "Tounesbet_match_id": 9562526,
+        "Tounesbet_tournament_id": 47784,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653840963-12702829-28020015-9562526",
+        "home_team": "CA Chaco For Ever",
+        "away_team": "Estudiantes de Rio Cuarto",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "653843959-12702814-28025270-9562534",
+    "home_team": "CA Alvarado Mar del Plata",
+    "away_team": "CA Los Andes",
+    "date": "21/09/2025",
+    "time": "19:30",
+    "country": "Argentina",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.45,
+            "source": "1xbet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.829,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9549,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653843959-9562534",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Argentina",
+        "tournament_1xbet": "Primera B Nacional",
+        "1xbet_match_id": 653843959,
+        "1xbet_tournament_id": 887299,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/887299/653843959",
+        "Tounesbet_country_name": "Argentina",
+        "tournament_Tounesbet": "Primera Nacional",
+        "Tounesbet_match_id": 9562534,
+        "Tounesbet_tournament_id": 47784,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653843959-12702814-28025270-9562534",
+        "home_team": "CA Alvarado Mar del Plata",
+        "away_team": "CA Los Andes",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.4286,
+            "source": "Clubx2"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.829,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9585,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "12702814-9562534",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Argentina",
+        "tournament_Clubx2": "Primera Nacional",
+        "Clubx2_match_id": 12702814,
+        "Clubx2_tournament_id": 4257,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=12702814#/overview",
+        "Tounesbet_country_name": "Argentina",
+        "tournament_Tounesbet": "Primera Nacional",
+        "Tounesbet_match_id": 9562534,
+        "Tounesbet_tournament_id": 47784,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653843959-12702814-28025270-9562534",
+        "home_team": "CA Alvarado Mar del Plata",
+        "away_team": "CA Los Andes",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "ah_-0.5_home_vs_away",
+        "best_odds": {
+          "home_handicap_-0.5_odd": {
+            "value": 2.37,
+            "source": "Asbet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.829,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9687,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "28025270-9562534",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Argentina",
+        "tournament_Asbet": "Primera Nacional",
+        "Asbet_match_id": 28025270,
+        "Asbet_tournament_id": 1684,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Argentina/1684/primera-nacional/28025270/ca-alvarado-mar-del-plata-ca-los-andes",
+        "Tounesbet_country_name": "Argentina",
+        "tournament_Tounesbet": "Primera Nacional",
+        "Tounesbet_match_id": 9562534,
+        "Tounesbet_tournament_id": 47784,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653843959-12702814-28025270-9562534",
+        "home_team": "CA Alvarado Mar del Plata",
+        "away_team": "CA Los Andes",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "653843971-12702830-28025269-9562523",
+    "home_team": "CA Defensores Unidos",
+    "away_team": "CA Nueva Chicago",
+    "date": "21/09/2025",
+    "time": "19:30",
+    "country": "Argentina",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "first_half_under_0.5_vs_first_half_over_0.5",
+        "best_odds": {
+          "first_half_under_0.5_odd": {
+            "value": 2.1,
+            "source": "Clubx2"
+          },
+          "first_half_over_0.5_odd": {
+            "value": 2.029,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.969,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "12702830-9562523",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Argentina",
+        "tournament_Clubx2": "Primera Nacional",
+        "Clubx2_match_id": 12702830,
+        "Clubx2_tournament_id": 4257,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=12702830#/overview",
+        "Tounesbet_country_name": "Argentina",
+        "tournament_Tounesbet": "Primera Nacional",
+        "Tounesbet_match_id": 9562523,
+        "Tounesbet_tournament_id": 47784,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653843971-12702830-28025269-9562523",
+        "home_team": "CA Defensores Unidos",
+        "away_team": "CA Nueva Chicago",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "home_under_0.5_vs_home_over_0.5",
+        "best_odds": {
+          "home_under_0.5_odd": {
+            "value": 2.2,
+            "source": "1xbet"
+          },
+          "home_over_0.5_odd": {
+            "value": 1.899,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9811,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653843971-9562523",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Argentina",
+        "tournament_1xbet": "Primera B Nacional",
+        "1xbet_match_id": 653843971,
+        "1xbet_tournament_id": 887299,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/887299/653843971",
+        "Tounesbet_country_name": "Argentina",
+        "tournament_Tounesbet": "Primera Nacional",
+        "Tounesbet_match_id": 9562523,
+        "Tounesbet_tournament_id": 47784,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653843971-12702830-28025269-9562523",
+        "home_team": "CA Defensores Unidos",
+        "away_team": "CA Nueva Chicago",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "home_under_0.5_vs_home_over_0.5",
+        "best_odds": {
+          "home_under_0.5_odd": {
+            "value": 2.2,
+            "source": "Asbet"
+          },
+          "home_over_0.5_odd": {
+            "value": 1.899,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9811,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "28025269-9562523",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Argentina",
+        "tournament_Asbet": "Primera Nacional",
+        "Asbet_match_id": 28025269,
+        "Asbet_tournament_id": 1684,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Argentina/1684/primera-nacional/28025269/ca-defensores-unidos-ca-nueva-chicago",
+        "Tounesbet_country_name": "Argentina",
+        "tournament_Tounesbet": "Primera Nacional",
+        "Tounesbet_match_id": 9562523,
+        "Tounesbet_tournament_id": 47784,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653843971-12702830-28025269-9562523",
+        "home_team": "CA Defensores Unidos",
+        "away_team": "CA Nueva Chicago",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "653844149-12702827-28025339-9731748",
+    "home_team": "Club Atletico Mitre de Santiago del Estero",
+    "away_team": "Club Atletico Talleres Remedios de Escalada",
+    "date": "21/09/2025",
+    "time": "20:00",
+    "country": "Argentina",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "homewin_handicap_vs_x2",
+        "best_odds": {
+          "home_handicap_-0.5_odd": {
+            "value": 1.911,
+            "source": "Tounesbet"
+          },
+          "X2_odd": {
+            "value": 2.3,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.9581,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653844149-9731748",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Argentina",
+        "tournament_Tounesbet": "Primera Nacional",
+        "Tounesbet_match_id": 9731748,
+        "Tounesbet_tournament_id": 47784,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "1xbet_country_name": "Argentina",
+        "tournament_1xbet": "Primera B Nacional",
+        "1xbet_match_id": 653844149,
+        "1xbet_tournament_id": 887299,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/887299/653844149",
+        "group_id": "653844149-12702827-28025339-9731748",
+        "home_team": "Club Atletico Mitre de Santiago del Estero",
+        "away_team": "Club Atletico Talleres Remedios de Escalada",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "under_1.5_vs_over_1.5",
+        "best_odds": {
+          "under_1.5_odd": {
+            "value": 2.2858,
+            "source": "Clubx2"
+          },
+          "over_1.5_odd": {
+            "value": 1.899,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9641,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "12702827-9731748",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Argentina",
+        "tournament_Clubx2": "Primera Nacional",
+        "Clubx2_match_id": 12702827,
+        "Clubx2_tournament_id": 4257,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=12702827#/overview",
+        "Tounesbet_country_name": "Argentina",
+        "tournament_Tounesbet": "Primera Nacional",
+        "Tounesbet_match_id": 9731748,
+        "Tounesbet_tournament_id": 47784,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653844149-12702827-28025339-9731748",
+        "home_team": "Club Atletico Mitre de Santiago del Estero",
+        "away_team": "Club Atletico Talleres Remedios de Escalada",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "under_1.5_vs_over_1.5",
+        "best_odds": {
+          "under_1.5_odd": {
+            "value": 2.25,
+            "source": "Asbet"
+          },
+          "over_1.5_odd": {
+            "value": 1.899,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.971,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "28025339-9731748",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Argentina",
+        "tournament_Asbet": "Primera Nacional",
+        "Asbet_match_id": 28025339,
+        "Asbet_tournament_id": 1684,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Argentina/1684/primera-nacional/28025339/ca-mitre-sde-ca-talleres-re",
+        "Tounesbet_country_name": "Argentina",
+        "tournament_Tounesbet": "Primera Nacional",
+        "Tounesbet_match_id": 9731748,
+        "Tounesbet_tournament_id": 47784,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653844149-12702827-28025339-9731748",
+        "home_team": "Club Atletico Mitre de Santiago del Estero",
+        "away_team": "Club Atletico Talleres Remedios de Escalada",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "653843962-12702820-28025338-9562238",
+    "home_team": "Gimnasia y Esgrima de Jujuy",
+    "away_team": "Agropecuario Argentino",
+    "date": "21/09/2025",
+    "time": "20:00",
+    "country": "Argentina",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "first_half_under_0.5_vs_first_half_over_0.5",
+        "best_odds": {
+          "first_half_under_0.5_odd": {
+            "value": 2.4,
+            "source": "Clubx2"
+          },
+          "first_half_over_0.5_odd": {
+            "value": 1.84,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9601,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "12702820-9562238",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Argentina",
+        "tournament_Clubx2": "Primera Nacional",
+        "Clubx2_match_id": 12702820,
+        "Clubx2_tournament_id": 4257,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=12702820#/overview",
+        "Tounesbet_country_name": "Argentina",
+        "tournament_Tounesbet": "Primera Nacional",
+        "Tounesbet_match_id": 9562238,
+        "Tounesbet_tournament_id": 47784,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653843962-12702820-28025338-9562238",
+        "home_team": "Gimnasia y Esgrima de Jujuy",
+        "away_team": "Agropecuario Argentino",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "first_half_under_0.5_vs_first_half_over_0.5",
+        "best_odds": {
+          "first_half_under_0.5_odd": {
+            "value": 2.37,
+            "source": "Asbet"
+          },
+          "first_half_over_0.5_odd": {
+            "value": 1.84,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9654,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "28025338-9562238",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Argentina",
+        "tournament_Asbet": "Primera Nacional",
+        "Asbet_match_id": 28025338,
+        "Asbet_tournament_id": 1684,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Argentina/1684/primera-nacional/28025338/gimnasia-y-esgrima-de-jujuy-agropecuario-argentino",
+        "Tounesbet_country_name": "Argentina",
+        "tournament_Tounesbet": "Primera Nacional",
+        "Tounesbet_match_id": 9562238,
+        "Tounesbet_tournament_id": 47784,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653843962-12702820-28025338-9562238",
+        "home_team": "Gimnasia y Esgrima de Jujuy",
+        "away_team": "Agropecuario Argentino",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "away_under_0.5_vs_away_over_0.5",
+        "best_odds": {
+          "away_under_0.5_odd": {
+            "value": 1.96,
+            "source": "1xbet"
+          },
+          "away_over_0.5_odd": {
+            "value": 2.124,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.981,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653843962-9562238",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Argentina",
+        "tournament_1xbet": "Primera B Nacional",
+        "1xbet_match_id": 653843962,
+        "1xbet_tournament_id": 887299,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/887299/653843962",
+        "Tounesbet_country_name": "Argentina",
+        "tournament_Tounesbet": "Primera Nacional",
+        "Tounesbet_match_id": 9562238,
+        "Tounesbet_tournament_id": 47784,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653843962-12702820-28025338-9562238",
+        "home_team": "Gimnasia y Esgrima de Jujuy",
+        "away_team": "Agropecuario Argentino",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "653843953-12702822-9562240",
+    "home_team": "Central Norte Salta",
+    "away_team": "Chacarita Juniors",
+    "date": "21/09/2025",
+    "time": "21:00",
+    "country": "Argentina",
+    "all_sources": [
+      "1xbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "under_1.5_vs_over_1.5",
+        "best_odds": {
+          "under_1.5_odd": {
+            "value": 2.3637,
+            "source": "Clubx2"
+          },
+          "over_1.5_odd": {
+            "value": 1.852,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.963,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "12702822-9562240",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Argentina",
+        "tournament_Clubx2": "Primera Nacional",
+        "Clubx2_match_id": 12702822,
+        "Clubx2_tournament_id": 4257,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=12702822#/overview",
+        "Tounesbet_country_name": "Argentina",
+        "tournament_Tounesbet": "Primera Nacional",
+        "Tounesbet_match_id": 9562240,
+        "Tounesbet_tournament_id": 47784,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653843953-12702822-9562240",
+        "home_team": "Central Norte Salta",
+        "away_team": "Chacarita Juniors",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "under_1.5_vs_over_1.5",
+        "best_odds": {
+          "under_1.5_odd": {
+            "value": 2.33,
+            "source": "1xbet"
+          },
+          "over_1.5_odd": {
+            "value": 1.852,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9691,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653843953-9562240",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Argentina",
+        "tournament_1xbet": "Primera B Nacional",
+        "1xbet_match_id": 653843953,
+        "1xbet_tournament_id": 887299,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/887299/653843953",
+        "Tounesbet_country_name": "Argentina",
+        "tournament_Tounesbet": "Primera Nacional",
+        "Tounesbet_match_id": 9562240,
+        "Tounesbet_tournament_id": 47784,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653843953-12702822-9562240",
+        "home_team": "Central Norte Salta",
+        "away_team": "Chacarita Juniors",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "653843950-12702818-9562527",
+    "home_team": "Club Atletico Colon",
+    "away_team": "Deportivo Moron",
+    "date": "21/09/2025",
+    "time": "21:00",
+    "country": "Argentina",
+    "all_sources": [
+      "1xbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "first_half_under_0.5_vs_first_half_over_0.5",
+        "best_odds": {
+          "first_half_under_0.5_odd": {
+            "value": 2.2,
+            "source": "Clubx2"
+          },
+          "first_half_over_0.5_odd": {
+            "value": 1.97,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9622,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "12702818-9562527",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Argentina",
+        "tournament_Clubx2": "Primera Nacional",
+        "Clubx2_match_id": 12702818,
+        "Clubx2_tournament_id": 4257,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=12702818#/overview",
+        "Tounesbet_country_name": "Argentina",
+        "tournament_Tounesbet": "Primera Nacional",
+        "Tounesbet_match_id": 9562527,
+        "Tounesbet_tournament_id": 47784,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653843950-12702818-9562527",
+        "home_team": "Club Atletico Colon",
+        "away_team": "Deportivo Moron",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "away_under_0.5_vs_away_over_0.5",
+        "best_odds": {
+          "away_under_0.5_odd": {
+            "value": 2.4,
+            "source": "1xbet"
+          },
+          "away_over_0.5_odd": {
+            "value": 1.805,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9707,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653843950-9562527",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Argentina",
+        "tournament_1xbet": "Primera B Nacional",
+        "1xbet_match_id": 653843950,
+        "1xbet_tournament_id": 887299,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/887299/653843950",
+        "Tounesbet_country_name": "Argentina",
+        "tournament_Tounesbet": "Primera Nacional",
+        "Tounesbet_match_id": 9562527,
+        "Tounesbet_tournament_id": 47784,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653843950-12702818-9562527",
+        "home_team": "Club Atletico Colon",
+        "away_team": "Deportivo Moron",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "11291436-28025226",
+    "home_team": "CA Platense Buenos Aires (Reserves)",
+    "away_team": "San Martin de San Juan Reserves",
+    "date": "17/09/2025",
+    "time": "19:00",
+    "country": "Argentina",
+    "all_sources": [
+      "Asbet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_-0.25_home_vs_away",
+        "best_odds": {
+          "home_handicap_-0.25_odd": {
+            "value": 2.088,
+            "source": "Tounesbet"
+          },
+          "away_handicap_0.25_odd": {
+            "value": 1.92,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9998,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "28025226-11291436",
+        "Tounesbet_country_name": "Argentina",
+        "tournament_Tounesbet": "Argentina - Primera Division Reserves",
+        "Tounesbet_match_id": 11291436,
+        "Tounesbet_tournament_id": 23260,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "Argentina",
+        "tournament_Asbet": "Reserve League",
+        "Asbet_match_id": 28025226,
+        "Asbet_tournament_id": 18281810,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Argentina/18281810/reserve-league/28025226/ca-platense-buenos-aires-reserves-san-martin-san-juan-reserves",
+        "group_id": "11291436-28025226",
+        "home_team": "CA Platense Buenos Aires (Reserves)",
+        "away_team": "San Martin de San Juan Reserves",
+        "activity_duration": "25 hours"
+      }
+    ]
+  }
+]
