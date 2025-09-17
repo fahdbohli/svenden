@@ -1,0 +1,1485 @@
+[
+  {
+    "group_id": "653764802-13369352-28023760-9920218",
+    "home_team": "Mungyeong Sangmu (Women)",
+    "away_team": "Hwacheon KSPO (Women)",
+    "date": "18/09/2025",
+    "time": "08:00",
+    "country": "South Korea",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_1.0_home_vs_away",
+        "best_odds": {
+          "home_handicap_1.0_odd": {
+            "value": 2.147,
+            "source": "Tounesbet"
+          },
+          "away_handicap_-1.0_odd": {
+            "value": 2.05,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.9536,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653764802-9920218",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "South Korea",
+        "tournament_Tounesbet": "WK W",
+        "Tounesbet_match_id": 9920218,
+        "Tounesbet_tournament_id": 69838,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "1xbet_country_name": "South Korea",
+        "tournament_1xbet": "WK-League",
+        "1xbet_match_id": 653764802,
+        "1xbet_tournament_id": 38937,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/38937/653764802",
+        "group_id": "653764802-13369352-28023760-9920218",
+        "home_team": "Mungyeong Sangmu (Women)",
+        "away_team": "Hwacheon KSPO (Women)",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "first_half_ah_0.25_home_vs_away",
+        "best_odds": {
+          "home_first_half_handicap_0.25_odd": {
+            "value": 2.08,
+            "source": "Asbet"
+          },
+          "away_first_half_handicap_-0.25_odd": {
+            "value": 2.029,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9736,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "28023760-9920218",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "South Korea",
+        "tournament_Asbet": "WK-League",
+        "Asbet_match_id": 28023760,
+        "Asbet_tournament_id": 1931,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/South Korea/1931/wk-league/28023760/mungyeong-sangmu-wom-hwacheon-kspo-wom",
+        "Tounesbet_country_name": "South Korea",
+        "tournament_Tounesbet": "WK W",
+        "Tounesbet_match_id": 9920218,
+        "Tounesbet_tournament_id": 69838,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653764802-13369352-28023760-9920218",
+        "home_team": "Mungyeong Sangmu (Women)",
+        "away_team": "Hwacheon KSPO (Women)",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "two_vs_1x",
+        "best_odds": {
+          "2_odd": {
+            "value": 1.6364,
+            "source": "Clubx2"
+          },
+          "1X_odd": {
+            "value": 2.596,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9963,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13369352-9920218",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "South Korea",
+        "tournament_Clubx2": "WK-League",
+        "Clubx2_match_id": 13369352,
+        "Clubx2_tournament_id": 11382,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13369352#/overview",
+        "Tounesbet_country_name": "South Korea",
+        "tournament_Tounesbet": "WK W",
+        "Tounesbet_match_id": 9920218,
+        "Tounesbet_tournament_id": 69838,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653764802-13369352-28023760-9920218",
+        "home_team": "Mungyeong Sangmu (Women)",
+        "away_team": "Hwacheon KSPO (Women)",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "2578588939342450704-653690195-27970877-9564491",
+    "home_team": "Bucheon FC 1995",
+    "away_team": "Seoul E-Land FC",
+    "date": "20/09/2025",
+    "time": "08:30",
+    "country": "South Korea",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "second_half_under_1.5_vs_second_half_over_1.5",
+        "best_odds": {
+          "second_half_under_1.5_odd": {
+            "value": 2.029,
+            "source": "Tounesbet"
+          },
+          "second_half_over_1.5_odd": {
+            "value": 2.12,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9646,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27970877-9564491",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "South Korea",
+        "tournament_Tounesbet": "K League 2",
+        "Tounesbet_match_id": 9564491,
+        "Tounesbet_tournament_id": 25131,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "South Korea",
+        "tournament_Asbet": "K League 2",
+        "Asbet_match_id": 27970877,
+        "Asbet_tournament_id": 1932,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/South Korea/1932/k-league/27970877/bucheon-fc--seoul-e-land-fc",
+        "group_id": "2578588939342450704-653690195-27970877-9564491",
+        "home_team": "Bucheon FC 1995",
+        "away_team": "Seoul E-Land FC",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "home_under_1.5_vs_home_over_1.5",
+        "best_odds": {
+          "home_under_1.5_odd": {
+            "value": 1.805,
+            "source": "Tounesbet"
+          },
+          "home_over_1.5_odd": {
+            "value": 2.34,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.9814,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653690195-9564491",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "South Korea",
+        "tournament_Tounesbet": "K League 2",
+        "Tounesbet_match_id": 9564491,
+        "Tounesbet_tournament_id": 25131,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "1xbet_country_name": "South Korea",
+        "tournament_1xbet": "K League 2",
+        "1xbet_match_id": 653690195,
+        "1xbet_tournament_id": 33137,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/33137/653690195",
+        "group_id": "2578588939342450704-653690195-27970877-9564491",
+        "home_team": "Bucheon FC 1995",
+        "away_team": "Seoul E-Land FC",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "2578588939342450705-653690564-27970876-9564496",
+    "home_team": "Suwon Samsung Bluewings",
+    "away_team": "Gyeongnam FC",
+    "date": "20/09/2025",
+    "time": "08:30",
+    "country": "South Korea",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "both_score",
+        "best_odds": {
+          "both_score_odd": {
+            "value": 1.899,
+            "source": "Tounesbet"
+          },
+          "both_noscore_odd": {
+            "value": 2.25,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.971,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653690564-9564496",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "South Korea",
+        "tournament_Tounesbet": "K League 2",
+        "Tounesbet_match_id": 9564496,
+        "Tounesbet_tournament_id": 25131,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "1xbet_country_name": "South Korea",
+        "tournament_1xbet": "K League 2",
+        "1xbet_match_id": 653690564,
+        "1xbet_tournament_id": 33137,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/33137/653690564",
+        "group_id": "2578588939342450705-653690564-27970876-9564496",
+        "home_team": "Suwon Samsung Bluewings",
+        "away_team": "Gyeongnam FC",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "home_under_2.5_vs_home_over_2.5",
+        "best_odds": {
+          "home_under_2.5_odd": {
+            "value": 1.852,
+            "source": "Tounesbet"
+          },
+          "home_over_2.5_odd": {
+            "value": 2.3,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9747,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27970876-9564496",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "South Korea",
+        "tournament_Tounesbet": "K League 2",
+        "Tounesbet_match_id": 9564496,
+        "Tounesbet_tournament_id": 25131,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "South Korea",
+        "tournament_Asbet": "K League 2",
+        "Asbet_match_id": 27970876,
+        "Asbet_tournament_id": 1932,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/South Korea/1932/k-league/27970876/suwon-bluewings-gyeongnam-fc",
+        "group_id": "2578588939342450705-653690564-27970876-9564496",
+        "home_team": "Suwon Samsung Bluewings",
+        "away_team": "Gyeongnam FC",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "under_3.5_vs_over_3.5",
+        "best_odds": {
+          "under_3.5_odd": {
+            "value": 1.958,
+            "source": "Tounesbet"
+          },
+          "over_3.5_odd": {
+            "value": 2.12,
+            "source": "Jibibet"
+          }
+        },
+        "arbitrage_percentage": 0.9824,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2578588939342450705-9564496",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "South Korea",
+        "tournament_Tounesbet": "K League 2",
+        "Tounesbet_match_id": 9564496,
+        "Tounesbet_tournament_id": 25131,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Jibibet_country_name": "South Korea",
+        "tournament_Jibibet": "K-League 2",
+        "Jibibet_match_id": 2578588939342450705,
+        "Jibibet_tournament_id": 1669818828412030976,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "group_id": "2578588939342450705-653690564-27970876-9564496",
+        "home_team": "Suwon Samsung Bluewings",
+        "away_team": "Gyeongnam FC",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "2578588939342450707-653690561-27971776-9564500",
+    "home_team": "Incheon United FC",
+    "away_team": "Gimpo Citizen FC",
+    "date": "20/09/2025",
+    "time": "11:00",
+    "country": "South Korea",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "second_half_under_1.5_vs_second_half_over_1.5",
+        "best_odds": {
+          "second_half_under_1.5_odd": {
+            "value": 1.805,
+            "source": "Tounesbet"
+          },
+          "second_half_over_1.5_odd": {
+            "value": 2.4,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9707,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27971776-9564500",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "South Korea",
+        "tournament_Tounesbet": "K League 2",
+        "Tounesbet_match_id": 9564500,
+        "Tounesbet_tournament_id": 25131,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "South Korea",
+        "tournament_Asbet": "K League 2",
+        "Asbet_match_id": 27971776,
+        "Asbet_tournament_id": 1932,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/South Korea/1932/k-league/27971776/incheon-united-fc-gimpo-citizen-fc",
+        "group_id": "2578588939342450707-653690561-27971776-9564500",
+        "home_team": "Incheon United FC",
+        "away_team": "Gimpo Citizen FC",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "away_under_0.5_vs_away_over_0.5",
+        "best_odds": {
+          "away_under_0.5_odd": {
+            "value": 2.23,
+            "source": "1xbet"
+          },
+          "away_over_0.5_odd": {
+            "value": 1.899,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.975,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653690561-9564500",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "South Korea",
+        "tournament_1xbet": "K League 2",
+        "1xbet_match_id": 653690561,
+        "1xbet_tournament_id": 33137,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/33137/653690561",
+        "Tounesbet_country_name": "South Korea",
+        "tournament_Tounesbet": "K League 2",
+        "Tounesbet_match_id": 9564500,
+        "Tounesbet_tournament_id": 25131,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578588939342450707-653690561-27971776-9564500",
+        "home_team": "Incheon United FC",
+        "away_team": "Gimpo Citizen FC",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "one_vs_x2",
+        "best_odds": {
+          "1_odd": {
+            "value": 1.82,
+            "source": "Jibibet"
+          },
+          "X2_odd": {
+            "value": 2.242,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9955,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2578588939342450707-9564500",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "South Korea",
+        "tournament_Jibibet": "K-League 2",
+        "Jibibet_match_id": 2578588939342450707,
+        "Jibibet_tournament_id": 1669818828412030976,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "South Korea",
+        "tournament_Tounesbet": "K League 2",
+        "Tounesbet_match_id": 9564500,
+        "Tounesbet_tournament_id": 25131,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578588939342450707-653690561-27971776-9564500",
+        "home_team": "Incheon United FC",
+        "away_team": "Gimpo Citizen FC",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "2578947566498615344-653690558-27971775-9564502",
+    "home_team": "Seongnam Ilhwa",
+    "away_team": "Chungnam Asan FC",
+    "date": "20/09/2025",
+    "time": "11:00",
+    "country": "South Korea",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "one_vs_x2",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.42,
+            "source": "1xbet"
+          },
+          "X2_odd": {
+            "value": 1.852,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9532,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653690558-9564502",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "South Korea",
+        "tournament_1xbet": "K League 2",
+        "1xbet_match_id": 653690558,
+        "1xbet_tournament_id": 33137,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/33137/653690558",
+        "Tounesbet_country_name": "South Korea",
+        "tournament_Tounesbet": "K League 2",
+        "Tounesbet_match_id": 9564502,
+        "Tounesbet_tournament_id": 25131,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578947566498615344-653690558-27971775-9564502",
+        "home_team": "Seongnam Ilhwa",
+        "away_team": "Chungnam Asan FC",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "one_vs_x2",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.42,
+            "source": "Jibibet"
+          },
+          "X2_odd": {
+            "value": 1.852,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9532,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2578947566498615344-9564502",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "South Korea",
+        "tournament_Jibibet": "K-League 2",
+        "Jibibet_match_id": 2578947566498615344,
+        "Jibibet_tournament_id": 1669818828412030976,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "South Korea",
+        "tournament_Tounesbet": "K League 2",
+        "Tounesbet_match_id": 9564502,
+        "Tounesbet_tournament_id": 25131,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578947566498615344-653690558-27971775-9564502",
+        "home_team": "Seongnam Ilhwa",
+        "away_team": "Chungnam Asan FC",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "second_half_under_1.5_vs_second_half_over_1.5",
+        "best_odds": {
+          "second_half_under_1.5_odd": {
+            "value": 1.923,
+            "source": "Tounesbet"
+          },
+          "second_half_over_1.5_odd": {
+            "value": 2.27,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9605,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27971775-9564502",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "South Korea",
+        "tournament_Tounesbet": "K League 2",
+        "Tounesbet_match_id": 9564502,
+        "Tounesbet_tournament_id": 25131,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "South Korea",
+        "tournament_Asbet": "K League 2",
+        "Asbet_match_id": 27971775,
+        "Asbet_tournament_id": 1932,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/South Korea/1932/k-league/27971775/seongnam-fc-chungnam-asan-fc",
+        "group_id": "2578947566498615344-653690558-27971775-9564502",
+        "home_team": "Seongnam Ilhwa",
+        "away_team": "Chungnam Asan FC",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "2578952244242288640-653691017-27978268-9564497",
+    "home_team": "Ansan Greeners FC",
+    "away_team": "Chungbuk Cheongju FC",
+    "date": "21/09/2025",
+    "time": "08:30",
+    "country": "South Korea",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "away_under_1.5_vs_away_over_1.5",
+        "best_odds": {
+          "away_under_1.5_odd": {
+            "value": 1.805,
+            "source": "Tounesbet"
+          },
+          "away_over_1.5_odd": {
+            "value": 2.37,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.976,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27978268-9564497",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "South Korea",
+        "tournament_Tounesbet": "K League 2",
+        "Tounesbet_match_id": 9564497,
+        "Tounesbet_tournament_id": 25131,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "South Korea",
+        "tournament_Asbet": "K League 2",
+        "Asbet_match_id": 27978268,
+        "Asbet_tournament_id": 1932,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/South Korea/1932/k-league/27978268/ansan-greeners-fc-chungbuk-cheongju-fc",
+        "group_id": "2578952244242288640-653691017-27978268-9564497",
+        "home_team": "Ansan Greeners FC",
+        "away_team": "Chungbuk Cheongju FC",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "away_under_1.5_vs_away_over_1.5",
+        "best_odds": {
+          "away_under_1.5_odd": {
+            "value": 1.805,
+            "source": "Tounesbet"
+          },
+          "away_over_1.5_odd": {
+            "value": 2.36,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.9777,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653691017-9564497",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "South Korea",
+        "tournament_Tounesbet": "K League 2",
+        "Tounesbet_match_id": 9564497,
+        "Tounesbet_tournament_id": 25131,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "1xbet_country_name": "South Korea",
+        "tournament_1xbet": "K League 2",
+        "1xbet_match_id": 653691017,
+        "1xbet_tournament_id": 33137,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/33137/653691017",
+        "group_id": "2578952244242288640-653691017-27978268-9564497",
+        "home_team": "Ansan Greeners FC",
+        "away_team": "Chungbuk Cheongju FC",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "2578952244242288643-653691020-27978267-9564498",
+    "home_team": "Cheonan City FC",
+    "away_team": "Hwaseong FC",
+    "date": "21/09/2025",
+    "time": "08:30",
+    "country": "South Korea",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "first_half_under_1.0_vs_first_half_over_1.0",
+        "best_odds": {
+          "first_half_under_1.0_odd": {
+            "value": 1.94,
+            "source": "Asbet"
+          },
+          "first_half_over_1.0_odd": {
+            "value": 2.218,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9663,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27978267-9564498",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "South Korea",
+        "tournament_Asbet": "K League 2",
+        "Asbet_match_id": 27978267,
+        "Asbet_tournament_id": 1932,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/South Korea/1932/k-league/27978267/cheonan-city-fc-hwaseong-fc",
+        "Tounesbet_country_name": "South Korea",
+        "tournament_Tounesbet": "K League 2",
+        "Tounesbet_match_id": 9564498,
+        "Tounesbet_tournament_id": 25131,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578952244242288643-653691020-27978267-9564498",
+        "home_team": "Cheonan City FC",
+        "away_team": "Hwaseong FC",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "home_under_1.5_vs_home_over_1.5",
+        "best_odds": {
+          "home_under_1.5_odd": {
+            "value": 1.899,
+            "source": "Tounesbet"
+          },
+          "home_over_1.5_odd": {
+            "value": 2.23,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.975,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653691020-9564498",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "South Korea",
+        "tournament_Tounesbet": "K League 2",
+        "Tounesbet_match_id": 9564498,
+        "Tounesbet_tournament_id": 25131,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "1xbet_country_name": "South Korea",
+        "tournament_1xbet": "K League 2",
+        "1xbet_match_id": 653691020,
+        "1xbet_tournament_id": 33137,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/33137/653691020",
+        "group_id": "2578952244242288643-653691020-27978267-9564498",
+        "home_team": "Cheonan City FC",
+        "away_team": "Hwaseong FC",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "one_vs_x2",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.32,
+            "source": "Jibibet"
+          },
+          "X2_odd": {
+            "value": 1.805,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9851,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2578952244242288643-9564498",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "South Korea",
+        "tournament_Jibibet": "K-League 2",
+        "Jibibet_match_id": 2578952244242288643,
+        "Jibibet_tournament_id": 1669818828412030976,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "South Korea",
+        "tournament_Tounesbet": "K League 2",
+        "Tounesbet_match_id": 9564498,
+        "Tounesbet_tournament_id": 25131,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578952244242288643-653691020-27978267-9564498",
+        "home_team": "Cheonan City FC",
+        "away_team": "Hwaseong FC",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "2578952244242288651-653691014-27979311-9957791",
+    "home_team": "Busan I Park",
+    "away_team": "Jeonnam Dragons",
+    "date": "21/09/2025",
+    "time": "11:00",
+    "country": "South Korea",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "one_vs_x2",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.19,
+            "source": "1xbet"
+          },
+          "X2_odd": {
+            "value": 1.958,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9673,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653691014-9957791",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "South Korea",
+        "tournament_1xbet": "K League 2",
+        "1xbet_match_id": 653691014,
+        "1xbet_tournament_id": 33137,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/33137/653691014",
+        "Tounesbet_country_name": "South Korea",
+        "tournament_Tounesbet": "K League 2",
+        "Tounesbet_match_id": 9957791,
+        "Tounesbet_tournament_id": 25131,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578952244242288651-653691014-27979311-9957791",
+        "home_team": "Busan I Park",
+        "away_team": "Jeonnam Dragons",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "one_vs_x2",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.16,
+            "source": "Jibibet"
+          },
+          "X2_odd": {
+            "value": 1.958,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9737,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2578952244242288651-9957791",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "South Korea",
+        "tournament_Jibibet": "K-League 2",
+        "Jibibet_match_id": 2578952244242288651,
+        "Jibibet_tournament_id": 1669818828412030976,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "South Korea",
+        "tournament_Tounesbet": "K League 2",
+        "Tounesbet_match_id": 9957791,
+        "Tounesbet_tournament_id": 25131,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578952244242288651-653691014-27979311-9957791",
+        "home_team": "Busan I Park",
+        "away_team": "Jeonnam Dragons",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "home_under_1.5_vs_home_over_1.5",
+        "best_odds": {
+          "home_under_1.5_odd": {
+            "value": 1.899,
+            "source": "Tounesbet"
+          },
+          "home_over_1.5_odd": {
+            "value": 2.21,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9791,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27979311-9957791",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "South Korea",
+        "tournament_Tounesbet": "K League 2",
+        "Tounesbet_match_id": 9957791,
+        "Tounesbet_tournament_id": 25131,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "South Korea",
+        "tournament_Asbet": "K League 2",
+        "Asbet_match_id": 27979311,
+        "Asbet_tournament_id": 1932,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/South Korea/1932/k-league/27979311/busan-i-park-jeonnam-dragons",
+        "group_id": "2578952244242288651-653691014-27979311-9957791",
+        "home_team": "Busan I Park",
+        "away_team": "Jeonnam Dragons",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "2578947566498615314-653689852-27963962-9523893",
+    "home_team": "Jeonbuk Hyundai Motors FC",
+    "away_team": "Sangju Sangmu Phoenix",
+    "date": "20/09/2025",
+    "time": "08:30",
+    "country": "South Korea",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_-1.0_home_vs_away",
+        "best_odds": {
+          "home_handicap_-1.0_odd": {
+            "value": 2.5,
+            "source": "Asbet"
+          },
+          "away_handicap_1.0_odd": {
+            "value": 1.793,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9577,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27963962-9523893",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "South Korea",
+        "tournament_Asbet": "K League 1",
+        "Asbet_match_id": 27963962,
+        "Asbet_tournament_id": 1933,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/South Korea/1933/k-league/27963962/jeonbuk-motors-gimcheon-sangmu-fc",
+        "Tounesbet_country_name": "South Korea",
+        "tournament_Tounesbet": "K League Classic",
+        "Tounesbet_match_id": 9523893,
+        "Tounesbet_tournament_id": 47690,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578947566498615314-653689852-27963962-9523893",
+        "home_team": "Jeonbuk Hyundai Motors FC",
+        "away_team": "Sangju Sangmu Phoenix",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 1.89,
+            "source": "1xbet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 2.324,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9594,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653689852-9523893",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "South Korea",
+        "tournament_1xbet": "K League 1",
+        "1xbet_match_id": 653689852,
+        "1xbet_tournament_id": 30467,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/30467/653689852",
+        "Tounesbet_country_name": "South Korea",
+        "tournament_Tounesbet": "K League Classic",
+        "Tounesbet_match_id": 9523893,
+        "Tounesbet_tournament_id": 47690,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578947566498615314-653689852-27963962-9523893",
+        "home_team": "Jeonbuk Hyundai Motors FC",
+        "away_team": "Sangju Sangmu Phoenix",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 1.85,
+            "source": "Jibibet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 2.324,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9708,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2578947566498615314-9523893",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "South Korea",
+        "tournament_Jibibet": "K-League 1",
+        "Jibibet_match_id": 2578947566498615314,
+        "Jibibet_tournament_id": 1669819214954893312,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "South Korea",
+        "tournament_Tounesbet": "K League Classic",
+        "Tounesbet_match_id": 9523893,
+        "Tounesbet_tournament_id": 47690,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578947566498615314-653689852-27963962-9523893",
+        "home_team": "Jeonbuk Hyundai Motors FC",
+        "away_team": "Sangju Sangmu Phoenix",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "2578947566498615317-653689843-12762463-27964658-9523892",
+    "home_team": "Daejeon Hana Citizen",
+    "away_team": "Daegu FC",
+    "date": "20/09/2025",
+    "time": "11:00",
+    "country": "South Korea",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "homewin_handicap_vs_x2",
+        "best_odds": {
+          "home_handicap_-0.5_odd": {
+            "value": 1.97,
+            "source": "Tounesbet"
+          },
+          "X2_odd": {
+            "value": 2.17,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.9684,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653689843-9523892",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "South Korea",
+        "tournament_Tounesbet": "K League Classic",
+        "Tounesbet_match_id": 9523892,
+        "Tounesbet_tournament_id": 47690,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "1xbet_country_name": "South Korea",
+        "tournament_1xbet": "K League 1",
+        "1xbet_match_id": 653689843,
+        "1xbet_tournament_id": 30467,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/30467/653689843",
+        "group_id": "2578947566498615317-653689843-12762463-27964658-9523892",
+        "home_team": "Daejeon Hana Citizen",
+        "away_team": "Daegu FC",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "ah_-0.5_home_vs_away",
+        "best_odds": {
+          "home_handicap_-0.5_odd": {
+            "value": 1.97,
+            "source": "Tounesbet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 2.17,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9684,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27964658-9523892",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "South Korea",
+        "tournament_Tounesbet": "K League Classic",
+        "Tounesbet_match_id": 9523892,
+        "Tounesbet_tournament_id": 47690,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "South Korea",
+        "tournament_Asbet": "K League 1",
+        "Asbet_match_id": 27964658,
+        "Asbet_tournament_id": 1933,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/South Korea/1933/k-league/27964658/daejeon-citizen-fc-daegu-fc",
+        "group_id": "2578947566498615317-653689843-12762463-27964658-9523892",
+        "home_team": "Daejeon Hana Citizen",
+        "away_team": "Daegu FC",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "homewin_handicap_vs_x2",
+        "best_odds": {
+          "home_handicap_-0.5_odd": {
+            "value": 1.97,
+            "source": "Tounesbet"
+          },
+          "X2_odd": {
+            "value": 2.17,
+            "source": "Jibibet"
+          }
+        },
+        "arbitrage_percentage": 0.9684,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2578947566498615317-9523892",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "South Korea",
+        "tournament_Tounesbet": "K League Classic",
+        "Tounesbet_match_id": 9523892,
+        "Tounesbet_tournament_id": 47690,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Jibibet_country_name": "South Korea",
+        "tournament_Jibibet": "K-League 1",
+        "Jibibet_match_id": 2578947566498615317,
+        "Jibibet_tournament_id": 1669819214954893312,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "group_id": "2578947566498615317-653689843-12762463-27964658-9523892",
+        "home_team": "Daejeon Hana Citizen",
+        "away_team": "Daegu FC",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "ah_-0.5_home_vs_away",
+        "best_odds": {
+          "home_handicap_-0.5_odd": {
+            "value": 1.97,
+            "source": "Tounesbet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 2.125,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9782,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "12762463-9523892",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "South Korea",
+        "tournament_Tounesbet": "K League Classic",
+        "Tounesbet_match_id": 9523892,
+        "Tounesbet_tournament_id": 47690,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "South Korea",
+        "tournament_Clubx2": "K-League 1",
+        "Clubx2_match_id": 12762463,
+        "Clubx2_tournament_id": 4276,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=12762463#/overview",
+        "group_id": "2578947566498615317-653689843-12762463-27964658-9523892",
+        "home_team": "Daejeon Hana Citizen",
+        "away_team": "Daegu FC",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "2578952244242288659-653689837-12770056-27970879-9523895",
+    "home_team": "Suwon City",
+    "away_team": "Gangwon FC",
+    "date": "21/09/2025",
+    "time": "08:30",
+    "country": "South Korea",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "two_vs_1x",
+        "best_odds": {
+          "2_odd": {
+            "value": 2.47,
+            "source": "1xbet"
+          },
+          "1X_odd": {
+            "value": 1.805,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9589,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653689837-9523895",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "South Korea",
+        "tournament_1xbet": "K League 1",
+        "1xbet_match_id": 653689837,
+        "1xbet_tournament_id": 30467,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/30467/653689837",
+        "Tounesbet_country_name": "South Korea",
+        "tournament_Tounesbet": "K League Classic",
+        "Tounesbet_match_id": 9523895,
+        "Tounesbet_tournament_id": 47690,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578952244242288659-653689837-12770056-27970879-9523895",
+        "home_team": "Suwon City",
+        "away_team": "Gangwon FC",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "two_vs_1x",
+        "best_odds": {
+          "2_odd": {
+            "value": 2.46,
+            "source": "Jibibet"
+          },
+          "1X_odd": {
+            "value": 1.805,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9605,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2578952244242288659-9523895",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "South Korea",
+        "tournament_Jibibet": "K-League 1",
+        "Jibibet_match_id": 2578952244242288659,
+        "Jibibet_tournament_id": 1669819214954893312,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "South Korea",
+        "tournament_Tounesbet": "K League Classic",
+        "Tounesbet_match_id": 9523895,
+        "Tounesbet_tournament_id": 47690,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578952244242288659-653689837-12770056-27970879-9523895",
+        "home_team": "Suwon City",
+        "away_team": "Gangwon FC",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "first_half_under_1.0_vs_first_half_over_1.0",
+        "best_odds": {
+          "first_half_under_1.0_odd": {
+            "value": 2.05,
+            "source": "Asbet"
+          },
+          "first_half_over_1.0_odd": {
+            "value": 2.112,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9613,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27970879-9523895",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "South Korea",
+        "tournament_Asbet": "K League 1",
+        "Asbet_match_id": 27970879,
+        "Asbet_tournament_id": 1933,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/South Korea/1933/k-league/27970879/suwon-fc-gangwon-fc",
+        "Tounesbet_country_name": "South Korea",
+        "tournament_Tounesbet": "K League Classic",
+        "Tounesbet_match_id": 9523895,
+        "Tounesbet_tournament_id": 47690,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578952244242288659-653689837-12770056-27970879-9523895",
+        "home_team": "Suwon City",
+        "away_team": "Gangwon FC",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "two_vs_1x",
+        "best_odds": {
+          "2_odd": {
+            "value": 2.4286,
+            "source": "Clubx2"
+          },
+          "1X_odd": {
+            "value": 1.805,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9658,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "12770056-9523895",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "South Korea",
+        "tournament_Clubx2": "K-League 1",
+        "Clubx2_match_id": 12770056,
+        "Clubx2_tournament_id": 4276,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=12770056#/overview",
+        "Tounesbet_country_name": "South Korea",
+        "tournament_Tounesbet": "K League Classic",
+        "Tounesbet_match_id": 9523895,
+        "Tounesbet_tournament_id": 47690,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578952244242288659-653689837-12770056-27970879-9523895",
+        "home_team": "Suwon City",
+        "away_team": "Gangwon FC",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "2578952244242288662-653689846-12770055-27970878-9523897",
+    "home_team": "Ulsan Hyundai Mipo Dockyard",
+    "away_team": "FC Anyang",
+    "date": "21/09/2025",
+    "time": "08:30",
+    "country": "South Korea",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "one_vs_x2",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.006,
+            "source": "Tounesbet"
+          },
+          "X2_odd": {
+            "value": 2.18,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.9572,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653689846-9523897",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "South Korea",
+        "tournament_Tounesbet": "K League Classic",
+        "Tounesbet_match_id": 9523897,
+        "Tounesbet_tournament_id": 47690,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "1xbet_country_name": "South Korea",
+        "tournament_1xbet": "K League 1",
+        "1xbet_match_id": 653689846,
+        "1xbet_tournament_id": 30467,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/30467/653689846",
+        "group_id": "2578952244242288662-653689846-12770055-27970878-9523897",
+        "home_team": "Ulsan Hyundai Mipo Dockyard",
+        "away_team": "FC Anyang",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "one_vs_x2",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.006,
+            "source": "Tounesbet"
+          },
+          "X2_odd": {
+            "value": 2.15,
+            "source": "Jibibet"
+          }
+        },
+        "arbitrage_percentage": 0.9636,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2578952244242288662-9523897",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "South Korea",
+        "tournament_Tounesbet": "K League Classic",
+        "Tounesbet_match_id": 9523897,
+        "Tounesbet_tournament_id": 47690,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Jibibet_country_name": "South Korea",
+        "tournament_Jibibet": "K-League 1",
+        "Jibibet_match_id": 2578952244242288662,
+        "Jibibet_tournament_id": 1669819214954893312,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "group_id": "2578952244242288662-653689846-12770055-27970878-9523897",
+        "home_team": "Ulsan Hyundai Mipo Dockyard",
+        "away_team": "FC Anyang",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "one_vs_x2",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.006,
+            "source": "Tounesbet"
+          },
+          "X2_odd": {
+            "value": 2.09,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.977,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27970878-9523897",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "South Korea",
+        "tournament_Tounesbet": "K League Classic",
+        "Tounesbet_match_id": 9523897,
+        "Tounesbet_tournament_id": 47690,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "South Korea",
+        "tournament_Asbet": "K League 1",
+        "Asbet_match_id": 27970878,
+        "Asbet_tournament_id": 1933,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/South Korea/1933/k-league/27970878/ulsan-hyundai-fc-fc-anyang",
+        "group_id": "2578952244242288662-653689846-12770055-27970878-9523897",
+        "home_team": "Ulsan Hyundai Mipo Dockyard",
+        "away_team": "FC Anyang",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "first_half_ah_-0.5_home_vs_away",
+        "best_odds": {
+          "home_first_half_handicap_-0.5_odd": {
+            "value": 2.2,
+            "source": "Clubx2"
+          },
+          "away_first_half_handicap_0.5_odd": {
+            "value": 1.911,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9778,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "12770055-9523897",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "South Korea",
+        "tournament_Clubx2": "K-League 1",
+        "Clubx2_match_id": 12770055,
+        "Clubx2_tournament_id": 4276,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=12770055#/overview",
+        "Tounesbet_country_name": "South Korea",
+        "tournament_Tounesbet": "K League Classic",
+        "Tounesbet_match_id": 9523897,
+        "Tounesbet_tournament_id": 47690,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578952244242288662-653689846-12770055-27970878-9523897",
+        "home_team": "Ulsan Hyundai Mipo Dockyard",
+        "away_team": "FC Anyang",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "2578947566498615321-653689849-12771181-27971778-9720983",
+    "home_team": "FC Pohang Steelers",
+    "away_team": "Jeju United FC",
+    "date": "21/09/2025",
+    "time": "11:00",
+    "country": "South Korea",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.02,
+            "source": "1xbet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 2.183,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9531,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653689849-9720983",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "South Korea",
+        "tournament_1xbet": "K League 1",
+        "1xbet_match_id": 653689849,
+        "1xbet_tournament_id": 30467,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/30467/653689849",
+        "Tounesbet_country_name": "South Korea",
+        "tournament_Tounesbet": "K League Classic",
+        "Tounesbet_match_id": 9720983,
+        "Tounesbet_tournament_id": 47690,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578947566498615321-653689849-12771181-27971778-9720983",
+        "home_team": "FC Pohang Steelers",
+        "away_team": "Jeju United FC",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "second_half_under_1.5_vs_second_half_over_1.5",
+        "best_odds": {
+          "second_half_under_1.5_odd": {
+            "value": 1.899,
+            "source": "Tounesbet"
+          },
+          "second_half_over_1.5_odd": {
+            "value": 2.2858,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9641,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "12771181-9720983",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "South Korea",
+        "tournament_Tounesbet": "K League Classic",
+        "Tounesbet_match_id": 9720983,
+        "Tounesbet_tournament_id": 47690,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "South Korea",
+        "tournament_Clubx2": "K-League 1",
+        "Clubx2_match_id": 12771181,
+        "Clubx2_tournament_id": 4276,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=12771181#/overview",
+        "group_id": "2578947566498615321-653689849-12771181-27971778-9720983",
+        "home_team": "FC Pohang Steelers",
+        "away_team": "Jeju United FC",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 1.96,
+            "source": "Jibibet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 2.183,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9683,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2578947566498615321-9720983",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "South Korea",
+        "tournament_Jibibet": "K-League 1",
+        "Jibibet_match_id": 2578947566498615321,
+        "Jibibet_tournament_id": 1669819214954893312,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "South Korea",
+        "tournament_Tounesbet": "K League Classic",
+        "Tounesbet_match_id": 9720983,
+        "Tounesbet_tournament_id": 47690,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578947566498615321-653689849-12771181-27971778-9720983",
+        "home_team": "FC Pohang Steelers",
+        "away_team": "Jeju United FC",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "ah_-0.75_home_vs_away",
+        "best_odds": {
+          "home_handicap_-0.75_odd": {
+            "value": 2.21,
+            "source": "Asbet"
+          },
+          "away_handicap_0.75_odd": {
+            "value": 1.911,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9758,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27971778-9720983",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "South Korea",
+        "tournament_Asbet": "K League 1",
+        "Asbet_match_id": 27971778,
+        "Asbet_tournament_id": 1933,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/South Korea/1933/k-league/27971778/pohang-steelers-jeju-united-fc",
+        "Tounesbet_country_name": "South Korea",
+        "tournament_Tounesbet": "K League Classic",
+        "Tounesbet_match_id": 9720983,
+        "Tounesbet_tournament_id": 47690,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578947566498615321-653689849-12771181-27971778-9720983",
+        "home_team": "FC Pohang Steelers",
+        "away_team": "Jeju United FC",
+        "activity_duration": "25 hours"
+      }
+    ]
+  }
+]

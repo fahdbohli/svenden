@@ -1,0 +1,1446 @@
+[
+  {
+    "group_id": "654062787-11300942",
+    "home_team": "DAC 1904 U19",
+    "away_team": "Pohronie U19",
+    "date": "17/09/2025",
+    "time": "10:00",
+    "country": "Slovakia",
+    "all_sources": [
+      "1xbet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_-1.5_home_vs_away",
+        "best_odds": {
+          "home_handicap_-1.5_odd": {
+            "value": 2.124,
+            "source": "Tounesbet"
+          },
+          "away_handicap_1.5_odd": {
+            "value": 1.95,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.9836,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "654062787-11300942",
+        "Tounesbet_country_name": "Slovakia",
+        "tournament_Tounesbet": "1. Liga U19",
+        "Tounesbet_match_id": 11300942,
+        "Tounesbet_tournament_id": 221166,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "1xbet_country_name": "Slovakia",
+        "tournament_1xbet": "Slovakia Championship U19",
+        "1xbet_match_id": 654062787,
+        "1xbet_tournament_id": 200379,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/200379/654062787",
+        "group_id": "654062787-11300942",
+        "home_team": "DAC 1904 U19",
+        "away_team": "Pohronie U19",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "2579024819093901314-653602400-10702924-13058496-27981329",
+    "home_team": "1. FC Tatran Presov",
+    "away_team": "MFK Ruzomberok",
+    "date": "20/09/2025",
+    "time": "17:00",
+    "country": "Slovakia",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_0.0_home_vs_away",
+        "best_odds": {
+          "home_handicap_0.0_odd": {
+            "value": 1.852,
+            "source": "Tounesbet"
+          },
+          "away_handicap_0.0_odd": {
+            "value": 2.35,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.9655,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653602400-10702924",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Slovakia",
+        "tournament_Tounesbet": "Super Liga",
+        "Tounesbet_match_id": 10702924,
+        "Tounesbet_tournament_id": 25235,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "1xbet_country_name": "Slovakia",
+        "tournament_1xbet": "Super League",
+        "1xbet_match_id": 653602400,
+        "1xbet_tournament_id": 27701,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/27701/653602400",
+        "group_id": "2579024819093901314-653602400-10702924-13058496-27981329",
+        "home_team": "1. FC Tatran Presov",
+        "away_team": "MFK Ruzomberok",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "ah_-0.75_home_vs_away",
+        "best_odds": {
+          "home_handicap_-0.75_odd": {
+            "value": 2.38,
+            "source": "Asbet"
+          },
+          "away_handicap_0.75_odd": {
+            "value": 1.829,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9669,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27981329-10702924",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Slovakia",
+        "tournament_Asbet": "First League",
+        "Asbet_match_id": 27981329,
+        "Asbet_tournament_id": 2979,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Slovakia/2979/first-league/27981329/fc-tatran-presov-mfk-ruzomberok",
+        "Tounesbet_country_name": "Slovakia",
+        "tournament_Tounesbet": "Super Liga",
+        "Tounesbet_match_id": 10702924,
+        "Tounesbet_tournament_id": 25235,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579024819093901314-653602400-10702924-13058496-27981329",
+        "home_team": "1. FC Tatran Presov",
+        "away_team": "MFK Ruzomberok",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.1,
+            "source": "Jibibet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 2.029,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.969,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2579024819093901314-10702924",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "Slovakia",
+        "tournament_Jibibet": "Superliga",
+        "Jibibet_match_id": 2579024819093901314,
+        "Jibibet_tournament_id": 1669818904584785920,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "Slovakia",
+        "tournament_Tounesbet": "Super Liga",
+        "Tounesbet_match_id": 10702924,
+        "Tounesbet_tournament_id": 25235,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579024819093901314-653602400-10702924-13058496-27981329",
+        "home_team": "1. FC Tatran Presov",
+        "away_team": "MFK Ruzomberok",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "ah_-0.5_home_vs_away",
+        "best_odds": {
+          "home_handicap_-0.5_odd": {
+            "value": 2.05,
+            "source": "Clubx2"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 2.029,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9807,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13058496-10702924",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Slovakia",
+        "tournament_Clubx2": "Superliga",
+        "Clubx2_match_id": 13058496,
+        "Clubx2_tournament_id": 3106,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13058496#/overview",
+        "Tounesbet_country_name": "Slovakia",
+        "tournament_Tounesbet": "Super Liga",
+        "Tounesbet_match_id": 10702924,
+        "Tounesbet_tournament_id": 25235,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579024819093901314-653602400-10702924-13058496-27981329",
+        "home_team": "1. FC Tatran Presov",
+        "away_team": "MFK Ruzomberok",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "2578679039552262146-653334176-10702926-13058492-27981328",
+    "home_team": "MFK Skalica",
+    "away_team": "FC Kosice",
+    "date": "20/09/2025",
+    "time": "17:00",
+    "country": "Slovakia",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "two_vs_1x_handicap",
+        "best_odds": {
+          "2_odd": {
+            "value": 2.33,
+            "source": "1xbet"
+          },
+          "home_handicap_0.5_odd": {
+            "value": 1.911,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9525,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653334176-10702926",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Slovakia",
+        "tournament_1xbet": "Super League",
+        "1xbet_match_id": 653334176,
+        "1xbet_tournament_id": 27701,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/27701/653334176",
+        "Tounesbet_country_name": "Slovakia",
+        "tournament_Tounesbet": "Super Liga",
+        "Tounesbet_match_id": 10702926,
+        "Tounesbet_tournament_id": 25235,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578679039552262146-653334176-10702926-13058492-27981328",
+        "home_team": "MFK Skalica",
+        "away_team": "FC Kosice",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "two_vs_1x_handicap",
+        "best_odds": {
+          "2_odd": {
+            "value": 2.28,
+            "source": "Jibibet"
+          },
+          "home_handicap_0.5_odd": {
+            "value": 1.911,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9619,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2578679039552262146-10702926",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "Slovakia",
+        "tournament_Jibibet": "Superliga",
+        "Jibibet_match_id": 2578679039552262146,
+        "Jibibet_tournament_id": 1669818904584785920,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "Slovakia",
+        "tournament_Tounesbet": "Super Liga",
+        "Tounesbet_match_id": 10702926,
+        "Tounesbet_tournament_id": 25235,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578679039552262146-653334176-10702926-13058492-27981328",
+        "home_team": "MFK Skalica",
+        "away_team": "FC Kosice",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "first_half_ah_0.0_home_vs_away",
+        "best_odds": {
+          "home_first_half_handicap_0.0_odd": {
+            "value": 2.07,
+            "source": "Asbet"
+          },
+          "away_first_half_handicap_0.0_odd": {
+            "value": 2.065,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9674,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27981328-10702926",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Slovakia",
+        "tournament_Asbet": "First League",
+        "Asbet_match_id": 27981328,
+        "Asbet_tournament_id": 2979,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Slovakia/2979/first-league/27981328/mfk-skalica-fc-kosice",
+        "Tounesbet_country_name": "Slovakia",
+        "tournament_Tounesbet": "Super Liga",
+        "Tounesbet_match_id": 10702926,
+        "Tounesbet_tournament_id": 25235,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578679039552262146-653334176-10702926-13058492-27981328",
+        "home_team": "MFK Skalica",
+        "away_team": "FC Kosice",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "two_vs_1x_handicap",
+        "best_odds": {
+          "2_odd": {
+            "value": 2.2223,
+            "source": "Clubx2"
+          },
+          "home_handicap_0.5_odd": {
+            "value": 1.911,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9733,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13058492-10702926",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Slovakia",
+        "tournament_Clubx2": "Superliga",
+        "Clubx2_match_id": 13058492,
+        "Clubx2_tournament_id": 3106,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13058492#/overview",
+        "Tounesbet_country_name": "Slovakia",
+        "tournament_Tounesbet": "Super Liga",
+        "Tounesbet_match_id": 10702926,
+        "Tounesbet_tournament_id": 25235,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578679039552262146-653334176-10702926-13058492-27981328",
+        "home_team": "MFK Skalica",
+        "away_team": "FC Kosice",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "2579056780759937050-653633309-10702923-13058501-27981330",
+    "home_team": "FK Zeleziarne Podbrezova",
+    "away_team": "AS Trencin",
+    "date": "20/09/2025",
+    "time": "17:00",
+    "country": "Slovakia",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "both_score",
+        "best_odds": {
+          "both_score_odd": {
+            "value": 1.899,
+            "source": "Tounesbet"
+          },
+          "both_noscore_odd": {
+            "value": 2.423,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.9393,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653633309-10702923",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Slovakia",
+        "tournament_Tounesbet": "Super Liga",
+        "Tounesbet_match_id": 10702923,
+        "Tounesbet_tournament_id": 25235,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "1xbet_country_name": "Slovakia",
+        "tournament_1xbet": "Super League",
+        "1xbet_match_id": 653633309,
+        "1xbet_tournament_id": 27701,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/27701/653633309",
+        "group_id": "2579056780759937050-653633309-10702923-13058501-27981330",
+        "home_team": "FK Zeleziarne Podbrezova",
+        "away_team": "AS Trencin",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "first_half_under_1.5_vs_first_half_over_1.5",
+        "best_odds": {
+          "first_half_under_1.5_odd": {
+            "value": 1.899,
+            "source": "Tounesbet"
+          },
+          "first_half_over_1.5_odd": {
+            "value": 2.33,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9558,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27981330-10702923",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Slovakia",
+        "tournament_Tounesbet": "Super Liga",
+        "Tounesbet_match_id": 10702923,
+        "Tounesbet_tournament_id": 25235,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "Slovakia",
+        "tournament_Asbet": "First League",
+        "Asbet_match_id": 27981330,
+        "Asbet_tournament_id": 2979,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Slovakia/2979/first-league/27981330/fk-zeleziarne-podbrezova-as-trencin",
+        "group_id": "2579056780759937050-653633309-10702923-13058501-27981330",
+        "home_team": "FK Zeleziarne Podbrezova",
+        "away_team": "AS Trencin",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "first_half_under_1.5_vs_first_half_over_1.5",
+        "best_odds": {
+          "first_half_under_1.5_odd": {
+            "value": 1.899,
+            "source": "Tounesbet"
+          },
+          "first_half_over_1.5_odd": {
+            "value": 2.2858,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9641,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13058501-10702923",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Slovakia",
+        "tournament_Tounesbet": "Super Liga",
+        "Tounesbet_match_id": 10702923,
+        "Tounesbet_tournament_id": 25235,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "Slovakia",
+        "tournament_Clubx2": "Superliga",
+        "Clubx2_match_id": 13058501,
+        "Clubx2_tournament_id": 3106,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13058501#/overview",
+        "group_id": "2579056780759937050-653633309-10702923-13058501-27981330",
+        "home_team": "FK Zeleziarne Podbrezova",
+        "away_team": "AS Trencin",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "homewin_handicap_vs_x2",
+        "best_odds": {
+          "home_handicap_-0.5_odd": {
+            "value": 2.029,
+            "source": "Tounesbet"
+          },
+          "X2_odd": {
+            "value": 2.05,
+            "source": "Jibibet"
+          }
+        },
+        "arbitrage_percentage": 0.9807,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2579056780759937050-10702923",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Slovakia",
+        "tournament_Tounesbet": "Super Liga",
+        "Tounesbet_match_id": 10702923,
+        "Tounesbet_tournament_id": 25235,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Jibibet_country_name": "Slovakia",
+        "tournament_Jibibet": "Superliga",
+        "Jibibet_match_id": 2579056780759937050,
+        "Jibibet_tournament_id": 1669818904584785920,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "group_id": "2579056780759937050-653633309-10702923-13058501-27981330",
+        "home_team": "FK Zeleziarne Podbrezova",
+        "away_team": "AS Trencin",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "2579018837206896688-653602397-10702922-13058488-27989163",
+    "home_team": "KFC Komarno",
+    "away_team": "MSK Zilina",
+    "date": "21/09/2025",
+    "time": "16:00",
+    "country": "Slovakia",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "home_under_1.5_vs_home_over_1.5",
+        "best_odds": {
+          "home_under_1.5_odd": {
+            "value": 1.852,
+            "source": "Tounesbet"
+          },
+          "home_over_1.5_odd": {
+            "value": 2.5,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.94,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653602397-10702922",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Slovakia",
+        "tournament_Tounesbet": "Super Liga",
+        "Tounesbet_match_id": 10702922,
+        "Tounesbet_tournament_id": 25235,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "1xbet_country_name": "Slovakia",
+        "tournament_1xbet": "Super League",
+        "1xbet_match_id": 653602397,
+        "1xbet_tournament_id": 27701,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/27701/653602397",
+        "group_id": "2579018837206896688-653602397-10702922-13058488-27989163",
+        "home_team": "KFC Komarno",
+        "away_team": "MSK Zilina",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "ah_0.75_home_vs_away",
+        "best_odds": {
+          "home_handicap_0.75_odd": {
+            "value": 1.947,
+            "source": "Tounesbet"
+          },
+          "away_handicap_-0.75_odd": {
+            "value": 2.21,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9661,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27989163-10702922",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Slovakia",
+        "tournament_Tounesbet": "Super Liga",
+        "Tounesbet_match_id": 10702922,
+        "Tounesbet_tournament_id": 25235,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "Slovakia",
+        "tournament_Asbet": "First League",
+        "Asbet_match_id": 27989163,
+        "Asbet_tournament_id": 2979,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Slovakia/2979/first-league/27989163/kfc-komarno-msk-zilina",
+        "group_id": "2579018837206896688-653602397-10702922-13058488-27989163",
+        "home_team": "KFC Komarno",
+        "away_team": "MSK Zilina",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "first_half_ah_0.5_home_vs_away",
+        "best_odds": {
+          "home_first_half_handicap_0.5_odd": {
+            "value": 1.793,
+            "source": "Tounesbet"
+          },
+          "away_first_half_handicap_-0.5_odd": {
+            "value": 2.4,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9744,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13058488-10702922",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Slovakia",
+        "tournament_Tounesbet": "Super Liga",
+        "Tounesbet_match_id": 10702922,
+        "Tounesbet_tournament_id": 25235,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "Slovakia",
+        "tournament_Clubx2": "Superliga",
+        "Clubx2_match_id": 13058488,
+        "Clubx2_tournament_id": 3106,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13058488#/overview",
+        "group_id": "2579018837206896688-653602397-10702922-13058488-27989163",
+        "home_team": "KFC Komarno",
+        "away_team": "MSK Zilina",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "two_vs_1x_handicap",
+        "best_odds": {
+          "2_odd": {
+            "value": 1.93,
+            "source": "Jibibet"
+          },
+          "home_handicap_0.5_odd": {
+            "value": 2.147,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9839,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2579018837206896688-10702922",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "Slovakia",
+        "tournament_Jibibet": "Superliga",
+        "Jibibet_match_id": 2579018837206896688,
+        "Jibibet_tournament_id": 1669818904584785920,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "Slovakia",
+        "tournament_Tounesbet": "Super Liga",
+        "Tounesbet_match_id": 10702922,
+        "Tounesbet_tournament_id": 25235,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579018837206896688-653602397-10702922-13058488-27989163",
+        "home_team": "KFC Komarno",
+        "away_team": "MSK Zilina",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "2579324213060046896-653633312-11289013-13058493-27989663",
+    "home_team": "FC Spartak Trnava",
+    "away_team": "MFK Zemplin Michalovce",
+    "date": "21/09/2025",
+    "time": "18:00",
+    "country": "Slovakia",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_-1.0_home_vs_away",
+        "best_odds": {
+          "home_handicap_-1.0_odd": {
+            "value": 1.947,
+            "source": "Tounesbet"
+          },
+          "away_handicap_1.0_odd": {
+            "value": 2.26,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9561,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27989663-11289013",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Slovakia",
+        "tournament_Tounesbet": "Super Liga",
+        "Tounesbet_match_id": 11289013,
+        "Tounesbet_tournament_id": 25235,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "Slovakia",
+        "tournament_Asbet": "First League",
+        "Asbet_match_id": 27989663,
+        "Asbet_tournament_id": 2979,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Slovakia/2979/first-league/27989663/fc-spartak-trnava-mfk-zemplin-michalovce",
+        "group_id": "2579324213060046896-653633312-11289013-13058493-27989663",
+        "home_team": "FC Spartak Trnava",
+        "away_team": "MFK Zemplin Michalovce",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "ah_-1.0_home_vs_away",
+        "best_odds": {
+          "home_handicap_-1.0_odd": {
+            "value": 1.947,
+            "source": "Tounesbet"
+          },
+          "away_handicap_1.0_odd": {
+            "value": 2.19,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.9702,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653633312-11289013",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Slovakia",
+        "tournament_Tounesbet": "Super Liga",
+        "Tounesbet_match_id": 11289013,
+        "Tounesbet_tournament_id": 25235,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "1xbet_country_name": "Slovakia",
+        "tournament_1xbet": "Super League",
+        "1xbet_match_id": 653633312,
+        "1xbet_tournament_id": 27701,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/27701/653633312",
+        "group_id": "2579324213060046896-653633312-11289013-13058493-27989663",
+        "home_team": "FC Spartak Trnava",
+        "away_team": "MFK Zemplin Michalovce",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "first_half_ah_-0.5_home_vs_away",
+        "best_odds": {
+          "home_first_half_handicap_-0.5_odd": {
+            "value": 2.242,
+            "source": "Tounesbet"
+          },
+          "away_first_half_handicap_0.5_odd": {
+            "value": 1.9,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9723,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13058493-11289013",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Slovakia",
+        "tournament_Tounesbet": "Super Liga",
+        "Tounesbet_match_id": 11289013,
+        "Tounesbet_tournament_id": 25235,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "Slovakia",
+        "tournament_Clubx2": "Superliga",
+        "Clubx2_match_id": 13058493,
+        "Clubx2_tournament_id": 3106,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13058493#/overview",
+        "group_id": "2579324213060046896-653633312-11289013-13058493-27989663",
+        "home_team": "FC Spartak Trnava",
+        "away_team": "MFK Zemplin Michalovce",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "under_3.5_vs_over_3.5",
+        "best_odds": {
+          "under_3.5_odd": {
+            "value": 1.48,
+            "source": "Jibibet"
+          },
+          "over_3.5_odd": {
+            "value": 3.091,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9992,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2579324213060046896-11289013",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "Slovakia",
+        "tournament_Jibibet": "Superliga",
+        "Jibibet_match_id": 2579324213060046896,
+        "Jibibet_tournament_id": 1669818904584785920,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "Slovakia",
+        "tournament_Tounesbet": "Super Liga",
+        "Tounesbet_match_id": 11289013,
+        "Tounesbet_tournament_id": 25235,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579324213060046896-653633312-11289013-13058493-27989663",
+        "home_team": "FC Spartak Trnava",
+        "away_team": "MFK Zemplin Michalovce",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "2579752594478080014-653876843-11287769",
+    "home_team": "MSK Povazska Bystrica",
+    "away_team": "OFK Dynamo Malzenice",
+    "date": "19/09/2025",
+    "time": "14:30",
+    "country": "Slovakia",
+    "all_sources": [
+      "1xbet",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "one_vs_x2",
+        "best_odds": {
+          "1_odd": {
+            "value": 1.888,
+            "source": "Tounesbet"
+          },
+          "X2_odd": {
+            "value": 2.25,
+            "source": "Jibibet"
+          }
+        },
+        "arbitrage_percentage": 0.9741,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2579752594478080014-11287769",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Slovakia",
+        "tournament_Tounesbet": "II Liga",
+        "Tounesbet_match_id": 11287769,
+        "Tounesbet_tournament_id": 21808,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Jibibet_country_name": "Slovakia",
+        "tournament_Jibibet": "2. Liga",
+        "Jibibet_match_id": 2579752594478080014,
+        "Jibibet_tournament_id": 1669818996301631488,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "group_id": "2579752594478080014-653876843-11287769",
+        "home_team": "MSK Povazska Bystrica",
+        "away_team": "OFK Dynamo Malzenice",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "2579328053918441503-653610085-11288692-13682544",
+    "home_team": "FC Vion Zlate Moravce - Vrable",
+    "away_team": "MSK Zilina II",
+    "date": "19/09/2025",
+    "time": "17:00",
+    "country": "Slovakia",
+    "all_sources": [
+      "1xbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_-1.75_home_vs_away",
+        "best_odds": {
+          "home_handicap_-1.75_odd": {
+            "value": 2.12,
+            "source": "1xbet"
+          },
+          "away_handicap_1.75_odd": {
+            "value": 2.324,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.902,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653610085-11288692",
+        "misvalue_source": "1xbet",
+        "1xbet_country_name": "Slovakia",
+        "tournament_1xbet": "Liga 2",
+        "1xbet_match_id": 653610085,
+        "1xbet_tournament_id": 41523,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/41523/653610085",
+        "Tounesbet_country_name": "Slovakia",
+        "tournament_Tounesbet": "II Liga",
+        "Tounesbet_match_id": 11288692,
+        "Tounesbet_tournament_id": 21808,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579328053918441503-653610085-11288692-13682544",
+        "home_team": "FC Vion Zlate Moravce - Vrable",
+        "away_team": "MSK Zilina II",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "first_half_under_1.5_vs_first_half_over_1.5",
+        "best_odds": {
+          "first_half_under_1.5_odd": {
+            "value": 1.75,
+            "source": "Clubx2"
+          },
+          "first_half_over_1.5_odd": {
+            "value": 2.371,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9932,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13682544-11288692",
+        "misvalue_source": "1xbet",
+        "Clubx2_country_name": "Slovakia",
+        "tournament_Clubx2": "2. Liga",
+        "Clubx2_match_id": 13682544,
+        "Clubx2_tournament_id": 5041,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13682544#/overview",
+        "Tounesbet_country_name": "Slovakia",
+        "tournament_Tounesbet": "II Liga",
+        "Tounesbet_match_id": 11288692,
+        "Tounesbet_tournament_id": 21808,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579328053918441503-653610085-11288692-13682544",
+        "home_team": "FC Vion Zlate Moravce - Vrable",
+        "away_team": "MSK Zilina II",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "653877866-11290860-13682543",
+    "home_team": "FK Dukla Banska Bystrica",
+    "away_team": "FC STK 1914 Samorin",
+    "date": "19/09/2025",
+    "time": "19:00",
+    "country": "Slovakia",
+    "all_sources": [
+      "1xbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "first_half_under_1.5_vs_first_half_over_1.5",
+        "best_odds": {
+          "first_half_under_1.5_odd": {
+            "value": 1.6667,
+            "source": "Clubx2"
+          },
+          "first_half_over_1.5_odd": {
+            "value": 2.643,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9783,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13682543-11290860",
+        "Clubx2_country_name": "Slovakia",
+        "tournament_Clubx2": "2. Liga",
+        "Clubx2_match_id": 13682543,
+        "Clubx2_tournament_id": 5041,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13682543#/overview",
+        "Tounesbet_country_name": "Slovakia",
+        "tournament_Tounesbet": "II Liga",
+        "Tounesbet_match_id": 11290860,
+        "Tounesbet_tournament_id": 21808,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653877866-11290860-13682543",
+        "home_team": "FK Dukla Banska Bystrica",
+        "away_team": "FC STK 1914 Samorin",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "2579650176478228485-653782659-11292419",
+    "home_team": "FC Petrzalka 1898",
+    "away_team": "MSK Puchov",
+    "date": "20/09/2025",
+    "time": "09:30",
+    "country": "Slovakia",
+    "all_sources": [
+      "1xbet",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.25,
+            "source": "1xbet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 2.36,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.8682,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653782659-11292419",
+        "misvalue_source": "1xbet",
+        "1xbet_country_name": "Slovakia",
+        "tournament_1xbet": "Liga 2",
+        "1xbet_match_id": 653782659,
+        "1xbet_tournament_id": 41523,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/41523/653782659",
+        "Tounesbet_country_name": "Slovakia",
+        "tournament_Tounesbet": "II Liga",
+        "Tounesbet_match_id": 11292419,
+        "Tounesbet_tournament_id": 21808,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579650176478228485-653782659-11292419",
+        "home_team": "FC Petrzalka 1898",
+        "away_team": "MSK Puchov",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "one_vs_x2",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.25,
+            "source": "1xbet"
+          },
+          "X2_odd": {
+            "value": 1.9,
+            "source": "Jibibet"
+          }
+        },
+        "arbitrage_percentage": 0.9708,
+        "arbitrage_sources": "1xbet, Jibibet",
+        "unique_id": "2579650176478228485-653782659",
+        "misvalue_source": "1xbet",
+        "1xbet_country_name": "Slovakia",
+        "tournament_1xbet": "Liga 2",
+        "1xbet_match_id": 653782659,
+        "1xbet_tournament_id": 41523,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/41523/653782659",
+        "Jibibet_country_name": "Slovakia",
+        "tournament_Jibibet": "2. Liga",
+        "Jibibet_match_id": 2579650176478228485,
+        "Jibibet_tournament_id": 1669818996301631488,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "group_id": "2579650176478228485-653782659-11292419",
+        "home_team": "FC Petrzalka 1898",
+        "away_team": "MSK Puchov",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 1.77,
+            "source": "Jibibet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 2.36,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9887,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2579650176478228485-11292419",
+        "misvalue_source": "1xbet",
+        "Jibibet_country_name": "Slovakia",
+        "tournament_Jibibet": "2. Liga",
+        "Jibibet_match_id": 2579650176478228485,
+        "Jibibet_tournament_id": 1669818996301631488,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "Slovakia",
+        "tournament_Tounesbet": "II Liga",
+        "Tounesbet_match_id": 11292419,
+        "Tounesbet_tournament_id": 21808,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579650176478228485-653782659-11292419",
+        "home_team": "FC Petrzalka 1898",
+        "away_team": "MSK Puchov",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "2579601454633455644-653845209-11294536-13712009",
+    "home_team": "FK Inter Bratislava",
+    "away_team": "MFK Goral Stara Lubovna",
+    "date": "20/09/2025",
+    "time": "14:30",
+    "country": "Slovakia",
+    "all_sources": [
+      "1xbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 1.7778,
+            "source": "Clubx2"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 2.36,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9862,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13712009-11294536",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Slovakia",
+        "tournament_Clubx2": "2. Liga",
+        "Clubx2_match_id": 13712009,
+        "Clubx2_tournament_id": 5041,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13712009#/overview",
+        "Tounesbet_country_name": "Slovakia",
+        "tournament_Tounesbet": "II Liga",
+        "Tounesbet_match_id": 11294536,
+        "Tounesbet_tournament_id": 21808,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579601454633455644-653845209-11294536-13712009",
+        "home_team": "FK Inter Bratislava",
+        "away_team": "MFK Goral Stara Lubovna",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 1.77,
+            "source": "1xbet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 2.36,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9887,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653845209-11294536",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Slovakia",
+        "tournament_1xbet": "Liga 2",
+        "1xbet_match_id": 653845209,
+        "1xbet_tournament_id": 41523,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/41523/653845209",
+        "Tounesbet_country_name": "Slovakia",
+        "tournament_Tounesbet": "II Liga",
+        "Tounesbet_match_id": 11294536,
+        "Tounesbet_tournament_id": 21808,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579601454633455644-653845209-11294536-13712009",
+        "home_team": "FK Inter Bratislava",
+        "away_team": "MFK Goral Stara Lubovna",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "2579752594478080022-653878390-11294492-13712011",
+    "home_team": "MFK Tatran Liptovsky Mikulas",
+    "away_team": "MFK Lokomotiva Zvolen",
+    "date": "20/09/2025",
+    "time": "14:40",
+    "country": "Slovakia",
+    "all_sources": [
+      "1xbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "one_vs_x2",
+        "best_odds": {
+          "1_odd": {
+            "value": 1.829,
+            "source": "Tounesbet"
+          },
+          "X2_odd": {
+            "value": 2.45,
+            "source": "Jibibet"
+          }
+        },
+        "arbitrage_percentage": 0.9549,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2579752594478080022-11294492",
+        "misvalue_source": "Clubx2",
+        "Tounesbet_country_name": "Slovakia",
+        "tournament_Tounesbet": "II Liga",
+        "Tounesbet_match_id": 11294492,
+        "Tounesbet_tournament_id": 21808,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Jibibet_country_name": "Slovakia",
+        "tournament_Jibibet": "2. Liga",
+        "Jibibet_match_id": 2579752594478080022,
+        "Jibibet_tournament_id": 1669818996301631488,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "group_id": "2579752594478080022-653878390-11294492-13712011",
+        "home_team": "MFK Tatran Liptovsky Mikulas",
+        "away_team": "MFK Lokomotiva Zvolen",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "first_half_under_1.5_vs_first_half_over_1.5",
+        "best_odds": {
+          "first_half_under_1.5_odd": {
+            "value": 1.793,
+            "source": "Tounesbet"
+          },
+          "first_half_over_1.5_odd": {
+            "value": 2.2858,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9952,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13712011-11294492",
+        "Tounesbet_country_name": "Slovakia",
+        "tournament_Tounesbet": "II Liga",
+        "Tounesbet_match_id": 11294492,
+        "Tounesbet_tournament_id": 21808,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "Slovakia",
+        "tournament_Clubx2": "2. Liga",
+        "Clubx2_match_id": 13712011,
+        "Clubx2_tournament_id": 5041,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13712011#/overview",
+        "group_id": "2579752594478080022-653878390-11294492-13712011",
+        "home_team": "MFK Tatran Liptovsky Mikulas",
+        "away_team": "MFK Lokomotiva Zvolen",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "2579056780759937027-10702927-13058490-27981971",
+    "home_team": "SK Slovan Bratislava",
+    "away_team": "FK DAC 1904 Dunajska Streda",
+    "date": "20/09/2025",
+    "time": "19:30",
+    "country": "Slovakia",
+    "all_sources": [
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "both_score",
+        "best_odds": {
+          "both_score_odd": {
+            "value": 1.805,
+            "source": "Tounesbet"
+          },
+          "both_noscore_odd": {
+            "value": 2.47,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9589,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27981971-10702927",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Slovakia",
+        "tournament_Tounesbet": "Super Liga",
+        "Tounesbet_match_id": 10702927,
+        "Tounesbet_tournament_id": 25235,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "Slovakia",
+        "tournament_Asbet": "First League",
+        "Asbet_match_id": 27981971,
+        "Asbet_tournament_id": 2979,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Slovakia/2979/first-league/27981971/sk-slovan-bratislava-fk-dac-dunajska-streda",
+        "group_id": "2579056780759937027-10702927-13058490-27981971",
+        "home_team": "SK Slovan Bratislava",
+        "away_team": "FK DAC 1904 Dunajska Streda",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "both_score",
+        "best_odds": {
+          "both_score_odd": {
+            "value": 1.805,
+            "source": "Tounesbet"
+          },
+          "both_noscore_odd": {
+            "value": 2.375,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9751,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13058490-10702927",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Slovakia",
+        "tournament_Tounesbet": "Super Liga",
+        "Tounesbet_match_id": 10702927,
+        "Tounesbet_tournament_id": 25235,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "Slovakia",
+        "tournament_Clubx2": "Superliga",
+        "Clubx2_match_id": 13058490,
+        "Clubx2_tournament_id": 3106,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13058490#/overview",
+        "group_id": "2579056780759937027-10702927-13058490-27981971",
+        "home_team": "SK Slovan Bratislava",
+        "away_team": "FK DAC 1904 Dunajska Streda",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 1.88,
+            "source": "Jibibet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 2.242,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9779,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2579056780759937027-10702927",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "Slovakia",
+        "tournament_Jibibet": "Superliga",
+        "Jibibet_match_id": 2579056780759937027,
+        "Jibibet_tournament_id": 1669818904584785920,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "Slovakia",
+        "tournament_Tounesbet": "Super Liga",
+        "Tounesbet_match_id": 10702927,
+        "Tounesbet_tournament_id": 25235,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579056780759937027-10702927-13058490-27981971",
+        "home_team": "SK Slovan Bratislava",
+        "away_team": "FK DAC 1904 Dunajska Streda",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "2579752594478080015-11301996-13712008",
+    "home_team": "OFK Banik Lehota Pod Vtacnikom",
+    "away_team": "FK Pohronie Ziar Nad Hronom Dolna Zdana",
+    "date": "20/09/2025",
+    "time": "14:30",
+    "country": "Slovakia",
+    "all_sources": [
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_0.5_home_vs_away",
+        "best_odds": {
+          "home_handicap_0.5_odd": {
+            "value": 1.85,
+            "source": "Clubx2"
+          },
+          "away_handicap_-0.5_odd": {
+            "value": 2.265,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.982,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13712008-11301996",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Slovakia",
+        "tournament_Clubx2": "2. Liga",
+        "Clubx2_match_id": 13712008,
+        "Clubx2_tournament_id": 5041,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13712008#/overview",
+        "Tounesbet_country_name": "Slovakia",
+        "tournament_Tounesbet": "II Liga",
+        "Tounesbet_match_id": 11301996,
+        "Tounesbet_tournament_id": 21808,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579752594478080015-11301996-13712008",
+        "home_team": "OFK Banik Lehota Pod Vtacnikom",
+        "away_team": "FK Pohronie Ziar Nad Hronom Dolna Zdana",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "two_vs_1x_handicap",
+        "best_odds": {
+          "2_odd": {
+            "value": 1.87,
+            "source": "Jibibet"
+          },
+          "home_handicap_0.5_odd": {
+            "value": 2.206,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9881,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2579752594478080015-11301996",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "Slovakia",
+        "tournament_Jibibet": "2. Liga",
+        "Jibibet_match_id": 2579752594478080015,
+        "Jibibet_tournament_id": 1669818996301631488,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "Slovakia",
+        "tournament_Tounesbet": "II Liga",
+        "Tounesbet_match_id": 11301996,
+        "Tounesbet_tournament_id": 21808,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579752594478080015-11301996-13712008",
+        "home_team": "OFK Banik Lehota Pod Vtacnikom",
+        "away_team": "FK Pohronie Ziar Nad Hronom Dolna Zdana",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "2579752594478080025-11299469-13721574",
+    "home_team": "Slavia Tu Kosice",
+    "away_team": "SK Slovan Bratislava futbal II",
+    "date": "21/09/2025",
+    "time": "10:00",
+    "country": "Slovakia",
+    "all_sources": [
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "first_half_under_1.5_vs_first_half_over_1.5",
+        "best_odds": {
+          "first_half_under_1.5_odd": {
+            "value": 1.6667,
+            "source": "Clubx2"
+          },
+          "first_half_over_1.5_odd": {
+            "value": 2.619,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9818,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13721574-11299469",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Slovakia",
+        "tournament_Clubx2": "2. Liga",
+        "Clubx2_match_id": 13721574,
+        "Clubx2_tournament_id": 5041,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13721574#/overview",
+        "Tounesbet_country_name": "Slovakia",
+        "tournament_Tounesbet": "II Liga",
+        "Tounesbet_match_id": 11299469,
+        "Tounesbet_tournament_id": 21808,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579752594478080025-11299469-13721574",
+        "home_team": "Slavia Tu Kosice",
+        "away_team": "SK Slovan Bratislava futbal II",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "one_vs_x2",
+        "best_odds": {
+          "1_odd": {
+            "value": 1.99,
+            "source": "Jibibet"
+          },
+          "X2_odd": {
+            "value": 2.029,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9954,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2579752594478080025-11299469",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "Slovakia",
+        "tournament_Jibibet": "2. Liga",
+        "Jibibet_match_id": 2579752594478080025,
+        "Jibibet_tournament_id": 1669818996301631488,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "Slovakia",
+        "tournament_Tounesbet": "II Liga",
+        "Tounesbet_match_id": 11299469,
+        "Tounesbet_tournament_id": 21808,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579752594478080025-11299469-13721574",
+        "home_team": "Slavia Tu Kosice",
+        "away_team": "SK Slovan Bratislava futbal II",
+        "activity_duration": "25 hours"
+      }
+    ]
+  }
+]

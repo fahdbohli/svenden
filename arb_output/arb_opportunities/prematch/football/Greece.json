@@ -1,0 +1,2013 @@
+[
+  {
+    "group_id": "653843996-11254547-13919292-27988132",
+    "home_team": "AE Kifisia FC",
+    "away_team": "Asteras Tripolis",
+    "date": "17/09/2025",
+    "time": "13:00",
+    "country": "Greece",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.4,
+            "source": "Clubx2"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.852,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9566,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13919292-11254547",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Greece",
+        "tournament_Clubx2": "Greece Cup",
+        "Clubx2_match_id": 13919292,
+        "Clubx2_tournament_id": 3443,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13919292#/overview",
+        "Tounesbet_country_name": "Greece",
+        "tournament_Tounesbet": "Greek Cup",
+        "Tounesbet_match_id": 11254547,
+        "Tounesbet_tournament_id": 24967,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653843996-11254547-13919292-27988132",
+        "home_team": "AE Kifisia FC",
+        "away_team": "Asteras Tripolis",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.36,
+            "source": "Asbet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.852,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9637,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27988132-11254547",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Greece",
+        "tournament_Asbet": "Greek Cup",
+        "Asbet_match_id": 27988132,
+        "Asbet_tournament_id": 1885,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Greece/1885/greek-cup/27988132/ae-kifisia-fc-asteras-tripolis",
+        "Tounesbet_country_name": "Greece",
+        "tournament_Tounesbet": "Greek Cup",
+        "Tounesbet_match_id": 11254547,
+        "Tounesbet_tournament_id": 24967,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653843996-11254547-13919292-27988132",
+        "home_team": "AE Kifisia FC",
+        "away_team": "Asteras Tripolis",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.35,
+            "source": "1xbet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.852,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9655,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653843996-11254547",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Greece",
+        "tournament_1xbet": "Greek Cup",
+        "1xbet_match_id": 653843996,
+        "1xbet_tournament_id": 119457,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/119457/653843996",
+        "Tounesbet_country_name": "Greece",
+        "tournament_Tounesbet": "Greek Cup",
+        "Tounesbet_match_id": 11254547,
+        "Tounesbet_tournament_id": 24967,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653843996-11254547-13919292-27988132",
+        "home_team": "AE Kifisia FC",
+        "away_team": "Asteras Tripolis",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "653843999-11254550-13919236-27988125",
+    "home_team": "Panetolikos FC",
+    "away_team": "Aris Thessalonikis",
+    "date": "17/09/2025",
+    "time": "13:00",
+    "country": "Greece",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "two_vs_1x_handicap",
+        "best_odds": {
+          "2_odd": {
+            "value": 2.4,
+            "source": "Clubx2"
+          },
+          "home_handicap_0.5_odd": {
+            "value": 1.852,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9566,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13919236-11254550",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Greece",
+        "tournament_Clubx2": "Greece Cup",
+        "Clubx2_match_id": 13919236,
+        "Clubx2_tournament_id": 3443,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13919236#/overview",
+        "Tounesbet_country_name": "Greece",
+        "tournament_Tounesbet": "Greek Cup",
+        "Tounesbet_match_id": 11254550,
+        "Tounesbet_tournament_id": 24967,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653843999-11254550-13919236-27988125",
+        "home_team": "Panetolikos FC",
+        "away_team": "Aris Thessalonikis",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "ah_-0.25_home_vs_away",
+        "best_odds": {
+          "home_handicap_-0.25_odd": {
+            "value": 2.472,
+            "source": "1xbet"
+          },
+          "away_handicap_0.25_odd": {
+            "value": 1.793,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9623,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653843999-11254550",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Greece",
+        "tournament_1xbet": "Greek Cup",
+        "1xbet_match_id": 653843999,
+        "1xbet_tournament_id": 119457,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/119457/653843999",
+        "Tounesbet_country_name": "Greece",
+        "tournament_Tounesbet": "Greek Cup",
+        "Tounesbet_match_id": 11254550,
+        "Tounesbet_tournament_id": 24967,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653843999-11254550-13919236-27988125",
+        "home_team": "Panetolikos FC",
+        "away_team": "Aris Thessalonikis",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "two_vs_1x_handicap",
+        "best_odds": {
+          "2_odd": {
+            "value": 2.31,
+            "source": "Asbet"
+          },
+          "home_handicap_0.5_odd": {
+            "value": 1.852,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9729,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27988125-11254550",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Greece",
+        "tournament_Asbet": "Greek Cup",
+        "Asbet_match_id": 27988125,
+        "Asbet_tournament_id": 1885,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Greece/1885/greek-cup/27988125/panetolikos-fc-aris-thessaloniki",
+        "Tounesbet_country_name": "Greece",
+        "tournament_Tounesbet": "Greek Cup",
+        "Tounesbet_match_id": 11254550,
+        "Tounesbet_tournament_id": 24967,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653843999-11254550-13919236-27988125",
+        "home_team": "Panetolikos FC",
+        "away_team": "Aris Thessalonikis",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "653844562-11254551-13919161-27988129",
+    "home_team": "Atromitos Athens FC",
+    "away_team": "APO Ellas Syros",
+    "date": "17/09/2025",
+    "time": "14:00",
+    "country": "Greece",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_-1.5_home_vs_away",
+        "best_odds": {
+          "home_handicap_-1.5_odd": {
+            "value": 1.829,
+            "source": "Tounesbet"
+          },
+          "away_handicap_1.5_odd": {
+            "value": 2.44,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9566,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27988129-11254551",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Greece",
+        "tournament_Tounesbet": "Greek Cup",
+        "Tounesbet_match_id": 11254551,
+        "Tounesbet_tournament_id": 24967,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "Greece",
+        "tournament_Asbet": "Greek Cup",
+        "Asbet_match_id": 27988129,
+        "Asbet_tournament_id": 1885,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Greece/1885/greek-cup/27988129/atromitos-athens-fc-apo-ellas-syros",
+        "group_id": "653844562-11254551-13919161-27988129",
+        "home_team": "Atromitos Athens FC",
+        "away_team": "APO Ellas Syros",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "first_half_ah_-0.5_home_vs_away",
+        "best_odds": {
+          "home_first_half_handicap_-0.5_odd": {
+            "value": 1.829,
+            "source": "Tounesbet"
+          },
+          "away_first_half_handicap_0.5_odd": {
+            "value": 2.4,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9634,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13919161-11254551",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Greece",
+        "tournament_Tounesbet": "Greek Cup",
+        "Tounesbet_match_id": 11254551,
+        "Tounesbet_tournament_id": 24967,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "Greece",
+        "tournament_Clubx2": "Greece Cup",
+        "Clubx2_match_id": 13919161,
+        "Clubx2_tournament_id": 3443,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13919161#/overview",
+        "group_id": "653844562-11254551-13919161-27988129",
+        "home_team": "Atromitos Athens FC",
+        "away_team": "APO Ellas Syros",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "home_under_2.5_vs_home_over_2.5",
+        "best_odds": {
+          "home_under_2.5_odd": {
+            "value": 2.124,
+            "source": "Tounesbet"
+          },
+          "home_over_2.5_odd": {
+            "value": 2.0,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.9708,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653844562-11254551",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Greece",
+        "tournament_Tounesbet": "Greek Cup",
+        "Tounesbet_match_id": 11254551,
+        "Tounesbet_tournament_id": 24967,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "1xbet_country_name": "Greece",
+        "tournament_1xbet": "Greek Cup",
+        "1xbet_match_id": 653844562,
+        "1xbet_tournament_id": 119457,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/119457/653844562",
+        "group_id": "653844562-11254551-13919161-27988129",
+        "home_team": "Atromitos Athens FC",
+        "away_team": "APO Ellas Syros",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "653844565-11254549-13919221-27988134",
+    "home_team": "AO Egaleo 1931 PAE",
+    "away_team": "AEK Athens",
+    "date": "17/09/2025",
+    "time": "14:00",
+    "country": "Greece",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "away_under_3.5_vs_away_over_3.5",
+        "best_odds": {
+          "away_under_3.5_odd": {
+            "value": 1.899,
+            "source": "Tounesbet"
+          },
+          "away_over_3.5_odd": {
+            "value": 2.75,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.8902,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653844565-11254549",
+        "misvalue_source": "1xbet",
+        "Tounesbet_country_name": "Greece",
+        "tournament_Tounesbet": "Greek Cup",
+        "Tounesbet_match_id": 11254549,
+        "Tounesbet_tournament_id": 24967,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "1xbet_country_name": "Greece",
+        "tournament_1xbet": "Greek Cup",
+        "1xbet_match_id": 653844565,
+        "1xbet_tournament_id": 119457,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/119457/653844565",
+        "group_id": "653844565-11254549-13919221-27988134",
+        "home_team": "AO Egaleo 1931 PAE",
+        "away_team": "AEK Athens",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "second_half_under_2.0_vs_second_half_over_2.0",
+        "best_odds": {
+          "second_half_under_2.0_odd": {
+            "value": 1.923,
+            "source": "Tounesbet"
+          },
+          "second_half_over_2.0_odd": {
+            "value": 2.45,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9282,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27988134-11254549",
+        "misvalue_source": "1xbet",
+        "Tounesbet_country_name": "Greece",
+        "tournament_Tounesbet": "Greek Cup",
+        "Tounesbet_match_id": 11254549,
+        "Tounesbet_tournament_id": 24967,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "Greece",
+        "tournament_Asbet": "Greek Cup",
+        "Asbet_match_id": 27988134,
+        "Asbet_tournament_id": 1885,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Greece/1885/greek-cup/27988134/ao-egaleo-aek-athens",
+        "group_id": "653844565-11254549-13919221-27988134",
+        "home_team": "AO Egaleo 1931 PAE",
+        "away_team": "AEK Athens",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "first_half_ah_1.5_home_vs_away",
+        "best_odds": {
+          "home_first_half_handicap_1.5_odd": {
+            "value": 1.888,
+            "source": "Tounesbet"
+          },
+          "away_first_half_handicap_-1.5_odd": {
+            "value": 2.4,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9463,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13919221-11254549",
+        "misvalue_source": "1xbet",
+        "Tounesbet_country_name": "Greece",
+        "tournament_Tounesbet": "Greek Cup",
+        "Tounesbet_match_id": 11254549,
+        "Tounesbet_tournament_id": 24967,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "Greece",
+        "tournament_Clubx2": "Greece Cup",
+        "Clubx2_match_id": 13919221,
+        "Clubx2_tournament_id": 3443,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13919221#/overview",
+        "group_id": "653844565-11254549-13919221-27988134",
+        "home_team": "AO Egaleo 1931 PAE",
+        "away_team": "AEK Athens",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "ah_2.0_home_vs_away",
+        "best_odds": {
+          "home_handicap_2.0_odd": {
+            "value": 3.25,
+            "source": "Asbet"
+          },
+          "away_handicap_-2.0_odd": {
+            "value": 1.49,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.9788,
+        "arbitrage_sources": "1xbet, Asbet",
+        "unique_id": "653844565-27988134",
+        "misvalue_source": "1xbet",
+        "Asbet_country_name": "Greece",
+        "tournament_Asbet": "Greek Cup",
+        "Asbet_match_id": 27988134,
+        "Asbet_tournament_id": 1885,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Greece/1885/greek-cup/27988134/ao-egaleo-aek-athens",
+        "1xbet_country_name": "Greece",
+        "tournament_1xbet": "Greek Cup",
+        "1xbet_match_id": 653844565,
+        "1xbet_tournament_id": 119457,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/119457/653844565",
+        "group_id": "653844565-11254549-13919221-27988134",
+        "home_team": "AO Egaleo 1931 PAE",
+        "away_team": "AEK Athens",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "653844556-11254554-13919297-27988133",
+    "home_team": "OFI Crete FC",
+    "away_team": "AO Kavala 1965",
+    "date": "17/09/2025",
+    "time": "14:00",
+    "country": "Greece",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_-2.0_home_vs_away",
+        "best_odds": {
+          "home_handicap_-2.0_odd": {
+            "value": 2.05,
+            "source": "1xbet"
+          },
+          "away_handicap_2.0_odd": {
+            "value": 2.301,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9224,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653844556-11254554",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Greece",
+        "tournament_1xbet": "Greek Cup",
+        "1xbet_match_id": 653844556,
+        "1xbet_tournament_id": 119457,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/119457/653844556",
+        "Tounesbet_country_name": "Greece",
+        "tournament_Tounesbet": "Greek Cup",
+        "Tounesbet_match_id": 11254554,
+        "Tounesbet_tournament_id": 24967,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653844556-11254554-13919297-27988133",
+        "home_team": "OFI Crete FC",
+        "away_team": "AO Kavala 1965",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "first_half_under_1.0_vs_first_half_over_1.0",
+        "best_odds": {
+          "first_half_under_1.0_odd": {
+            "value": 2.3,
+            "source": "Asbet"
+          },
+          "first_half_over_1.0_odd": {
+            "value": 1.958,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9455,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27988133-11254554",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Greece",
+        "tournament_Asbet": "Greek Cup",
+        "Asbet_match_id": 27988133,
+        "Asbet_tournament_id": 1885,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Greece/1885/greek-cup/27988133/ofi-crete-fc-ao-kavala",
+        "Tounesbet_country_name": "Greece",
+        "tournament_Tounesbet": "Greek Cup",
+        "Tounesbet_match_id": 11254554,
+        "Tounesbet_tournament_id": 24967,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653844556-11254554-13919297-27988133",
+        "home_team": "OFI Crete FC",
+        "away_team": "AO Kavala 1965",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "first_half_ah_-0.5_home_vs_away",
+        "best_odds": {
+          "home_first_half_handicap_-0.5_odd": {
+            "value": 1.793,
+            "source": "Tounesbet"
+          },
+          "away_first_half_handicap_0.5_odd": {
+            "value": 2.4,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9744,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13919297-11254554",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Greece",
+        "tournament_Tounesbet": "Greek Cup",
+        "Tounesbet_match_id": 11254554,
+        "Tounesbet_tournament_id": 24967,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "Greece",
+        "tournament_Clubx2": "Greece Cup",
+        "Clubx2_match_id": 13919297,
+        "Clubx2_tournament_id": 3443,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13919297#/overview",
+        "group_id": "653844556-11254554-13919297-27988133",
+        "home_team": "OFI Crete FC",
+        "away_team": "AO Kavala 1965",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "653844568-11254544-13919147-27988128",
+    "home_team": "Levadeiakos",
+    "away_team": "P.A.O.K.",
+    "date": "17/09/2025",
+    "time": "15:30",
+    "country": "Greece",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "second_half_under_1.5_vs_second_half_over_1.5",
+        "best_odds": {
+          "second_half_under_1.5_odd": {
+            "value": 1.982,
+            "source": "Tounesbet"
+          },
+          "second_half_over_1.5_odd": {
+            "value": 2.2,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9591,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13919147-11254544",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Greece",
+        "tournament_Tounesbet": "Greek Cup",
+        "Tounesbet_match_id": 11254544,
+        "Tounesbet_tournament_id": 24967,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "Greece",
+        "tournament_Clubx2": "Greece Cup",
+        "Clubx2_match_id": 13919147,
+        "Clubx2_tournament_id": 3443,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13919147#/overview",
+        "group_id": "653844568-11254544-13919147-27988128",
+        "home_team": "Levadeiakos",
+        "away_team": "P.A.O.K.",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "first_half_ah_0.5_home_vs_away",
+        "best_odds": {
+          "home_first_half_handicap_0.5_odd": {
+            "value": 2.029,
+            "source": "Tounesbet"
+          },
+          "away_first_half_handicap_-0.5_odd": {
+            "value": 2.13,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9623,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27988128-11254544",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Greece",
+        "tournament_Tounesbet": "Greek Cup",
+        "Tounesbet_match_id": 11254544,
+        "Tounesbet_tournament_id": 24967,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "Greece",
+        "tournament_Asbet": "Greek Cup",
+        "Asbet_match_id": 27988128,
+        "Asbet_tournament_id": 1885,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Greece/1885/greek-cup/27988128/levadiakos-paok-fc",
+        "group_id": "653844568-11254544-13919147-27988128",
+        "home_team": "Levadeiakos",
+        "away_team": "P.A.O.K.",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "ah_1.25_home_vs_away",
+        "best_odds": {
+          "home_handicap_1.25_odd": {
+            "value": 1.947,
+            "source": "Tounesbet"
+          },
+          "away_handicap_-1.25_odd": {
+            "value": 2.18,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.9723,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653844568-11254544",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Greece",
+        "tournament_Tounesbet": "Greek Cup",
+        "Tounesbet_match_id": 11254544,
+        "Tounesbet_tournament_id": 24967,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "1xbet_country_name": "Greece",
+        "tournament_1xbet": "Greek Cup",
+        "1xbet_match_id": 653844568,
+        "1xbet_tournament_id": 119457,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/119457/653844568",
+        "group_id": "653844568-11254544-13919147-27988128",
+        "home_team": "Levadeiakos",
+        "away_team": "P.A.O.K.",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "653862631-11254542-13919283-27988126",
+    "home_team": "Panathinaikos",
+    "away_team": "Athens Kallithea FC",
+    "date": "17/09/2025",
+    "time": "15:30",
+    "country": "Greece",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "first_half_under_1.0_vs_first_half_over_1.0",
+        "best_odds": {
+          "first_half_under_1.0_odd": {
+            "value": 2.2858,
+            "source": "Clubx2"
+          },
+          "first_half_over_1.0_odd": {
+            "value": 2.065,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9217,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13919283-11254542",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Greece",
+        "tournament_Clubx2": "Greece Cup",
+        "Clubx2_match_id": 13919283,
+        "Clubx2_tournament_id": 3443,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13919283#/overview",
+        "Tounesbet_country_name": "Greece",
+        "tournament_Tounesbet": "Greek Cup",
+        "Tounesbet_match_id": 11254542,
+        "Tounesbet_tournament_id": 24967,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653862631-11254542-13919283-27988126",
+        "home_team": "Panathinaikos",
+        "away_team": "Athens Kallithea FC",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "first_half_under_1.0_vs_first_half_over_1.0",
+        "best_odds": {
+          "first_half_under_1.0_odd": {
+            "value": 2.2,
+            "source": "Asbet"
+          },
+          "first_half_over_1.0_odd": {
+            "value": 2.065,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9388,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27988126-11254542",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Greece",
+        "tournament_Asbet": "Greek Cup",
+        "Asbet_match_id": 27988126,
+        "Asbet_tournament_id": 1885,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Greece/1885/greek-cup/27988126/panathinaikos-athens-kallithea-fc",
+        "Tounesbet_country_name": "Greece",
+        "tournament_Tounesbet": "Greek Cup",
+        "Tounesbet_match_id": 11254542,
+        "Tounesbet_tournament_id": 24967,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653862631-11254542-13919283-27988126",
+        "home_team": "Panathinaikos",
+        "away_team": "Athens Kallithea FC",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "ah_-2.0_home_vs_away",
+        "best_odds": {
+          "home_handicap_-2.0_odd": {
+            "value": 2.23,
+            "source": "1xbet"
+          },
+          "away_handicap_2.0_odd": {
+            "value": 1.911,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9717,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653862631-11254542",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Greece",
+        "tournament_1xbet": "Greek Cup",
+        "1xbet_match_id": 653862631,
+        "1xbet_tournament_id": 119457,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/119457/653862631",
+        "Tounesbet_country_name": "Greece",
+        "tournament_Tounesbet": "Greek Cup",
+        "Tounesbet_match_id": 11254542,
+        "Tounesbet_tournament_id": 24967,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653862631-11254542-13919283-27988126",
+        "home_team": "Panathinaikos",
+        "away_team": "Athens Kallithea FC",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "2579412821041356823-653864672-11283260-13952739-28010248",
+    "home_team": "Asteras Tripolis II",
+    "away_team": "Nestos Chrysoupoli FC",
+    "date": "21/09/2025",
+    "time": "15:00",
+    "country": "Greece",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.02,
+            "source": "1xbet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 2.147,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9608,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653864672-11283260",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Greece",
+        "tournament_1xbet": "SuperLeague 2",
+        "1xbet_match_id": 653864672,
+        "1xbet_tournament_id": 2008375,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/2008375/653864672",
+        "Tounesbet_country_name": "Greece",
+        "tournament_Tounesbet": "Super League 2",
+        "Tounesbet_match_id": 11283260,
+        "Tounesbet_tournament_id": 48000,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579412821041356823-653864672-11283260-13952739-28010248",
+        "home_team": "Asteras Tripolis II",
+        "away_team": "Nestos Chrysoupoli FC",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "under_2.5_vs_over_2.5",
+        "best_odds": {
+          "under_2.5_odd": {
+            "value": 1.947,
+            "source": "Tounesbet"
+          },
+          "over_2.5_odd": {
+            "value": 2.2,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9682,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13952739-11283260",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Greece",
+        "tournament_Tounesbet": "Super League 2",
+        "Tounesbet_match_id": 11283260,
+        "Tounesbet_tournament_id": 48000,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "Greece",
+        "tournament_Clubx2": "Super League 2",
+        "Clubx2_match_id": 13952739,
+        "Clubx2_tournament_id": 3052,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13952739#/overview",
+        "group_id": "2579412821041356823-653864672-11283260-13952739-28010248",
+        "home_team": "Asteras Tripolis II",
+        "away_team": "Nestos Chrysoupoli FC",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "under_2.5_vs_over_2.5",
+        "best_odds": {
+          "under_2.5_odd": {
+            "value": 1.947,
+            "source": "Tounesbet"
+          },
+          "over_2.5_odd": {
+            "value": 2.17,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9744,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "28010248-11283260",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Greece",
+        "tournament_Tounesbet": "Super League 2",
+        "Tounesbet_match_id": 11283260,
+        "Tounesbet_tournament_id": 48000,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "Greece",
+        "tournament_Asbet": "Super League 2",
+        "Asbet_match_id": 28010248,
+        "Asbet_tournament_id": 27887,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Greece/27887/super-league/28010248/asteras-tripolis-b-nestos-chrysoupoli-fc",
+        "group_id": "2579412821041356823-653864672-11283260-13952739-28010248",
+        "home_team": "Asteras Tripolis II",
+        "away_team": "Nestos Chrysoupoli FC",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 1.95,
+            "source": "Jibibet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 2.147,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9786,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2579412821041356823-11283260",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "Greece",
+        "tournament_Jibibet": "Super League 2",
+        "Jibibet_match_id": 2579412821041356823,
+        "Jibibet_tournament_id": 1669946159919140864,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "Greece",
+        "tournament_Tounesbet": "Super League 2",
+        "Tounesbet_match_id": 11283260,
+        "Tounesbet_tournament_id": 48000,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579412821041356823-653864672-11283260-13952739-28010248",
+        "home_team": "Asteras Tripolis II",
+        "away_team": "Nestos Chrysoupoli FC",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "2579407341409677342-653864673-11295399-13961641-28010247",
+    "home_team": "APO Ellas Syros",
+    "away_team": "Olympiacos Piraeus II",
+    "date": "21/09/2025",
+    "time": "15:00",
+    "country": "Greece",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "two_vs_1x",
+        "best_odds": {
+          "2_odd": {
+            "value": 2.47,
+            "source": "1xbet"
+          },
+          "1X_odd": {
+            "value": 1.805,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9589,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653864673-11295399",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Greece",
+        "tournament_1xbet": "SuperLeague 2",
+        "1xbet_match_id": 653864673,
+        "1xbet_tournament_id": 2008375,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/2008375/653864673",
+        "Tounesbet_country_name": "Greece",
+        "tournament_Tounesbet": "Super League 2",
+        "Tounesbet_match_id": 11295399,
+        "Tounesbet_tournament_id": 48000,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579407341409677342-653864673-11295399-13961641-28010247",
+        "home_team": "APO Ellas Syros",
+        "away_team": "Olympiacos Piraeus II",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "two_vs_1x",
+        "best_odds": {
+          "2_odd": {
+            "value": 2.38,
+            "source": "Jibibet"
+          },
+          "1X_odd": {
+            "value": 1.805,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9742,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2579407341409677342-11295399",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "Greece",
+        "tournament_Jibibet": "Super League 2",
+        "Jibibet_match_id": 2579407341409677342,
+        "Jibibet_tournament_id": 1669946159919140864,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "Greece",
+        "tournament_Tounesbet": "Super League 2",
+        "Tounesbet_match_id": 11295399,
+        "Tounesbet_tournament_id": 48000,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579407341409677342-653864673-11295399-13961641-28010247",
+        "home_team": "APO Ellas Syros",
+        "away_team": "Olympiacos Piraeus II",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "awaywin_handicap_vs_1x",
+        "best_odds": {
+          "away_handicap_-0.5_odd": {
+            "value": 2.35,
+            "source": "Asbet"
+          },
+          "1X_odd": {
+            "value": 1.805,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9795,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "28010247-11295399",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Greece",
+        "tournament_Asbet": "Super League 2",
+        "Asbet_match_id": 28010247,
+        "Asbet_tournament_id": 27887,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Greece/27887/super-league/28010247/apo-ellas-syros-olympiacos-piraeus-b",
+        "Tounesbet_country_name": "Greece",
+        "tournament_Tounesbet": "Super League 2",
+        "Tounesbet_match_id": 11295399,
+        "Tounesbet_tournament_id": 48000,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579407341409677342-653864673-11295399-13961641-28010247",
+        "home_team": "APO Ellas Syros",
+        "away_team": "Olympiacos Piraeus II",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "two_vs_1x",
+        "best_odds": {
+          "2_odd": {
+            "value": 2.3334,
+            "source": "Clubx2"
+          },
+          "1X_odd": {
+            "value": 1.805,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9826,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13961641-11295399",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Greece",
+        "tournament_Clubx2": "Super League 2",
+        "Clubx2_match_id": 13961641,
+        "Clubx2_tournament_id": 3052,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13961641#/overview",
+        "Tounesbet_country_name": "Greece",
+        "tournament_Tounesbet": "Super League 2",
+        "Tounesbet_match_id": 11295399,
+        "Tounesbet_tournament_id": 48000,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579407341409677342-653864673-11295399-13961641-28010247",
+        "home_team": "APO Ellas Syros",
+        "away_team": "Olympiacos Piraeus II",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "2579358578947264539-653864676-11283491-13952737-28010243",
+    "home_team": "Niki Volou 1924 PAE",
+    "away_team": "Kampaniakos Chalastras",
+    "date": "21/09/2025",
+    "time": "15:00",
+    "country": "Greece",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "one_vs_x2",
+        "best_odds": {
+          "1_odd": {
+            "value": 1.899,
+            "source": "Tounesbet"
+          },
+          "X2_odd": {
+            "value": 2.35,
+            "source": "Jibibet"
+          }
+        },
+        "arbitrage_percentage": 0.9521,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2579358578947264539-11283491",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Greece",
+        "tournament_Tounesbet": "Super League 2",
+        "Tounesbet_match_id": 11283491,
+        "Tounesbet_tournament_id": 48000,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Jibibet_country_name": "Greece",
+        "tournament_Jibibet": "Super League 2",
+        "Jibibet_match_id": 2579358578947264539,
+        "Jibibet_tournament_id": 1669946159919140864,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "group_id": "2579358578947264539-653864676-11283491-13952737-28010243",
+        "home_team": "Niki Volou 1924 PAE",
+        "away_team": "Kampaniakos Chalastras",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "ah_-1.0_home_vs_away",
+        "best_odds": {
+          "home_handicap_-1.0_odd": {
+            "value": 2.0,
+            "source": "1xbet"
+          },
+          "away_handicap_1.0_odd": {
+            "value": 2.124,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9708,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653864676-11283491",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Greece",
+        "tournament_1xbet": "SuperLeague 2",
+        "1xbet_match_id": 653864676,
+        "1xbet_tournament_id": 2008375,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/2008375/653864676",
+        "Tounesbet_country_name": "Greece",
+        "tournament_Tounesbet": "Super League 2",
+        "Tounesbet_match_id": 11283491,
+        "Tounesbet_tournament_id": 48000,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579358578947264539-653864676-11283491-13952737-28010243",
+        "home_team": "Niki Volou 1924 PAE",
+        "away_team": "Kampaniakos Chalastras",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 1.899,
+            "source": "Tounesbet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 2.25,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.971,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "28010243-11283491",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Greece",
+        "tournament_Tounesbet": "Super League 2",
+        "Tounesbet_match_id": 11283491,
+        "Tounesbet_tournament_id": 48000,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "Greece",
+        "tournament_Asbet": "Super League 2",
+        "Asbet_match_id": 28010243,
+        "Asbet_tournament_id": 27887,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Greece/27887/super-league/28010243/niki-volos-fc-kampaniakos-fc",
+        "group_id": "2579358578947264539-653864676-11283491-13952737-28010243",
+        "home_team": "Niki Volou 1924 PAE",
+        "away_team": "Kampaniakos Chalastras",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 1.899,
+            "source": "Tounesbet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 2.2,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9811,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13952737-11283491",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Greece",
+        "tournament_Tounesbet": "Super League 2",
+        "Tounesbet_match_id": 11283491,
+        "Tounesbet_tournament_id": 48000,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "Greece",
+        "tournament_Clubx2": "Super League 2",
+        "Clubx2_match_id": 13952737,
+        "Clubx2_tournament_id": 3052,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13952737#/overview",
+        "group_id": "2579358578947264539-653864676-11283491-13952737-28010243",
+        "home_team": "Niki Volou 1924 PAE",
+        "away_team": "Kampaniakos Chalastras",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "2579358578947264537-653892232-11283494-13961784-28010241",
+    "home_team": "Panargiakos FC",
+    "away_team": "AO Egaleo 1931 PAE",
+    "date": "21/09/2025",
+    "time": "15:00",
+    "country": "Greece",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_-0.25_home_vs_away",
+        "best_odds": {
+          "home_handicap_-0.25_odd": {
+            "value": 2.383,
+            "source": "Tounesbet"
+          },
+          "away_handicap_0.25_odd": {
+            "value": 2.0,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.9196,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653892232-11283494",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Greece",
+        "tournament_Tounesbet": "Super League 2",
+        "Tounesbet_match_id": 11283494,
+        "Tounesbet_tournament_id": 48000,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "1xbet_country_name": "Greece",
+        "tournament_1xbet": "SuperLeague 2",
+        "1xbet_match_id": 653892232,
+        "1xbet_tournament_id": 2008375,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/2008375/653892232",
+        "group_id": "2579358578947264537-653892232-11283494-13961784-28010241",
+        "home_team": "Panargiakos FC",
+        "away_team": "AO Egaleo 1931 PAE",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "one_vs_x2",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.34,
+            "source": "Jibibet"
+          },
+          "X2_odd": {
+            "value": 1.805,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9814,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2579358578947264537-11283494",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "Greece",
+        "tournament_Jibibet": "Super League 2",
+        "Jibibet_match_id": 2579358578947264537,
+        "Jibibet_tournament_id": 1669946159919140864,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "Greece",
+        "tournament_Tounesbet": "Super League 2",
+        "Tounesbet_match_id": 11283494,
+        "Tounesbet_tournament_id": 48000,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579358578947264537-653892232-11283494-13961784-28010241",
+        "home_team": "Panargiakos FC",
+        "away_team": "AO Egaleo 1931 PAE",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "first_half_ah_0.0_home_vs_away",
+        "best_odds": {
+          "home_first_half_handicap_0.0_odd": {
+            "value": 2.029,
+            "source": "Tounesbet"
+          },
+          "away_first_half_handicap_0.0_odd": {
+            "value": 2.02,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9879,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "28010241-11283494",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Greece",
+        "tournament_Tounesbet": "Super League 2",
+        "Tounesbet_match_id": 11283494,
+        "Tounesbet_tournament_id": 48000,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "Greece",
+        "tournament_Asbet": "Super League 2",
+        "Asbet_match_id": 28010241,
+        "Asbet_tournament_id": 27887,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Greece/27887/super-league/28010241/panargiakos-fc-ao-egaleo",
+        "group_id": "2579358578947264537-653892232-11283494-13961784-28010241",
+        "home_team": "Panargiakos FC",
+        "away_team": "AO Egaleo 1931 PAE",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "one_vs_x2",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.3,
+            "source": "Clubx2"
+          },
+          "X2_odd": {
+            "value": 1.805,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9888,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13961784-11283494",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Greece",
+        "tournament_Clubx2": "Super League 2",
+        "Clubx2_match_id": 13961784,
+        "Clubx2_tournament_id": 3052,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13961784#/overview",
+        "Tounesbet_country_name": "Greece",
+        "tournament_Tounesbet": "Super League 2",
+        "Tounesbet_match_id": 11283494,
+        "Tounesbet_tournament_id": 48000,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579358578947264537-653892232-11283494-13961784-28010241",
+        "home_team": "Panargiakos FC",
+        "away_team": "AO Egaleo 1931 PAE",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "2578657326173130772-650225124-11191814-13247701",
+    "home_team": "AE Kifisia FC",
+    "away_team": "Aris Thessalonikis",
+    "date": "20/09/2025",
+    "time": "16:00",
+    "country": "Greece",
+    "all_sources": [
+      "1xbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "two_vs_1x_handicap",
+        "best_odds": {
+          "2_odd": {
+            "value": 1.99,
+            "source": "1xbet"
+          },
+          "home_handicap_0.5_odd": {
+            "value": 2.206,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9558,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "650225124-11191814",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Greece",
+        "tournament_1xbet": "SuperLeague",
+        "1xbet_match_id": 650225124,
+        "1xbet_tournament_id": 8777,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/8777/650225124",
+        "Tounesbet_country_name": "Greece",
+        "tournament_Tounesbet": "SuperLeague",
+        "Tounesbet_match_id": 11191814,
+        "Tounesbet_tournament_id": 21241,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578657326173130772-650225124-11191814-13247701",
+        "home_team": "AE Kifisia FC",
+        "away_team": "Aris Thessalonikis",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "ah_0.25_home_vs_away",
+        "best_odds": {
+          "home_handicap_0.25_odd": {
+            "value": 2.2,
+            "source": "Clubx2"
+          },
+          "away_handicap_-0.25_odd": {
+            "value": 1.947,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9682,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13247701-11191814",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Greece",
+        "tournament_Clubx2": "Super League",
+        "Clubx2_match_id": 13247701,
+        "Clubx2_tournament_id": 3046,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13247701#/overview",
+        "Tounesbet_country_name": "Greece",
+        "tournament_Tounesbet": "SuperLeague",
+        "Tounesbet_match_id": 11191814,
+        "Tounesbet_tournament_id": 21241,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578657326173130772-650225124-11191814-13247701",
+        "home_team": "AE Kifisia FC",
+        "away_team": "Aris Thessalonikis",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "two_vs_1x_handicap",
+        "best_odds": {
+          "2_odd": {
+            "value": 1.9,
+            "source": "Jibibet"
+          },
+          "home_handicap_0.5_odd": {
+            "value": 2.206,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9796,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2578657326173130772-11191814",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "Greece",
+        "tournament_Jibibet": "Super League",
+        "Jibibet_match_id": 2578657326173130772,
+        "Jibibet_tournament_id": 1669819091373920256,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "Greece",
+        "tournament_Tounesbet": "SuperLeague",
+        "Tounesbet_match_id": 11191814,
+        "Tounesbet_tournament_id": 21241,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578657326173130772-650225124-11191814-13247701",
+        "home_team": "AE Kifisia FC",
+        "away_team": "Aris Thessalonikis",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "2578657326173130768-650225772-11191821-13247693",
+    "home_team": "Panserraikos FC",
+    "away_team": "Atromitos Athinon",
+    "date": "20/09/2025",
+    "time": "16:00",
+    "country": "Greece",
+    "all_sources": [
+      "1xbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "two_vs_1x_handicap",
+        "best_odds": {
+          "2_odd": {
+            "value": 2.2,
+            "source": "1xbet"
+          },
+          "home_handicap_0.5_odd": {
+            "value": 2.006,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.953,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "650225772-11191821",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Greece",
+        "tournament_1xbet": "SuperLeague",
+        "1xbet_match_id": 650225772,
+        "1xbet_tournament_id": 8777,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/8777/650225772",
+        "Tounesbet_country_name": "Greece",
+        "tournament_Tounesbet": "SuperLeague",
+        "Tounesbet_match_id": 11191821,
+        "Tounesbet_tournament_id": 21241,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578657326173130768-650225772-11191821-13247693",
+        "home_team": "Panserraikos FC",
+        "away_team": "Atromitos Athinon",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "ah_0.0_home_vs_away",
+        "best_odds": {
+          "home_handicap_0.0_odd": {
+            "value": 2.5,
+            "source": "Clubx2"
+          },
+          "away_handicap_0.0_odd": {
+            "value": 1.793,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9577,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13247693-11191821",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Greece",
+        "tournament_Clubx2": "Super League",
+        "Clubx2_match_id": 13247693,
+        "Clubx2_tournament_id": 3046,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13247693#/overview",
+        "Tounesbet_country_name": "Greece",
+        "tournament_Tounesbet": "SuperLeague",
+        "Tounesbet_match_id": 11191821,
+        "Tounesbet_tournament_id": 21241,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578657326173130768-650225772-11191821-13247693",
+        "home_team": "Panserraikos FC",
+        "away_team": "Atromitos Athinon",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "two_vs_1x_handicap",
+        "best_odds": {
+          "2_odd": {
+            "value": 2.14,
+            "source": "Jibibet"
+          },
+          "home_handicap_0.5_odd": {
+            "value": 2.006,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9658,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2578657326173130768-11191821",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "Greece",
+        "tournament_Jibibet": "Super League",
+        "Jibibet_match_id": 2578657326173130768,
+        "Jibibet_tournament_id": 1669819091373920256,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "Greece",
+        "tournament_Tounesbet": "SuperLeague",
+        "Tounesbet_match_id": 11191821,
+        "Tounesbet_tournament_id": 21241,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578657326173130768-650225772-11191821-13247693",
+        "home_team": "Panserraikos FC",
+        "away_team": "Atromitos Athinon",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "2578657326173130770-650231685-11191873-13247682-27909054",
+    "home_team": "Volos 2004",
+    "away_team": "Asteras Tripolis",
+    "date": "20/09/2025",
+    "time": "18:00",
+    "country": "Greece",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.59,
+            "source": "1xbet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.793,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9438,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "650231685-11191873",
+        "misvalue_source": "1xbet",
+        "1xbet_country_name": "Greece",
+        "tournament_1xbet": "SuperLeague",
+        "1xbet_match_id": 650231685,
+        "1xbet_tournament_id": 8777,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/8777/650231685",
+        "Tounesbet_country_name": "Greece",
+        "tournament_Tounesbet": "SuperLeague",
+        "Tounesbet_match_id": 11191873,
+        "Tounesbet_tournament_id": 21241,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578657326173130770-650231685-11191873-13247682-27909054",
+        "home_team": "Volos 2004",
+        "away_team": "Asteras Tripolis",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.46,
+            "source": "Asbet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.793,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9642,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27909054-11191873",
+        "misvalue_source": "1xbet",
+        "Asbet_country_name": "Greece",
+        "tournament_Asbet": "Super League 1",
+        "Asbet_match_id": 27909054,
+        "Asbet_tournament_id": 1884,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Greece/1884/super-league/27909054/pae-volos-asteras-tripolis",
+        "Tounesbet_country_name": "Greece",
+        "tournament_Tounesbet": "SuperLeague",
+        "Tounesbet_match_id": 11191873,
+        "Tounesbet_tournament_id": 21241,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578657326173130770-650231685-11191873-13247682-27909054",
+        "home_team": "Volos 2004",
+        "away_team": "Asteras Tripolis",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.46,
+            "source": "Jibibet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.793,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9642,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2578657326173130770-11191873",
+        "misvalue_source": "1xbet",
+        "Jibibet_country_name": "Greece",
+        "tournament_Jibibet": "Super League",
+        "Jibibet_match_id": 2578657326173130770,
+        "Jibibet_tournament_id": 1669819091373920256,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "Greece",
+        "tournament_Tounesbet": "SuperLeague",
+        "Tounesbet_match_id": 11191873,
+        "Tounesbet_tournament_id": 21241,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578657326173130770-650231685-11191873-13247682-27909054",
+        "home_team": "Volos 2004",
+        "away_team": "Asteras Tripolis",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.4546,
+            "source": "Clubx2"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.793,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9651,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13247682-11191873",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Greece",
+        "tournament_Clubx2": "Super League",
+        "Clubx2_match_id": 13247682,
+        "Clubx2_tournament_id": 3046,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13247682#/overview",
+        "Tounesbet_country_name": "Greece",
+        "tournament_Tounesbet": "SuperLeague",
+        "Tounesbet_match_id": 11191873,
+        "Tounesbet_tournament_id": 21241,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578657326173130770-650231685-11191873-13247682-27909054",
+        "home_team": "Volos 2004",
+        "away_team": "Asteras Tripolis",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "650225778-11191874-13247686-27909056",
+    "home_team": "P.A.O.K.",
+    "away_team": "Panetolikos FC",
+    "date": "20/09/2025",
+    "time": "18:30",
+    "country": "Greece",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "away_under_0.5_vs_away_over_0.5",
+        "best_odds": {
+          "away_under_0.5_odd": {
+            "value": 1.852,
+            "source": "Tounesbet"
+          },
+          "away_over_0.5_odd": {
+            "value": 2.55,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.9321,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "650225778-11191874",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Greece",
+        "tournament_Tounesbet": "SuperLeague",
+        "Tounesbet_match_id": 11191874,
+        "Tounesbet_tournament_id": 21241,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "1xbet_country_name": "Greece",
+        "tournament_1xbet": "SuperLeague",
+        "1xbet_match_id": 650225778,
+        "1xbet_tournament_id": 8777,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/8777/650225778",
+        "group_id": "650225778-11191874-13247686-27909056",
+        "home_team": "P.A.O.K.",
+        "away_team": "Panetolikos FC",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "ah_-1.5_home_vs_away",
+        "best_odds": {
+          "home_handicap_-1.5_odd": {
+            "value": 1.911,
+            "source": "Tounesbet"
+          },
+          "away_handicap_1.5_odd": {
+            "value": 2.35,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9488,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13247686-11191874",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Greece",
+        "tournament_Tounesbet": "SuperLeague",
+        "Tounesbet_match_id": 11191874,
+        "Tounesbet_tournament_id": 21241,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "Greece",
+        "tournament_Clubx2": "Super League",
+        "Clubx2_match_id": 13247686,
+        "Clubx2_tournament_id": 3046,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13247686#/overview",
+        "group_id": "650225778-11191874-13247686-27909056",
+        "home_team": "P.A.O.K.",
+        "away_team": "Panetolikos FC",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "ah_-1.5_home_vs_away",
+        "best_odds": {
+          "home_handicap_-1.5_odd": {
+            "value": 1.911,
+            "source": "Tounesbet"
+          },
+          "away_handicap_1.5_odd": {
+            "value": 2.33,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9525,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27909056-11191874",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Greece",
+        "tournament_Tounesbet": "SuperLeague",
+        "Tounesbet_match_id": 11191874,
+        "Tounesbet_tournament_id": 21241,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "Greece",
+        "tournament_Asbet": "Super League 1",
+        "Asbet_match_id": 27909056,
+        "Asbet_tournament_id": 1884,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Greece/1884/super-league/27909056/paok-fc-panetolikos-fc",
+        "group_id": "650225778-11191874-13247686-27909056",
+        "home_team": "P.A.O.K.",
+        "away_team": "Panetolikos FC",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "2578657326173130769-653645963-11191816-13247692-27909057",
+    "home_team": "APO Levadiakos FC",
+    "away_team": "OFI Crete FC",
+    "date": "21/09/2025",
+    "time": "16:00",
+    "country": "Greece",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.18,
+            "source": "1xbet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 2.065,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.943,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653645963-11191816",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Greece",
+        "tournament_1xbet": "SuperLeague",
+        "1xbet_match_id": 653645963,
+        "1xbet_tournament_id": 8777,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/8777/653645963",
+        "Tounesbet_country_name": "Greece",
+        "tournament_Tounesbet": "SuperLeague",
+        "Tounesbet_match_id": 11191816,
+        "Tounesbet_tournament_id": 21241,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578657326173130769-653645963-11191816-13247692-27909057",
+        "home_team": "APO Levadiakos FC",
+        "away_team": "OFI Crete FC",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "ah_-0.75_home_vs_away",
+        "best_odds": {
+          "home_handicap_-0.75_odd": {
+            "value": 2.5,
+            "source": "Clubx2"
+          },
+          "away_handicap_0.75_odd": {
+            "value": 1.829,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9467,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13247692-11191816",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Greece",
+        "tournament_Clubx2": "Super League",
+        "Clubx2_match_id": 13247692,
+        "Clubx2_tournament_id": 3046,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13247692#/overview",
+        "Tounesbet_country_name": "Greece",
+        "tournament_Tounesbet": "SuperLeague",
+        "Tounesbet_match_id": 11191816,
+        "Tounesbet_tournament_id": 21241,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578657326173130769-653645963-11191816-13247692-27909057",
+        "home_team": "APO Levadiakos FC",
+        "away_team": "OFI Crete FC",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "ah_-0.75_home_vs_away",
+        "best_odds": {
+          "home_handicap_-0.75_odd": {
+            "value": 2.42,
+            "source": "Asbet"
+          },
+          "away_handicap_0.75_odd": {
+            "value": 1.829,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.96,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27909057-11191816",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Greece",
+        "tournament_Asbet": "Super League 1",
+        "Asbet_match_id": 27909057,
+        "Asbet_tournament_id": 1884,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Greece/1884/super-league/27909057/levadiakos-ofi-crete-fc",
+        "Tounesbet_country_name": "Greece",
+        "tournament_Tounesbet": "SuperLeague",
+        "Tounesbet_match_id": 11191816,
+        "Tounesbet_tournament_id": 21241,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578657326173130769-653645963-11191816-13247692-27909057",
+        "home_team": "APO Levadiakos FC",
+        "away_team": "OFI Crete FC",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.08,
+            "source": "Jibibet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 2.065,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.965,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2578657326173130769-11191816",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "Greece",
+        "tournament_Jibibet": "Super League",
+        "Jibibet_match_id": 2578657326173130769,
+        "Jibibet_tournament_id": 1669819091373920256,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "Greece",
+        "tournament_Tounesbet": "SuperLeague",
+        "Tounesbet_match_id": 11191816,
+        "Tounesbet_tournament_id": 21241,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578657326173130769-653645963-11191816-13247692-27909057",
+        "home_team": "APO Levadiakos FC",
+        "away_team": "OFI Crete FC",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "11283526-13952740",
+    "home_team": "PAOK Thessaloniki B",
+    "away_team": "Anagennisi Karditsas 1904",
+    "date": "20/09/2025",
+    "time": "15:00",
+    "country": "Greece",
+    "all_sources": [
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "under_2.5_vs_over_2.5",
+        "best_odds": {
+          "under_2.5_odd": {
+            "value": 1.9,
+            "source": "Clubx2"
+          },
+          "over_2.5_odd": {
+            "value": 2.183,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9844,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13952740-11283526",
+        "Clubx2_country_name": "Greece",
+        "tournament_Clubx2": "Super League 2",
+        "Clubx2_match_id": 13952740,
+        "Clubx2_tournament_id": 3052,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13952740#/overview",
+        "Tounesbet_country_name": "Greece",
+        "tournament_Tounesbet": "Super League 2",
+        "Tounesbet_match_id": 11283526,
+        "Tounesbet_tournament_id": 48000,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "11283526-13952740",
+        "home_team": "PAOK Thessaloniki B",
+        "away_team": "Anagennisi Karditsas 1904",
+        "activity_duration": "25 hours"
+      }
+    ]
+  }
+]

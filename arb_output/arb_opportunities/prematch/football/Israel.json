@@ -1,0 +1,331 @@
+[
+  {
+    "group_id": "2579421916574130206-653881690-10740391-13144114",
+    "home_team": "Beitar Jerusalem FC",
+    "away_team": "Hapoel Ironi Kiryat Shmona FC",
+    "date": "20/09/2025",
+    "time": "18:00",
+    "country": "Israel",
+    "all_sources": [
+      "1xbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "first_half_under_1.0_vs_first_half_over_1.0",
+        "best_odds": {
+          "first_half_under_1.0_odd": {
+            "value": 2.2,
+            "source": "Clubx2"
+          },
+          "first_half_over_1.0_odd": {
+            "value": 1.982,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9591,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13144114-10740391",
+        "misvalue_source": "1xbet",
+        "Clubx2_country_name": "Israel",
+        "tournament_Clubx2": "Premier League",
+        "Clubx2_match_id": 13144114,
+        "Clubx2_tournament_id": 3087,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13144114#/overview",
+        "Tounesbet_country_name": "Israel",
+        "tournament_Tounesbet": "Premier League (Ligat ha`Al)",
+        "Tounesbet_match_id": 10740391,
+        "Tounesbet_tournament_id": 21402,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579421916574130206-653881690-10740391-13144114",
+        "home_team": "Beitar Jerusalem FC",
+        "away_team": "Hapoel Ironi Kiryat Shmona FC",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "2578733644302655492-653374067-10740390-13144110-27973918",
+    "home_team": "Maccabi Netanya FC",
+    "away_team": "Ironi Tiberias FC",
+    "date": "20/09/2025",
+    "time": "18:00",
+    "country": "Israel",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "second_half_under_1.5_vs_second_half_over_1.5",
+        "best_odds": {
+          "second_half_under_1.5_odd": {
+            "value": 1.958,
+            "source": "Tounesbet"
+          },
+          "second_half_over_1.5_odd": {
+            "value": 2.2,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9653,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13144110-10740390",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Israel",
+        "tournament_Tounesbet": "Premier League (Ligat ha`Al)",
+        "Tounesbet_match_id": 10740390,
+        "Tounesbet_tournament_id": 21402,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "Israel",
+        "tournament_Clubx2": "Premier League",
+        "Clubx2_match_id": 13144110,
+        "Clubx2_tournament_id": 3087,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13144110#/overview",
+        "group_id": "2578733644302655492-653374067-10740390-13144110-27973918",
+        "home_team": "Maccabi Netanya FC",
+        "away_team": "Ironi Tiberias FC",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "second_half_under_1.5_vs_second_half_over_1.5",
+        "best_odds": {
+          "second_half_under_1.5_odd": {
+            "value": 1.958,
+            "source": "Tounesbet"
+          },
+          "second_half_over_1.5_odd": {
+            "value": 2.13,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9802,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27973918-10740390",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Israel",
+        "tournament_Tounesbet": "Premier League (Ligat ha`Al)",
+        "Tounesbet_match_id": 10740390,
+        "Tounesbet_tournament_id": 21402,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "Israel",
+        "tournament_Asbet": "Premier League",
+        "Asbet_match_id": 27973918,
+        "Asbet_tournament_id": 1908,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Israel/1908/premier-league/27973918/maccabi-netanya-ironi-tiberias-fc",
+        "group_id": "2578733644302655492-653374067-10740390-13144110-27973918",
+        "home_team": "Maccabi Netanya FC",
+        "away_team": "Ironi Tiberias FC",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "2579089213689565200-653665587-10740387-13144112-27981600",
+    "home_team": "Hapoel Be`er Sheva FC",
+    "away_team": "Bnei Sakhnin FC",
+    "date": "21/09/2025",
+    "time": "18:00",
+    "country": "Israel",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "first_half_under_1.5_vs_first_half_over_1.5",
+        "best_odds": {
+          "first_half_under_1.5_odd": {
+            "value": 1.75,
+            "source": "Clubx2"
+          },
+          "first_half_over_1.5_odd": {
+            "value": 2.454,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9789,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13144112-10740387",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Israel",
+        "tournament_Clubx2": "Premier League",
+        "Clubx2_match_id": 13144112,
+        "Clubx2_tournament_id": 3087,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13144112#/overview",
+        "Tounesbet_country_name": "Israel",
+        "tournament_Tounesbet": "Premier League (Ligat ha`Al)",
+        "Tounesbet_match_id": 10740387,
+        "Tounesbet_tournament_id": 21402,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579089213689565200-653665587-10740387-13144112-27981600",
+        "home_team": "Hapoel Be`er Sheva FC",
+        "away_team": "Bnei Sakhnin FC",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "second_half_under_1.5_vs_second_half_over_1.5",
+        "best_odds": {
+          "second_half_under_1.5_odd": {
+            "value": 2.15,
+            "source": "Asbet"
+          },
+          "second_half_over_1.5_odd": {
+            "value": 1.923,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9851,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27981600-10740387",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Israel",
+        "tournament_Asbet": "Premier League",
+        "Asbet_match_id": 27981600,
+        "Asbet_tournament_id": 1908,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Israel/1908/premier-league/27981600/hapoel-beer-sheva-bnei-sakhnin",
+        "Tounesbet_country_name": "Israel",
+        "tournament_Tounesbet": "Premier League (Ligat ha`Al)",
+        "Tounesbet_match_id": 10740387,
+        "Tounesbet_tournament_id": 21402,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579089213689565200-653665587-10740387-13144112-27981600",
+        "home_team": "Hapoel Be`er Sheva FC",
+        "away_team": "Bnei Sakhnin FC",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "2579419157460295720-653881687-10740388-13144118-27981703",
+    "home_team": "Hapoel Haifa FC",
+    "away_team": "Maccabi Haifa FC",
+    "date": "21/09/2025",
+    "time": "18:30",
+    "country": "Israel",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "first_half_under_1.0_vs_first_half_over_1.0",
+        "best_odds": {
+          "first_half_under_1.0_odd": {
+            "value": 2.2858,
+            "source": "Clubx2"
+          },
+          "first_half_over_1.0_odd": {
+            "value": 1.923,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9575,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13144118-10740388",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Israel",
+        "tournament_Clubx2": "Premier League",
+        "Clubx2_match_id": 13144118,
+        "Clubx2_tournament_id": 3087,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13144118#/overview",
+        "Tounesbet_country_name": "Israel",
+        "tournament_Tounesbet": "Premier League (Ligat ha`Al)",
+        "Tounesbet_match_id": 10740388,
+        "Tounesbet_tournament_id": 21402,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579419157460295720-653881687-10740388-13144118-27981703",
+        "home_team": "Hapoel Haifa FC",
+        "away_team": "Maccabi Haifa FC",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "first_half_under_1.0_vs_first_half_over_1.0",
+        "best_odds": {
+          "first_half_under_1.0_odd": {
+            "value": 2.21,
+            "source": "Asbet"
+          },
+          "first_half_over_1.0_odd": {
+            "value": 1.923,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9725,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27981703-10740388",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Israel",
+        "tournament_Asbet": "Premier League",
+        "Asbet_match_id": 27981703,
+        "Asbet_tournament_id": 1908,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Israel/1908/premier-league/27981703/hapoel-haifa-fc-maccabi-haifa",
+        "Tounesbet_country_name": "Israel",
+        "tournament_Tounesbet": "Premier League (Ligat ha`Al)",
+        "Tounesbet_match_id": 10740388,
+        "Tounesbet_tournament_id": 21402,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579419157460295720-653881687-10740388-13144118-27981703",
+        "home_team": "Hapoel Haifa FC",
+        "away_team": "Maccabi Haifa FC",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "2579780000534368287-10740355-13144125",
+    "home_team": "Maccabi Tel Aviv FC",
+    "away_team": "Hapoel Jerusalem FC",
+    "date": "20/09/2025",
+    "time": "18:00",
+    "country": "Israel",
+    "all_sources": [
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "first_half_under_1.5_vs_first_half_over_1.5",
+        "best_odds": {
+          "first_half_under_1.5_odd": {
+            "value": 1.7,
+            "source": "Clubx2"
+          },
+          "first_half_over_1.5_odd": {
+            "value": 2.548,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9807,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13144125-10740355",
+        "Clubx2_country_name": "Israel",
+        "tournament_Clubx2": "Premier League",
+        "Clubx2_match_id": 13144125,
+        "Clubx2_tournament_id": 3087,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13144125#/overview",
+        "Tounesbet_country_name": "Israel",
+        "tournament_Tounesbet": "Premier League (Ligat ha`Al)",
+        "Tounesbet_match_id": 10740355,
+        "Tounesbet_tournament_id": 21402,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579780000534368287-10740355-13144125",
+        "home_team": "Maccabi Tel Aviv FC",
+        "away_team": "Hapoel Jerusalem FC",
+        "activity_duration": "25 hours"
+      }
+    ]
+  }
+]

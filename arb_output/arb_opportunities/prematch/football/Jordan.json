@@ -1,0 +1,49 @@
+[
+  {
+    "group_id": "2579548135336587283-653959020-11297691-13914541",
+    "home_team": "Al-Arabi Irbid",
+    "away_team": "Samma",
+    "date": "17/09/2025",
+    "time": "15:00",
+    "country": "Jordan",
+    "all_sources": [
+      "1xbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_0.0_home_vs_away",
+        "best_odds": {
+          "home_handicap_0.0_odd": {
+            "value": 1.8,
+            "source": "1xbet"
+          },
+          "away_handicap_0.0_odd": {
+            "value": 2.36,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9793,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653959020-11297691",
+        "misvalue_source": "1xbet",
+        "1xbet_country_name": "Jordan",
+        "tournament_1xbet": "Jordan Championship. Division 1",
+        "1xbet_match_id": 653959020,
+        "1xbet_tournament_id": 1097391,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/1097391/653959020",
+        "Tounesbet_country_name": "Jordan",
+        "tournament_Tounesbet": "1st Division",
+        "Tounesbet_match_id": 11297691,
+        "Tounesbet_tournament_id": 21471,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579548135336587283-653959020-11297691-13914541",
+        "home_team": "Al-Arabi Irbid",
+        "away_team": "Samma",
+        "activity_duration": "25 hours"
+      }
+    ]
+  }
+]

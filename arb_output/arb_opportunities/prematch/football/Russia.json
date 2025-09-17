@@ -1,0 +1,804 @@
+[
+  {
+    "group_id": "2579780000534368263-653868224-11247690-28014574",
+    "home_team": "FC Yenisey Krasnoyarsk",
+    "away_team": "FC Fakel Voronezh",
+    "date": "20/09/2025",
+    "time": "07:45",
+    "country": "Russia",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "first_half_under_0.5_vs_first_half_over_0.5",
+        "best_odds": {
+          "first_half_under_0.5_odd": {
+            "value": 2.44,
+            "source": "Asbet"
+          },
+          "first_half_over_0.5_odd": {
+            "value": 1.793,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9676,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "28014574-11247690",
+        "misvalue_source": "Jibibet",
+        "Asbet_country_name": "Russia",
+        "tournament_Asbet": "FNL First League",
+        "Asbet_match_id": 28014574,
+        "Asbet_tournament_id": 1994,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Russia/1994/fnl-first-league/28014574/fc-yenisey-krasnoyarsk-fakel-voronezh",
+        "Tounesbet_country_name": "Russia",
+        "tournament_Tounesbet": "FNL",
+        "Tounesbet_match_id": 11247690,
+        "Tounesbet_tournament_id": 21596,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579780000534368263-653868224-11247690-28014574",
+        "home_team": "FC Yenisey Krasnoyarsk",
+        "away_team": "FC Fakel Voronezh",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "653841992-11247687-28015244",
+    "home_team": "Ural Yekaterinburg",
+    "away_team": "Rotor Volgograd",
+    "date": "20/09/2025",
+    "time": "10:00",
+    "country": "Russia",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "first_half_under_1.0_vs_first_half_over_1.0",
+        "best_odds": {
+          "first_half_under_1.0_odd": {
+            "value": 1.781,
+            "source": "Tounesbet"
+          },
+          "first_half_over_1.0_odd": {
+            "value": 2.4,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9781,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "28015244-11247687",
+        "Tounesbet_country_name": "Russia",
+        "tournament_Tounesbet": "FNL",
+        "Tounesbet_match_id": 11247687,
+        "Tounesbet_tournament_id": 21596,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "Russia",
+        "tournament_Asbet": "FNL First League",
+        "Asbet_match_id": 28015244,
+        "Asbet_tournament_id": 1994,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Russia/1994/fnl-first-league/28015244/ural-yekaterinburg-rotor-volgograd",
+        "group_id": "653841992-11247687-28015244",
+        "home_team": "Ural Yekaterinburg",
+        "away_team": "Rotor Volgograd",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "653581202-11247685-28016962",
+    "home_team": "FC Kamaz Nab.Chelny",
+    "away_team": "Shinnik Yaroslavl",
+    "date": "20/09/2025",
+    "time": "15:00",
+    "country": "Russia",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "first_half_under_0.5_vs_first_half_over_0.5",
+        "best_odds": {
+          "first_half_under_0.5_odd": {
+            "value": 2.23,
+            "source": "Asbet"
+          },
+          "first_half_over_0.5_odd": {
+            "value": 1.947,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.962,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "28016962-11247685",
+        "Asbet_country_name": "Russia",
+        "tournament_Asbet": "FNL First League",
+        "Asbet_match_id": 28016962,
+        "Asbet_tournament_id": 1994,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Russia/1994/fnl-first-league/28016962/fc-kamaz-nabchelny-shinnik-yaroslavl",
+        "Tounesbet_country_name": "Russia",
+        "tournament_Tounesbet": "FNL",
+        "Tounesbet_match_id": 11247685,
+        "Tounesbet_tournament_id": 21596,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653581202-11247685-28016962",
+        "home_team": "FC Kamaz Nab.Chelny",
+        "away_team": "Shinnik Yaroslavl",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "2579059189733273607-649246060-11175881-27914136",
+    "home_team": "PFK Krylia Sovetov Samara",
+    "away_team": "FK Krasnodar",
+    "date": "17/09/2025",
+    "time": "16:00",
+    "country": "Russia",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "first_half_under_1.0_vs_first_half_over_1.0",
+        "best_odds": {
+          "first_half_under_1.0_odd": {
+            "value": 2.04,
+            "source": "Asbet"
+          },
+          "first_half_over_1.0_odd": {
+            "value": 2.053,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9773,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27914136-11175881",
+        "misvalue_source": "Asbet",
+        "Asbet_country_name": "Russia",
+        "tournament_Asbet": "Russian Cup",
+        "Asbet_match_id": 27914136,
+        "Asbet_tournament_id": 569,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Russia/569/russian-cup/27914136/krylia-sovetov-samara-krasnodar",
+        "Tounesbet_country_name": "Russia",
+        "tournament_Tounesbet": "Russian Cup",
+        "Tounesbet_match_id": 11175881,
+        "Tounesbet_tournament_id": 21602,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579059189733273607-649246060-11175881-27914136",
+        "home_team": "PFK Krylia Sovetov Samara",
+        "away_team": "FK Krasnodar",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "2579059189733273609-649246063-11175943-13690870-27914135",
+    "home_team": "PFC Sochi",
+    "away_team": "FK Dinamo Moscow",
+    "date": "17/09/2025",
+    "time": "18:30",
+    "country": "Russia",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "first_half_under_1.0_vs_first_half_over_1.0",
+        "best_odds": {
+          "first_half_under_1.0_odd": {
+            "value": 2.15,
+            "source": "Asbet"
+          },
+          "first_half_over_1.0_odd": {
+            "value": 1.994,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9666,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27914135-11175943",
+        "misvalue_source": "1xbet",
+        "Asbet_country_name": "Russia",
+        "tournament_Asbet": "Russian Cup",
+        "Asbet_match_id": 27914135,
+        "Asbet_tournament_id": 569,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Russia/569/russian-cup/27914135/pfc-sochi-dynamo-moscow",
+        "Tounesbet_country_name": "Russia",
+        "tournament_Tounesbet": "Russian Cup",
+        "Tounesbet_match_id": 11175943,
+        "Tounesbet_tournament_id": 21602,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579059189733273609-649246063-11175943-13690870-27914135",
+        "home_team": "PFC Sochi",
+        "away_team": "FK Dinamo Moscow",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "2579059189733273610-649246057-11175892-13690869-27914134",
+    "home_team": "FC Zenit Saint Petersburg",
+    "away_team": "RFK Akhmat Grozny",
+    "date": "17/09/2025",
+    "time": "18:30",
+    "country": "Russia",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "first_half_under_1.0_vs_first_half_over_1.0",
+        "best_odds": {
+          "first_half_under_1.0_odd": {
+            "value": 1.9,
+            "source": "Asbet"
+          },
+          "first_half_over_1.0_odd": {
+            "value": 2.218,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9772,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27914134-11175892",
+        "misvalue_source": "1xbet",
+        "Asbet_country_name": "Russia",
+        "tournament_Asbet": "Russian Cup",
+        "Asbet_match_id": 27914134,
+        "Asbet_tournament_id": 569,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Russia/569/russian-cup/27914134/zenit-st-petersburg-akhmat-grozny",
+        "Tounesbet_country_name": "Russia",
+        "tournament_Tounesbet": "Russian Cup",
+        "Tounesbet_match_id": 11175892,
+        "Tounesbet_tournament_id": 21602,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579059189733273610-649246057-11175892-13690869-27914134",
+        "home_team": "FC Zenit Saint Petersburg",
+        "away_team": "RFK Akhmat Grozny",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "2579059189733273611-649246066-11175878-27914137",
+    "home_team": "CSKA Moscow",
+    "away_team": "FC Baltika Kaliningrad",
+    "date": "18/09/2025",
+    "time": "16:30",
+    "country": "Russia",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "second_half_under_1.5_vs_second_half_over_1.5",
+        "best_odds": {
+          "second_half_under_1.5_odd": {
+            "value": 1.947,
+            "source": "Tounesbet"
+          },
+          "second_half_over_1.5_odd": {
+            "value": 2.17,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9744,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27914137-11175878",
+        "misvalue_source": "Asbet",
+        "Tounesbet_country_name": "Russia",
+        "tournament_Tounesbet": "Russian Cup",
+        "Tounesbet_match_id": 11175878,
+        "Tounesbet_tournament_id": 21602,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "Russia",
+        "tournament_Asbet": "Russian Cup",
+        "Asbet_match_id": 27914137,
+        "Asbet_tournament_id": 569,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Russia/569/russian-cup/27914137/cska-moscow-fc-baltika-kaliningrad",
+        "group_id": "2579059189733273611-649246066-11175878-27914137",
+        "home_team": "CSKA Moscow",
+        "away_team": "FC Baltika Kaliningrad",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "2579059189733273612-649246560-11175920-27914133",
+    "home_team": "FK Spartak Moscow",
+    "away_team": "FC Rostov",
+    "date": "18/09/2025",
+    "time": "18:45",
+    "country": "Russia",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "first_half_under_1.0_vs_first_half_over_1.0",
+        "best_odds": {
+          "first_half_under_1.0_odd": {
+            "value": 2.13,
+            "source": "Asbet"
+          },
+          "first_half_over_1.0_odd": {
+            "value": 1.982,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.974,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27914133-11175920",
+        "misvalue_source": "Asbet",
+        "Asbet_country_name": "Russia",
+        "tournament_Asbet": "Russian Cup",
+        "Asbet_match_id": 27914133,
+        "Asbet_tournament_id": 569,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Russia/569/russian-cup/27914133/spartak-moscow-fc-rostov",
+        "Tounesbet_country_name": "Russia",
+        "tournament_Tounesbet": "Russian Cup",
+        "Tounesbet_match_id": 11175920,
+        "Tounesbet_tournament_id": 21602,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579059189733273612-649246560-11175920-27914133",
+        "home_team": "FK Spartak Moscow",
+        "away_team": "FC Rostov",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "2574043831460827141-653077783-11192525-13567697-27915151",
+    "home_team": "FC Pari Nizhny Novgorod",
+    "away_team": "RFK Akhmat Grozny",
+    "date": "20/09/2025",
+    "time": "12:30",
+    "country": "Russia",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "first_half_under_1.0_vs_first_half_over_1.0",
+        "best_odds": {
+          "first_half_under_1.0_odd": {
+            "value": 2.171,
+            "source": "Tounesbet"
+          },
+          "first_half_over_1.0_odd": {
+            "value": 1.97,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9682,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27915151-11192525",
+        "misvalue_source": "1xbet",
+        "Tounesbet_country_name": "Russia",
+        "tournament_Tounesbet": "Premiere League",
+        "Tounesbet_match_id": 11192525,
+        "Tounesbet_tournament_id": 44379,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "Russia",
+        "tournament_Asbet": "Premier League",
+        "Asbet_match_id": 27915151,
+        "Asbet_tournament_id": 1993,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Russia/1993/premier-league/27915151/fc-pari-nizhny-novgorod-akhmat-grozny",
+        "group_id": "2574043831460827141-653077783-11192525-13567697-27915151",
+        "home_team": "FC Pari Nizhny Novgorod",
+        "away_team": "RFK Akhmat Grozny",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "2574043831460827146-649866694-11192526-13567695-27915152",
+    "home_team": "FK Akron Tolyatti",
+    "away_team": "FK Rubin Kazan",
+    "date": "20/09/2025",
+    "time": "14:45",
+    "country": "Russia",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "second_half_under_1.5_vs_second_half_over_1.5",
+        "best_odds": {
+          "second_half_under_1.5_odd": {
+            "value": 1.79,
+            "source": "Asbet"
+          },
+          "second_half_over_1.5_odd": {
+            "value": 2.336,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9867,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27915152-11192526",
+        "misvalue_source": "1xbet",
+        "Asbet_country_name": "Russia",
+        "tournament_Asbet": "Premier League",
+        "Asbet_match_id": 27915152,
+        "Asbet_tournament_id": 1993,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Russia/1993/premier-league/27915152/fk-akron-rubin-kazan",
+        "Tounesbet_country_name": "Russia",
+        "tournament_Tounesbet": "Premiere League",
+        "Tounesbet_match_id": 11192526,
+        "Tounesbet_tournament_id": 44379,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2574043831460827146-649866694-11192526-13567695-27915152",
+        "home_team": "FK Akron Tolyatti",
+        "away_team": "FK Rubin Kazan",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "first_half_under_1.5_vs_first_half_over_1.5",
+        "best_odds": {
+          "first_half_under_1.5_odd": {
+            "value": 1.5,
+            "source": "Clubx2"
+          },
+          "first_half_over_1.5_odd": {
+            "value": 3.056,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9939,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13567695-11192526",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Russia",
+        "tournament_Clubx2": "Premier League",
+        "Clubx2_match_id": 13567695,
+        "Clubx2_tournament_id": 3140,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13567695#/overview",
+        "Tounesbet_country_name": "Russia",
+        "tournament_Tounesbet": "Premiere League",
+        "Tounesbet_match_id": 11192526,
+        "Tounesbet_tournament_id": 44379,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2574043831460827146-649866694-11192526-13567695-27915152",
+        "home_team": "FK Akron Tolyatti",
+        "away_team": "FK Rubin Kazan",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "2574043831460827143-649866688-11192567-13577339-27915154",
+    "home_team": "FC Orenburg",
+    "away_team": "FK Dinamo Moscow",
+    "date": "21/09/2025",
+    "time": "10:00",
+    "country": "Russia",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "first_half_under_1.0_vs_first_half_over_1.0",
+        "best_odds": {
+          "first_half_under_1.0_odd": {
+            "value": 2.23,
+            "source": "Asbet"
+          },
+          "first_half_over_1.0_odd": {
+            "value": 1.947,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.962,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27915154-11192567",
+        "misvalue_source": "1xbet",
+        "Asbet_country_name": "Russia",
+        "tournament_Asbet": "Premier League",
+        "Asbet_match_id": 27915154,
+        "Asbet_tournament_id": 1993,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Russia/1993/premier-league/27915154/orenburg-dynamo-moscow",
+        "Tounesbet_country_name": "Russia",
+        "tournament_Tounesbet": "Premiere League",
+        "Tounesbet_match_id": 11192567,
+        "Tounesbet_tournament_id": 44379,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2574043831460827143-649866688-11192567-13577339-27915154",
+        "home_team": "FC Orenburg",
+        "away_team": "FK Dinamo Moscow",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "first_half_under_1.5_vs_first_half_over_1.5",
+        "best_odds": {
+          "first_half_under_1.5_odd": {
+            "value": 1.5556,
+            "source": "Clubx2"
+          },
+          "first_half_over_1.5_odd": {
+            "value": 2.855,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9931,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13577339-11192567",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Russia",
+        "tournament_Clubx2": "Premier League",
+        "Clubx2_match_id": 13577339,
+        "Clubx2_tournament_id": 3140,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13577339#/overview",
+        "Tounesbet_country_name": "Russia",
+        "tournament_Tounesbet": "Premiere League",
+        "Tounesbet_match_id": 11192567,
+        "Tounesbet_tournament_id": 44379,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2574043831460827143-649866688-11192567-13577339-27915154",
+        "home_team": "FC Orenburg",
+        "away_team": "FK Dinamo Moscow",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "2574043831460827145-649866676-11192571-27915156",
+    "home_team": "FK Spartak Moscow",
+    "away_team": "PFK Krylia Sovetov Samara",
+    "date": "21/09/2025",
+    "time": "12:30",
+    "country": "Russia",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "first_half_under_1.0_vs_first_half_over_1.0",
+        "best_odds": {
+          "first_half_under_1.0_odd": {
+            "value": 2.1,
+            "source": "Asbet"
+          },
+          "first_half_over_1.0_odd": {
+            "value": 2.029,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.969,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27915156-11192571",
+        "misvalue_source": "Jibibet",
+        "Asbet_country_name": "Russia",
+        "tournament_Asbet": "Premier League",
+        "Asbet_match_id": 27915156,
+        "Asbet_tournament_id": 1993,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Russia/1993/premier-league/27915156/spartak-moscow-krylia-sovetov-samara",
+        "Tounesbet_country_name": "Russia",
+        "tournament_Tounesbet": "Premiere League",
+        "Tounesbet_match_id": 11192571,
+        "Tounesbet_tournament_id": 44379,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2574043831460827145-649866676-11192571-27915156",
+        "home_team": "FK Spartak Moscow",
+        "away_team": "PFK Krylia Sovetov Samara",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "2574043831460827144-649866697-11192600-13577342-27915157",
+    "home_team": "FC Baltika Kaliningrad",
+    "away_team": "FC Rostov",
+    "date": "21/09/2025",
+    "time": "15:00",
+    "country": "Russia",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "second_half_under_1.5_vs_second_half_over_1.5",
+        "best_odds": {
+          "second_half_under_1.5_odd": {
+            "value": 1.781,
+            "source": "Tounesbet"
+          },
+          "second_half_over_1.5_odd": {
+            "value": 2.44,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9713,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27915157-11192600",
+        "misvalue_source": "Asbet",
+        "Tounesbet_country_name": "Russia",
+        "tournament_Tounesbet": "Premiere League",
+        "Tounesbet_match_id": 11192600,
+        "Tounesbet_tournament_id": 44379,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "Russia",
+        "tournament_Asbet": "Premier League",
+        "Asbet_match_id": 27915157,
+        "Asbet_tournament_id": 1993,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Russia/1993/premier-league/27915157/fc-baltika-kaliningrad-fc-rostov",
+        "group_id": "2574043831460827144-649866697-11192600-13577342-27915157",
+        "home_team": "FC Baltika Kaliningrad",
+        "away_team": "FC Rostov",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "2574043831460827142-649866691-11192556-13577341-27915155",
+    "home_team": "FK Krasnodar",
+    "away_team": "FC Zenit Saint Petersburg",
+    "date": "21/09/2025",
+    "time": "17:30",
+    "country": "Russia",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "second_half_under_1.0_vs_second_half_over_1.0",
+        "best_odds": {
+          "second_half_under_1.0_odd": {
+            "value": 2.4,
+            "source": "Asbet"
+          },
+          "second_half_over_1.0_odd": {
+            "value": 1.793,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9744,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27915155-11192556",
+        "misvalue_source": "Jibibet",
+        "Asbet_country_name": "Russia",
+        "tournament_Asbet": "Premier League",
+        "Asbet_match_id": 27915155,
+        "Asbet_tournament_id": 1993,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Russia/1993/premier-league/27915155/krasnodar-zenit-st-petersburg",
+        "Tounesbet_country_name": "Russia",
+        "tournament_Tounesbet": "Premiere League",
+        "Tounesbet_match_id": 11192556,
+        "Tounesbet_tournament_id": 44379,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2574043831460827142-649866691-11192556-13577341-27915155",
+        "home_team": "FK Krasnodar",
+        "away_team": "FC Zenit Saint Petersburg",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "2574043831460827140-649866682-11192581-13587425-27915150",
+    "home_team": "PFC Sochi",
+    "away_team": "CSKA Moscow",
+    "date": "22/09/2025",
+    "time": "17:00",
+    "country": "Russia",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_1.25_home_vs_away",
+        "best_odds": {
+          "home_handicap_1.25_odd": {
+            "value": 1.676,
+            "source": "1xbet"
+          },
+          "away_handicap_-1.25_odd": {
+            "value": 2.57,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9858,
+        "arbitrage_sources": "1xbet, Asbet",
+        "unique_id": "649866682-27915150",
+        "misvalue_source": "1xbet",
+        "1xbet_country_name": "Russia",
+        "tournament_1xbet": "Premier League",
+        "1xbet_match_id": 649866682,
+        "1xbet_tournament_id": 225733,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/225733/649866682",
+        "Asbet_country_name": "Russia",
+        "tournament_Asbet": "Premier League",
+        "Asbet_match_id": 27915150,
+        "Asbet_tournament_id": 1993,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Russia/1993/premier-league/27915150/pfc-sochi-cska-moscow",
+        "group_id": "2574043831460827140-649866682-11192581-13587425-27915150",
+        "home_team": "PFC Sochi",
+        "away_team": "CSKA Moscow",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "first_half_under_1.0_vs_first_half_over_1.0",
+        "best_odds": {
+          "first_half_under_1.0_odd": {
+            "value": 2.277,
+            "source": "Tounesbet"
+          },
+          "first_half_over_1.0_odd": {
+            "value": 1.82,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9886,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27915150-11192581",
+        "misvalue_source": "1xbet",
+        "Tounesbet_country_name": "Russia",
+        "tournament_Tounesbet": "Premiere League",
+        "Tounesbet_match_id": 11192581,
+        "Tounesbet_tournament_id": 44379,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "Russia",
+        "tournament_Asbet": "Premier League",
+        "Asbet_match_id": 27915150,
+        "Asbet_tournament_id": 1993,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Russia/1993/premier-league/27915150/pfc-sochi-cska-moscow",
+        "group_id": "2574043831460827140-649866682-11192581-13587425-27915150",
+        "home_team": "PFC Sochi",
+        "away_team": "CSKA Moscow",
+        "activity_duration": "25 hours"
+      }
+    ]
+  }
+]

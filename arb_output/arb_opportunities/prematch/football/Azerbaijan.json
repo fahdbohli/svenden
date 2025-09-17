@@ -1,0 +1,388 @@
+[
+  {
+    "group_id": "2579510474576105492-653940256-11297161-13919121",
+    "home_team": "Cəbrayyul Fk",
+    "away_team": "Energetik Mingachevir",
+    "date": "17/09/2025",
+    "time": "13:00",
+    "country": "Azerbaijan",
+    "all_sources": [
+      "1xbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "under_2.5_vs_over_2.5",
+        "best_odds": {
+          "under_2.5_odd": {
+            "value": 1.888,
+            "source": "Tounesbet"
+          },
+          "over_2.5_odd": {
+            "value": 2.38,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.9498,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653940256-11297161",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Azerbaijan",
+        "tournament_Tounesbet": "Azerbaijan First Division",
+        "Tounesbet_match_id": 11297161,
+        "Tounesbet_tournament_id": 22794,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "1xbet_country_name": "Azerbaijan",
+        "tournament_1xbet": "Division 1",
+        "1xbet_match_id": 653940256,
+        "1xbet_tournament_id": 12961,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/12961/653940256",
+        "group_id": "2579510474576105492-653940256-11297161-13919121",
+        "home_team": "Cəbrayyul Fk",
+        "away_team": "Energetik Mingachevir",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "under_2.5_vs_over_2.5",
+        "best_odds": {
+          "under_2.5_odd": {
+            "value": 1.888,
+            "source": "Tounesbet"
+          },
+          "over_2.5_odd": {
+            "value": 2.24,
+            "source": "Jibibet"
+          }
+        },
+        "arbitrage_percentage": 0.9761,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2579510474576105492-11297161",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Azerbaijan",
+        "tournament_Tounesbet": "Azerbaijan First Division",
+        "Tounesbet_match_id": 11297161,
+        "Tounesbet_tournament_id": 22794,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Jibibet_country_name": "Azerbaijan",
+        "tournament_Jibibet": "First Division",
+        "Jibibet_match_id": 2579510474576105492,
+        "Jibibet_tournament_id": 1669819111171035136,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "group_id": "2579510474576105492-653940256-11297161-13919121",
+        "home_team": "Cəbrayyul Fk",
+        "away_team": "Energetik Mingachevir",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "under_2.5_vs_over_2.5",
+        "best_odds": {
+          "under_2.5_odd": {
+            "value": 1.888,
+            "source": "Tounesbet"
+          },
+          "over_2.5_odd": {
+            "value": 2.2,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9842,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13919121-11297161",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Azerbaijan",
+        "tournament_Tounesbet": "Azerbaijan First Division",
+        "Tounesbet_match_id": 11297161,
+        "Tounesbet_tournament_id": 22794,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "Azerbaijan",
+        "tournament_Clubx2": "First Division",
+        "Clubx2_match_id": 13919121,
+        "Clubx2_tournament_id": 4338,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13919121#/overview",
+        "group_id": "2579510474576105492-653940256-11297161-13919121",
+        "home_team": "Cəbrayyul Fk",
+        "away_team": "Energetik Mingachevir",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "2579531083519496195-653940257-11297372",
+    "home_team": "Zaqatala FK",
+    "away_team": "Shafa Baku FC",
+    "date": "18/09/2025",
+    "time": "12:30",
+    "country": "Azerbaijan",
+    "all_sources": [
+      "1xbet",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "under_2.5_vs_over_2.5",
+        "best_odds": {
+          "under_2.5_odd": {
+            "value": 1.958,
+            "source": "Tounesbet"
+          },
+          "over_2.5_odd": {
+            "value": 2.2,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.9653,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653940257-11297372",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Azerbaijan",
+        "tournament_Tounesbet": "Azerbaijan First Division",
+        "Tounesbet_match_id": 11297372,
+        "Tounesbet_tournament_id": 22794,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "1xbet_country_name": "Azerbaijan",
+        "tournament_1xbet": "Division 1",
+        "1xbet_match_id": 653940257,
+        "1xbet_tournament_id": 12961,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/12961/653940257",
+        "group_id": "2579531083519496195-653940257-11297372",
+        "home_team": "Zaqatala FK",
+        "away_team": "Shafa Baku FC",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "one_vs_x2",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.32,
+            "source": "Jibibet"
+          },
+          "X2_odd": {
+            "value": 1.805,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9851,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2579531083519496195-11297372",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "Azerbaijan",
+        "tournament_Jibibet": "First Division",
+        "Jibibet_match_id": 2579531083519496195,
+        "Jibibet_tournament_id": 1669819111171035136,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "Azerbaijan",
+        "tournament_Tounesbet": "Azerbaijan First Division",
+        "Tounesbet_match_id": 11297372,
+        "Tounesbet_tournament_id": 22794,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579531083519496195-653940257-11297372",
+        "home_team": "Zaqatala FK",
+        "away_team": "Shafa Baku FC",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "2579531083519496196-653940258-11254525",
+    "home_team": "Difai Agsu",
+    "away_team": "Sabail Baku",
+    "date": "18/09/2025",
+    "time": "13:00",
+    "country": "Azerbaijan",
+    "all_sources": [
+      "1xbet",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_0.75_home_vs_away",
+        "best_odds": {
+          "home_handicap_0.75_odd": {
+            "value": 2.147,
+            "source": "Tounesbet"
+          },
+          "away_handicap_-0.75_odd": {
+            "value": 1.975,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.9721,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653940258-11254525",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Azerbaijan",
+        "tournament_Tounesbet": "Azerbaijan First Division",
+        "Tounesbet_match_id": 11254525,
+        "Tounesbet_tournament_id": 22794,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "1xbet_country_name": "Azerbaijan",
+        "tournament_1xbet": "Division 1",
+        "1xbet_match_id": 653940258,
+        "1xbet_tournament_id": 12961,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/12961/653940258",
+        "group_id": "2579531083519496196-653940258-11254525",
+        "home_team": "Difai Agsu",
+        "away_team": "Sabail Baku",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "two_vs_1x",
+        "best_odds": {
+          "2_odd": {
+            "value": 2.029,
+            "source": "Tounesbet"
+          },
+          "1X_odd": {
+            "value": 2.05,
+            "source": "Jibibet"
+          }
+        },
+        "arbitrage_percentage": 0.9807,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2579531083519496196-11254525",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Azerbaijan",
+        "tournament_Tounesbet": "Azerbaijan First Division",
+        "Tounesbet_match_id": 11254525,
+        "Tounesbet_tournament_id": 22794,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Jibibet_country_name": "Azerbaijan",
+        "tournament_Jibibet": "First Division",
+        "Jibibet_match_id": 2579531083519496196,
+        "Jibibet_tournament_id": 1669819111171035136,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "group_id": "2579531083519496196-653940258-11254525",
+        "home_team": "Difai Agsu",
+        "away_team": "Sabail Baku",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "2579510474576105499-653940259-11254523",
+    "home_team": "Shahdag Qusar",
+    "away_team": "Baku Sporting",
+    "date": "18/09/2025",
+    "time": "13:00",
+    "country": "Azerbaijan",
+    "all_sources": [
+      "1xbet",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_0.0_home_vs_away",
+        "best_odds": {
+          "home_handicap_0.0_odd": {
+            "value": 2.124,
+            "source": "Tounesbet"
+          },
+          "away_handicap_0.0_odd": {
+            "value": 2.0,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.9708,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653940259-11254523",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Azerbaijan",
+        "tournament_Tounesbet": "Azerbaijan First Division",
+        "Tounesbet_match_id": 11254523,
+        "Tounesbet_tournament_id": 22794,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "1xbet_country_name": "Azerbaijan",
+        "tournament_1xbet": "Division 1",
+        "1xbet_match_id": 653940259,
+        "1xbet_tournament_id": 12961,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/12961/653940259",
+        "group_id": "2579510474576105499-653940259-11254523",
+        "home_team": "Shahdag Qusar",
+        "away_team": "Baku Sporting",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "under_2.5_vs_over_2.5",
+        "best_odds": {
+          "under_2.5_odd": {
+            "value": 1.899,
+            "source": "Tounesbet"
+          },
+          "over_2.5_odd": {
+            "value": 2.16,
+            "source": "Jibibet"
+          }
+        },
+        "arbitrage_percentage": 0.9896,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2579510474576105499-11254523",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Azerbaijan",
+        "tournament_Tounesbet": "Azerbaijan First Division",
+        "Tounesbet_match_id": 11254523,
+        "Tounesbet_tournament_id": 22794,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Jibibet_country_name": "Azerbaijan",
+        "tournament_Jibibet": "First Division",
+        "Jibibet_match_id": 2579510474576105499,
+        "Jibibet_tournament_id": 1669819111171035136,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "group_id": "2579510474576105499-653940259-11254523",
+        "home_team": "Shahdag Qusar",
+        "away_team": "Baku Sporting",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "2579531083519496207-653940260-11297162",
+    "home_team": "Simal FK",
+    "away_team": "MOIK Baku",
+    "date": "19/09/2025",
+    "time": "13:00",
+    "country": "Azerbaijan",
+    "all_sources": [
+      "1xbet",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "under_2.5_vs_over_2.5",
+        "best_odds": {
+          "under_2.5_odd": {
+            "value": 1.958,
+            "source": "Tounesbet"
+          },
+          "over_2.5_odd": {
+            "value": 2.1,
+            "source": "Jibibet"
+          }
+        },
+        "arbitrage_percentage": 0.9869,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2579531083519496207-11297162",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Azerbaijan",
+        "tournament_Tounesbet": "Azerbaijan First Division",
+        "Tounesbet_match_id": 11297162,
+        "Tounesbet_tournament_id": 22794,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Jibibet_country_name": "Azerbaijan",
+        "tournament_Jibibet": "First Division",
+        "Jibibet_match_id": 2579531083519496207,
+        "Jibibet_tournament_id": 1669819111171035136,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "group_id": "2579531083519496207-653940260-11297162",
+        "home_team": "Simal FK",
+        "away_team": "MOIK Baku",
+        "activity_duration": "25 hours"
+      }
+    ]
+  }
+]

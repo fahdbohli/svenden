@@ -1,0 +1,1479 @@
+[
+  {
+    "group_id": "653596818-11288341-13025851-27966481",
+    "home_team": "Sellier & Bellot Vlasim",
+    "away_team": "MFK Chrudim",
+    "date": "19/09/2025",
+    "time": "16:00",
+    "country": "Czech Republic",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "first_half_under_1.0_vs_first_half_over_1.0",
+        "best_odds": {
+          "first_half_under_1.0_odd": {
+            "value": 2.4,
+            "source": "Clubx2"
+          },
+          "first_half_over_1.0_odd": {
+            "value": 1.829,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9634,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13025851-11288341",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Czech Republic",
+        "tournament_Clubx2": "FNL",
+        "Clubx2_match_id": 13025851,
+        "Clubx2_tournament_id": 4685,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13025851#/overview",
+        "Tounesbet_country_name": "Czech Republic",
+        "tournament_Tounesbet": "FNL",
+        "Tounesbet_match_id": 11288341,
+        "Tounesbet_tournament_id": 70836,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653596818-11288341-13025851-27966481",
+        "home_team": "Sellier & Bellot Vlasim",
+        "away_team": "MFK Chrudim",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "ah_-0.75_home_vs_away",
+        "best_odds": {
+          "home_handicap_-0.75_odd": {
+            "value": 2.08,
+            "source": "1xbet"
+          },
+          "away_handicap_0.75_odd": {
+            "value": 2.029,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9736,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653596818-11288341",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Czech Republic",
+        "tournament_1xbet": "2 Liga",
+        "1xbet_match_id": 653596818,
+        "1xbet_tournament_id": 30465,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/30465/653596818",
+        "Tounesbet_country_name": "Czech Republic",
+        "tournament_Tounesbet": "FNL",
+        "Tounesbet_match_id": 11288341,
+        "Tounesbet_tournament_id": 70836,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653596818-11288341-13025851-27966481",
+        "home_team": "Sellier & Bellot Vlasim",
+        "away_team": "MFK Chrudim",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "ah_-0.75_home_vs_away",
+        "best_odds": {
+          "home_handicap_-0.75_odd": {
+            "value": 2.05,
+            "source": "Asbet"
+          },
+          "away_handicap_0.75_odd": {
+            "value": 2.029,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9807,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27966481-11288341",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Czech Republic",
+        "tournament_Asbet": "FNL",
+        "Asbet_match_id": 27966481,
+        "Asbet_tournament_id": 1829,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Czech Republic/1829/fnl/27966481/fc-vlasim-mfk-chrudim",
+        "Tounesbet_country_name": "Czech Republic",
+        "tournament_Tounesbet": "FNL",
+        "Tounesbet_match_id": 11288341,
+        "Tounesbet_tournament_id": 70836,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653596818-11288341-13025851-27966481",
+        "home_team": "Sellier & Bellot Vlasim",
+        "away_team": "MFK Chrudim",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "653609500-11288518-13025856-27973604",
+    "home_team": "Viagem Usti nad Labem",
+    "away_team": "1.SK Prostejov",
+    "date": "19/09/2025",
+    "time": "16:30",
+    "country": "Czech Republic",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_-0.25_home_vs_away",
+        "best_odds": {
+          "home_handicap_-0.25_odd": {
+            "value": 1.793,
+            "source": "Tounesbet"
+          },
+          "away_handicap_0.25_odd": {
+            "value": 2.49,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.9593,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653609500-11288518",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Czech Republic",
+        "tournament_Tounesbet": "FNL",
+        "Tounesbet_match_id": 11288518,
+        "Tounesbet_tournament_id": 70836,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "1xbet_country_name": "Czech Republic",
+        "tournament_1xbet": "2 Liga",
+        "1xbet_match_id": 653609500,
+        "1xbet_tournament_id": 30465,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/30465/653609500",
+        "group_id": "653609500-11288518-13025856-27973604",
+        "home_team": "Viagem Usti nad Labem",
+        "away_team": "1.SK Prostejov",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "home_under_1.5_vs_home_over_1.5",
+        "best_odds": {
+          "home_under_1.5_odd": {
+            "value": 2.2,
+            "source": "Clubx2"
+          },
+          "home_over_1.5_odd": {
+            "value": 1.958,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9653,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13025856-11288518",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Czech Republic",
+        "tournament_Clubx2": "FNL",
+        "Clubx2_match_id": 13025856,
+        "Clubx2_tournament_id": 4685,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13025856#/overview",
+        "Tounesbet_country_name": "Czech Republic",
+        "tournament_Tounesbet": "FNL",
+        "Tounesbet_match_id": 11288518,
+        "Tounesbet_tournament_id": 70836,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653609500-11288518-13025856-27973604",
+        "home_team": "Viagem Usti nad Labem",
+        "away_team": "1.SK Prostejov",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "ah_-1.0_home_vs_away",
+        "best_odds": {
+          "home_handicap_-1.0_odd": {
+            "value": 2.2,
+            "source": "Asbet"
+          },
+          "away_handicap_1.0_odd": {
+            "value": 1.947,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9682,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27973604-11288518",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Czech Republic",
+        "tournament_Asbet": "FNL",
+        "Asbet_match_id": 27973604,
+        "Asbet_tournament_id": 1829,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Czech Republic/1829/fnl/27973604/fk-usti-nad-labem-sk-prostejov",
+        "Tounesbet_country_name": "Czech Republic",
+        "tournament_Tounesbet": "FNL",
+        "Tounesbet_match_id": 11288518,
+        "Tounesbet_tournament_id": 70836,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653609500-11288518-13025856-27973604",
+        "home_team": "Viagem Usti nad Labem",
+        "away_team": "1.SK Prostejov",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "653843993-11294729-13025853-27973490",
+    "home_team": "SK Hanacka Slavia Kromeriz",
+    "away_team": "SK Dynamo Ceske Budejovice",
+    "date": "20/09/2025",
+    "time": "15:30",
+    "country": "Czech Republic",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "first_half_under_1.0_vs_first_half_over_1.0",
+        "best_odds": {
+          "first_half_under_1.0_odd": {
+            "value": 2.2,
+            "source": "Clubx2"
+          },
+          "first_half_over_1.0_odd": {
+            "value": 1.958,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9653,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13025853-11294729",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Czech Republic",
+        "tournament_Clubx2": "FNL",
+        "Clubx2_match_id": 13025853,
+        "Clubx2_tournament_id": 4685,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13025853#/overview",
+        "Tounesbet_country_name": "Czech Republic",
+        "tournament_Tounesbet": "FNL",
+        "Tounesbet_match_id": 11294729,
+        "Tounesbet_tournament_id": 70836,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653843993-11294729-13025853-27973490",
+        "home_team": "SK Hanacka Slavia Kromeriz",
+        "away_team": "SK Dynamo Ceske Budejovice",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "ah_-0.25_home_vs_away",
+        "best_odds": {
+          "home_handicap_-0.25_odd": {
+            "value": 2.3,
+            "source": "1xbet"
+          },
+          "away_handicap_0.25_odd": {
+            "value": 1.852,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9747,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653843993-11294729",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Czech Republic",
+        "tournament_1xbet": "2 Liga",
+        "1xbet_match_id": 653843993,
+        "1xbet_tournament_id": 30465,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/30465/653843993",
+        "Tounesbet_country_name": "Czech Republic",
+        "tournament_Tounesbet": "FNL",
+        "Tounesbet_match_id": 11294729,
+        "Tounesbet_tournament_id": 70836,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653843993-11294729-13025853-27973490",
+        "home_team": "SK Hanacka Slavia Kromeriz",
+        "away_team": "SK Dynamo Ceske Budejovice",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "ah_-0.25_home_vs_away",
+        "best_odds": {
+          "home_handicap_-0.25_odd": {
+            "value": 2.3,
+            "source": "Asbet"
+          },
+          "away_handicap_0.25_odd": {
+            "value": 1.852,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9747,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27973490-11294729",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Czech Republic",
+        "tournament_Asbet": "FNL",
+        "Asbet_match_id": 27973490,
+        "Asbet_tournament_id": 1829,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Czech Republic/1829/fnl/27973490/sk-hanacka-slavia-kromeriz-sk-dynamo-ceske-budejovice",
+        "Tounesbet_country_name": "Czech Republic",
+        "tournament_Tounesbet": "FNL",
+        "Tounesbet_match_id": 11294729,
+        "Tounesbet_tournament_id": 70836,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653843993-11294729-13025853-27973490",
+        "home_team": "SK Hanacka Slavia Kromeriz",
+        "away_team": "SK Dynamo Ceske Budejovice",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "653853014-11294916-13025857-27973603",
+    "home_team": "FC Zbrojovka Brno",
+    "away_team": "FC Vysocina Jihlava",
+    "date": "20/09/2025",
+    "time": "16:00",
+    "country": "Czech Republic",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_-0.75_home_vs_away",
+        "best_odds": {
+          "home_handicap_-0.75_odd": {
+            "value": 1.829,
+            "source": "Tounesbet"
+          },
+          "away_handicap_0.75_odd": {
+            "value": 2.47,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.9516,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653853014-11294916",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Czech Republic",
+        "tournament_Tounesbet": "FNL",
+        "Tounesbet_match_id": 11294916,
+        "Tounesbet_tournament_id": 70836,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "1xbet_country_name": "Czech Republic",
+        "tournament_1xbet": "2 Liga",
+        "1xbet_match_id": 653853014,
+        "1xbet_tournament_id": 30465,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/30465/653853014",
+        "group_id": "653853014-11294916-13025857-27973603",
+        "home_team": "FC Zbrojovka Brno",
+        "away_team": "FC Vysocina Jihlava",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "ah_-1.5_home_vs_away",
+        "best_odds": {
+          "home_handicap_-1.5_odd": {
+            "value": 2.21,
+            "source": "Asbet"
+          },
+          "away_handicap_1.5_odd": {
+            "value": 1.911,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9758,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27973603-11294916",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Czech Republic",
+        "tournament_Asbet": "FNL",
+        "Asbet_match_id": 27973603,
+        "Asbet_tournament_id": 1829,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Czech Republic/1829/fnl/27973603/fc-zbrojovka-brno-fc-vysocina-jihlava",
+        "Tounesbet_country_name": "Czech Republic",
+        "tournament_Tounesbet": "FNL",
+        "Tounesbet_match_id": 11294916,
+        "Tounesbet_tournament_id": 70836,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653853014-11294916-13025857-27973603",
+        "home_team": "FC Zbrojovka Brno",
+        "away_team": "FC Vysocina Jihlava",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "away_under_0.5_vs_away_over_0.5",
+        "best_odds": {
+          "away_under_0.5_odd": {
+            "value": 2.2858,
+            "source": "Clubx2"
+          },
+          "away_over_0.5_odd": {
+            "value": 1.852,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9774,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13025857-11294916",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Czech Republic",
+        "tournament_Clubx2": "FNL",
+        "Clubx2_match_id": 13025857,
+        "Clubx2_tournament_id": 4685,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13025857#/overview",
+        "Tounesbet_country_name": "Czech Republic",
+        "tournament_Tounesbet": "FNL",
+        "Tounesbet_match_id": 11294916,
+        "Tounesbet_tournament_id": 70836,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653853014-11294916-13025857-27973603",
+        "home_team": "FC Zbrojovka Brno",
+        "away_team": "FC Vysocina Jihlava",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "653539753-10667417-13025621-27952796",
+    "home_team": "MFK OKD Karvina",
+    "away_team": "FK Jablonec",
+    "date": "20/09/2025",
+    "time": "14:00",
+    "country": "Czech Republic",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_0.0_home_vs_away",
+        "best_odds": {
+          "home_handicap_0.0_odd": {
+            "value": 2.17,
+            "source": "1xbet"
+          },
+          "away_handicap_0.0_odd": {
+            "value": 2.065,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9451,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653539753-10667417",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Czech Republic",
+        "tournament_1xbet": "Chance Liga",
+        "1xbet_match_id": 653539753,
+        "1xbet_tournament_id": 27707,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/27707/653539753",
+        "Tounesbet_country_name": "Czech Republic",
+        "tournament_Tounesbet": "HET liga",
+        "Tounesbet_match_id": 10667417,
+        "Tounesbet_tournament_id": 23230,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653539753-10667417-13025621-27952796",
+        "home_team": "MFK OKD Karvina",
+        "away_team": "FK Jablonec",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "two_vs_1x_handicap",
+        "best_odds": {
+          "2_odd": {
+            "value": 2.4286,
+            "source": "Clubx2"
+          },
+          "home_handicap_0.5_odd": {
+            "value": 1.852,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9517,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13025621-10667417",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Czech Republic",
+        "tournament_Clubx2": "1. Liga",
+        "Clubx2_match_id": 13025621,
+        "Clubx2_tournament_id": 3105,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13025621#/overview",
+        "Tounesbet_country_name": "Czech Republic",
+        "tournament_Tounesbet": "HET liga",
+        "Tounesbet_match_id": 10667417,
+        "Tounesbet_tournament_id": 23230,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653539753-10667417-13025621-27952796",
+        "home_team": "MFK OKD Karvina",
+        "away_team": "FK Jablonec",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "ah_-0.25_home_vs_away",
+        "best_odds": {
+          "home_handicap_-0.25_odd": {
+            "value": 2.42,
+            "source": "Asbet"
+          },
+          "away_handicap_0.25_odd": {
+            "value": 1.829,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.96,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27952796-10667417",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Czech Republic",
+        "tournament_Asbet": "First League",
+        "Asbet_match_id": 27952796,
+        "Asbet_tournament_id": 1826,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Czech Republic/1826/first-league/27952796/mfk-karvina-fk-jablonec",
+        "Tounesbet_country_name": "Czech Republic",
+        "tournament_Tounesbet": "HET liga",
+        "Tounesbet_match_id": 10667417,
+        "Tounesbet_tournament_id": 23230,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653539753-10667417-13025621-27952796",
+        "home_team": "MFK OKD Karvina",
+        "away_team": "FK Jablonec",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "653578070-10667413-13025628-27952797",
+    "home_team": "FK Pardubice",
+    "away_team": "1. FC Slovacko",
+    "date": "20/09/2025",
+    "time": "14:00",
+    "country": "Czech Republic",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "one_vs_x2",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.5,
+            "source": "1xbet"
+          },
+          "X2_odd": {
+            "value": 1.805,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.954,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653578070-10667413",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Czech Republic",
+        "tournament_1xbet": "Chance Liga",
+        "1xbet_match_id": 653578070,
+        "1xbet_tournament_id": 27707,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/27707/653578070",
+        "Tounesbet_country_name": "Czech Republic",
+        "tournament_Tounesbet": "HET liga",
+        "Tounesbet_match_id": 10667413,
+        "Tounesbet_tournament_id": 23230,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653578070-10667413-13025628-27952797",
+        "home_team": "FK Pardubice",
+        "away_team": "1. FC Slovacko",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "one_vs_x2",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.4546,
+            "source": "Clubx2"
+          },
+          "X2_odd": {
+            "value": 1.805,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9614,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13025628-10667413",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Czech Republic",
+        "tournament_Clubx2": "1. Liga",
+        "Clubx2_match_id": 13025628,
+        "Clubx2_tournament_id": 3105,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13025628#/overview",
+        "Tounesbet_country_name": "Czech Republic",
+        "tournament_Tounesbet": "HET liga",
+        "Tounesbet_match_id": 10667413,
+        "Tounesbet_tournament_id": 23230,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653578070-10667413-13025628-27952797",
+        "home_team": "FK Pardubice",
+        "away_team": "1. FC Slovacko",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "one_vs_x2",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.45,
+            "source": "Asbet"
+          },
+          "X2_odd": {
+            "value": 1.805,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9622,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27952797-10667413",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Czech Republic",
+        "tournament_Asbet": "First League",
+        "Asbet_match_id": 27952797,
+        "Asbet_tournament_id": 1826,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Czech Republic/1826/first-league/27952797/fk-pardubice-fc-slovacko",
+        "Tounesbet_country_name": "Czech Republic",
+        "tournament_Tounesbet": "HET liga",
+        "Tounesbet_match_id": 10667413,
+        "Tounesbet_tournament_id": 23230,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653578070-10667413-13025628-27952797",
+        "home_team": "FK Pardubice",
+        "away_team": "1. FC Slovacko",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "653263794-10667414-13025623-27952795",
+    "home_team": "SK Sigma Olomouc",
+    "away_team": "FK Teplice",
+    "date": "20/09/2025",
+    "time": "14:00",
+    "country": "Czech Republic",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "both_score",
+        "best_odds": {
+          "both_score_odd": {
+            "value": 2.301,
+            "source": "Tounesbet"
+          },
+          "both_noscore_odd": {
+            "value": 2.025,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.9284,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653263794-10667414",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Czech Republic",
+        "tournament_Tounesbet": "HET liga",
+        "Tounesbet_match_id": 10667414,
+        "Tounesbet_tournament_id": 23230,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "1xbet_country_name": "Czech Republic",
+        "tournament_1xbet": "Chance Liga",
+        "1xbet_match_id": 653263794,
+        "1xbet_tournament_id": 27707,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/27707/653263794",
+        "group_id": "653263794-10667414-13025623-27952795",
+        "home_team": "SK Sigma Olomouc",
+        "away_team": "FK Teplice",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "second_half_under_1.5_vs_second_half_over_1.5",
+        "best_odds": {
+          "second_half_under_1.5_odd": {
+            "value": 2.112,
+            "source": "Tounesbet"
+          },
+          "second_half_over_1.5_odd": {
+            "value": 2.1,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9497,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13025623-10667414",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Czech Republic",
+        "tournament_Tounesbet": "HET liga",
+        "Tounesbet_match_id": 10667414,
+        "Tounesbet_tournament_id": 23230,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "Czech Republic",
+        "tournament_Clubx2": "1. Liga",
+        "Clubx2_match_id": 13025623,
+        "Clubx2_tournament_id": 3105,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13025623#/overview",
+        "group_id": "653263794-10667414-13025623-27952795",
+        "home_team": "SK Sigma Olomouc",
+        "away_team": "FK Teplice",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "second_half_under_1.5_vs_second_half_over_1.5",
+        "best_odds": {
+          "second_half_under_1.5_odd": {
+            "value": 2.112,
+            "source": "Tounesbet"
+          },
+          "second_half_over_1.5_odd": {
+            "value": 2.08,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9543,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27952795-10667414",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Czech Republic",
+        "tournament_Tounesbet": "HET liga",
+        "Tounesbet_match_id": 10667414,
+        "Tounesbet_tournament_id": 23230,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "Czech Republic",
+        "tournament_Asbet": "First League",
+        "Asbet_match_id": 27952795,
+        "Asbet_tournament_id": 1826,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Czech Republic/1826/first-league/27952795/sk-sigma-olomouc-fk-teplice",
+        "group_id": "653263794-10667414-13025623-27952795",
+        "home_team": "SK Sigma Olomouc",
+        "away_team": "FK Teplice",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "653657854-10667412-13025620-27952794",
+    "home_team": "FC Fastav Zlín",
+    "away_team": "FC Hradec Kralove",
+    "date": "20/09/2025",
+    "time": "14:00",
+    "country": "Czech Republic",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "two_vs_1x",
+        "best_odds": {
+          "2_odd": {
+            "value": 2.5,
+            "source": "Clubx2"
+          },
+          "1X_odd": {
+            "value": 1.805,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.954,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13025620-10667412",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Czech Republic",
+        "tournament_Clubx2": "1. Liga",
+        "Clubx2_match_id": 13025620,
+        "Clubx2_tournament_id": 3105,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13025620#/overview",
+        "Tounesbet_country_name": "Czech Republic",
+        "tournament_Tounesbet": "HET liga",
+        "Tounesbet_match_id": 10667412,
+        "Tounesbet_tournament_id": 23230,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653657854-10667412-13025620-27952794",
+        "home_team": "FC Fastav Zlín",
+        "away_team": "FC Hradec Kralove",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "two_vs_1x",
+        "best_odds": {
+          "2_odd": {
+            "value": 2.49,
+            "source": "1xbet"
+          },
+          "1X_odd": {
+            "value": 1.805,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9556,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653657854-10667412",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Czech Republic",
+        "tournament_1xbet": "Chance Liga",
+        "1xbet_match_id": 653657854,
+        "1xbet_tournament_id": 27707,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/27707/653657854",
+        "Tounesbet_country_name": "Czech Republic",
+        "tournament_Tounesbet": "HET liga",
+        "Tounesbet_match_id": 10667412,
+        "Tounesbet_tournament_id": 23230,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653657854-10667412-13025620-27952794",
+        "home_team": "FC Fastav Zlín",
+        "away_team": "FC Hradec Kralove",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "two_vs_1x",
+        "best_odds": {
+          "2_odd": {
+            "value": 2.49,
+            "source": "Asbet"
+          },
+          "1X_odd": {
+            "value": 1.805,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9556,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27952794-10667412",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Czech Republic",
+        "tournament_Asbet": "First League",
+        "Asbet_match_id": 27952794,
+        "Asbet_tournament_id": 1826,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Czech Republic/1826/first-league/27952794/fc-zlin-fc-hradec-kralove",
+        "Tounesbet_country_name": "Czech Republic",
+        "tournament_Tounesbet": "HET liga",
+        "Tounesbet_match_id": 10667412,
+        "Tounesbet_tournament_id": 23230,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653657854-10667412-13025620-27952794",
+        "home_team": "FC Fastav Zlín",
+        "away_team": "FC Hradec Kralove",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "653505844-10667296-13025617-27953486",
+    "home_team": "AC Sparta Prague",
+    "away_team": "FC Viktoria Plzen",
+    "date": "20/09/2025",
+    "time": "17:00",
+    "country": "Czech Republic",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "first_half_under_1.0_vs_first_half_over_1.0",
+        "best_odds": {
+          "first_half_under_1.0_odd": {
+            "value": 2.2858,
+            "source": "Clubx2"
+          },
+          "first_half_over_1.0_odd": {
+            "value": 1.935,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9543,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13025617-10667296",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Czech Republic",
+        "tournament_Clubx2": "1. Liga",
+        "Clubx2_match_id": 13025617,
+        "Clubx2_tournament_id": 3105,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13025617#/overview",
+        "Tounesbet_country_name": "Czech Republic",
+        "tournament_Tounesbet": "HET liga",
+        "Tounesbet_match_id": 10667296,
+        "Tounesbet_tournament_id": 23230,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653505844-10667296-13025617-27953486",
+        "home_team": "AC Sparta Prague",
+        "away_team": "FC Viktoria Plzen",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "first_half_ah_0.0_home_vs_away",
+        "best_odds": {
+          "home_first_half_handicap_0.0_odd": {
+            "value": 1.852,
+            "source": "Tounesbet"
+          },
+          "away_first_half_handicap_0.0_odd": {
+            "value": 2.37,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9619,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27953486-10667296",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Czech Republic",
+        "tournament_Tounesbet": "HET liga",
+        "Tounesbet_match_id": 10667296,
+        "Tounesbet_tournament_id": 23230,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "Czech Republic",
+        "tournament_Asbet": "First League",
+        "Asbet_match_id": 27953486,
+        "Asbet_tournament_id": 1826,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Czech Republic/1826/first-league/27953486/ac-sparta-praha-fc-viktoria-plzen",
+        "group_id": "653505844-10667296-13025617-27953486",
+        "home_team": "AC Sparta Prague",
+        "away_team": "FC Viktoria Plzen",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "both_score",
+        "best_odds": {
+          "both_score_odd": {
+            "value": 1.852,
+            "source": "Tounesbet"
+          },
+          "both_noscore_odd": {
+            "value": 2.323,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.9704,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653505844-10667296",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Czech Republic",
+        "tournament_Tounesbet": "HET liga",
+        "Tounesbet_match_id": 10667296,
+        "Tounesbet_tournament_id": 23230,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "1xbet_country_name": "Czech Republic",
+        "tournament_1xbet": "Chance Liga",
+        "1xbet_match_id": 653505844,
+        "1xbet_tournament_id": 27707,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/27707/653505844",
+        "group_id": "653505844-10667296-13025617-27953486",
+        "home_team": "AC Sparta Prague",
+        "away_team": "FC Viktoria Plzen",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "653578073-10667418-13025624-27958954",
+    "home_team": "FK Dukla Praha",
+    "away_team": "Bohemians 1905 Prague",
+    "date": "21/09/2025",
+    "time": "12:00",
+    "country": "Czech Republic",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.6667,
+            "source": "Clubx2"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.793,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9327,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13025624-10667418",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Czech Republic",
+        "tournament_Clubx2": "1. Liga",
+        "Clubx2_match_id": 13025624,
+        "Clubx2_tournament_id": 3105,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13025624#/overview",
+        "Tounesbet_country_name": "Czech Republic",
+        "tournament_Tounesbet": "HET liga",
+        "Tounesbet_match_id": 10667418,
+        "Tounesbet_tournament_id": 23230,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653578073-10667418-13025624-27958954",
+        "home_team": "FK Dukla Praha",
+        "away_team": "Bohemians 1905 Prague",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.63,
+            "source": "1xbet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.793,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.938,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653578073-10667418",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Czech Republic",
+        "tournament_1xbet": "Chance Liga",
+        "1xbet_match_id": 653578073,
+        "1xbet_tournament_id": 27707,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/27707/653578073",
+        "Tounesbet_country_name": "Czech Republic",
+        "tournament_Tounesbet": "HET liga",
+        "Tounesbet_match_id": 10667418,
+        "Tounesbet_tournament_id": 23230,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653578073-10667418-13025624-27958954",
+        "home_team": "FK Dukla Praha",
+        "away_team": "Bohemians 1905 Prague",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.63,
+            "source": "Asbet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.793,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.938,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27958954-10667418",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Czech Republic",
+        "tournament_Asbet": "First League",
+        "Asbet_match_id": 27958954,
+        "Asbet_tournament_id": 1826,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Czech Republic/1826/first-league/27958954/fk-dukla-praha-bohemians",
+        "Tounesbet_country_name": "Czech Republic",
+        "tournament_Tounesbet": "HET liga",
+        "Tounesbet_match_id": 10667418,
+        "Tounesbet_tournament_id": 23230,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653578073-10667418-13025624-27958954",
+        "home_team": "FK Dukla Praha",
+        "away_team": "Bohemians 1905 Prague",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "653578067-10667415-13025625-27959512",
+    "home_team": "FC Slovan Liberec",
+    "away_team": "SK Slavia Praha",
+    "date": "21/09/2025",
+    "time": "14:30",
+    "country": "Czech Republic",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "away_under_1.5_vs_away_over_1.5",
+        "best_odds": {
+          "away_under_1.5_odd": {
+            "value": 2.55,
+            "source": "1xbet"
+          },
+          "away_over_1.5_odd": {
+            "value": 1.805,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9462,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653578067-10667415",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "Czech Republic",
+        "tournament_1xbet": "Chance Liga",
+        "1xbet_match_id": 653578067,
+        "1xbet_tournament_id": 27707,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/27707/653578067",
+        "Tounesbet_country_name": "Czech Republic",
+        "tournament_Tounesbet": "HET liga",
+        "Tounesbet_match_id": 10667415,
+        "Tounesbet_tournament_id": 23230,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653578067-10667415-13025625-27959512",
+        "home_team": "FC Slovan Liberec",
+        "away_team": "SK Slavia Praha",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "both_score",
+        "best_odds": {
+          "both_score_odd": {
+            "value": 1.9524,
+            "source": "Clubx2"
+          },
+          "both_noscore_odd": {
+            "value": 2.242,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9582,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13025625-10667415",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Czech Republic",
+        "tournament_Clubx2": "1. Liga",
+        "Clubx2_match_id": 13025625,
+        "Clubx2_tournament_id": 3105,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13025625#/overview",
+        "Tounesbet_country_name": "Czech Republic",
+        "tournament_Tounesbet": "HET liga",
+        "Tounesbet_match_id": 10667415,
+        "Tounesbet_tournament_id": 23230,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653578067-10667415-13025625-27959512",
+        "home_team": "FC Slovan Liberec",
+        "away_team": "SK Slavia Praha",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "both_score",
+        "best_odds": {
+          "both_score_odd": {
+            "value": 1.94,
+            "source": "Asbet"
+          },
+          "both_noscore_odd": {
+            "value": 2.242,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9615,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27959512-10667415",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Czech Republic",
+        "tournament_Asbet": "First League",
+        "Asbet_match_id": 27959512,
+        "Asbet_tournament_id": 1826,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Czech Republic/1826/first-league/27959512/fc-slovan-liberec-sk-slavia-praha",
+        "Tounesbet_country_name": "Czech Republic",
+        "tournament_Tounesbet": "HET liga",
+        "Tounesbet_match_id": 10667415,
+        "Tounesbet_tournament_id": 23230,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653578067-10667415-13025625-27959512",
+        "home_team": "FC Slovan Liberec",
+        "away_team": "SK Slavia Praha",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "653667249-10667416-13025618-27960066",
+    "home_team": "FK Mlada Boleslav",
+    "away_team": "FC Banik Ostrava",
+    "date": "21/09/2025",
+    "time": "17:30",
+    "country": "Czech Republic",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.54,
+            "source": "1xbet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.793,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9514,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653667249-10667416",
+        "misvalue_source": "1xbet",
+        "1xbet_country_name": "Czech Republic",
+        "tournament_1xbet": "Chance Liga",
+        "1xbet_match_id": 653667249,
+        "1xbet_tournament_id": 27707,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/27707/653667249",
+        "Tounesbet_country_name": "Czech Republic",
+        "tournament_Tounesbet": "HET liga",
+        "Tounesbet_match_id": 10667416,
+        "Tounesbet_tournament_id": 23230,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653667249-10667416-13025618-27960066",
+        "home_team": "FK Mlada Boleslav",
+        "away_team": "FC Banik Ostrava",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.4546,
+            "source": "Clubx2"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.793,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9651,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13025618-10667416",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Czech Republic",
+        "tournament_Clubx2": "1. Liga",
+        "Clubx2_match_id": 13025618,
+        "Clubx2_tournament_id": 3105,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13025618#/overview",
+        "Tounesbet_country_name": "Czech Republic",
+        "tournament_Tounesbet": "HET liga",
+        "Tounesbet_match_id": 10667416,
+        "Tounesbet_tournament_id": 23230,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653667249-10667416-13025618-27960066",
+        "home_team": "FK Mlada Boleslav",
+        "away_team": "FC Banik Ostrava",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.45,
+            "source": "Asbet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.793,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9659,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27960066-10667416",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Czech Republic",
+        "tournament_Asbet": "First League",
+        "Asbet_match_id": 27960066,
+        "Asbet_tournament_id": 1826,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Czech Republic/1826/first-league/27960066/fk-mlada-boleslav-fc-banik-ostrava",
+        "Tounesbet_country_name": "Czech Republic",
+        "tournament_Tounesbet": "HET liga",
+        "Tounesbet_match_id": 10667416,
+        "Tounesbet_tournament_id": 23230,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653667249-10667416-13025618-27960066",
+        "home_team": "FK Mlada Boleslav",
+        "away_team": "FC Banik Ostrava",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "11299078-13025850-27978509",
+    "home_team": "SK Slavia Praha B",
+    "away_team": "SFC Opava",
+    "date": "21/09/2025",
+    "time": "09:15",
+    "country": "Czech Republic",
+    "all_sources": [
+      "Asbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "first_half_under_1.0_vs_first_half_over_1.0",
+        "best_odds": {
+          "first_half_under_1.0_odd": {
+            "value": 2.4,
+            "source": "Clubx2"
+          },
+          "first_half_over_1.0_odd": {
+            "value": 1.805,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9707,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13025850-11299078",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Czech Republic",
+        "tournament_Clubx2": "FNL",
+        "Clubx2_match_id": 13025850,
+        "Clubx2_tournament_id": 4685,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13025850#/overview",
+        "Tounesbet_country_name": "Czech Republic",
+        "tournament_Tounesbet": "FNL",
+        "Tounesbet_match_id": 11299078,
+        "Tounesbet_tournament_id": 70836,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "11299078-13025850-27978509",
+        "home_team": "SK Slavia Praha B",
+        "away_team": "SFC Opava",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "ah_-0.5_home_vs_away",
+        "best_odds": {
+          "home_handicap_-0.5_odd": {
+            "value": 2.21,
+            "source": "Asbet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.911,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9758,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27978509-11299078",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Czech Republic",
+        "tournament_Asbet": "FNL",
+        "Asbet_match_id": 27978509,
+        "Asbet_tournament_id": 1829,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Czech Republic/1829/fnl/27978509/sk-slavia-praha-b-sfc-opava",
+        "Tounesbet_country_name": "Czech Republic",
+        "tournament_Tounesbet": "FNL",
+        "Tounesbet_match_id": 11299078,
+        "Tounesbet_tournament_id": 70836,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "11299078-13025850-27978509",
+        "home_team": "SK Slavia Praha B",
+        "away_team": "SFC Opava",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "11299148-13328742-27978569",
+    "home_team": "AC Sparta Praha B",
+    "away_team": "1.FK Pribram",
+    "date": "21/09/2025",
+    "time": "09:30",
+    "country": "Czech Republic",
+    "all_sources": [
+      "Asbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_-1.0_home_vs_away",
+        "best_odds": {
+          "home_handicap_-1.0_odd": {
+            "value": 2.5,
+            "source": "Asbet"
+          },
+          "away_handicap_1.0_odd": {
+            "value": 1.829,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9467,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27978569-11299148",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Czech Republic",
+        "tournament_Asbet": "FNL",
+        "Asbet_match_id": 27978569,
+        "Asbet_tournament_id": 1829,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Czech Republic/1829/fnl/27978569/ac-sparta-praha-b-fk-pribram",
+        "Tounesbet_country_name": "Czech Republic",
+        "tournament_Tounesbet": "FNL",
+        "Tounesbet_match_id": 11299148,
+        "Tounesbet_tournament_id": 70836,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "11299148-13328742-27978569",
+        "home_team": "AC Sparta Praha B",
+        "away_team": "1.FK Pribram",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "11301047-13025852-27980411",
+    "home_team": "FC Banik B Ostrava",
+    "away_team": "FK Viktoria Zizkov",
+    "date": "21/09/2025",
+    "time": "13:30",
+    "country": "Czech Republic",
+    "all_sources": [
+      "Asbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "under_3.5_vs_over_3.5",
+        "best_odds": {
+          "under_3.5_odd": {
+            "value": 1.805,
+            "source": "Tounesbet"
+          },
+          "over_3.5_odd": {
+            "value": 2.39,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9724,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27980411-11301047",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Czech Republic",
+        "tournament_Tounesbet": "FNL",
+        "Tounesbet_match_id": 11301047,
+        "Tounesbet_tournament_id": 70836,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "Czech Republic",
+        "tournament_Asbet": "FNL",
+        "Asbet_match_id": 27980411,
+        "Asbet_tournament_id": 1829,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Czech Republic/1829/fnl/27980411/fc-banik-b-ostrava-fk-viktoria-zizkov",
+        "group_id": "11301047-13025852-27980411",
+        "home_team": "FC Banik B Ostrava",
+        "away_team": "FK Viktoria Zizkov",
+        "activity_duration": "25 hours"
+      }
+    ]
+  }
+]

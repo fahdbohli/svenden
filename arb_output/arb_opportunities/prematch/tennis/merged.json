@@ -1,0 +1,2510 @@
+[
+  {
+    "group_id": "11300325-13976146",
+    "home_team": "Bernard Tomic",
+    "away_team": "Nikoloz Basilashvili",
+    "date": "17/09/2025",
+    "time": "05:00",
+    "country": "merged",
+    "all_sources": [
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "set1_winner",
+        "best_odds": {
+          "player1_win_set1_odd": {
+            "value": 2.05,
+            "source": "Clubx2"
+          },
+          "player2_win_set1_odd": {
+            "value": 2.029,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9807,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13976146-11300325",
+        "Clubx2_country_name": "merged",
+        "tournament_Clubx2": "ATP Chengdu, China Men Singles",
+        "Clubx2_match_id": 13976146,
+        "Clubx2_tournament_id": 43469,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13976146#/overview",
+        "Tounesbet_country_name": "merged",
+        "tournament_Tounesbet": "ATP Tour - Chengdu Open - Chengdu",
+        "Tounesbet_match_id": 11300325,
+        "Tounesbet_tournament_id": 48988,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "11300325-13976146",
+        "home_team": "Bernard Tomic",
+        "away_team": "Nikoloz Basilashvili",
+        "activity_duration": "4 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "11300310-13975570",
+    "home_team": "Taro Daniel",
+    "away_team": "Billy Harris",
+    "date": "17/09/2025",
+    "time": "05:00",
+    "country": "merged",
+    "all_sources": [
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "set1_winner",
+        "best_odds": {
+          "player1_win_set1_odd": {
+            "value": 2.4286,
+            "source": "Clubx2"
+          },
+          "player2_win_set1_odd": {
+            "value": 1.805,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9658,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13975570-11300310",
+        "Clubx2_country_name": "merged",
+        "tournament_Clubx2": "ATP Chengdu, China Men Singles",
+        "Clubx2_match_id": 13975570,
+        "Clubx2_tournament_id": 43469,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13975570#/overview",
+        "Tounesbet_country_name": "merged",
+        "tournament_Tounesbet": "ATP Tour - Chengdu Open - Chengdu",
+        "Tounesbet_match_id": 11300310,
+        "Tounesbet_tournament_id": 48988,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "11300310-13975570",
+        "home_team": "Taro Daniel",
+        "away_team": "Billy Harris",
+        "activity_duration": "4 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "11294426-13964338",
+    "home_team": "Marcos Giron",
+    "away_team": "Ethan Quinn",
+    "date": "17/09/2025",
+    "time": "06:00",
+    "country": "merged",
+    "all_sources": [
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "set1_winner",
+        "best_odds": {
+          "player1_win_set1_odd": {
+            "value": 2.242,
+            "source": "Tounesbet"
+          },
+          "player2_win_set1_odd": {
+            "value": 1.9231,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.966,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13964338-11294426",
+        "Tounesbet_country_name": "merged",
+        "tournament_Tounesbet": "ATP Tour - Chengdu Open - Chengdu",
+        "Tounesbet_match_id": 11294426,
+        "Tounesbet_tournament_id": 48988,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "merged",
+        "tournament_Clubx2": "ATP Chengdu, China Men Singles",
+        "Clubx2_match_id": 13964338,
+        "Clubx2_tournament_id": 43469,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13964338#/overview",
+        "group_id": "11294426-13964338",
+        "home_team": "Marcos Giron",
+        "away_team": "Ethan Quinn",
+        "activity_duration": "4 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "11300988-13976802",
+    "home_team": "Alejandro Tabilo",
+    "away_team": "Lloyd Harris",
+    "date": "17/09/2025",
+    "time": "07:00",
+    "country": "merged",
+    "all_sources": [
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "total_games_under_23.5_vs_over_23.5",
+        "best_odds": {
+          "total_games_under_23.5_odd": {
+            "value": 2.159,
+            "source": "Tounesbet"
+          },
+          "total_games_over_23.5_odd": {
+            "value": 1.95,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.976,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13976802-11300988",
+        "Tounesbet_country_name": "merged",
+        "tournament_Tounesbet": "ATP Tour - Chengdu Open - Chengdu",
+        "Tounesbet_match_id": 11300988,
+        "Tounesbet_tournament_id": 48988,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "merged",
+        "tournament_Clubx2": "ATP Chengdu, China Men Singles",
+        "Clubx2_match_id": 13976802,
+        "Clubx2_tournament_id": 43469,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13976802#/overview",
+        "group_id": "11300988-13976802",
+        "home_team": "Alejandro Tabilo",
+        "away_team": "Lloyd Harris",
+        "activity_duration": "4 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "11294427-13964336",
+    "home_team": "Cameron Norrie",
+    "away_team": "Yi Zhou",
+    "date": "17/09/2025",
+    "time": "07:30",
+    "country": "merged",
+    "all_sources": [
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "total_games_under_21.5_vs_over_21.5",
+        "best_odds": {
+          "total_games_under_21.5_odd": {
+            "value": 1.9,
+            "source": "Clubx2"
+          },
+          "total_games_over_21.5_odd": {
+            "value": 2.159,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9895,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13964336-11294427",
+        "Clubx2_country_name": "merged",
+        "tournament_Clubx2": "ATP Chengdu, China Men Singles",
+        "Clubx2_match_id": 13964336,
+        "Clubx2_tournament_id": 43469,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13964336#/overview",
+        "Tounesbet_country_name": "merged",
+        "tournament_Tounesbet": "ATP Tour - Chengdu Open - Chengdu",
+        "Tounesbet_match_id": 11294427,
+        "Tounesbet_tournament_id": 48988,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "11294427-13964336",
+        "home_team": "Cameron Norrie",
+        "away_team": "Yi Zhou",
+        "activity_duration": "4 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "11294518-13964335",
+    "home_team": "Quentin Halys",
+    "away_team": "Christopher O'Connell",
+    "date": "17/09/2025",
+    "time": "08:00",
+    "country": "merged",
+    "all_sources": [
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "set1_winner",
+        "best_odds": {
+          "player1_win_set1_odd": {
+            "value": 2.36,
+            "source": "Tounesbet"
+          },
+          "player2_win_set1_odd": {
+            "value": 1.8334,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9692,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13964335-11294518",
+        "Tounesbet_country_name": "merged",
+        "tournament_Tounesbet": "ATP Tour - Chengdu Open - Chengdu",
+        "Tounesbet_match_id": 11294518,
+        "Tounesbet_tournament_id": 48988,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "merged",
+        "tournament_Clubx2": "ATP Chengdu, China Men Singles",
+        "Clubx2_match_id": 13964335,
+        "Clubx2_tournament_id": 43469,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13964335#/overview",
+        "group_id": "11294518-13964335",
+        "home_team": "Quentin Halys",
+        "away_team": "Christopher O'Connell",
+        "activity_duration": "4 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "11294445-13964337",
+    "home_team": "Zizou Bergs",
+    "away_team": "Juncheng Shang",
+    "date": "17/09/2025",
+    "time": "09:30",
+    "country": "merged",
+    "all_sources": [
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "set1_winner",
+        "best_odds": {
+          "player1_win_set1_odd": {
+            "value": 2.0,
+            "source": "Clubx2"
+          },
+          "player2_win_set1_odd": {
+            "value": 2.124,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9708,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13964337-11294445",
+        "Clubx2_country_name": "merged",
+        "tournament_Clubx2": "ATP Chengdu, China Men Singles",
+        "Clubx2_match_id": 13964337,
+        "Clubx2_tournament_id": 43469,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13964337#/overview",
+        "Tounesbet_country_name": "merged",
+        "tournament_Tounesbet": "ATP Tour - Chengdu Open - Chengdu",
+        "Tounesbet_match_id": 11294445,
+        "Tounesbet_tournament_id": 48988,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "11294445-13964337",
+        "home_team": "Zizou Bergs",
+        "away_team": "Juncheng Shang",
+        "activity_duration": "4 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "11294439-13964341",
+    "home_team": "Alexander Shevchenko",
+    "away_team": "Gael Monfils",
+    "date": "18/09/2025",
+    "time": "05:00",
+    "country": "merged",
+    "all_sources": [
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "total_games_under_22.5_vs_over_22.5",
+        "best_odds": {
+          "total_games_under_22.5_odd": {
+            "value": 2.159,
+            "source": "Tounesbet"
+          },
+          "total_games_over_22.5_odd": {
+            "value": 1.95,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.976,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13964341-11294439",
+        "Tounesbet_country_name": "merged",
+        "tournament_Tounesbet": "ATP Tour - Chengdu Open - Chengdu",
+        "Tounesbet_match_id": 11294439,
+        "Tounesbet_tournament_id": 48988,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "merged",
+        "tournament_Clubx2": "ATP Chengdu, China Men Singles",
+        "Clubx2_match_id": 13964341,
+        "Clubx2_tournament_id": 43469,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13964341#/overview",
+        "group_id": "11294439-13964341",
+        "home_team": "Alexander Shevchenko",
+        "away_team": "Gael Monfils",
+        "activity_duration": "4 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "11294429-13964340",
+    "home_team": "Filip Misolic",
+    "away_team": "Giovanni Mpetshi Perricard",
+    "date": "18/09/2025",
+    "time": "05:00",
+    "country": "merged",
+    "all_sources": [
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "set1_winner",
+        "best_odds": {
+          "player1_win_set1_odd": {
+            "value": 2.2858,
+            "source": "Clubx2"
+          },
+          "player2_win_set1_odd": {
+            "value": 1.852,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9774,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13964340-11294429",
+        "Clubx2_country_name": "merged",
+        "tournament_Clubx2": "ATP Chengdu, China Men Singles",
+        "Clubx2_match_id": 13964340,
+        "Clubx2_tournament_id": 43469,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13964340#/overview",
+        "Tounesbet_country_name": "merged",
+        "tournament_Tounesbet": "ATP Tour - Chengdu Open - Chengdu",
+        "Tounesbet_match_id": 11294429,
+        "Tounesbet_tournament_id": 48988,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "11294429-13964340",
+        "home_team": "Filip Misolic",
+        "away_team": "Giovanni Mpetshi Perricard",
+        "activity_duration": "4 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "11294438-13964359",
+    "home_team": "Terence Atmane",
+    "away_team": "Dino Prizmic",
+    "date": "18/09/2025",
+    "time": "05:00",
+    "country": "merged",
+    "all_sources": [
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "total_games_under_23.5_vs_over_23.5",
+        "best_odds": {
+          "total_games_under_23.5_odd": {
+            "value": 2.124,
+            "source": "Tounesbet"
+          },
+          "total_games_over_23.5_odd": {
+            "value": 2.05,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9586,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13964359-11294438",
+        "Tounesbet_country_name": "merged",
+        "tournament_Tounesbet": "ATP Tour - Chengdu Open - Chengdu",
+        "Tounesbet_match_id": 11294438,
+        "Tounesbet_tournament_id": 48988,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "merged",
+        "tournament_Clubx2": "ATP Chengdu, China Men Singles",
+        "Clubx2_match_id": 13964359,
+        "Clubx2_tournament_id": 43469,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13964359#/overview",
+        "group_id": "11294438-13964359",
+        "home_team": "Terence Atmane",
+        "away_team": "Dino Prizmic",
+        "activity_duration": "4 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "11297707-13965307",
+    "home_team": "Rohan Bopanna / Takeru Yuzuki",
+    "away_team": "Constantin Frantzen/Robin Haase",
+    "date": "18/09/2025",
+    "time": "03:00",
+    "country": "merged",
+    "all_sources": [
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "set1_winner",
+        "best_odds": {
+          "player1_win_set1_odd": {
+            "value": 2.1667,
+            "source": "Clubx2"
+          },
+          "player2_win_set1_odd": {
+            "value": 1.899,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9881,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13965307-11297707",
+        "Clubx2_country_name": "merged",
+        "tournament_Clubx2": "ATP Chengdu, China Men Doubles",
+        "Clubx2_match_id": 13965307,
+        "Clubx2_tournament_id": 43473,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13965307#/overview",
+        "Tounesbet_country_name": "merged",
+        "tournament_Tounesbet": "ATP  Chengdu  Doubles",
+        "Tounesbet_match_id": 11297707,
+        "Tounesbet_tournament_id": 59805,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "11297707-13965307",
+        "home_team": "Rohan Bopanna / Takeru Yuzuki",
+        "away_team": "Constantin Frantzen/Robin Haase",
+        "activity_duration": "4 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "11297700-13965257",
+    "home_team": "Schnaitter J / Wallner M",
+    "away_team": "Tallon Griekspoor / Lorenzo Sonego",
+    "date": "18/09/2025",
+    "time": "03:00",
+    "country": "merged",
+    "all_sources": [
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "winner",
+        "best_odds": {
+          "player1_odd": {
+            "value": 1.899,
+            "source": "Tounesbet"
+          },
+          "player2_odd": {
+            "value": 2.2223,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9766,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13965257-11297700",
+        "Tounesbet_country_name": "merged",
+        "tournament_Tounesbet": "ATP  Chengdu  Doubles",
+        "Tounesbet_match_id": 11297700,
+        "Tounesbet_tournament_id": 59805,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "merged",
+        "tournament_Clubx2": "ATP Chengdu, China Men Doubles",
+        "Clubx2_match_id": 13965257,
+        "Clubx2_tournament_id": 43473,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13965257#/overview",
+        "group_id": "11297700-13965257",
+        "home_team": "Schnaitter J / Wallner M",
+        "away_team": "Tallon Griekspoor / Lorenzo Sonego",
+        "activity_duration": "4 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "11294363-13965256",
+    "home_team": "Vasil Kirkov / Bart Stevens",
+    "away_team": "Fabien Reboul/Sadio Doumbia",
+    "date": "18/09/2025",
+    "time": "05:00",
+    "country": "merged",
+    "all_sources": [
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "set1_winner",
+        "best_odds": {
+          "player1_win_set1_odd": {
+            "value": 2.25,
+            "source": "Clubx2"
+          },
+          "player2_win_set1_odd": {
+            "value": 1.852,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9844,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13965256-11294363",
+        "Clubx2_country_name": "merged",
+        "tournament_Clubx2": "ATP Chengdu, China Men Doubles",
+        "Clubx2_match_id": 13965256,
+        "Clubx2_tournament_id": 43473,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13965256#/overview",
+        "Tounesbet_country_name": "merged",
+        "tournament_Tounesbet": "ATP  Chengdu  Doubles",
+        "Tounesbet_match_id": 11294363,
+        "Tounesbet_tournament_id": 59805,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "11294363-13965256",
+        "home_team": "Vasil Kirkov / Bart Stevens",
+        "away_team": "Fabien Reboul/Sadio Doumbia",
+        "activity_duration": "4 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "11299477-13974117",
+    "home_team": "Nishesh Basavareddy",
+    "away_team": "Gauthier Onclin",
+    "date": "17/09/2025",
+    "time": "05:00",
+    "country": "merged",
+    "all_sources": [
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "total_games_under_21.5_vs_over_21.5",
+        "best_odds": {
+          "total_games_under_21.5_odd": {
+            "value": 2.159,
+            "source": "Tounesbet"
+          },
+          "total_games_over_21.5_odd": {
+            "value": 1.95,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.976,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13974117-11299477",
+        "Tounesbet_country_name": "merged",
+        "tournament_Tounesbet": "ATP Hangzhou | Men | Singles",
+        "Tounesbet_match_id": 11299477,
+        "Tounesbet_tournament_id": 239254,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "merged",
+        "tournament_Clubx2": "ATP Hangzhou, China Men Singles",
+        "Clubx2_match_id": 13974117,
+        "Clubx2_tournament_id": 48828,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13974117#/overview",
+        "group_id": "11299477-13974117",
+        "home_team": "Nishesh Basavareddy",
+        "away_team": "Gauthier Onclin",
+        "activity_duration": "4 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "11293836-13964246",
+    "home_team": "Aleksandar Kovacevic",
+    "away_team": "Luca Nardi",
+    "date": "17/09/2025",
+    "time": "07:00",
+    "country": "merged",
+    "all_sources": [
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "set1_winner",
+        "best_odds": {
+          "player1_win_set1_odd": {
+            "value": 2.124,
+            "source": "Tounesbet"
+          },
+          "player2_win_set1_odd": {
+            "value": 1.96,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.981,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13964246-11293836",
+        "Tounesbet_country_name": "merged",
+        "tournament_Tounesbet": "ATP Hangzhou | Men | Singles",
+        "Tounesbet_match_id": 11293836,
+        "Tounesbet_tournament_id": 239254,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "merged",
+        "tournament_Clubx2": "ATP Hangzhou, China Men Singles",
+        "Clubx2_match_id": 13964246,
+        "Clubx2_tournament_id": 48828,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13964246#/overview",
+        "group_id": "11293836-13964246",
+        "home_team": "Aleksandar Kovacevic",
+        "away_team": "Luca Nardi",
+        "activity_duration": "4 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "11293837-13964248",
+    "home_team": "Mariano Navone",
+    "away_team": "Learner Tien",
+    "date": "17/09/2025",
+    "time": "08:30",
+    "country": "merged",
+    "all_sources": [
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "set1_winner",
+        "best_odds": {
+          "player1_win_set1_odd": {
+            "value": 2.1667,
+            "source": "Clubx2"
+          },
+          "player2_win_set1_odd": {
+            "value": 1.958,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9723,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13964248-11293837",
+        "Clubx2_country_name": "merged",
+        "tournament_Clubx2": "ATP Hangzhou, China Men Singles",
+        "Clubx2_match_id": 13964248,
+        "Clubx2_tournament_id": 48828,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13964248#/overview",
+        "Tounesbet_country_name": "merged",
+        "tournament_Tounesbet": "ATP Hangzhou | Men | Singles",
+        "Tounesbet_match_id": 11293837,
+        "Tounesbet_tournament_id": 239254,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "11293837-13964248",
+        "home_team": "Mariano Navone",
+        "away_team": "Learner Tien",
+        "activity_duration": "4 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "11293915-13964290",
+    "home_team": "Adrian Mannarino",
+    "away_team": "Yibing Wu",
+    "date": "17/09/2025",
+    "time": "12:30",
+    "country": "merged",
+    "all_sources": [
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "set1_winner",
+        "best_odds": {
+          "player1_win_set1_odd": {
+            "value": 2.36,
+            "source": "Tounesbet"
+          },
+          "player2_win_set1_odd": {
+            "value": 1.7778,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9862,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13964290-11293915",
+        "Tounesbet_country_name": "merged",
+        "tournament_Tounesbet": "ATP Hangzhou | Men | Singles",
+        "Tounesbet_match_id": 11293915,
+        "Tounesbet_tournament_id": 239254,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "merged",
+        "tournament_Clubx2": "ATP Hangzhou, China Men Singles",
+        "Clubx2_match_id": 13964290,
+        "Clubx2_tournament_id": 48828,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13964290#/overview",
+        "group_id": "11293915-13964290",
+        "home_team": "Adrian Mannarino",
+        "away_team": "Yibing Wu",
+        "activity_duration": "4 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "11293913-13964244",
+    "home_team": "Adam Walton",
+    "away_team": "Sebastian Korda",
+    "date": "18/09/2025",
+    "time": "05:00",
+    "country": "merged",
+    "all_sources": [
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "set1_winner",
+        "best_odds": {
+          "player1_win_set1_odd": {
+            "value": 2.25,
+            "source": "Clubx2"
+          },
+          "player2_win_set1_odd": {
+            "value": 1.899,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.971,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13964244-11293913",
+        "Clubx2_country_name": "merged",
+        "tournament_Clubx2": "ATP Hangzhou, China Men Singles",
+        "Clubx2_match_id": 13964244,
+        "Clubx2_tournament_id": 48828,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13964244#/overview",
+        "Tounesbet_country_name": "merged",
+        "tournament_Tounesbet": "ATP Hangzhou | Men | Singles",
+        "Tounesbet_match_id": 11293913,
+        "Tounesbet_tournament_id": 239254,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "11293913-13964244",
+        "home_team": "Adam Walton",
+        "away_team": "Sebastian Korda",
+        "activity_duration": "4 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "11293914-13964249",
+    "home_team": "Aleksandar Vukic",
+    "away_team": "David Goffin",
+    "date": "18/09/2025",
+    "time": "05:00",
+    "country": "merged",
+    "all_sources": [
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "winner",
+        "best_odds": {
+          "player1_odd": {
+            "value": 1.899,
+            "source": "Tounesbet"
+          },
+          "player2_odd": {
+            "value": 2.2858,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9641,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13964249-11293914",
+        "Tounesbet_country_name": "merged",
+        "tournament_Tounesbet": "ATP Hangzhou | Men | Singles",
+        "Tounesbet_match_id": 11293914,
+        "Tounesbet_tournament_id": 239254,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "merged",
+        "tournament_Clubx2": "ATP Hangzhou, China Men Singles",
+        "Clubx2_match_id": 13964249,
+        "Clubx2_tournament_id": 48828,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13964249#/overview",
+        "group_id": "11293914-13964249",
+        "home_team": "Aleksandar Vukic",
+        "away_team": "David Goffin",
+        "activity_duration": "4 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "11293943-13964245",
+    "home_team": "Bu Yunchaokete",
+    "away_team": "Zhizhen Zhang",
+    "date": "18/09/2025",
+    "time": "05:00",
+    "country": "merged",
+    "all_sources": [
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "total_games_under_22.5_vs_over_22.5",
+        "best_odds": {
+          "total_games_under_22.5_odd": {
+            "value": 2.124,
+            "source": "Tounesbet"
+          },
+          "total_games_over_22.5_odd": {
+            "value": 1.95,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9836,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13964245-11293943",
+        "Tounesbet_country_name": "merged",
+        "tournament_Tounesbet": "ATP Hangzhou | Men | Singles",
+        "Tounesbet_match_id": 11293943,
+        "Tounesbet_tournament_id": 239254,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "merged",
+        "tournament_Clubx2": "ATP Hangzhou, China Men Singles",
+        "Clubx2_match_id": 13964245,
+        "Clubx2_tournament_id": 48828,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13964245#/overview",
+        "group_id": "11293943-13964245",
+        "home_team": "Bu Yunchaokete",
+        "away_team": "Zhizhen Zhang",
+        "activity_duration": "4 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "11293944-13964250",
+    "home_team": "Damir Dzumhur",
+    "away_team": "Tomas Martin Etcheverry",
+    "date": "18/09/2025",
+    "time": "05:00",
+    "country": "merged",
+    "all_sources": [
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "games_handicap_p1_3.5_vs_p2",
+        "best_odds": {
+          "player1_games_handicap_3.5_odd": {
+            "value": 1.9,
+            "source": "Clubx2"
+          },
+          "player2_games_handicap_-3.5_odd": {
+            "value": 2.159,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9895,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13964250-11293944",
+        "Clubx2_country_name": "merged",
+        "tournament_Clubx2": "ATP Hangzhou, China Men Singles",
+        "Clubx2_match_id": 13964250,
+        "Clubx2_tournament_id": 48828,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13964250#/overview",
+        "Tounesbet_country_name": "merged",
+        "tournament_Tounesbet": "ATP Hangzhou | Men | Singles",
+        "Tounesbet_match_id": 11293944,
+        "Tounesbet_tournament_id": 239254,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "11293944-13964250",
+        "home_team": "Damir Dzumhur",
+        "away_team": "Tomas Martin Etcheverry",
+        "activity_duration": "4 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "11293741-13965784",
+    "home_team": "Anastasia Zakharova",
+    "away_team": "Sorana Cirstea",
+    "date": "17/09/2025",
+    "time": "04:00",
+    "country": "merged",
+    "all_sources": [
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "games_handicap_p1_4.5_vs_p2",
+        "best_odds": {
+          "player1_games_handicap_4.5_odd": {
+            "value": 2.05,
+            "source": "Clubx2"
+          },
+          "player2_games_handicap_-4.5_odd": {
+            "value": 2.029,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9807,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13965784-11293741",
+        "Clubx2_country_name": "merged",
+        "tournament_Clubx2": "WTA Seoul, Korea Republic Women Singles",
+        "Clubx2_match_id": 13965784,
+        "Clubx2_tournament_id": 38135,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13965784#/overview",
+        "Tounesbet_country_name": "merged",
+        "tournament_Tounesbet": "WTA Seoul",
+        "Tounesbet_match_id": 11293741,
+        "Tounesbet_tournament_id": 145722,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "11293741-13965784",
+        "home_team": "Anastasia Zakharova",
+        "away_team": "Sorana Cirstea",
+        "activity_duration": "4 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "11279730-13942125",
+    "home_team": "Jaqueline Adina Cristian",
+    "away_team": "Emma Raducanu",
+    "date": "17/09/2025",
+    "time": "06:00",
+    "country": "merged",
+    "all_sources": [
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "set1_total_games_under_8.5_vs_over_8.5",
+        "best_odds": {
+          "set1_total_games_under_8.5_odd": {
+            "value": 2.4286,
+            "source": "Clubx2"
+          },
+          "set1_total_games_over_8.5_odd": {
+            "value": 1.805,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9658,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13942125-11279730",
+        "Clubx2_country_name": "merged",
+        "tournament_Clubx2": "WTA Seoul, Korea Republic Women Singles",
+        "Clubx2_match_id": 13942125,
+        "Clubx2_tournament_id": 38135,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13942125#/overview",
+        "Tounesbet_country_name": "merged",
+        "tournament_Tounesbet": "WTA Seoul",
+        "Tounesbet_match_id": 11279730,
+        "Tounesbet_tournament_id": 145722,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "11279730-13942125",
+        "home_team": "Jaqueline Adina Cristian",
+        "away_team": "Emma Raducanu",
+        "activity_duration": "4 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "11279726-13942126",
+    "home_team": "Suzan Lamens",
+    "away_team": "Tatjana Maria",
+    "date": "17/09/2025",
+    "time": "06:45",
+    "country": "merged",
+    "all_sources": [
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "set1_winner",
+        "best_odds": {
+          "player1_win_set1_odd": {
+            "value": 2.029,
+            "source": "Tounesbet"
+          },
+          "player2_win_set1_odd": {
+            "value": 2.0834,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9728,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13942126-11279726",
+        "Tounesbet_country_name": "merged",
+        "tournament_Tounesbet": "WTA Seoul",
+        "Tounesbet_match_id": 11279726,
+        "Tounesbet_tournament_id": 145722,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "merged",
+        "tournament_Clubx2": "WTA Seoul, Korea Republic Women Singles",
+        "Clubx2_match_id": 13942126,
+        "Clubx2_tournament_id": 38135,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13942126#/overview",
+        "group_id": "11279726-13942126",
+        "home_team": "Suzan Lamens",
+        "away_team": "Tatjana Maria",
+        "activity_duration": "4 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "11279727-13942137",
+    "home_team": "Beatriz Haddad Maia",
+    "away_team": "Dayeon Back",
+    "date": "17/09/2025",
+    "time": "07:15",
+    "country": "merged",
+    "all_sources": [
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "total_games_under_18.5_vs_over_18.5",
+        "best_odds": {
+          "total_games_under_18.5_odd": {
+            "value": 2.124,
+            "source": "Tounesbet"
+          },
+          "total_games_over_18.5_odd": {
+            "value": 1.95,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9836,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13942137-11279727",
+        "Tounesbet_country_name": "merged",
+        "tournament_Tounesbet": "WTA Seoul",
+        "Tounesbet_match_id": 11279727,
+        "Tounesbet_tournament_id": 145722,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "merged",
+        "tournament_Clubx2": "WTA Seoul, Korea Republic Women Singles",
+        "Clubx2_match_id": 13942137,
+        "Clubx2_tournament_id": 38135,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13942137#/overview",
+        "group_id": "11279727-13942137",
+        "home_team": "Beatriz Haddad Maia",
+        "away_team": "Dayeon Back",
+        "activity_duration": "4 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "11293635-13965354",
+    "home_team": "Maya Joint",
+    "away_team": "Sofia Kenin",
+    "date": "17/09/2025",
+    "time": "09:30",
+    "country": "merged",
+    "all_sources": [
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "total_games_under_21.5_vs_over_21.5",
+        "best_odds": {
+          "total_games_under_21.5_odd": {
+            "value": 2.242,
+            "source": "Tounesbet"
+          },
+          "total_games_over_21.5_odd": {
+            "value": 1.9,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9723,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13965354-11293635",
+        "Tounesbet_country_name": "merged",
+        "tournament_Tounesbet": "WTA Seoul",
+        "Tounesbet_match_id": 11293635,
+        "Tounesbet_tournament_id": 145722,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "merged",
+        "tournament_Clubx2": "WTA Seoul, Korea Republic Women Singles",
+        "Clubx2_match_id": 13965354,
+        "Clubx2_tournament_id": 38135,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13965354#/overview",
+        "group_id": "11293635-13965354",
+        "home_team": "Maya Joint",
+        "away_team": "Sofia Kenin",
+        "activity_duration": "4 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "11294284-13966049",
+    "home_team": "Lois Boisson",
+    "away_team": "Ekaterina Alexandrova",
+    "date": "18/09/2025",
+    "time": "03:00",
+    "country": "merged",
+    "all_sources": [
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "games_handicap_p1_4.5_vs_p2",
+        "best_odds": {
+          "player1_games_handicap_4.5_odd": {
+            "value": 1.9,
+            "source": "Clubx2"
+          },
+          "player2_games_handicap_-4.5_odd": {
+            "value": 2.159,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9895,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13966049-11294284",
+        "Clubx2_country_name": "merged",
+        "tournament_Clubx2": "WTA Seoul, Korea Republic Women Singles",
+        "Clubx2_match_id": 13966049,
+        "Clubx2_tournament_id": 38135,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13966049#/overview",
+        "Tounesbet_country_name": "merged",
+        "tournament_Tounesbet": "WTA Seoul",
+        "Tounesbet_match_id": 11294284,
+        "Tounesbet_tournament_id": 145722,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "11294284-13966049",
+        "home_team": "Lois Boisson",
+        "away_team": "Ekaterina Alexandrova",
+        "activity_duration": "4 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "11282591-13943384",
+    "home_team": "Back D / Lee E",
+    "away_team": "Ulrikke Eikeri / Qianhui Tang",
+    "date": "17/09/2025",
+    "time": "08:00",
+    "country": "merged",
+    "all_sources": [
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "set1_winner",
+        "best_odds": {
+          "player1_win_set1_odd": {
+            "value": 2.3637,
+            "source": "Clubx2"
+          },
+          "player2_win_set1_odd": {
+            "value": 1.805,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9771,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13943384-11282591",
+        "Clubx2_country_name": "merged",
+        "tournament_Clubx2": "WTA Seoul, Korea Republic Women Doubles",
+        "Clubx2_match_id": 13943384,
+        "Clubx2_tournament_id": 38137,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13943384#/overview",
+        "Tounesbet_country_name": "merged",
+        "tournament_Tounesbet": "WTA Seoul WD",
+        "Tounesbet_match_id": 11282591,
+        "Tounesbet_tournament_id": 145724,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "11282591-13943384",
+        "home_team": "Back D / Lee E",
+        "away_team": "Ulrikke Eikeri / Qianhui Tang",
+        "activity_duration": "4 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "11281161-13943382",
+    "home_team": "Irina Khromacheva / Ashlyn Krueger",
+    "away_team": "Mihalikova T / Nicholls O",
+    "date": "18/09/2025",
+    "time": "03:00",
+    "country": "merged",
+    "all_sources": [
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "set1_winner",
+        "best_odds": {
+          "player1_win_set1_odd": {
+            "value": 2.029,
+            "source": "Tounesbet"
+          },
+          "player2_win_set1_odd": {
+            "value": 2.0,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9929,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13943382-11281161",
+        "Tounesbet_country_name": "merged",
+        "tournament_Tounesbet": "WTA Seoul WD",
+        "Tounesbet_match_id": 11281161,
+        "Tounesbet_tournament_id": 145724,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "merged",
+        "tournament_Clubx2": "WTA Seoul, Korea Republic Women Doubles",
+        "Clubx2_match_id": 13943382,
+        "Clubx2_tournament_id": 38137,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13943382#/overview",
+        "group_id": "11281161-13943382",
+        "home_team": "Irina Khromacheva / Ashlyn Krueger",
+        "away_team": "Mihalikova T / Nicholls O",
+        "activity_duration": "4 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "11300788-13976754",
+    "home_team": "Nuria Brancaccio",
+    "away_team": "Aurora Zantedeschi",
+    "date": "17/09/2025",
+    "time": "19:00",
+    "country": "merged",
+    "all_sources": [
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "set1_total_games_under_8.5_vs_over_8.5",
+        "best_odds": {
+          "set1_total_games_under_8.5_odd": {
+            "value": 2.375,
+            "source": "Clubx2"
+          },
+          "set1_total_games_over_8.5_odd": {
+            "value": 1.852,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.961,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13976754-11300788",
+        "Clubx2_country_name": "merged",
+        "tournament_Clubx2": "WTA 125K Tolentino, Italy Women Singles",
+        "Clubx2_match_id": 13976754,
+        "Clubx2_tournament_id": 56549,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13976754#/overview",
+        "Tounesbet_country_name": "merged",
+        "tournament_Tounesbet": "WTA Challenger Tolentino | Women | Singles",
+        "Tounesbet_match_id": 11300788,
+        "Tounesbet_tournament_id": 258378,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "11300788-13976754",
+        "home_team": "Nuria Brancaccio",
+        "away_team": "Aurora Zantedeschi",
+        "activity_duration": "4 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "11301190-13977296",
+    "home_team": "Mayar Sherif",
+    "away_team": "Gorgodze Ekaterine",
+    "date": "18/09/2025",
+    "time": "09:00",
+    "country": "merged",
+    "all_sources": [
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "games_handicap_p1_-5.5_vs_p2",
+        "best_odds": {
+          "player1_games_handicap_-5.5_odd": {
+            "value": 2.029,
+            "source": "Tounesbet"
+          },
+          "player2_games_handicap_5.5_odd": {
+            "value": 2.1,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.969,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13977296-11301190",
+        "Tounesbet_country_name": "merged",
+        "tournament_Tounesbet": "WTA Challenger Tolentino | Women | Singles",
+        "Tounesbet_match_id": 11301190,
+        "Tounesbet_tournament_id": 258378,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "merged",
+        "tournament_Clubx2": "WTA 125K Tolentino, Italy Women Singles",
+        "Clubx2_match_id": 13977296,
+        "Clubx2_tournament_id": 56549,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13977296#/overview",
+        "group_id": "11301190-13977296",
+        "home_team": "Mayar Sherif",
+        "away_team": "Gorgodze Ekaterine",
+        "activity_duration": "4 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "11300616-13976068",
+    "home_team": "Pieri T. (Italy)",
+    "away_team": "Arantxa Rus",
+    "date": "18/09/2025",
+    "time": "09:00",
+    "country": "merged",
+    "all_sources": [
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "set1_total_games_under_8.5_vs_over_8.5",
+        "best_odds": {
+          "set1_total_games_under_8.5_odd": {
+            "value": 2.2223,
+            "source": "Clubx2"
+          },
+          "set1_total_games_over_8.5_odd": {
+            "value": 1.899,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9766,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13976068-11300616",
+        "Clubx2_country_name": "merged",
+        "tournament_Clubx2": "WTA 125K Tolentino, Italy Women Singles",
+        "Clubx2_match_id": 13976068,
+        "Clubx2_tournament_id": 56549,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13976068#/overview",
+        "Tounesbet_country_name": "merged",
+        "tournament_Tounesbet": "WTA Challenger Tolentino | Women | Singles",
+        "Tounesbet_match_id": 11300616,
+        "Tounesbet_tournament_id": 258378,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "11300616-13976068",
+        "home_team": "Pieri T. (Italy)",
+        "away_team": "Arantxa Rus",
+        "activity_duration": "4 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "11296152-13969789",
+    "home_team": "Moratelli A / Zantedeschi A",
+    "away_team": "Noma Noha Akugue / Ipek Oz",
+    "date": "18/09/2025",
+    "time": "10:00",
+    "country": "merged",
+    "all_sources": [
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "set1_winner",
+        "best_odds": {
+          "player1_win_set1_odd": {
+            "value": 1.899,
+            "source": "Tounesbet"
+          },
+          "player2_win_set1_odd": {
+            "value": 2.2858,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9641,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13969789-11296152",
+        "Tounesbet_country_name": "merged",
+        "tournament_Tounesbet": "WTA Challenger Tolentino | Women | Doubles",
+        "Tounesbet_match_id": 11296152,
+        "Tounesbet_tournament_id": 258432,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "merged",
+        "tournament_Clubx2": "WTA 125K Tolentino, Italy Women Doubles",
+        "Clubx2_match_id": 13969789,
+        "Clubx2_tournament_id": 56550,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13969789#/overview",
+        "group_id": "11296152-13969789",
+        "home_team": "Moratelli A / Zantedeschi A",
+        "away_team": "Noma Noha Akugue / Ipek Oz",
+        "activity_duration": "4 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "11300580-13976133",
+    "home_team": "Kristina Dmitruk",
+    "away_team": "Daria Snigur",
+    "date": "17/09/2025",
+    "time": "11:15",
+    "country": "merged",
+    "all_sources": [
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "games_handicap_p1_1.5_vs_p2",
+        "best_odds": {
+          "player1_games_handicap_1.5_odd": {
+            "value": 1.9,
+            "source": "Clubx2"
+          },
+          "player2_games_handicap_-1.5_odd": {
+            "value": 2.159,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9895,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13976133-11300580",
+        "Clubx2_country_name": "merged",
+        "tournament_Clubx2": "WTA 125K Caldas da Rainha, Portugal Women Singles",
+        "Clubx2_match_id": 13976133,
+        "Clubx2_tournament_id": 56597,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13976133#/overview",
+        "Tounesbet_country_name": "merged",
+        "tournament_Tounesbet": "WTA Challenger Caldas da Rainha | Women | Singles",
+        "Tounesbet_match_id": 11300580,
+        "Tounesbet_tournament_id": 258429,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "11300580-13976133",
+        "home_team": "Kristina Dmitruk",
+        "away_team": "Daria Snigur",
+        "activity_duration": "4 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "11295860-13970194",
+    "home_team": "Karolina Pliskova",
+    "away_team": "Polina Iatcenko",
+    "date": "17/09/2025",
+    "time": "15:30",
+    "country": "merged",
+    "all_sources": [
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "total_games_under_21.5_vs_over_21.5",
+        "best_odds": {
+          "total_games_under_21.5_odd": {
+            "value": 2.242,
+            "source": "Tounesbet"
+          },
+          "total_games_over_21.5_odd": {
+            "value": 1.8334,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9915,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13970194-11295860",
+        "Tounesbet_country_name": "merged",
+        "tournament_Tounesbet": "WTA Challenger Caldas da Rainha | Women | Singles",
+        "Tounesbet_match_id": 11295860,
+        "Tounesbet_tournament_id": 258429,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "merged",
+        "tournament_Clubx2": "WTA 125K Caldas da Rainha, Portugal Women Singles",
+        "Clubx2_match_id": 13970194,
+        "Clubx2_tournament_id": 56597,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13970194#/overview",
+        "group_id": "11295860-13970194",
+        "home_team": "Karolina Pliskova",
+        "away_team": "Polina Iatcenko",
+        "activity_duration": "4 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "11300991-13976805",
+    "home_team": "Ayla Aksu",
+    "away_team": "Kaitlin Quevedo",
+    "date": "18/09/2025",
+    "time": "10:00",
+    "country": "merged",
+    "all_sources": [
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "games_handicap_p1_3.5_vs_p2",
+        "best_odds": {
+          "player1_games_handicap_3.5_odd": {
+            "value": 1.9,
+            "source": "Clubx2"
+          },
+          "player2_games_handicap_-3.5_odd": {
+            "value": 2.124,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9971,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13976805-11300991",
+        "Clubx2_country_name": "merged",
+        "tournament_Clubx2": "WTA 125K Caldas da Rainha, Portugal Women Singles",
+        "Clubx2_match_id": 13976805,
+        "Clubx2_tournament_id": 56597,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13976805#/overview",
+        "Tounesbet_country_name": "merged",
+        "tournament_Tounesbet": "WTA Challenger Caldas da Rainha | Women | Singles",
+        "Tounesbet_match_id": 11300991,
+        "Tounesbet_tournament_id": 258429,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "11300991-13976805",
+        "home_team": "Ayla Aksu",
+        "away_team": "Kaitlin Quevedo",
+        "activity_duration": "4 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "11286070-13949285",
+    "home_team": "Alex Rybakov",
+    "away_team": "Moerani Bouzige",
+    "date": "16/09/2025",
+    "time": "21:00",
+    "country": "merged",
+    "all_sources": [
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "set1_total_games_under_9.5_vs_over_9.5",
+        "best_odds": {
+          "set1_total_games_under_9.5_odd": {
+            "value": 1.8,
+            "source": "Clubx2"
+          },
+          "set1_total_games_over_9.5_odd": {
+            "value": 2.478,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9591,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13949285-11286070",
+        "Clubx2_country_name": "merged",
+        "tournament_Clubx2": "ATP Challenger Columbus, USA Men Singles",
+        "Clubx2_match_id": 13949285,
+        "Clubx2_tournament_id": 4863,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13949285#/overview",
+        "Tounesbet_country_name": "merged",
+        "tournament_Tounesbet": "ATP Challenger Tour - Columbus Challenger - Columbus",
+        "Tounesbet_match_id": 11286070,
+        "Tounesbet_tournament_id": 48587,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "11286070-13949285",
+        "home_team": "Alex Rybakov",
+        "away_team": "Moerani Bouzige",
+        "activity_duration": "6 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "11284561-13949284",
+    "home_team": "Federico Bondioli",
+    "away_team": "Andres Martin",
+    "date": "16/09/2025",
+    "time": "23:00",
+    "country": "merged",
+    "all_sources": [
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "set1_total_games_under_9.5_vs_over_9.5",
+        "best_odds": {
+          "set1_total_games_under_9.5_odd": {
+            "value": 1.7693,
+            "source": "Clubx2"
+          },
+          "set1_total_games_over_9.5_odd": {
+            "value": 2.478,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9687,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13949284-11284561",
+        "Clubx2_country_name": "merged",
+        "tournament_Clubx2": "ATP Challenger Columbus, USA Men Singles",
+        "Clubx2_match_id": 13949284,
+        "Clubx2_tournament_id": 4863,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13949284#/overview",
+        "Tounesbet_country_name": "merged",
+        "tournament_Tounesbet": "ATP Challenger Tour - Columbus Challenger - Columbus",
+        "Tounesbet_match_id": 11284561,
+        "Tounesbet_tournament_id": 48587,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "11284561-13949284",
+        "home_team": "Federico Bondioli",
+        "away_team": "Andres Martin",
+        "activity_duration": "6 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "11284573-13949286",
+    "home_team": "Nicolas Mejia",
+    "away_team": "Rafael Jodar",
+    "date": "17/09/2025",
+    "time": "14:00",
+    "country": "merged",
+    "all_sources": [
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "set1_total_games_under_9.5_vs_over_9.5",
+        "best_odds": {
+          "set1_total_games_under_9.5_odd": {
+            "value": 2.029,
+            "source": "Tounesbet"
+          },
+          "set1_total_games_over_9.5_odd": {
+            "value": 2.0,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9929,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13949286-11284573",
+        "Tounesbet_country_name": "merged",
+        "tournament_Tounesbet": "ATP Challenger Tour - Columbus Challenger - Columbus",
+        "Tounesbet_match_id": 11284573,
+        "Tounesbet_tournament_id": 48587,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "merged",
+        "tournament_Clubx2": "ATP Challenger Columbus, USA Men Singles",
+        "Clubx2_match_id": 13949286,
+        "Clubx2_tournament_id": 4863,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13949286#/overview",
+        "group_id": "11284573-13949286",
+        "home_team": "Nicolas Mejia",
+        "away_team": "Rafael Jodar",
+        "activity_duration": "6 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "11300717-13976716",
+    "home_team": "Rodrigo Pacheco Mendez",
+    "away_team": "Moez Echargui",
+    "date": "18/09/2025",
+    "time": "09:00",
+    "country": "merged",
+    "all_sources": [
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "total_games_under_22.5_vs_over_22.5",
+        "best_odds": {
+          "total_games_under_22.5_odd": {
+            "value": 2.242,
+            "source": "Tounesbet"
+          },
+          "total_games_over_22.5_odd": {
+            "value": 1.9,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9723,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13976716-11300717",
+        "Tounesbet_country_name": "merged",
+        "tournament_Tounesbet": "Challenger Saint Tropez",
+        "Tounesbet_match_id": 11300717,
+        "Tounesbet_tournament_id": 137541,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "merged",
+        "tournament_Clubx2": "ATP Challenger Saint Tropez, France Men Singles",
+        "Clubx2_match_id": 13976716,
+        "Clubx2_tournament_id": 32665,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13976716#/overview",
+        "group_id": "11300717-13976716",
+        "home_team": "Rodrigo Pacheco Mendez",
+        "away_team": "Moez Echargui",
+        "activity_duration": "6 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "11300687-13976661",
+    "home_team": "Titouan Droguet",
+    "away_team": "Mae Malige",
+    "date": "18/09/2025",
+    "time": "09:00",
+    "country": "merged",
+    "all_sources": [
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "total_games_under_20.5_vs_over_20.5",
+        "best_odds": {
+          "total_games_under_20.5_odd": {
+            "value": 2.242,
+            "source": "Tounesbet"
+          },
+          "total_games_over_20.5_odd": {
+            "value": 1.8334,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9915,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13976661-11300687",
+        "Tounesbet_country_name": "merged",
+        "tournament_Tounesbet": "Challenger Saint Tropez",
+        "Tounesbet_match_id": 11300687,
+        "Tounesbet_tournament_id": 137541,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "merged",
+        "tournament_Clubx2": "ATP Challenger Saint Tropez, France Men Singles",
+        "Clubx2_match_id": 13976661,
+        "Clubx2_tournament_id": 32665,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13976661#/overview",
+        "group_id": "11300687-13976661",
+        "home_team": "Titouan Droguet",
+        "away_team": "Mae Malige",
+        "activity_duration": "6 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "11296405-13968096",
+    "home_team": "Luka Pavlovic",
+    "away_team": "Tadeas Paroulek",
+    "date": "17/09/2025",
+    "time": "09:00",
+    "country": "merged",
+    "all_sources": [
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "games_handicap_p1_-3.5_vs_p2",
+        "best_odds": {
+          "player1_games_handicap_-3.5_odd": {
+            "value": 2.124,
+            "source": "Tounesbet"
+          },
+          "player2_games_handicap_3.5_odd": {
+            "value": 1.95,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9836,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13968096-11296405",
+        "Tounesbet_country_name": "merged",
+        "tournament_Tounesbet": "ATP Challenger Bad Waltersdorf | Men | Singles",
+        "Tounesbet_match_id": 11296405,
+        "Tounesbet_tournament_id": 207325,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "merged",
+        "tournament_Clubx2": "ATP Challenger Bad Waltersdorf, Austria Men Singles",
+        "Clubx2_match_id": 13968096,
+        "Clubx2_tournament_id": 43376,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13968096#/overview",
+        "group_id": "11296405-13968096",
+        "home_team": "Luka Pavlovic",
+        "away_team": "Tadeas Paroulek",
+        "activity_duration": "6 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "11296115-13968091",
+    "home_team": "Cedrik-Marcel Stebe",
+    "away_team": "Schwarzler, Joel Josef",
+    "date": "17/09/2025",
+    "time": "09:05",
+    "country": "merged",
+    "all_sources": [
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "set1_total_games_under_9.5_vs_over_9.5",
+        "best_odds": {
+          "set1_total_games_under_9.5_odd": {
+            "value": 2.159,
+            "source": "Tounesbet"
+          },
+          "set1_total_games_over_9.5_odd": {
+            "value": 2.1,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9394,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13968091-11296115",
+        "Tounesbet_country_name": "merged",
+        "tournament_Tounesbet": "ATP Challenger Bad Waltersdorf | Men | Singles",
+        "Tounesbet_match_id": 11296115,
+        "Tounesbet_tournament_id": 207325,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "merged",
+        "tournament_Clubx2": "ATP Challenger Bad Waltersdorf, Austria Men Singles",
+        "Clubx2_match_id": 13968091,
+        "Clubx2_tournament_id": 43376,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13968091#/overview",
+        "group_id": "11296115-13968091",
+        "home_team": "Cedrik-Marcel Stebe",
+        "away_team": "Schwarzler, Joel Josef",
+        "activity_duration": "6 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "11296097-13968094",
+    "home_team": "Matej Dodig",
+    "away_team": "Zdenek Kolar",
+    "date": "17/09/2025",
+    "time": "09:05",
+    "country": "merged",
+    "all_sources": [
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "total_games_under_22.5_vs_over_22.5",
+        "best_odds": {
+          "total_games_under_22.5_odd": {
+            "value": 2.124,
+            "source": "Tounesbet"
+          },
+          "total_games_over_22.5_odd": {
+            "value": 2.05,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9586,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13968094-11296097",
+        "Tounesbet_country_name": "merged",
+        "tournament_Tounesbet": "ATP Challenger Bad Waltersdorf | Men | Singles",
+        "Tounesbet_match_id": 11296097,
+        "Tounesbet_tournament_id": 207325,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "merged",
+        "tournament_Clubx2": "ATP Challenger Bad Waltersdorf, Austria Men Singles",
+        "Clubx2_match_id": 13968094,
+        "Clubx2_tournament_id": 43376,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13968094#/overview",
+        "group_id": "11296097-13968094",
+        "home_team": "Matej Dodig",
+        "away_team": "Zdenek Kolar",
+        "activity_duration": "6 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "11296089-13968095",
+    "home_team": "Thiago Agustin Tirante",
+    "away_team": "Gabriele Piraino",
+    "date": "17/09/2025",
+    "time": "10:10",
+    "country": "merged",
+    "all_sources": [
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "total_games_under_19.5_vs_over_19.5",
+        "best_odds": {
+          "total_games_under_19.5_odd": {
+            "value": 2.124,
+            "source": "Tounesbet"
+          },
+          "total_games_over_19.5_odd": {
+            "value": 2.05,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9586,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13968095-11296089",
+        "Tounesbet_country_name": "merged",
+        "tournament_Tounesbet": "ATP Challenger Bad Waltersdorf | Men | Singles",
+        "Tounesbet_match_id": 11296089,
+        "Tounesbet_tournament_id": 207325,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "merged",
+        "tournament_Clubx2": "ATP Challenger Bad Waltersdorf, Austria Men Singles",
+        "Clubx2_match_id": 13968095,
+        "Clubx2_tournament_id": 43376,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13968095#/overview",
+        "group_id": "11296089-13968095",
+        "home_team": "Thiago Agustin Tirante",
+        "away_team": "Gabriele Piraino",
+        "activity_duration": "6 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "11296404-13968097",
+    "home_team": "Pedro Martinez Portero",
+    "away_team": "Marko ToPo",
+    "date": "17/09/2025",
+    "time": "11:00",
+    "country": "merged",
+    "all_sources": [
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "set1_winner",
+        "best_odds": {
+          "player1_win_set1_odd": {
+            "value": 1.958,
+            "source": "Tounesbet"
+          },
+          "player2_win_set1_odd": {
+            "value": 2.125,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9813,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13968097-11296404",
+        "Tounesbet_country_name": "merged",
+        "tournament_Tounesbet": "ATP Challenger Bad Waltersdorf | Men | Singles",
+        "Tounesbet_match_id": 11296404,
+        "Tounesbet_tournament_id": 207325,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "merged",
+        "tournament_Clubx2": "ATP Challenger Bad Waltersdorf, Austria Men Singles",
+        "Clubx2_match_id": 13968097,
+        "Clubx2_tournament_id": 43376,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13968097#/overview",
+        "group_id": "11296404-13968097",
+        "home_team": "Pedro Martinez Portero",
+        "away_team": "Marko ToPo",
+        "activity_duration": "6 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "11288382-13947656",
+    "home_team": "Daniel Elahi Galan",
+    "away_team": "Facundo Diaz Acosta",
+    "date": "17/09/2025",
+    "time": "13:00",
+    "country": "merged",
+    "all_sources": [
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "games_handicap_p1_2.5_vs_p2",
+        "best_odds": {
+          "player1_games_handicap_2.5_odd": {
+            "value": 2.242,
+            "source": "Tounesbet"
+          },
+          "player2_games_handicap_-2.5_odd": {
+            "value": 1.9,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9723,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13947656-11288382",
+        "Tounesbet_country_name": "merged",
+        "tournament_Tounesbet": "ATP Challenger Bad Waltersdorf | Men | Singles",
+        "Tounesbet_match_id": 11288382,
+        "Tounesbet_tournament_id": 207325,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "merged",
+        "tournament_Clubx2": "ATP Challenger Bad Waltersdorf, Austria Men Singles",
+        "Clubx2_match_id": 13947656,
+        "Clubx2_tournament_id": 43376,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13947656#/overview",
+        "group_id": "11288382-13947656",
+        "home_team": "Daniel Elahi Galan",
+        "away_team": "Facundo Diaz Acosta",
+        "activity_duration": "6 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "11296110-13973696",
+    "home_team": "Sebastian Sorger",
+    "away_team": "Jozef Kovalik",
+    "date": "17/09/2025",
+    "time": "15:00",
+    "country": "merged",
+    "all_sources": [
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "total_games_under_21.5_vs_over_21.5",
+        "best_odds": {
+          "total_games_under_21.5_odd": {
+            "value": 2.124,
+            "source": "Tounesbet"
+          },
+          "total_games_over_21.5_odd": {
+            "value": 2.05,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9586,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13973696-11296110",
+        "Tounesbet_country_name": "merged",
+        "tournament_Tounesbet": "ATP Challenger Bad Waltersdorf | Men | Singles",
+        "Tounesbet_match_id": 11296110,
+        "Tounesbet_tournament_id": 207325,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "merged",
+        "tournament_Clubx2": "ATP Challenger Bad Waltersdorf, Austria Men Singles",
+        "Clubx2_match_id": 13973696,
+        "Clubx2_tournament_id": 43376,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13973696#/overview",
+        "group_id": "11296110-13973696",
+        "home_team": "Sebastian Sorger",
+        "away_team": "Jozef Kovalik",
+        "activity_duration": "6 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "11289203-13943979",
+    "home_team": "Nico Hipfl / Sandro Kopp",
+    "away_team": "Sabanov I / Sabanov M",
+    "date": "17/09/2025",
+    "time": "13:00",
+    "country": "merged",
+    "all_sources": [
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "set1_winner",
+        "best_odds": {
+          "player1_win_set1_odd": {
+            "value": 2.242,
+            "source": "Tounesbet"
+          },
+          "player2_win_set1_odd": {
+            "value": 1.8182,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.996,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13943979-11289203",
+        "Tounesbet_country_name": "merged",
+        "tournament_Tounesbet": "ATP Bad Waltersdorf | Doubles",
+        "Tounesbet_match_id": 11289203,
+        "Tounesbet_tournament_id": 207326,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "merged",
+        "tournament_Clubx2": "ATP Challenger Bad Waltersdorf, Austria Men Doubles",
+        "Clubx2_match_id": 13943979,
+        "Clubx2_tournament_id": 43377,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13943979#/overview",
+        "group_id": "11289203-13943979",
+        "home_team": "Nico Hipfl / Sandro Kopp",
+        "away_team": "Sabanov I / Sabanov M",
+        "activity_duration": "6 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "11295130-13943977",
+    "home_team": "Ricca G / Vega Hernandez D",
+    "away_team": "Barnat J / Duda F",
+    "date": "17/09/2025",
+    "time": "13:40",
+    "country": "merged",
+    "all_sources": [
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "set1_winner",
+        "best_odds": {
+          "player1_win_set1_odd": {
+            "value": 1.9091,
+            "source": "Clubx2"
+          },
+          "player2_win_set1_odd": {
+            "value": 2.159,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.987,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13943977-11295130",
+        "Clubx2_country_name": "merged",
+        "tournament_Clubx2": "ATP Challenger Bad Waltersdorf, Austria Men Doubles",
+        "Clubx2_match_id": 13943977,
+        "Clubx2_tournament_id": 43377,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13943977#/overview",
+        "Tounesbet_country_name": "merged",
+        "tournament_Tounesbet": "ATP Bad Waltersdorf | Doubles",
+        "Tounesbet_match_id": 11295130,
+        "Tounesbet_tournament_id": 207326,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "11295130-13943977",
+        "home_team": "Ricca G / Vega Hernandez D",
+        "away_team": "Barnat J / Duda F",
+        "activity_duration": "6 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "11302254-13980352",
+    "home_team": "Thomas Faurel",
+    "away_team": "Franco Agamenone",
+    "date": "17/09/2025",
+    "time": "09:00",
+    "country": "merged",
+    "all_sources": [
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "set1_total_games_under_9.5_vs_over_9.5",
+        "best_odds": {
+          "set1_total_games_under_9.5_odd": {
+            "value": 2.124,
+            "source": "Tounesbet"
+          },
+          "set1_total_games_over_9.5_odd": {
+            "value": 1.9091,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9946,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13980352-11302254",
+        "Tounesbet_country_name": "merged",
+        "tournament_Tounesbet": "ATP Challenger Targu Mures 2 | Men | Singles",
+        "Tounesbet_match_id": 11302254,
+        "Tounesbet_tournament_id": 258436,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "merged",
+        "tournament_Clubx2": "ATP Challenger Targu Mures 2, Romania Men Singles",
+        "Clubx2_match_id": 13980352,
+        "Clubx2_tournament_id": 56545,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13980352#/overview",
+        "group_id": "11302254-13980352",
+        "home_team": "Thomas Faurel",
+        "away_team": "Franco Agamenone",
+        "activity_duration": "6 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "11293660-13958496",
+    "home_team": "Filip Cristian Jianu",
+    "away_team": "Maximilian Neuchrist",
+    "date": "17/09/2025",
+    "time": "09:05",
+    "country": "merged",
+    "all_sources": [
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "games_handicap_p1_-4.5_vs_p2",
+        "best_odds": {
+          "player1_games_handicap_-4.5_odd": {
+            "value": 2.029,
+            "source": "Tounesbet"
+          },
+          "player2_games_handicap_4.5_odd": {
+            "value": 2.0,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9929,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13958496-11293660",
+        "Tounesbet_country_name": "merged",
+        "tournament_Tounesbet": "ATP Challenger Targu Mures 2 | Men | Singles",
+        "Tounesbet_match_id": 11293660,
+        "Tounesbet_tournament_id": 258436,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "merged",
+        "tournament_Clubx2": "ATP Challenger Targu Mures 2, Romania Men Singles",
+        "Clubx2_match_id": 13958496,
+        "Clubx2_tournament_id": 56545,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13958496#/overview",
+        "group_id": "11293660-13958496",
+        "home_team": "Filip Cristian Jianu",
+        "away_team": "Maximilian Neuchrist",
+        "activity_duration": "6 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "11302215-13980300",
+    "home_team": "Daniel Uta",
+    "away_team": "Amaury Raynel",
+    "date": "17/09/2025",
+    "time": "15:00",
+    "country": "merged",
+    "all_sources": [
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "games_handicap_p1_5.5_vs_p2",
+        "best_odds": {
+          "player1_games_handicap_5.5_odd": {
+            "value": 1.95,
+            "source": "Clubx2"
+          },
+          "player2_games_handicap_-5.5_odd": {
+            "value": 2.124,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9836,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13980300-11302215",
+        "Clubx2_country_name": "merged",
+        "tournament_Clubx2": "ATP Challenger Targu Mures 2, Romania Men Singles",
+        "Clubx2_match_id": 13980300,
+        "Clubx2_tournament_id": 56545,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13980300#/overview",
+        "Tounesbet_country_name": "merged",
+        "tournament_Tounesbet": "ATP Challenger Targu Mures 2 | Men | Singles",
+        "Tounesbet_match_id": 11302215,
+        "Tounesbet_tournament_id": 258436,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "11302215-13980300",
+        "home_team": "Daniel Uta",
+        "away_team": "Amaury Raynel",
+        "activity_duration": "6 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "11293317-13975868",
+    "home_team": "Japan",
+    "away_team": "Great Britain (Women)",
+    "date": "18/09/2025",
+    "time": "10:00",
+    "country": "merged",
+    "all_sources": [
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "winner",
+        "best_odds": {
+          "player1_odd": {
+            "value": 2.1429,
+            "source": "Clubx2"
+          },
+          "player2_odd": {
+            "value": 1.899,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9933,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13975868-11293317",
+        "Clubx2_country_name": "merged",
+        "tournament_Clubx2": "Billie Jean King Cup",
+        "Clubx2_match_id": 13975868,
+        "Clubx2_tournament_id": 4370,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13975868#/overview",
+        "Tounesbet_country_name": "merged",
+        "tournament_Tounesbet": "Billie Jean King Cup W",
+        "Tounesbet_match_id": 11293317,
+        "Tounesbet_tournament_id": 128739,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "11293317-13975868",
+        "home_team": "Japan",
+        "away_team": "Great Britain (Women)",
+        "activity_duration": "6 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "11301310-13937858",
+    "home_team": "Max Fardanesh",
+    "away_team": "Alessandro-Damiano Ventre",
+    "date": "17/09/2025",
+    "time": "02:30",
+    "country": "merged",
+    "all_sources": [
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "set1_winner",
+        "best_odds": {
+          "player1_win_set1_odd": {
+            "value": 2.3334,
+            "source": "Clubx2"
+          },
+          "player2_win_set1_odd": {
+            "value": 1.805,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9826,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13937858-11301310",
+        "Clubx2_country_name": "merged",
+        "tournament_Clubx2": "UTR PTT Newport Beach Men 12",
+        "Clubx2_match_id": 13937858,
+        "Clubx2_tournament_id": 56596,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13937858#/overview",
+        "Tounesbet_country_name": "merged",
+        "tournament_Tounesbet": "UTR Pro Series USA",
+        "Tounesbet_match_id": 11301310,
+        "Tounesbet_tournament_id": 70541,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "11301310-13937858",
+        "home_team": "Max Fardanesh",
+        "away_team": "Alessandro-Damiano Ventre",
+        "activity_duration": "6 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "11301278-13937953",
+    "home_team": "Renaud Lefevre",
+    "away_team": "Tal Goodman",
+    "date": "17/09/2025",
+    "time": "02:30",
+    "country": "merged",
+    "all_sources": [
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "set1_winner",
+        "best_odds": {
+          "player1_win_set1_odd": {
+            "value": 1.899,
+            "source": "Tounesbet"
+          },
+          "player2_win_set1_odd": {
+            "value": 2.125,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9972,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13937953-11301278",
+        "Tounesbet_country_name": "merged",
+        "tournament_Tounesbet": "UTR Pro Series USA",
+        "Tounesbet_match_id": 11301278,
+        "Tounesbet_tournament_id": 70541,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "merged",
+        "tournament_Clubx2": "UTR PTT Newport Beach Men 12",
+        "Clubx2_match_id": 13937953,
+        "Clubx2_tournament_id": 56596,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13937953#/overview",
+        "group_id": "11301278-13937953",
+        "home_team": "Renaud Lefevre",
+        "away_team": "Tal Goodman",
+        "activity_duration": "6 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "11294348-13937873",
+    "home_team": "Brooke Lynn Schafer",
+    "away_team": "Natalia Trigosso",
+    "date": "16/09/2025",
+    "time": "23:30",
+    "country": "merged",
+    "all_sources": [
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "set1_winner",
+        "best_odds": {
+          "player1_win_set1_odd": {
+            "value": 1.75,
+            "source": "Clubx2"
+          },
+          "player2_win_set1_odd": {
+            "value": 2.36,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9952,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13937873-11294348",
+        "Clubx2_country_name": "merged",
+        "tournament_Clubx2": "UTR PTT Lincoln Women 02",
+        "Clubx2_match_id": 13937873,
+        "Clubx2_tournament_id": 56595,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13937873#/overview",
+        "Tounesbet_country_name": "merged",
+        "tournament_Tounesbet": "UTR Pro Tennis Series - Women",
+        "Tounesbet_match_id": 11294348,
+        "Tounesbet_tournament_id": 138408,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "11294348-13937873",
+        "home_team": "Brooke Lynn Schafer",
+        "away_team": "Natalia Trigosso",
+        "activity_duration": "6 hours"
+      }
+    ]
+  }
+]

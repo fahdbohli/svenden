@@ -1,0 +1,202 @@
+[
+  {
+    "group_id": "2579781162587263023-10625421-28009946",
+    "home_team": "Nkwazi FC",
+    "away_team": "Konkola Blades FC",
+    "date": "17/09/2025",
+    "time": "14:00",
+    "country": "Zambia",
+    "all_sources": [
+      "Asbet",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.04,
+            "source": "Jibibet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 2.065,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9745,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2579781162587263023-10625421",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "Zambia",
+        "tournament_Jibibet": "Super League",
+        "Jibibet_match_id": 2579781162587263023,
+        "Jibibet_tournament_id": 1701127013588406272,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "Zambia",
+        "tournament_Tounesbet": "Super League",
+        "Tounesbet_match_id": 10625421,
+        "Tounesbet_tournament_id": 23664,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579781162587263023-10625421-28009946",
+        "home_team": "Nkwazi FC",
+        "away_team": "Konkola Blades FC",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "first_half_ah_-0.25_home_vs_away",
+        "best_odds": {
+          "home_first_half_handicap_-0.25_odd": {
+            "value": 2.15,
+            "source": "Asbet"
+          },
+          "away_first_half_handicap_0.25_odd": {
+            "value": 1.947,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9787,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "28009946-10625421",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Zambia",
+        "tournament_Asbet": "Super League",
+        "Asbet_match_id": 28009946,
+        "Asbet_tournament_id": 12058,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Zambia/12058/super-league/28009946/nkwazi-fc-konkola-blades-fc",
+        "Tounesbet_country_name": "Zambia",
+        "tournament_Tounesbet": "Super League",
+        "Tounesbet_match_id": 10625421,
+        "Tounesbet_tournament_id": 23664,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579781162587263023-10625421-28009946",
+        "home_team": "Nkwazi FC",
+        "away_team": "Konkola Blades FC",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "2579781162587263017-11302370-28009949",
+    "home_team": "Napsa Stars FC",
+    "away_team": "Mines United FC",
+    "date": "17/09/2025",
+    "time": "14:00",
+    "country": "Zambia",
+    "all_sources": [
+      "Asbet",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "first_half_ah_-0.25_home_vs_away",
+        "best_odds": {
+          "home_first_half_handicap_-0.25_odd": {
+            "value": 2.2,
+            "source": "Asbet"
+          },
+          "away_first_half_handicap_0.25_odd": {
+            "value": 1.911,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9778,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "28009949-11302370",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Zambia",
+        "tournament_Asbet": "Super League",
+        "Asbet_match_id": 28009949,
+        "Asbet_tournament_id": 12058,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Zambia/12058/super-league/28009949/napsa-stars-fc-mines-united-fc",
+        "Tounesbet_country_name": "Zambia",
+        "tournament_Tounesbet": "Super League",
+        "Tounesbet_match_id": 11302370,
+        "Tounesbet_tournament_id": 23664,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579781162587263017-11302370-28009949",
+        "home_team": "Napsa Stars FC",
+        "away_team": "Mines United FC",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "2579781762888634372-10625427-13919145-28009952",
+    "home_team": "Kabwe Warriors FC",
+    "away_team": "Green Buffaloes FC",
+    "date": "17/09/2025",
+    "time": "14:00",
+    "country": "Zambia",
+    "all_sources": [
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "first_half_ah_0.0_home_vs_away",
+        "best_odds": {
+          "home_first_half_handicap_0.0_odd": {
+            "value": 1.852,
+            "source": "Tounesbet"
+          },
+          "away_first_half_handicap_0.0_odd": {
+            "value": 2.3,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9747,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "28009952-10625427",
+        "Tounesbet_country_name": "Zambia",
+        "tournament_Tounesbet": "Super League",
+        "Tounesbet_match_id": 10625427,
+        "Tounesbet_tournament_id": 23664,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "Zambia",
+        "tournament_Asbet": "Super League",
+        "Asbet_match_id": 28009952,
+        "Asbet_tournament_id": 12058,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Zambia/12058/super-league/28009952/kabwe-warriors-fc-green-buffaloes",
+        "group_id": "2579781762888634372-10625427-13919145-28009952",
+        "home_team": "Kabwe Warriors FC",
+        "away_team": "Green Buffaloes FC",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "one_vs_x2",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.18,
+            "source": "Jibibet"
+          },
+          "X2_odd": {
+            "value": 1.852,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9987,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2579781762888634372-10625427",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "Zambia",
+        "tournament_Jibibet": "Super League",
+        "Jibibet_match_id": 2579781762888634372,
+        "Jibibet_tournament_id": 1701127013588406272,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "Zambia",
+        "tournament_Tounesbet": "Super League",
+        "Tounesbet_match_id": 10625427,
+        "Tounesbet_tournament_id": 23664,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2579781762888634372-10625427-13919145-28009952",
+        "home_team": "Kabwe Warriors FC",
+        "away_team": "Green Buffaloes FC",
+        "activity_duration": "25 hours"
+      }
+    ]
+  }
+]

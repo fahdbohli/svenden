@@ -1,0 +1,362 @@
+[
+  {
+    "group_id": "2578765474334650381-653215098-11279732-13926605-28011284",
+    "home_team": "Club General Caballero JLM",
+    "away_team": "Sportivo Luqueno",
+    "date": "19/09/2025",
+    "time": "20:30",
+    "country": "Paraguay",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_0.25_home_vs_away",
+        "best_odds": {
+          "home_handicap_0.25_odd": {
+            "value": 1.829,
+            "source": "Tounesbet"
+          },
+          "away_handicap_-0.25_odd": {
+            "value": 2.5,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9467,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "28011284-11279732",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Paraguay",
+        "tournament_Tounesbet": "Paraguay Primera Division",
+        "Tounesbet_match_id": 11279732,
+        "Tounesbet_tournament_id": 250585,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "Paraguay",
+        "tournament_Asbet": "Primera Division",
+        "Asbet_match_id": 28011284,
+        "Asbet_tournament_id": 1973,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Paraguay/1973/primera-division/28011284/general-caballero-jlm-sportivo-luqueno",
+        "group_id": "2578765474334650381-653215098-11279732-13926605-28011284",
+        "home_team": "Club General Caballero JLM",
+        "away_team": "Sportivo Luqueno",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "ah_0.25_home_vs_away",
+        "best_odds": {
+          "home_handicap_0.25_odd": {
+            "value": 1.829,
+            "source": "Tounesbet"
+          },
+          "away_handicap_-0.25_odd": {
+            "value": 2.375,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.9678,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653215098-11279732",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Paraguay",
+        "tournament_Tounesbet": "Paraguay Primera Division",
+        "Tounesbet_match_id": 11279732,
+        "Tounesbet_tournament_id": 250585,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "1xbet_country_name": "Paraguay",
+        "tournament_1xbet": "Primera Division",
+        "1xbet_match_id": 653215098,
+        "1xbet_tournament_id": 55479,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/55479/653215098",
+        "group_id": "2578765474334650381-653215098-11279732-13926605-28011284",
+        "home_team": "Club General Caballero JLM",
+        "away_team": "Sportivo Luqueno",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "first_half_under_0.5_vs_first_half_over_0.5",
+        "best_odds": {
+          "first_half_under_0.5_odd": {
+            "value": 2.4,
+            "source": "Clubx2"
+          },
+          "first_half_over_0.5_odd": {
+            "value": 1.805,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9707,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13926605-11279732",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Paraguay",
+        "tournament_Clubx2": "Primera Division, Clausura",
+        "Clubx2_match_id": 13926605,
+        "Clubx2_tournament_id": 3522,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13926605#/overview",
+        "Tounesbet_country_name": "Paraguay",
+        "tournament_Tounesbet": "Paraguay Primera Division",
+        "Tounesbet_match_id": 11279732,
+        "Tounesbet_tournament_id": 250585,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578765474334650381-653215098-11279732-13926605-28011284",
+        "home_team": "Club General Caballero JLM",
+        "away_team": "Sportivo Luqueno",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "one_vs_x2",
+        "best_odds": {
+          "1_odd": {
+            "value": 3.009,
+            "source": "Tounesbet"
+          },
+          "X2_odd": {
+            "value": 1.5,
+            "source": "Jibibet"
+          }
+        },
+        "arbitrage_percentage": 0.999,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2578765474334650381-11279732",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Paraguay",
+        "tournament_Tounesbet": "Paraguay Primera Division",
+        "Tounesbet_match_id": 11279732,
+        "Tounesbet_tournament_id": 250585,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Jibibet_country_name": "Paraguay",
+        "tournament_Jibibet": "Division de Honor, Clausura",
+        "Jibibet_match_id": 2578765474334650381,
+        "Jibibet_tournament_id": 1669818990316359680,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "group_id": "2578765474334650381-653215098-11279732-13926605-28011284",
+        "home_team": "Club General Caballero JLM",
+        "away_team": "Sportivo Luqueno",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "2578722963369107485-653215095-11279733-13926640-28018092",
+    "home_team": "Deportivo Recoleta",
+    "away_team": "Atletico Tembetary",
+    "date": "20/09/2025",
+    "time": "20:30",
+    "country": "Paraguay",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "second_half_under_1.5_vs_second_half_over_1.5",
+        "best_odds": {
+          "second_half_under_1.5_odd": {
+            "value": 1.876,
+            "source": "Tounesbet"
+          },
+          "second_half_over_1.5_odd": {
+            "value": 2.35,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9586,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "28018092-11279733",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Paraguay",
+        "tournament_Tounesbet": "Paraguay Primera Division",
+        "Tounesbet_match_id": 11279733,
+        "Tounesbet_tournament_id": 250585,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "Paraguay",
+        "tournament_Asbet": "Primera Division",
+        "Asbet_match_id": 28018092,
+        "Asbet_tournament_id": 1973,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Paraguay/1973/primera-division/28018092/deportivo-recoleta-ca-tembetary-ypane",
+        "group_id": "2578722963369107485-653215095-11279733-13926640-28018092",
+        "home_team": "Deportivo Recoleta",
+        "away_team": "Atletico Tembetary",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "second_half_under_1.5_vs_second_half_over_1.5",
+        "best_odds": {
+          "second_half_under_1.5_odd": {
+            "value": 1.876,
+            "source": "Tounesbet"
+          },
+          "second_half_over_1.5_odd": {
+            "value": 2.2858,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9705,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13926640-11279733",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Paraguay",
+        "tournament_Tounesbet": "Paraguay Primera Division",
+        "Tounesbet_match_id": 11279733,
+        "Tounesbet_tournament_id": 250585,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "Paraguay",
+        "tournament_Clubx2": "Primera Division, Clausura",
+        "Clubx2_match_id": 13926640,
+        "Clubx2_tournament_id": 3522,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13926640#/overview",
+        "group_id": "2578722963369107485-653215095-11279733-13926640-28018092",
+        "home_team": "Deportivo Recoleta",
+        "away_team": "Atletico Tembetary",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.04,
+            "source": "Jibibet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 2.065,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9745,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2578722963369107485-11279733",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "Paraguay",
+        "tournament_Jibibet": "Division de Honor, Clausura",
+        "Jibibet_match_id": 2578722963369107485,
+        "Jibibet_tournament_id": 1669818990316359680,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "Paraguay",
+        "tournament_Tounesbet": "Paraguay Primera Division",
+        "Tounesbet_match_id": 11279733,
+        "Tounesbet_tournament_id": 250585,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578722963369107485-653215095-11279733-13926640-28018092",
+        "home_team": "Deportivo Recoleta",
+        "away_team": "Atletico Tembetary",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "ah_-0.25_home_vs_away",
+        "best_odds": {
+          "home_handicap_-0.25_odd": {
+            "value": 2.088,
+            "source": "Tounesbet"
+          },
+          "away_handicap_0.25_odd": {
+            "value": 2.0,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.9789,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653215095-11279733",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Paraguay",
+        "tournament_Tounesbet": "Paraguay Primera Division",
+        "Tounesbet_match_id": 11279733,
+        "Tounesbet_tournament_id": 250585,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "1xbet_country_name": "Paraguay",
+        "tournament_1xbet": "Primera Division",
+        "1xbet_match_id": 653215095,
+        "1xbet_tournament_id": 55479,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/55479/653215095",
+        "group_id": "2578722963369107485-653215095-11279733-13926640-28018092",
+        "home_team": "Deportivo Recoleta",
+        "away_team": "Atletico Tembetary",
+        "activity_duration": "25 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "2579085403743199234-653215101-11279773-13926619",
+    "home_team": "Club Guarani Asuncion",
+    "away_team": "Club Nacional Asuncion",
+    "date": "21/09/2025",
+    "time": "20:30",
+    "country": "Paraguay",
+    "all_sources": [
+      "1xbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "second_half_under_1.5_vs_second_half_over_1.5",
+        "best_odds": {
+          "second_half_under_1.5_odd": {
+            "value": 1.852,
+            "source": "Tounesbet"
+          },
+          "second_half_over_1.5_odd": {
+            "value": 2.4,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9566,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13926619-11279773",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Paraguay",
+        "tournament_Tounesbet": "Paraguay Primera Division",
+        "Tounesbet_match_id": 11279773,
+        "Tounesbet_tournament_id": 250585,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "Paraguay",
+        "tournament_Clubx2": "Primera Division, Clausura",
+        "Clubx2_match_id": 13926619,
+        "Clubx2_tournament_id": 3522,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13926619#/overview",
+        "group_id": "2579085403743199234-653215101-11279773-13926619",
+        "home_team": "Club Guarani Asuncion",
+        "away_team": "Club Nacional Asuncion",
+        "activity_duration": "25 hours"
+      },
+      {
+        "complementary_set": "ah_0.25_home_vs_away",
+        "best_odds": {
+          "home_handicap_0.25_odd": {
+            "value": 1.888,
+            "source": "Tounesbet"
+          },
+          "away_handicap_-0.25_odd": {
+            "value": 2.25,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.9741,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653215101-11279773",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Paraguay",
+        "tournament_Tounesbet": "Paraguay Primera Division",
+        "Tounesbet_match_id": 11279773,
+        "Tounesbet_tournament_id": 250585,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "1xbet_country_name": "Paraguay",
+        "tournament_1xbet": "Primera Division",
+        "1xbet_match_id": 653215101,
+        "1xbet_tournament_id": 55479,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/55479/653215101",
+        "group_id": "2579085403743199234-653215101-11279773-13926619",
+        "home_team": "Club Guarani Asuncion",
+        "away_team": "Club Nacional Asuncion",
+        "activity_duration": "25 hours"
+      }
+    ]
+  }
+]
